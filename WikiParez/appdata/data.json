@@ -1,0 +1,30 @@
+{
+    "room_1": {
+        "title": "Room 1",
+        "metadata": [
+            {"label": "name", "value": "Room 1"},
+            {"label": "location", "value": "First Floor"},
+            {"label": "area", "value": "25"}
+        ],
+        "sections": [
+            {
+                "title": "Overview",
+                "content": "The room 1 is located right next to [room2](room_2)"
+            }
+        ]
+    },
+    "room_2": {
+        "title": "Room 2",
+        "metadata": [
+            {"label": "name", "value": "Room 2"},
+            {"label": "location", "value": "First Floor"},
+            {"label": "area", "value": "30"}
+        ],
+        "sections": [
+            {
+                "title": "Overview",
+                "content": "The room 2 is located right next to [room1](room_1)"
+            }
+        ]
+    }
+}
