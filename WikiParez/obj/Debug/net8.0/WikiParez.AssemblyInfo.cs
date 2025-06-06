@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WikiParez")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+110063c18ee018faad57ea84bd0bbe1be0e97965")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+588937ef1eb20deac3db7d5e52d905b95229d2ec")]
 [assembly: System.Reflection.AssemblyProductAttribute("WikiParez")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WikiParez")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

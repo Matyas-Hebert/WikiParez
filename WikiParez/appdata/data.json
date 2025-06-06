@@ -2,6 +2,8 @@
     "mi_rudakuv_dum": {
         "title": "Ruďákův dům",
         "type": "místnost",
+        "images": [],
+        "image_titles": [],
         "metadata": [
             {"label": "Název", "value": "Ruďákův dům"},
             {"label": "Blok", "value": "[Barvy](bl_barvy)"},
@@ -32,6 +34,8 @@
     "mi_beetroot_farma": {
         "title": "Beetroot farma",
         "type": "místnost",
+        "images": ["beetroot_farma.png"],
+        "image_titles": ["Beetroot farma"],
         "metadata": [
             {"label": "Název", "value": "Beetroot farma"},
             {"label": "Blok", "value": "[Barvy](bl_barvy)"},
@@ -56,6 +60,67 @@
             {
                 "title": "Zajímavosti",
                 "content": "Beetroot farma je jediná místnost, kde se rostou ředkve.\nPři pohledu na jih z východního prostranství lze vidět severní stěnu [ordinace Pink Lady](mi_ordinace_pink_lady).\nV barelu na uskladnění ředkví je uskladněna i diamantová motyka."
+            }
+        ]
+    },
+    "mi_ulice_schodova": {
+        "title": "Ulice Schodová",
+        "type": "místnost",
+        "images": [],
+        "image_titles": [],
+        "metadata": [
+            {"label": "Název", "value": "Ulice Schodová"},
+            {"label": "Blok", "value": "[Střecha](bl_strecha)"},
+            {"label": "Okrsek", "value": "[Smrk](ok_smrk)"},
+            {"label": "Čtvrť", "value": "[Kořen](ct_koren)"},
+            {"label": "Část", "value": "[Pařez](ca_parez)"},
+            {"label": "Plocha", "value": "54 blok²"}
+        ],
+        "sections": [
+            {
+                "title": "Přehled",
+                "content": "Ulice Schodová je točité schodiště vedoucí z [Sila](mi_silo) na nejmenované náměstíčko hned vedle [Double Decker house](mi_double_decker_house). Na začátku schodiště je malý balkón s výhledem na moře a žebříkem dolů do [Klubu](mi_klub).\nPrvní část schodiště vede na jih na malé rozcestí. Z rozcestí doleva pokračuje ulice Schodová a rovně se nachází [Ropná plošina](mi_ropna_plosina). Vpravo se nachází plot bez branky a za ním [Byt chudáka, kterej nemá rád kluby](mi_byt_chudaka_kterej_nema_rad_kluby).\nSchodiště dále pokračuje na východ a na chvíli se z něj odděluje menší schodiště vedoucí do [Netheru](mi_nether). Hlavní část schodiště pokračuje dále a pak se stáčí na jih kde schodiště končí na onom nejmenovaném náměstíčku. V poslední zatáčce schodiště můžeme nalézt druhé dveře do [Netheru](mi_nether). Celé schodiště má šířku dva bloky, délku 20 bloků a výškový rozdíl je 8 bloků."
+            },
+            {
+                "title": "Název",
+                "content": "Název místnosti je jednoduše odvozen od faktu, že se jedná o schodiště. Název je shodný s ulicí v městě Brně."
+            },
+            {
+                "title": "Interiér",
+                "content": "Interiér krom schodiště obsahuje malý balkónek s crafting tablem. Hned za hranicí ulice Schodové s [Ropnou plošinou](mi_ropna_plosina) se nachází světle modrá postel."
+            },
+            {
+                "title": "Zajímavosti",
+                "content": "Na levé straně prvním dvou částí schodiště je neoplocená díra s hloubkou 2.5-17 bloků. V nejhlubším místě se nachází částečně voda součástí [přístavního mola](mi_pristavni_molo). Při velké nešikovnosti chybějící plot může způsobit až 4 srdíčka poškození (díky blízkému [beaconu](beacon_parez) je k dispozici resistance efekt.\nZ první části schodiště při pohledu na východ lze vidět endermana s bílou kočkou v lodi, která se nachází poblíž [Městského okruhu](mi_mestsky_okruh)."
+            }
+        ]
+    },
+    "beacon_parez": {
+        "title": "Beacon - Pařez",
+        "type": "beacon",
+        "images": [],
+        "image_titles": [],
+        "metadata": [
+            {"label": "Místnost", "value": "[Tajná Chodba](mi_tajna_chodba)"},
+            {"label": "Blok", "value": "[Suterén](bl_suteren)"},
+            {"label": "Okrsek", "value": "[Důl](ok_dul)"},
+            {"label": "Čtvrť", "value": "[Kořen](ct_koren)"},
+            {"label": "Část", "value": "[Pařez](ca_parez)"},
+            {"label": "Plocha", "value": "4 blok²"},
+            {"label": "Plocha podstavy", "value": "100 blok²"}
+        ],
+        "sections": [
+            {
+                "title": "Přehled",
+                "content": "Beacon - Pařez je nejstarší beacon v celém domě. Nachází se na podlaze asi ve středu [tajné chodby](mi_tajna_chodba) vedoucí z [tajné místnosti](mi_tajna_mistnost) do [plantážového království](mi_plantazove_kralovstvi). Samotný beacon je složen ze 4 beacon bloků a 216 iron bloků (podstava beaconu)."
+            },
+            {
+                "title": "Efekty",
+                "content": "Jednotlivé beacony od severozápadního dávají tyto efekty: Jump Boost II, Haste II, Speed II a poslední efekty Resistance a Regeneration. Beacon poskytuje tyto efekty celé části [Pařez](ca_parez) ale i [Tróje](ca_troja) a části [Nového Dilí](ca_nove_dili). Čtvrť [Basgiath](ct_basgiath) na [Sibiři](ca_sibir) je také v dosahu beaconu."
+            },
+            {
+                "title": "Zajímavosti",
+                "content": "Na severní části podstavy beaconu je položen led ze závodního okruhu.\nV podlaze [Okruhu](mi_okruh) jsou položeny 4 barevná skla, které davají jednotlivým paprskům barevný vzhled.\nVšechny paprsky beaconu procházejí nejen [ústředním střediskem Alfou](mi_ustredni_stredisko_alfa) a [lázněmi Panoraama](mi_lazne_panoraama) ale také přesným středem [Dragon Lair](mi_dragon_lair)."
             }
         ]
     }

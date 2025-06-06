@@ -28,7 +28,16 @@ public class WikiService
         {
             PropertyNameCaseInsensitive = true,
         };
-        return JsonSerializer.Deserialize<Dictionary<string, WikiPage>>(json, options) ?? new Dictionary<string, WikiPage>();
+        var dictionary = JsonSerializer.Deserialize<Dictionary<string, WikiPage>>(json, options) ?? new Dictionary<string, WikiPage>();
+        foreach (var key in dictionary.Keys)
+        {
+            if (dictionary[key].Images.Count == 0)
+            {
+                dictionary[key].Images.Add("missing.jpg");
+                dictionary[key].Image_titles.Add("");
+            }
+        }
+        return dictionary;
     }
 
     private string UseRegex(string content) {

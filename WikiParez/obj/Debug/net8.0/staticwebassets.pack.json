@@ -5,12 +5,24 @@
       "PackagePath": "staticwebassets/WikiParez.bundle.scp.css"
     },
     {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/beetroot_farma.png",
+      "PackagePath": "staticwebassets/Images/beetroot_farma.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/missing.jpg",
+      "PackagePath": "staticwebassets/Images/missing.jpg"
+    },
+    {
       "Id": "/root/wikiparez/WikiParez/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/favicon.ico",
       "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
     },
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/js/site.js",
