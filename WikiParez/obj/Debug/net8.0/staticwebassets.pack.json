@@ -25,6 +25,26 @@
       "PackagePath": "staticwebassets/Images/missing.jpg"
     },
     {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/oranjestad1.png",
+      "PackagePath": "staticwebassets/Images/oranjestad1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/oranjestad2.png",
+      "PackagePath": "staticwebassets/Images/oranjestad2.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/oranjestad3.png",
+      "PackagePath": "staticwebassets/Images/oranjestad3.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/schodiste_tt1.png",
+      "PackagePath": "staticwebassets/Images/schodiste_tt1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/schodiste_tt2.png",
+      "PackagePath": "staticwebassets/Images/schodiste_tt2.png"
+    },
+    {
       "Id": "/root/wikiparez/WikiParez/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },
