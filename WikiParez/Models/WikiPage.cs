@@ -9,9 +9,12 @@ public class WikiPage
     public List<Metadata> Metadata { get; set; } = new List<Metadata>();
     public List<Section> Sections { get; set; } = new List<Section>();
     public int image_id { get; set; } = 0;
+    public int area { get; set; } = 0;
+    public bool Empty {get; set; } = false;
+    public int numberOfRooms { get; set; } = 0;
     public int image_count()
     {
-        return Images.Count;
+        return Image_titles.Count;
     }
 }
 

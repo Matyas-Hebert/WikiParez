@@ -5,44 +5,52 @@
       "PackagePath": "staticwebassets/WikiParez.bundle.scp.css"
     },
     {
-      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/beacon-parez1.png",
-      "PackagePath": "staticwebassets/Images/beacon-parez1.png"
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/beacon_parez1.png",
+      "PackagePath": "staticwebassets/Images/beacon_parez1.png"
     },
     {
-      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/beacon-parez2.png",
-      "PackagePath": "staticwebassets/Images/beacon-parez2.png"
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/beacon_parez2.png",
+      "PackagePath": "staticwebassets/Images/beacon_parez2.png"
     },
     {
-      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/beacon-parez3.png",
-      "PackagePath": "staticwebassets/Images/beacon-parez3.png"
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/beacon_parez3.png",
+      "PackagePath": "staticwebassets/Images/beacon_parez3.png"
     },
     {
-      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/beetroot_farma.png",
-      "PackagePath": "staticwebassets/Images/beetroot_farma.png"
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_beetroot_farma1.png",
+      "PackagePath": "staticwebassets/Images/mi_beetroot_farma1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_byt_chudaka_kterej_nema_rad_kluby1.png",
+      "PackagePath": "staticwebassets/Images/mi_byt_chudaka_kterej_nema_rad_kluby1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_byt_chudaka_kterej_nema_rad_kluby2.png",
+      "PackagePath": "staticwebassets/Images/mi_byt_chudaka_kterej_nema_rad_kluby2.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_oranjestad1.png",
+      "PackagePath": "staticwebassets/Images/mi_oranjestad1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_oranjestad2.png",
+      "PackagePath": "staticwebassets/Images/mi_oranjestad2.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_oranjestad3.png",
+      "PackagePath": "staticwebassets/Images/mi_oranjestad3.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_schodiste_tt1.png",
+      "PackagePath": "staticwebassets/Images/mi_schodiste_tt1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_schodiste_tt2.png",
+      "PackagePath": "staticwebassets/Images/mi_schodiste_tt2.png"
     },
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/missing.jpg",
       "PackagePath": "staticwebassets/Images/missing.jpg"
-    },
-    {
-      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/oranjestad1.png",
-      "PackagePath": "staticwebassets/Images/oranjestad1.png"
-    },
-    {
-      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/oranjestad2.png",
-      "PackagePath": "staticwebassets/Images/oranjestad2.png"
-    },
-    {
-      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/oranjestad3.png",
-      "PackagePath": "staticwebassets/Images/oranjestad3.png"
-    },
-    {
-      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/schodiste_tt1.png",
-      "PackagePath": "staticwebassets/Images/schodiste_tt1.png"
-    },
-    {
-      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/schodiste_tt2.png",
-      "PackagePath": "staticwebassets/Images/schodiste_tt2.png"
     },
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/css/site.css",

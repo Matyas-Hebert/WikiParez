@@ -2,8 +2,8 @@
     "mi_rudakuv_dum": {
         "title": "Ruďákův dům",
         "type": "místnost",
-        "images": [],
         "image_titles": [],
+        "area": 33,
         "metadata": [
             {"label": "Název", "value": "Ruďákův dům"},
             {"label": "Blok", "value": "[Barvy](bl_barvy)"},
@@ -34,8 +34,8 @@
     "mi_schodiste_tt": {
         "title": "Schodiště TT",
         "type": "místnost",
-        "images": ["schodiste_tt1.png", "schodiste_tt2.png"],
         "image_titles": ["POHLED DOLŮ", "POHLED NAHORU"],
+        "area": 20,
         "metadata": [
             {"label": "Název", "value": "Schodiště TT"},
             {"label": "Blok", "value": "[Barvy](bl_barvy)"},
@@ -58,7 +58,7 @@
                 "content": "Ve stěně na schodišti je jediný crafting table a dva trapdoory, jež skrývají hliněné bloky z [Beetroot farmy](mi_beetroot_farma)."
             },
             {
-                "title": "Zajímavost",
+                "title": "Zajímavosti",
                 "content": "Ze Schodiště TT lze otevřít barel uprostřed řepného pole v [Beetroot farmě](mi_beetroot_farma).\nPůvodní název Schodiště TT měl být [Schodiště AA](mi_schodiste_aa), ale tento název byl již zabrán."
             }
         ]
@@ -66,8 +66,8 @@
     "mi_oranjestad": {
         "title": "Oranjestad",
         "type": "místnost",
-        "images": ["oranjestad1.png", "oranjestad2.png", "oranjestad3.png"],
-        "image_titles": ["ORANJESTAD", "ULIČKA", "VÝKLENEK NA ULICE SCHODOVOU"],
+        "image_titles": ["ORANJESTAD", "ULIČKA", "VÝKLENEK NA ULICI SCHODOVOU"],
+        "area": 64,
         "metadata": [
             {"label": "Název", "value": "Oranjestad"},
             {"label": "Blok", "value": "[Barvy](bl_barvy)"},
@@ -79,7 +79,7 @@
         "sections": [
             {
                 "title": "Přehled",
-                "content": "Oranjestad je víceúrovňová místnost v [Barvách](bl_barvy). Místnost je rozdělena na dvě části a to na část hlavní a uličku. Ulička je částečně otevřená chodba vedoucí z [the Crossingu](mi_the_crossing) do hlavní části Oranjestadu. Do hlavní části vedou 3 další vchody z nichž dva nemají dveře a to vchoy do [Rubce](mi_rubec) a [Beetroot farmy](mi_beetroot_farma). Jediným vchodem se dveřmi vede do [Ruďákova domu](mi_rudakuv_dum)."
+                "content": "Oranjestad je víceúrovňová místnost v [Barvách](bl_barvy). Místnost je rozdělena na dvě části a to na část hlavní a uličku. Ulička je částečně otevřená chodba vedoucí z [the Crossingu](mi_the_crossing) do hlavní části Oranjestadu. Do hlavní části vedou 3 další vchody z nichž dva nemají dveře a to vchod do [Rubce](mi_rubec) a [Beetroot farmy](mi_beetroot_farma). Jediný vchod se dveřmi vede do [Ruďákova domu](mi_rudakuv_dum)."
             },
             {
                 "title": "Název",
@@ -90,16 +90,16 @@
                 "content": "Interiér Oranjestadu je zjevně rozdělen na dvě části, hlavní část a uličku.\nUlička je chodba, která propojuje hlavní část s [the Crossingem](mi_the_crossing). Na jižní straně lze nahlédnout do [Sila](mi_silo) oknem. Na straně severní je malý nezasklený výklenek o výšce 1-1.5 bloku jímž lze projít na [ulici Schodovou](mi_ulice_schodova), která je 2.5 bloku níže. V uličce se také nachází červená postel.\nV hlavní části můžeme najít 2 crafting tably, 3 barely a 2 šedé postele. Obě postele jsou položeny na uměle vytvořených plošinách. V hlavní části můžeme najít dvojici francouzských oken s plochou přes 30 bloků² nabízejících nadherný výhled na moře."
             },
             {
-                "title": "Zajímavost",
-                "content": "Jedna z šedých postelí v hlavní část Oranjestadu není jednoduše přístupná. V případě jejího využití je třeba vyskočit a na postel kliknout v průběhu skoku.\nMístnost Rubec spojuje Oranjestad s [Basgiathem](ct_basgiath)."
+                "title": "Zajímavosti",
+                "content": "Jedna z šedých postelí v hlavní části Oranjestadu není jednoduše přístupná. Je třeba vyskočit a na postel kliknout v průběhu skoku.\nMístnost Rubec spojuje Oranjestad s [Basgiathem](ct_basgiath)."
             }
         ]
     },
     "mi_beetroot_farma": {
         "title": "Beetroot farma",
         "type": "místnost",
-        "images": ["beetroot_farma.png"],
         "image_titles": ["BEETROOT FARMA"],
+        "area": 134,
         "metadata": [
             {"label": "Název", "value": "Beetroot farma"},
             {"label": "Blok", "value": "[Barvy](bl_barvy)"},
@@ -130,8 +130,8 @@
     "mi_ulice_schodova": {
         "title": "Ulice Schodová",
         "type": "místnost",
-        "images": [],
         "image_titles": [],
+        "area": 54,
         "metadata": [
             {"label": "Název", "value": "Ulice Schodová"},
             {"label": "Blok", "value": "[Střecha](bl_strecha)"},
@@ -159,11 +159,43 @@
             }
         ]
     },
+    "mi_byt_chudaka_kterej_nema_rad_kluby": {
+        "title": "Byt chudáka, kterej nemá rád kluby",
+        "type": "místnost",
+        "image_titles": ["POHLED NA BYT", "VCHOD DO PILY"],
+        "area": 52,
+        "metadata": [
+            {"label": "Název", "value": "Ulice Schodová"},
+            {"label": "Blok", "value": "[Vídeň](bl_viden)"},
+            {"label": "Okrsek", "value": "[Benátky](ok_benatky)"},
+            {"label": "Čtvrť", "value": "[Rybářská Kolonie](ct_rybarska_kolonie)"},
+            {"label": "Část", "value": "[Pařez](ca_parez)"},
+            {"label": "Plocha", "value": "52 blok²"}
+        ],
+        "sections": [
+            {
+                "title": "Přehled",
+                "content": "Byt chudáka, kterej nemá rád kluby je hned po [Nadchodu](mi_nadchod) nejvýše položená místnost ve [Vídni](bl_viden). Místnost je průchozí a to díky volnému vstupu z [schodiště TT](mi_schodiste_tt) a [Nadchodu](mi_nadchod). 4 další vstupy konkrétně z [Rubce](mi_rubec), [Hvězdy](mi_hvezda), [Ropné plošiny](mi_ropna_plosina) a [Pily](mi_pila) jsou řešeny dveřmi. Poslední vstup je jednosměrný výtah z [Klubu](mi_klub), jež se nachází o patro níže. Na východě se nachází plot jež lze přeskočit přímo na [ulici Schodovou](mi_ulice_schodova)."
+            },
+            {
+                "title": "Název",
+                "content": "Název je odpovědí na otázku \"Co se nachází nad [klubem](mi_klub)?\" slavné malířky [Marcely Hebertové](os_marcela_hebertova)."
+            },
+            {
+                "title": "Interiér",
+                "content": "Dominantou interiéru bytu je oranžová postel, jež má na obou stranách 2 barely a crafting table. Nejvýše položený barel na levé straně je určen pro skladovaní music disků. Aktuálně jsou v něm uloženy 2 music disky \"C418 - 13\".\nCelá místnost je postavena na dvou výškových úrovních. Ta níže položená obsahuje výše zmíněnou oranžovou postel. Výše položená část je výrazně menší a je počátkem [schodiště TT](mi_schodiste_tt)."
+            },
+            {
+                "title": "Zajímavosti",
+                "content": "Pro využití vstupu do [Pily](mi_pila) je třeba přejít výtah z [Klubu](mi_klub)\nByt chudáka, kterej nemá rád kluby je jedinou místností do níž vedou 2 mosty z [Basgiathu](ct_basgiath).\nByt chudáka, kterej nemá rád kluby je nejdelším názvem místnosti v celém domě."
+            }
+        ]
+    },
     "beacon_parez": {
         "title": "Beacon - Pařez",
         "type": "beacon",
-        "images": ["beacon-parez1.png", "beacon-parez2.png", "beacon-parez3.png"],
         "image_titles": ["BEACON V TAJNÉ CHODBĚ", "BAREVNÁ SKLA NA OKRUHU", "PAPRSKY BEACONU V DRAGON LAIR"],
+        "area": 4,
         "metadata": [
             {"label": "Místnost", "value": "[Tajná Chodba](mi_tajna_chodba)"},
             {"label": "Blok", "value": "[Suterén](bl_suteren)"},
@@ -184,7 +216,62 @@
             },
             {
                 "title": "Zajímavosti",
-                "content": "Na severní části podstavy beaconu je položen led ze závodního okruhu.\nV podlaze [Okruhu](mi_okruh) jsou položeny 4 barevná skla, které davají jednotlivým paprskům barevný vzhled.\nVšechny paprsky beaconu procházejí nejen [ústředním střediskem Alfou](mi_ustredni_stredisko_alfa) a [lázněmi Panoraama](mi_lazne_panoraama) ale také přesným středem [Dragon Lair](mi_dragon_lair)."
+                "content": "Na severní části podstavy beaconu je položen led ze [závodního okruhu](mi_zavodni_okruh).\nV podlaze [Okruhu](mi_okruh) jsou položeny 4 barevná skla, které davají jednotlivým paprskům barevný vzhled.\nVšechny paprsky beaconu procházejí nejen [ústředním střediskem Alfou](mi_ustredni_stredisko_alfa) a [lázněmi Panoraama](mi_lazne_panoraama) ale také přesným středem [Dragon Lair](mi_dragon_lair)."
+            }
+        ]
+    },
+    "bl_barvy": {
+        "title": "Barvy",
+        "type": "blok",
+        "image_titles": [],
+        "metadata": [
+            {"label": "Název", "value": "Barvy"},
+            {"label": "Okrsek", "value": "[Smrk](ok_smrk)"},
+            {"label": "Čtvrť", "value": "[Kořen](ct_koren)"},
+            {"label": "Část", "value": "[Pařez](ca_parez)"}
+        ],
+        "sections": [
+            {
+                "title": "Přehled",
+                "content": ""
+            },
+            {
+                "title": "Název",
+                "content": ""
+            },
+            {
+                "title": "Interiér",
+                "content": ""
+            },
+            {
+                "title": "Zajímavosti",
+                "content": ""
+            }
+        ]
+    },
+    "ca_parez": {
+        "title": "Pařez",
+        "type": "část",
+        "image_titles": [],
+        "metadata": [
+            {"label": "Název", "value": "Pařez"}
+        ],
+        "sections": [
+            {
+                "title": "Přehled",
+                "content": ""
+            },
+            {
+                "title": "Název",
+                "content": ""
+            },
+            {
+                "title": "Interiér",
+                "content": ""
+            },
+            {
+                "title": "Zajímavosti",
+                "content": ""
             }
         ]
     }
