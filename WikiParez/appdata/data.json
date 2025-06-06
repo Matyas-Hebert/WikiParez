@@ -35,7 +35,7 @@
         "title": "Schodiště TT",
         "type": "místnost",
         "images": ["schodiste_tt1.png", "schodiste_tt2.png"],
-        "image_titles": ["pohled dolů", "pohled nahoru"],
+        "image_titles": ["POHLED DOLŮ", "POHLED NAHORU"],
         "metadata": [
             {"label": "Název", "value": "Schodiště TT"},
             {"label": "Blok", "value": "[Barvy](bl_barvy)"},
