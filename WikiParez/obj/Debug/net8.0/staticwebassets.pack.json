@@ -53,6 +53,14 @@
       "PackagePath": "staticwebassets/Images/missing.jpg"
     },
     {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/os_marcela_hebertova.png:Zone.Identifier",
+      "PackagePath": "staticwebassets/Images/os_marcela_hebertova.png:Zone.Identifier"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/os_marcela_hebertova1.png",
+      "PackagePath": "staticwebassets/Images/os_marcela_hebertova1.png"
+    },
+    {
       "Id": "/root/wikiparez/WikiParez/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },

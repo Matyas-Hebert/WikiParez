@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://cloudconvert.com/
+HostUrl=https://eu-central.storage.cloudconvert.com/tasks/cd61396f-6f53-4555-a80d-27825a7d9563/os_marcela_hebertova.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cloudconvert-production%2F20250606%2Ffra%2Fs3%2Faws4_request&X-Amz-Date=20250606T202920Z&X-Amz-Expires=86400&X-Amz-Signature=ac5747dd6cbbbdd85b3f3883d2d05a206a10f149b7f7ba8f51b3506ccab5ed81&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22os_marcela_hebertova.png%22&response-content-type=image%2Fpng&x-id=GetObject

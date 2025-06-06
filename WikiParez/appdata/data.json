@@ -220,6 +220,31 @@
             }
         ]
     },
+    "os_marcela_hebertova": {
+        "title": "Marcela Hebertová",
+        "type": "osoba",
+        "image_titles": ["v Paříži"],
+        "metadata": [
+            {"label": "Jméno", "value": "Marcela Hebertová"},
+            {"label": "Národnost", "value": "Česká"},
+            {"label": "Povolání", "value": "Malířka"},
+            {"label": "Věk", "value": "27 let"}
+        ],
+        "sections": [
+            {
+                "title": "Přehled",
+                "content": "Marcela Hebertová je česká malířka žijící na jižní Moravě. Její díla jsou známá po celém světě a často se objevují na výstavách v Evropě či Americe. Její díla lze nalézt na oficiálních stránkách <a href=\"https://galeriemerci.webnode.cz/\">galeriemerci.webnode.cz</a>.\nMarcela také dala název místnosti [Byt chudáka, kterej nemá rád kluby](mi_byt_chudaka_kterej_nema_rad_kluby)."
+            },
+            {
+                "title": "Životopis",
+                "content": "Marcela Hebertová vystudovala 2 vysoké školy a 3 střední školy s maturitní zkouškou. Její profesionální praxe obsahuje výuku na základní škole a tanečního oboru, ilustrace pro nespočet nakladatelství a grafické studio, restaurování uměleckých děl, taneční spolupráci s divadli a tvorbu animací. Absolvovala také sklářský, kovářský, sochařský a řezbářský kurz a byla oceněna 1. místem v soutěži Zlatý Kokršpaněl za rok 2017."
+            },
+            {
+                "title": "Zajímavosti",
+                "content": "Marcela Hebertová je také sochařkou, tesařkou, ilustrátorkou, tanečnicí, houslistkou, kuchařkou, učitelkou, herečkou a v neposlední řadě programátorkou.\nMarcela mluví plynně anglicky, česky, slovensky, německy, francouzsky, italsky, čínsky, igbošsky, španělsky a rusky."
+            }
+        ]
+    },
     "bl_barvy": {
         "title": "Barvy",
         "type": "blok",
