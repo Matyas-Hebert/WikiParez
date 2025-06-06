@@ -4,15 +4,31 @@
 
 @if (Model != null){
     <div class="text-center">
-        <h1 class="display-4">Welcome</h1>
-        <p>Page about @Model.Title.</p>
+        <h1 class="display-4">Vítej na Pařez Wiki</h1>
+        <p>Stránka o @Model.Type @Model.Title.</p>
     </div>
 
-    @foreach (var sec in Model.Sections)
-    {
-        <div class="section">
-            <h2>@sec.Title</h2>
-            <p>@sec.Content</p>
-        </div>
-    }
+    <div style="display: flex; gap: 2rem;">
+        <main style="flex-grow: 1;">
+            @foreach (var sec in Model.Sections)
+            {
+                <div class="section">
+                    <h2>@sec.Title</h2>
+                    <p style="word-break: break-word; overflow-wrap: break-word; white-space: pre-wrap;">@Html.Raw(sec.Content)</p>
+                </div>
+            }
+        </main>
+        <aside style="min-width: 200px; padding: 1rem; background-color: #f5f5f5; border-radius: 8px;">
+            <h2>Info</h2>
+            <table>
+                @foreach (var data in Model.Metadata)
+                {
+                    <tr>
+                        <td style="padding-right: 0.5rem;"><strong>@data.Label:</strong></td>
+                        <td>@Html.Raw(data.Value)</td>
+                    </tr>
+                }
+            </table>
+        </aside>
+    </div>
 }

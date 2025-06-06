@@ -4,6 +4,7 @@ using WikiParez.Models;
 using System.Collections.Generic;
 using System.IO;
 using System.Text.Json;
+using System.Text.RegularExpressions;
 using Microsoft.Extensions.Hosting;
 
 public class WikiService
@@ -30,10 +31,38 @@ public class WikiService
         return JsonSerializer.Deserialize<Dictionary<string, WikiPage>>(json, options) ?? new Dictionary<string, WikiPage>();
     }
 
-    public WikiPage GetPageBySlug(string slug)
+    private string UseRegex(string content) {
+        return Regex.Replace(content, @"\[(.*?)\]\((.*?)\)", match =>
+                {
+                    string label = match.Groups[1].Value;
+                    string slug = match.Groups[2].Value;
+                    return $"<a href=\"/{slug}\">{label}</a>";
+                });
+    }
+
+    private void AddLinks(WikiPage page)
+    {
+        if (page?.Sections != null)
+        {
+            foreach (var section in page.Sections)
+            {
+                section.Content = UseRegex(section.Content);
+            }
+        }
+        if (page?.Metadata != null)
+        {
+            foreach (var metadata in page.Metadata)
+            {
+                metadata.Value = UseRegex(metadata.Value);
+            }
+        }
+    }
+
+    public WikiPage? GetPageBySlug(string slug)
     {
         if (_pages != null && _pages.TryGetValue(slug, out var page))
         {
+            AddLinks(page);
             return page;
         }
         // Implementation to retrieve the WikiPage by slug

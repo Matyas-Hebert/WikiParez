@@ -1,29 +1,61 @@
 {
-    "room_1": {
-        "title": "Room 1",
+    "mi_rudakuv_dum": {
+        "title": "Ruďákův dům",
+        "type": "místnost",
         "metadata": [
-            {"label": "name", "value": "Room 1"},
-            {"label": "location", "value": "First Floor"},
-            {"label": "area", "value": "25"}
+            {"label": "Název", "value": "Ruďákův dům"},
+            {"label": "Blok", "value": "[Barvy](bl_barvy)"},
+            {"label": "Okrsek", "value": "[Smrk](ok_smrk)"},
+            {"label": "Čtvrť", "value": "[Kořen](ct_koren)"},
+            {"label": "Část", "value": "[Pařez](ca_parez)"},
+            {"label": "Plocha", "value": "33 blok²"}
         ],
         "sections": [
             {
-                "title": "Overview",
-                "content": "The room 1 is located right next to [room2](room_2)"
+                "title": "Přehled",
+                "content": "Ruďákův dům je částečně otevřená místnost. Dvěma vchody na jihozápadním a jihovýchodním rohu se lze dostat na [beetroot farmu](mi_beetroot_farma). Na západní straně se nachází dvojité dveře do [Oranjestadu](mi_oranjestad). Na východní straně je poslední vchod do místnosti a to na nejmenované náměstíčko, na které lze vejít přímo z [ulice Schodové](mi_ulice_schodova), [Double Decker housu](mi_double_decker_house) či z [Beetroot farmy](mi_beetroot_farma) a dveřmi z [Sila](mi_silo)."
+            },
+            {
+                "title": "Název",
+                "content": "Název místnosti je odvozen od rudé barvy ředkví, které rostou v sousední [beetroot farmě](mi_beetroot_farma). Spolu s [Oranjestadem](mi_oranjestad) dali jméno bloku [barvy](bl_barvy)."
+            },
+            {
+                "title": "Interiér",
+                "content": "Interiér Ruďákova domu je osvětlen loučemi a ve dne slunečním svitem vzhledem k velkému počtu skleněných tabulek. V místnosti se nachází bílá postel a crafting table. O patro výše se nachází [The Terrass](mi_the_terrass), jež s Ruďákovým domem sdílí sklěněný strop/podlahu.\nNa severní straně místnosti můžeme najít šachtu podél jižního okna [sila](mi_silo). Šachta je oplocena a vede o patro níže do [Oranjestadu](mi_oranjestad)."
+            },
+            {
+                "title": "Zajímavost",
+                "content": "V místnosti je 25 sklěněných tabulek a 9 sklěněných bloků umístěných ve stropě. Ruďákův dům je tak jedna s místností s nejvyšší hustotou skla na plochu a to víc než sklo/blok²."
             }
         ]
     },
-    "room_2": {
-        "title": "Room 2",
+    "mi_beetroot_farma": {
+        "title": "Beetroot farma",
+        "type": "místnost",
         "metadata": [
-            {"label": "name", "value": "Room 2"},
-            {"label": "location", "value": "First Floor"},
-            {"label": "area", "value": "30"}
+            {"label": "Název", "value": "Beetroot farma"},
+            {"label": "Blok", "value": "[Barvy](bl_barvy)"},
+            {"label": "Okrsek", "value": "[Smrk](ok_smrk)"},
+            {"label": "Čtvrť", "value": "[Kořen](ct_koren)"},
+            {"label": "Část", "value": "[Pařez](ca_parez)"},
+            {"label": "Plocha", "value": "přibližně 134 blok²"}
         ],
         "sections": [
             {
-                "title": "Overview",
-                "content": "The room 2 is located right next to [room1](room_1)"
+                "title": "Přehled",
+                "content": "Beetroot farma je otevřená místnost s jedinými dveřmi a to do [Dining room](mi_dining_room). Přímo se do ní lze dostat z [Ruďákova domu](mi_rudakuv_dum), [Schodiště TT](mi_schodiste_tt), [Oranjestadu](mi_oranjestad), [Hvězdy](mi_hvezda), [Balkónu svaté neděle](mi_balkon_svate_nedele), [Parsley Atticu](mi_parsley_attic) a [Ulice schodové](mi_ulice_schodova). Beetroot farma je jednoduše přístupná a užitečná místnost, neboť na její ploše se nachází řepná farma i s možností uskladnění ředkví."
+            },
+            {
+                "title": "Název",
+                "content": "Název místnosti je anglický překlad českého výrazu \"řepná farma\"."
+            },
+            {
+                "title": "Interiér",
+                "content": "Dominantou interiéru je řepná farma o ploše 55 bloků². Při vhodných podmínkách a při častém sběru řepy může farma vyprodukovat až 5 řep za minutu. Na východní a západní straně od farmy jsou dvě prostranství.\nVýchodní prostranství je lépe přístupné přes [ulici Schodovou](mi_ulice_schodova), [Hvězdu](mi_hvezda) či [balkón_svaté_neděle](mi_balkon_svate_nedele), na který se lze dostat z [Unikového schodiště](mi_unikove_schodiste).\nV západním prostranství je k dispozici žlutá postel a lze se na něj dostat schody z [Parsley Attic](mi_parsley_attic) a otevřeným vchodem z [Oranjestadu](mi_oranjestad).\nNa ploše celé místnosti jsou postaveny 3 crafting tably a 1 barel na uskladnění ředkví z farmy."
+            },
+            {
+                "title": "Zajímavosti",
+                "content": "Beetroot farma je jediná místnost, kde se rostou ředkve.\nPři pohledu na jih z východního prostranství lze vidět severní stěnu [ordinace Pink Lady](mi_ordinace_pink_lady).\nV barelu na uskladnění ředkví je uskladněna i diamantová motyka."
             }
         ]
     }
