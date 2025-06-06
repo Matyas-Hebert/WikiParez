@@ -5,6 +5,18 @@
       "PackagePath": "staticwebassets/WikiParez.bundle.scp.css"
     },
     {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/beacon-parez1.png",
+      "PackagePath": "staticwebassets/Images/beacon-parez1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/beacon-parez2.png",
+      "PackagePath": "staticwebassets/Images/beacon-parez2.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/beacon-parez3.png",
+      "PackagePath": "staticwebassets/Images/beacon-parez3.png"
+    },
+    {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/beetroot_farma.png",
       "PackagePath": "staticwebassets/Images/beetroot_farma.png"
     },

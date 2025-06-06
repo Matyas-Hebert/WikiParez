@@ -98,8 +98,8 @@
     "beacon_parez": {
         "title": "Beacon - Pařez",
         "type": "beacon",
-        "images": [],
-        "image_titles": [],
+        "images": ["beacon-parez1.png", "beacon-parez2.png", "beacon-parez3.png"],
+        "image_titles": ["BEACON V TAJNÉ CHODBĚ", "barevná skla na okruhu", "paprsky beaconu v Dragon Lair"],
         "metadata": [
             {"label": "Místnost", "value": "[Tajná Chodba](mi_tajna_chodba)"},
             {"label": "Blok", "value": "[Suterén](bl_suteren)"},
