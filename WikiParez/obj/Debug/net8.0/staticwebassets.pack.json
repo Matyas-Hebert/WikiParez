@@ -29,6 +29,14 @@
       "PackagePath": "staticwebassets/Images/mi_byt_chudaka_kterej_nema_rad_kluby2.png"
     },
     {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_klub1.png",
+      "PackagePath": "staticwebassets/Images/mi_klub1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_klub2.png",
+      "PackagePath": "staticwebassets/Images/mi_klub2.png"
+    },
+    {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_oranjestad1.png",
       "PackagePath": "staticwebassets/Images/mi_oranjestad1.png"
     },
@@ -41,12 +49,28 @@
       "PackagePath": "staticwebassets/Images/mi_oranjestad3.png"
     },
     {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_rubec1.png",
+      "PackagePath": "staticwebassets/Images/mi_rubec1.png"
+    },
+    {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_schodiste_tt1.png",
       "PackagePath": "staticwebassets/Images/mi_schodiste_tt1.png"
     },
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_schodiste_tt2.png",
       "PackagePath": "staticwebassets/Images/mi_schodiste_tt2.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_viden1.png",
+      "PackagePath": "staticwebassets/Images/mi_viden1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_viden2.png",
+      "PackagePath": "staticwebassets/Images/mi_viden2.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_viden3.png",
+      "PackagePath": "staticwebassets/Images/mi_viden3.png"
     },
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/missing.jpg",

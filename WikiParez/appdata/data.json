@@ -155,7 +155,7 @@
             },
             {
                 "title": "Zajímavosti",
-                "content": "Na levé straně prvním dvou částí schodiště je neoplocená díra s hloubkou 2.5-17 bloků. V nejhlubším místě se nachází částečně voda součástí [přístavního mola](mi_pristavni_molo). Při velké nešikovnosti chybějící plot může způsobit až 4 srdíčka poškození (díky blízkému [beaconu](beacon_parez) je k dispozici resistance efekt).\nZ první části schodiště při pohledu na východ lze vidět endermana s bílou kočkou v lodi, která se nachází poblíž [Městského okruhu](mi_mestsky_okruh)."
+                "content": "Na levé straně prvních dvou částí schodiště je neoplocená díra s hloubkou 2.5-17 bloků. V nejhlubším místě se nachází částečně voda součástí [přístavního mola](mi_pristavni_molo). Při velké nešikovnosti chybějící plot může způsobit až 4 srdíčka poškození (díky blízkému [beaconu](beacon_parez) je k dispozici resistance efekt).\nZ první části schodiště při pohledu na východ lze vidět endermana s bílou kočkou v lodi, která se nachází poblíž [Městského okruhu](mi_mestsky_okruh)."
             }
         ]
     },
@@ -165,7 +165,7 @@
         "image_titles": ["POHLED NA BYT", "VCHOD DO PILY"],
         "area": 52,
         "metadata": [
-            {"label": "Název", "value": "Ulice Schodová"},
+            {"label": "Název", "value": "Byt chudáka, kterej nemá rád kluby"},
             {"label": "Blok", "value": "[Vídeň](bl_viden)"},
             {"label": "Okrsek", "value": "[Benátky](ok_benatky)"},
             {"label": "Čtvrť", "value": "[Rybářská Kolonie](ct_rybarska_kolonie)"},
@@ -188,6 +188,102 @@
             {
                 "title": "Zajímavosti",
                 "content": "Pro využití vstupu do [Pily](mi_pila) je třeba přejít výtah z [Klubu](mi_klub)\nByt chudáka, kterej nemá rád kluby je jedinou místností do níž vedou 2 mosty z [Basgiathu](ct_basgiath).\nByt chudáka, kterej nemá rád kluby je nejdelším názvem místnosti v celém domě."
+            }
+        ]
+    },
+    "mi_klub": {
+        "title": "Klub",
+        "type": "místnost",
+        "image_titles": ["POHLED NA JIH", "POHLED NA SEVER"],
+        "area": 78,
+        "metadata": [
+            {"label": "Název", "value": "Klub"},
+            {"label": "Blok", "value": "[Vídeň](bl_viden)"},
+            {"label": "Okrsek", "value": "[Benátky](ok_benatky)"},
+            {"label": "Čtvrť", "value": "[Rybářská Kolonie](ct_rybarska_kolonie)"},
+            {"label": "Část", "value": "[Pařez](ca_parez)"},
+            {"label": "Plocha", "value": "78 blok²"}
+        ],
+        "sections": [
+            {
+                "title": "Přehled",
+                "content": "Klub je místnost ve [Vídni](bl_viden) s velkým množstvím vchodů a východů. Z místností se dá dostat do devíti různých místností. Na severu najdeme žebřík na [ulici Schodovou](mi_ulice_schodova) a dveře do [Sila](mi_silo). Na východě jsou schody na [Městský okruh](mi_mestsky_okruh) a dveře na [Přechod](mi_prechod). Na jihu jsou dvojité dveře na [Ropnou plošinu b](mi_ropna_plosina_b), schody na [Ropnou plošinu](mi_ropna_plosina) a dveře na [Pilu](mi_pila). V neposlední řadě je v místnosti výtah do [Bytu chudáka, kterej nemá rád kluby](mi_byt_chudaka_kterej_nemá_rád_kluby) a v prostředku místnosti jsou schody dolů do [Vídně](mi_viden).\nKlub je plošně velký, ale vzhledem k velkému počtu dveří, schodů a výtahů je prostor plně využit. Často se jedná o průchozí místnost."
+            },
+            {
+                "title": "Název",
+                "content": "Název byl inspirován vlastním prostorem místnosti a jeho velikostí."
+            },
+            {
+                "title": "Interiér",
+                "content": "Interiér klubu je velmi komplikovaný. Místnost je protáhlá a má na délku 18 bloků a na šířku pouze 5. Uprostřed místnosti nalezneme schody do [Vídně](mi_viden), kde se nachází [Dálnice](mi_dalnice). Východní strana místnosti je kompletně pokryta vstupy do jiných místností zatímco strana západní měla místo na velké okno s výhledem na [Basgiath](ct_basgiath) a moře. Na severu je menší zázemí se vstupním výtahem do [bytu](mi_byt_chudaka_kterej_nema_rad_kluby) o patro výše a výstupním výtahem z [Vídně](mi_vide). Na úplném konci je menší plot za nímž je menší volný prostor. Dále je zde žebřík na [ulici Schodovou](mi_ulice_schodova) a dveře do [Sila](mi_silo).\nI přes nedostatek zbylého místa je v Klubu šedá postel, 2 crafting tably a 2 barely určené na uskladnění hub."
+            },
+            {
+                "title": "Zajímavosti",
+                "content": "Klub je největší místnost ve [Vídni](mi_viden).\nZ Klubu existuje přímý vstup do [Bytu chudáka, kterej nemá rád kluby](mi_byt_chudaka_kterej_nema_rad_kluby), ale naopak přímý vstup neexistuje. Je třeba projít skrz [Pilu](mi_pila) či [Ropnou plošinu](mi_ropna_plosina)."
+            }
+        ]
+    },
+    "mi_viden": {
+        "title": "Vídeň",
+        "type": "místnost",
+        "image_titles": ["DÁLNICE, SKLADIŠTĚ A VÝTAH", "SCHODY DO DOBRÉ VODY", "KOUTEK S POSTELÍ"],
+        "area": 36,
+        "metadata": [
+            {"label": "Název", "value": "Vídeň"},
+            {"label": "Blok", "value": "[Vídeň](bl_viden)"},
+            {"label": "Okrsek", "value": "[Benátky](ok_benatky)"},
+            {"label": "Čtvrť", "value": "[Rybářská Kolonie](ct_rybarska_kolonie)"},
+            {"label": "Část", "value": "[Pařez](ca_parez)"},
+            {"label": "Plocha", "value": "36 blok²"}
+        ],
+        "sections": [
+            {
+                "title": "Přehled",
+                "content": "Vídeň je místnost ve stejnojmenném bloku sloužící jako terminál [Dálnice](mi_dalnice). Místnost má dvě části. První částí jsou schody ke dveřím do [Dobré Vody](mi_dobra_voda) a brance na [Pultovou Střechu](mi_pultova_strecha). Druhá, hlavní, část je hned po těmito schody. Nacházejí se zde schody a výtah do [Klubu](mi_klub), výtah z [Mostiště](mi_mostiste) a začátek [Dálnice](mi_dalnice)."
+            },
+            {
+                "title": "Název",
+                "content": "Místnost sdílí název s hlavním městem Rakouska a malou vesnicí na Vysočině. Název byl inspirován končící dálnicí a plánem udělat s [Vídně](mi_viden) dopravní křižovatku."
+            },
+            {
+                "title": "Interiér",
+                "content": "V interiéru místnosti můžeme krom schodů a výtahů najít crafting table a tři barely z nichž dva jsou určeny na uskladnění ledu a jeden na lodě. Na jižní straně je bílá postel a vedle ní, pod schody do [Klubu](mi_klub), je menší nevyužitý prostor."
+            },
+            {
+                "title": "Zajímavosti",
+                "content": "Při pohledu na sever ze schodů do [Dobré vody](mi_dobra_voda) lze přímo vidět strom v [Silu](mi_silo) (žádné bloky ani okna nejsou v cestě)\nI když vede z [Mostiště](mi_mostiste) přímý vchod do Vídně je opačná cesta velmi komplikovaná. Nejkratší cestou je přeskočit plot na schodech do [Dobré Vody](mi_dobra_voda)."
+            }
+        ]
+    },
+    "mi_rubec": {
+        "title": "Rubec",
+        "type": "místnost",
+        "image_titles": ["POHLED NA RUBEC"],
+        "area": 33,
+        "metadata": [
+            {"label": "Název", "value": "Rubec"},
+            {"label": "Blok", "value": "[Vídeň](bl_viden)"},
+            {"label": "Okrsek", "value": "[Benátky](ok_benatky)"},
+            {"label": "Čtvrť", "value": "[Rybářská Kolonie](ct_rybarska_kolonie)"},
+            {"label": "Část", "value": "[Pařez](ca_parez)"},
+            {"label": "Plocha", "value": "33 blok²"}
+        ],
+        "sections": [
+            {
+                "title": "Přehled",
+                "content": "Rubec je otevřený most z [Dračí Rotundy](mi_draci_rotunda) do [Hvězdy](mi_hvezda), [Bytu chudáka, kterej nemá rád kluby](mi_byt_chudaka_kterej_nema_rad_kluby) a [Oranjestadu](mi_oranjestad). Hlavní část mostu je dva bloky široká a 12 bloků dlouhá. Z rubce se však odděluje 9 bloků dlouhé schodiště do [Oranjestadu](mi_oranjestad)."
+            },
+            {
+                "title": "Název",
+                "content": "Rubec je část slova \"dřevorubec\". Název byl inspirován faktem že Rubec vede z [Dračí rotundy](mi_draci_rotunda), kde roste vysoký smrk."
+            },
+            {
+                "title": "Interiér",
+                "content": "Rubec je otevřená místnost tudíž nemá žádný interiér. Místnost je osvětlena lanternami."
+            },
+            {
+                "title": "Zajímavost",
+                "content": "Rubec je jeden ze čtyř mostů spojujících [Basgiath](ct_basgiath) s [Pařezem](ca_parez)."
             }
         ]
     },
@@ -228,7 +324,8 @@
             {"label": "Jméno", "value": "Marcela Hebertová"},
             {"label": "Národnost", "value": "Česká"},
             {"label": "Povolání", "value": "Malířka"},
-            {"label": "Věk", "value": "27 let"}
+            {"label": "Věk", "value": "27 let"},
+            {"label": "Dcera", "value": "[Marie Hebertová](os_marie_hebertova)"}
         ],
         "sections": [
             {
@@ -237,7 +334,7 @@
             },
             {
                 "title": "Životopis",
-                "content": "Marcela Hebertová vystudovala 2 vysoké školy a 3 střední školy s maturitní zkouškou. Její profesionální praxe obsahuje výuku na základní škole a tanečního oboru, ilustrace pro nespočet nakladatelství a grafické studio, restaurování uměleckých děl, taneční spolupráci s divadli a tvorbu animací. Absolvovala také sklářský, kovářský, sochařský a řezbářský kurz a byla oceněna 1. místem v soutěži Zlatý Kokršpaněl za rok 2017."
+                "content": "Marcela Hebertová vystudovala 3 vysoké školy a 2 střední školy s maturitní zkouškou. Její profesionální praxe obsahuje výuku na základní škole a tanečního oboru, ilustrace pro nespočet nakladatelství a grafické studio, restaurování uměleckých děl, taneční spolupráci s divadli a tvorbu animací. Absolvovala také sklářský, kovářský, sochařský a řezbářský kurz a byla oceněna 1. místem v soutěži Zlatý Kokršpaněl za rok 2017."
             },
             {
                 "title": "Zajímavosti",
@@ -253,6 +350,35 @@
             {"label": "Název", "value": "Barvy"},
             {"label": "Okrsek", "value": "[Smrk](ok_smrk)"},
             {"label": "Čtvrť", "value": "[Kořen](ct_koren)"},
+            {"label": "Část", "value": "[Pařez](ca_parez)"}
+        ],
+        "sections": [
+            {
+                "title": "Přehled",
+                "content": "Barvy jsou blok složený ze 4 místností a to [Ruďákova domu](mi_rudakuv_dum), [Oranjestadu](mi_oranjestad), [Beetroot farmy](mi_beetroot_farma) a [Schodiště TT](mi_schodiste_tt). Největší místností v bloku je [Beetroot farma](mi_beetroot_farma) s plochou 134 bloků².\nBarvy se nachází v okrsku [Smrk](ok_smrk) a čtvrti [Kořen](ct_koren).\nBarvy sousedí s následujícími bloky: [Střecha](bl_strecha), [Příkop](bl_prikop), [The Airship](bl_the_airship), [Ropná plošina](bl_ropna_plosina), [Vídeň](bl_viden), [Pod masou](bl_pod_masou) a [Vestibul](bl_vestibul)."
+            },
+            {
+                "title": "Název",
+                "content": "Název bloku je odvozen od názvu místností [Oranjestad](mi_oranjestad) (oranžová barva) a [Ruďákova domu](mi_rudakuv_dum) (červená barva)."
+            },
+            {
+                "title": "Interiér",
+                "content": "Jednotlivé místnosti jsou navzájem dobře propojeny a to buď dveřmi či volným přístupem. Všechny místnosti až na [Schodiště TT](mi_schodiste_tt) mají volný přístup do [Beetroot farmy](mi_beetroot_farma). Všechny místnosti krom [Schodiště TT](mi_schodiste_tt) mají alespoň jednu postel a crafting table se nachází v místnostech všech. Postele mají barvu buď bílou, žlutou a nebo šedou.\nV [Beetroot farmě](mi_beetroot_farma) se nachází barel s řepou a řepná farma, což dělá [Beetroot farmu](mi_beetroot_farma) jedinou užitečnou místností v bloku."
+            },
+            {
+                "title": "Zajímavosti",
+                "content": "Barvy jsou jeden z mála bloků kde je možné navštívit všechny místnosti bez použití dveří, neboť všechny místností mají volný přístup do [Beetroot farmy](mi_beetroot_farma)."
+            }
+        ]
+    },
+    "bl_viden": {
+        "title": "Vídeň",
+        "type": "blok",
+        "image_titles": [],
+        "metadata": [
+            {"label": "Název", "value": "Vídeň"},
+            {"label": "Okrsek", "value": "[Benátky](ok_benatky)"},
+            {"label": "Čtvrť", "value": "[Rybářská Kolonie](ct_rybarska_kolonie)"},
             {"label": "Část", "value": "[Pařez](ca_parez)"}
         ],
         "sections": [
@@ -288,7 +414,7 @@
             },
             {
                 "title": "Název",
-                "content": ""
+                "content": "Pařez"
             },
             {
                 "title": "Interiér",

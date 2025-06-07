@@ -3,6 +3,20 @@
     ViewData["Title"] = "WIKI Pařez";
 }
 
+<style>
+    .zoomed {
+        transform: scale(2);
+        cursor: zoom-out;
+        z-index: 1000;
+        position: relative;
+    }
+
+    img.wikiimage {
+        transition: transform 0.3s ease;
+        cursor: zoom-in;
+    }
+</style>
+
 @if (Model != null){
     <div class="text-center">
         <h1 class="display-4">Vítej na Pařez Wiki</h1>
@@ -21,7 +35,7 @@
         </main>
         <aside style="min-width: 200px; padding: 1rem; background-color: #f5f5f5; border-radius: 8px; max-width: 300px;">
             <figure style="margin: 0; text-align: center; position: relative;">
-                <img id="wikiimage" src="/Images/@Model.Images[Model.image_id]" alt="image" style="width: 100%; max-width: 100%;"/>
+                <img id="wikiimage" onclick="this.classList.toggle('zoomed')" style="width: 100%; max-width: 100%;" src="/Images/@Model.Images[Model.image_id]" alt="image"/>
                 <figcaption id="imagetitle" style="margin-top: 0.5rem; font-weight:bold;">@Html.Raw(@Model.Image_titles[Model.image_id])</figcaption>
                 @if (Model.image_count() > 1)
                 {
