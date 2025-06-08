@@ -37,6 +37,14 @@
       "PackagePath": "staticwebassets/Images/mi_klub2.png"
     },
     {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_nadchod1.png",
+      "PackagePath": "staticwebassets/Images/mi_nadchod1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_nadchod2.png",
+      "PackagePath": "staticwebassets/Images/mi_nadchod2.png"
+    },
+    {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_oranjestad1.png",
       "PackagePath": "staticwebassets/Images/mi_oranjestad1.png"
     },

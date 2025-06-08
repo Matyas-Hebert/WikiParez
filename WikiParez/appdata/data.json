@@ -4,14 +4,14 @@
         "type": "místnost",
         "image_titles": [],
         "area": 33,
-        "metadata": [
-            {"label": "Název", "value": "Ruďákův dům"},
-            {"label": "Blok", "value": "[Barvy](bl_barvy)"},
-            {"label": "Okrsek", "value": "[Smrk](ok_smrk)"},
-            {"label": "Čtvrť", "value": "[Kořen](ct_koren)"},
-            {"label": "Část", "value": "[Pařez](ca_parez)"},
-            {"label": "Plocha", "value": "33 blok²"}
-        ],
+        "metadata": {
+            "Název": "Ruďákův dům",
+            "Blok": "[Barvy](bl_barvy)",
+            "Okrsek": "[Smrk](ok_smrk)",
+            "Čtvrť": "[Kořen](ct_koren)",
+            "Část": "[Pařez](ca_parez)",
+            "Plocha": "33 blok²"
+        },
         "sections": [
             {
                 "title": "Přehled",
@@ -36,14 +36,14 @@
         "type": "místnost",
         "image_titles": ["POHLED DOLŮ", "POHLED NAHORU"],
         "area": 20,
-        "metadata": [
-            {"label": "Název", "value": "Schodiště TT"},
-            {"label": "Blok", "value": "[Barvy](bl_barvy)"},
-            {"label": "Okrsek", "value": "[Smrk](ok_smrk)"},
-            {"label": "Čtvrť", "value": "[Kořen](ct_koren)"},
-            {"label": "Část", "value": "[Pařez](ca_parez)"},
-            {"label": "Plocha", "value": "20 blok²"}
-        ],
+        "metadata": {
+            "Název": "Schodiště TT",
+            "Blok": "[Barvy](bl_barvy)",
+            "Okrsek": "[Smrk](ok_smrk)",
+            "Čtvrť": "[Kořen](ct_koren)",
+            "Část": "[Pařez](ca_parez)",
+            "Plocha": "20 blok²"
+        },
         "sections": [
             {
                 "title": "Přehled",
@@ -68,14 +68,14 @@
         "type": "místnost",
         "image_titles": ["ORANJESTAD", "ULIČKA", "VÝKLENEK NA ULICI SCHODOVOU"],
         "area": 64,
-        "metadata": [
-            {"label": "Název", "value": "Oranjestad"},
-            {"label": "Blok", "value": "[Barvy](bl_barvy)"},
-            {"label": "Okrsek", "value": "[Smrk](ok_smrk)"},
-            {"label": "Čtvrť", "value": "[Kořen](ct_koren)"},
-            {"label": "Část", "value": "[Pařez](ca_parez)"},
-            {"label": "Plocha", "value": "64 blok²"}
-        ],
+        "metadata": {
+            "Název": "Oranjestad",
+            "Blok": "[Barvy](bl_barvy)",
+            "Okrsek": "[Smrk](ok_smrk)",
+            "Čtvrť": "[Kořen](ct_koren)",
+            "Část": "[Pařez](ca_parez)",
+            "Plocha": "64 blok²"
+        },
         "sections": [
             {
                 "title": "Přehled",
@@ -100,14 +100,14 @@
         "type": "místnost",
         "image_titles": ["BEETROOT FARMA"],
         "area": 134,
-        "metadata": [
-            {"label": "Název", "value": "Beetroot farma"},
-            {"label": "Blok", "value": "[Barvy](bl_barvy)"},
-            {"label": "Okrsek", "value": "[Smrk](ok_smrk)"},
-            {"label": "Čtvrť", "value": "[Kořen](ct_koren)"},
-            {"label": "Část", "value": "[Pařez](ca_parez)"},
-            {"label": "Plocha", "value": "přibližně 134 blok²"}
-        ],
+        "metadata": {
+            "Název": "Beetroot farma",
+            "Blok": "[Barvy](bl_barvy)",
+            "Okrsek": "[Smrk](ok_smrk)",
+            "Čtvrť": "[Kořen](ct_koren)",
+            "Část": "[Pařez](ca_parez)",
+            "Plocha": "přibližně 134 blok²"
+        },
         "sections": [
             {
                 "title": "Přehled",
@@ -132,14 +132,14 @@
         "type": "místnost",
         "image_titles": [],
         "area": 54,
-        "metadata": [
-            {"label": "Název", "value": "Ulice Schodová"},
-            {"label": "Blok", "value": "[Střecha](bl_strecha)"},
-            {"label": "Okrsek", "value": "[Smrk](ok_smrk)"},
-            {"label": "Čtvrť", "value": "[Kořen](ct_koren)"},
-            {"label": "Část", "value": "[Pařez](ca_parez)"},
-            {"label": "Plocha", "value": "54 blok²"}
-        ],
+        "metadata": {
+            "Název": "Ulice Schodová",
+            "Blok": "[Střecha](bl_strecha)",
+            "Okrsek": "[Smrk](ok_smrk)",
+            "Čtvrť": "[Kořen](ct_koren)",
+            "Část": "[Pařez](ca_parez)",
+            "Plocha": "54 blok²"
+        },
         "sections": [
             {
                 "title": "Přehled",
@@ -164,14 +164,14 @@
         "type": "místnost",
         "image_titles": ["POHLED NA BYT", "VCHOD DO PILY"],
         "area": 52,
-        "metadata": [
-            {"label": "Název", "value": "Byt chudáka, kterej nemá rád kluby"},
-            {"label": "Blok", "value": "[Vídeň](bl_viden)"},
-            {"label": "Okrsek", "value": "[Benátky](ok_benatky)"},
-            {"label": "Čtvrť", "value": "[Rybářská Kolonie](ct_rybarska_kolonie)"},
-            {"label": "Část", "value": "[Pařez](ca_parez)"},
-            {"label": "Plocha", "value": "52 blok²"}
-        ],
+        "metadata": {
+            "Název": "Byt chudáka, kterej nemá rád kluby",
+            "Blok": "[Vídeň](bl_viden)",
+            "Okrsek": "[Benátky](ok_benatky)",
+            "Čtvrť": "[Rybářská Kolonie](ct_rybarska_kolonie)",
+            "Část": "[Pařez](ca_parez)",
+            "Plocha": "52 blok²"
+        },
         "sections": [
             {
                 "title": "Přehled",
@@ -196,14 +196,14 @@
         "type": "místnost",
         "image_titles": ["POHLED NA JIH", "POHLED NA SEVER"],
         "area": 78,
-        "metadata": [
-            {"label": "Název", "value": "Klub"},
-            {"label": "Blok", "value": "[Vídeň](bl_viden)"},
-            {"label": "Okrsek", "value": "[Benátky](ok_benatky)"},
-            {"label": "Čtvrť", "value": "[Rybářská Kolonie](ct_rybarska_kolonie)"},
-            {"label": "Část", "value": "[Pařez](ca_parez)"},
-            {"label": "Plocha", "value": "78 blok²"}
-        ],
+        "metadata": {
+            "Název": "Klub",
+            "Blok": "[Vídeň](bl_viden)",
+            "Okrsek": "[Benátky](ok_benatky)",
+            "Čtvrť": "[Rybářská Kolonie](ct_rybarska_kolonie)",
+            "Část": "[Pařez](ca_parez)",
+            "Plocha": "78 blok²"
+        },
         "sections": [
             {
                 "title": "Přehled",
@@ -219,7 +219,7 @@
             },
             {
                 "title": "Zajímavosti",
-                "content": "Klub je největší místnost ve [Vídni](mi_viden).\nZ Klubu existuje přímý vstup do [Bytu chudáka, kterej nemá rád kluby](mi_byt_chudaka_kterej_nema_rad_kluby), ale naopak přímý vstup neexistuje. Je třeba projít skrz [Pilu](mi_pila) či [Ropnou plošinu](mi_ropna_plosina)."
+                "content": "Klub je největší místnost ve [Vídni](bl_viden).\nZ Klubu existuje přímý vstup do [Bytu chudáka, kterej nemá rád kluby](mi_byt_chudaka_kterej_nema_rad_kluby), ale naopak přímý vstup neexistuje. Je třeba projít skrz [Pilu](mi_pila) či [Ropnou plošinu](mi_ropna_plosina)."
             }
         ]
     },
@@ -228,14 +228,14 @@
         "type": "místnost",
         "image_titles": ["DÁLNICE, SKLADIŠTĚ A VÝTAH", "SCHODY DO DOBRÉ VODY", "KOUTEK S POSTELÍ"],
         "area": 36,
-        "metadata": [
-            {"label": "Název", "value": "Vídeň"},
-            {"label": "Blok", "value": "[Vídeň](bl_viden)"},
-            {"label": "Okrsek", "value": "[Benátky](ok_benatky)"},
-            {"label": "Čtvrť", "value": "[Rybářská Kolonie](ct_rybarska_kolonie)"},
-            {"label": "Část", "value": "[Pařez](ca_parez)"},
-            {"label": "Plocha", "value": "36 blok²"}
-        ],
+        "metadata": {
+            "Název": "Vídeň",
+            "Blok": "[Vídeň](bl_viden)",
+            "Okrsek": "[Benátky](ok_benatky)",
+            "Čtvrť": "[Rybářská Kolonie](ct_rybarska_kolonie)",
+            "Část": "[Pařez](ca_parez)",
+            "Plocha": "36 blok²"
+        },
         "sections": [
             {
                 "title": "Přehled",
@@ -243,7 +243,7 @@
             },
             {
                 "title": "Název",
-                "content": "Místnost sdílí název s hlavním městem Rakouska a malou vesnicí na Vysočině. Název byl inspirován končící dálnicí a plánem udělat s [Vídně](mi_viden) dopravní křižovatku."
+                "content": "Místnost sdílí název s <a href=\"https://cs.wikipedia.org/wiki/Vídeň\">hlavním městem Rakouska</a> a <a href=\"https://cs.wikipedia.org/wiki/Vídeň_(okres_Žďár_nad_Sázavou)\">malou vesnicí na Vysočině</a>. Název byl inspirován končící dálnicí a plánem udělat s [Vídně](mi_viden) dopravní křižovatku.\nVídeň dala název bloku ve kterém se nachází. Blízké místnost [Mostiště](mostiště) a [Dobrá Voda](dobrá voda) jsou pojmenovány podle vesnic poblíž Vídně na Vysočině."
             },
             {
                 "title": "Interiér",
@@ -260,14 +260,14 @@
         "type": "místnost",
         "image_titles": ["POHLED NA RUBEC"],
         "area": 33,
-        "metadata": [
-            {"label": "Název", "value": "Rubec"},
-            {"label": "Blok", "value": "[Vídeň](bl_viden)"},
-            {"label": "Okrsek", "value": "[Benátky](ok_benatky)"},
-            {"label": "Čtvrť", "value": "[Rybářská Kolonie](ct_rybarska_kolonie)"},
-            {"label": "Část", "value": "[Pařez](ca_parez)"},
-            {"label": "Plocha", "value": "33 blok²"}
-        ],
+        "metadata": {
+            "Název": "Rubec",
+            "Blok": "[Vídeň](bl_viden)",
+            "Okrsek": "[Benátky](ok_benatky)",
+            "Čtvrť": "[Rybářská Kolonie](ct_rybarska_kolonie)",
+            "Část": "[Pařez](ca_parez)",
+            "Plocha": "33 blok²"
+        },
         "sections": [
             {
                 "title": "Přehled",
@@ -287,20 +287,52 @@
             }
         ]
     },
+    "mi_nadchod": {
+        "title": "Nadchod",
+        "type": "místnost",
+        "image_titles": ["NADCHOD Z THE CROSSINGU", "NADCHOD Z BYTU CHUDÁKA, KTEREJ NEMÁ RÁD KLUBY"],
+        "area": 14,
+        "metadata": {
+            "Název": "Nadchod",
+            "Blok": "[Vídeň](bl_viden)",
+            "Okrsek": "[Benátky](ok_benatky)",
+            "Čtvrť": "[Rybářská Kolonie](ct_rybarska_kolonie)",
+            "Část": "[Pařez](ca_parez)",
+            "Plocha": "14 blok²"
+        },
+        "sections": [
+            {
+                "title": "Přehled",
+                "content": "Nadchod je místnost bez dveří. Jedná se o spojnici [the Crossingu](mi_the_crossing) a [Bytu chudáka, kterej nemá rád kluby](mi_byt_chudaka_kterej_nema_rad_kluby). Nadchod je 2 bloky široký a 7 bloků dlouhý. Nadchod jde nejprve o dva bloky výše z [the Crossingu](mi_the_crossing) a na konci o 3 bloky níže do [Bytu](mi_byt_chudaka_kterej_nema_rad_kluby)."
+            },
+            {
+                "title": "Název",
+                "content": "Nadchod se jmenuje nadchod neboť je nadchodem nad [ulicí Schodovou](mi_ulice_schodova)."
+            },
+            {
+                "title": "Interiér",
+                "content": "V nadchodu se nenachází žádná postel, crafting table ani barel. Jedno z oken v nadchodu však nabízí výhled na [ulici Schodovou](mi_ulice_schodova) a [Hvězdu](mi_hvezda). Nejbližšími postelemi jsou bílá postel v [the Crossingu](mi_the_crossing) a oranžová v [Bytu chudáka, kterej nemá rád kluby](mi_byt_chudaka_kterej_nema_rad_kluby)."
+            },
+            {
+                "title": "Zajímavost",
+                "content": "Kdyby nebyl nadchod nadchodem, nebylo by možné po [ulici Schodové](mi_ulice_schodova) projít."
+            }
+        ]
+    },
     "beacon_parez": {
         "title": "Beacon - Pařez",
         "type": "beacon",
         "image_titles": ["BEACON V TAJNÉ CHODBĚ", "BAREVNÁ SKLA NA OKRUHU", "PAPRSKY BEACONU V DRAGON LAIR"],
         "area": 4,
-        "metadata": [
-            {"label": "Místnost", "value": "[Tajná Chodba](mi_tajna_chodba)"},
-            {"label": "Blok", "value": "[Suterén](bl_suteren)"},
-            {"label": "Okrsek", "value": "[Důl](ok_dul)"},
-            {"label": "Čtvrť", "value": "[Kořen](ct_koren)"},
-            {"label": "Část", "value": "[Pařez](ca_parez)"},
-            {"label": "Plocha", "value": "4 blok²"},
-            {"label": "Plocha podstavy", "value": "100 blok²"}
-        ],
+        "metadata": {
+            "Místnost": "[Tajná Chodba](mi_tajna_chodba)",
+            "Blok": "[Suterén](bl_suteren)",
+            "Okrsek": "[Důl](ok_dul)",
+            "Čtvrť": "[Kořen](ct_koren)",
+            "Část": "[Pařez](ca_parez)",
+            "Plocha": "4 blok²",
+            "Plocha podstavy": "100 blok²"
+        },
         "sections": [
             {
                 "title": "Přehled",
@@ -320,13 +352,13 @@
         "title": "Marcela Hebertová",
         "type": "osoba",
         "image_titles": ["v Paříži"],
-        "metadata": [
-            {"label": "Jméno", "value": "Marcela Hebertová"},
-            {"label": "Národnost", "value": "Česká"},
-            {"label": "Povolání", "value": "Malířka"},
-            {"label": "Věk", "value": "27 let"},
-            {"label": "Dcera", "value": "[Marie Hebertová](os_marie_hebertova)"}
-        ],
+        "metadata": {
+            "Jméno": "Marcela Hebertová",
+            "Národnost": "Česká",
+            "Povolání": "Malířka",
+            "Věk": "27 let",
+            "Dcera": "[Marie Hebertová](os_marie_hebertova)"
+        },
         "sections": [
             {
                 "title": "Přehled",
@@ -346,12 +378,12 @@
         "title": "Barvy",
         "type": "blok",
         "image_titles": [],
-        "metadata": [
-            {"label": "Název", "value": "Barvy"},
-            {"label": "Okrsek", "value": "[Smrk](ok_smrk)"},
-            {"label": "Čtvrť", "value": "[Kořen](ct_koren)"},
-            {"label": "Část", "value": "[Pařez](ca_parez)"}
-        ],
+        "metadata": {
+            "Název": "Barvy",
+            "Okrsek": "[Smrk](ok_smrk)",
+            "Čtvrť": "[Kořen](ct_koren)",
+            "Část": "[Pařez](ca_parez)"
+        },
         "sections": [
             {
                 "title": "Přehled",
@@ -375,12 +407,12 @@
         "title": "Vídeň",
         "type": "blok",
         "image_titles": [],
-        "metadata": [
-            {"label": "Název", "value": "Vídeň"},
-            {"label": "Okrsek", "value": "[Benátky](ok_benatky)"},
-            {"label": "Čtvrť", "value": "[Rybářská Kolonie](ct_rybarska_kolonie)"},
-            {"label": "Část", "value": "[Pařez](ca_parez)"}
-        ],
+        "metadata": {
+            "Název": "Vídeň",
+            "Okrsek": "[Benátky](ok_benatky)",
+            "Čtvrť": "[Rybářská Kolonie](ct_rybarska_kolonie)",
+            "Část": "[Pařez](ca_parez)"
+        },
         "sections": [
             {
                 "title": "Přehled",
@@ -404,9 +436,9 @@
         "title": "Pařez",
         "type": "část",
         "image_titles": [],
-        "metadata": [
-            {"label": "Název", "value": "Pařez"}
-        ],
+        "metadata": {
+            "Název": "Pařez"
+        },
         "sections": [
             {
                 "title": "Přehled",

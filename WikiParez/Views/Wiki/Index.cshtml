@@ -48,11 +48,11 @@
             </figure>
             <h2 style="text-align: center;">Info</h2>
             <table>
-                @foreach (var data in Model.Metadata)
+                @foreach (var key in Model.Metadata.Keys)
                 {
                     <tr>
-                        <td style="padding-right: 0.5rem;"><strong>@data.Label:</strong></td>
-                        <td>@Html.Raw(data.Value)</td>
+                        <td style="padding-right: 0.5rem;"><strong>@key:</strong></td>
+                        <td>@Html.Raw(Model.Metadata[key])</td>
                     </tr>
                 }
             </table>

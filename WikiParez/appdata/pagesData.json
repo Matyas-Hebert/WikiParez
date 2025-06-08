@@ -1,0 +1,555 @@
+{
+  "mi_rudakuv_dum": {
+    "Title": "Ru\u010F\u00E1k\u016Fv d\u016Fm",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Metadata": {
+      "N\u00E1zev": "Ru\u010F\u00E1k\u016Fv d\u016Fm",
+      "Blok": "[Barvy](bl_barvy)",
+      "Okrsek": "[Smrk](ok_smrk)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
+      "Plocha": "33 blok\u00B2"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Ru\u010F\u00E1k\u016Fv d\u016Fm je \u010D\u00E1ste\u010Dn\u011B otev\u0159en\u00E1 m\u00EDstnost. Dv\u011Bma vchody na jihoz\u00E1padn\u00EDm a jihov\u00FDchodn\u00EDm rohu se lze dostat na [beetroot farmu](mi_beetroot_farma). Na z\u00E1padn\u00ED stran\u011B se nach\u00E1z\u00ED dvojit\u00E9 dve\u0159e do [Oranjestadu](mi_oranjestad). Na v\u00FDchodn\u00ED stran\u011B je posledn\u00ED vchod do m\u00EDstnosti a to na nejmenovan\u00E9 n\u00E1m\u011Bst\u00ED\u010Dko, na kter\u00E9 lze vej\u00EDt p\u0159\u00EDmo z [ulice Schodov\u00E9](mi_ulice_schodova), [Double Decker housu](mi_double_decker_house) \u010Di z [Beetroot farmy](mi_beetroot_farma) a dve\u0159mi z [Sila](mi_silo)."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "N\u00E1zev m\u00EDstnosti je odvozen od rud\u00E9 barvy \u0159edkv\u00ED, kter\u00E9 rostou v sousedn\u00ED [beetroot farm\u011B](mi_beetroot_farma). Spolu s [Oranjestadem](mi_oranjestad) dali jm\u00E9no bloku [barvy](bl_barvy)."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Interi\u00E9r Ru\u010F\u00E1kova domu je osv\u011Btlen lou\u010Demi a ve dne slune\u010Dn\u00EDm svitem vzhledem k velk\u00E9mu po\u010Dtu sklen\u011Bn\u00FDch tabulek. V m\u00EDstnosti se nach\u00E1z\u00ED b\u00EDl\u00E1 postel a crafting table. O patro v\u00FD\u0161e se nach\u00E1z\u00ED [The Terrass](mi_the_terrass), je\u017E s Ru\u010F\u00E1kov\u00FDm domem sd\u00EDl\u00ED skl\u011Bn\u011Bn\u00FD strop/podlahu.\nNa severn\u00ED stran\u011B m\u00EDstnosti m\u016F\u017Eeme naj\u00EDt \u0161achtu pod\u00E9l ji\u017En\u00EDho okna [sila](mi_silo). \u0160achta je oplocena a vede o patro n\u00ED\u017Ee do [Oranjestadu](mi_oranjestad)."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "V m\u00EDstnosti je 25 skl\u011Bn\u011Bn\u00FDch tabulek a 9 skl\u011Bn\u011Bn\u00FDch blok\u016F um\u00EDst\u011Bn\u00FDch ve strop\u011B. Ru\u010F\u00E1k\u016Fv d\u016Fm je tak jedna s m\u00EDstnost\u00ED s nejvy\u0161\u0161\u00ED hustotou skla na plochu a to v\u00EDc ne\u017E sklo/blok\u00B2."
+      }
+    ],
+    "image_id": 0,
+    "area": 33,
+    "Empty": false,
+    "numberOfRooms": 0
+  },
+  "mi_schodiste_tt": {
+    "Title": "Schodi\u0161t\u011B TT",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "POHLED DOL\u016E",
+      "POHLED NAHORU"
+    ],
+    "Metadata": {
+      "N\u00E1zev": "Schodi\u0161t\u011B TT",
+      "Blok": "[Barvy](bl_barvy)",
+      "Okrsek": "[Smrk](ok_smrk)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
+      "Plocha": "20 blok\u00B2"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Schodi\u0161t\u011B TT je schodi\u0161t\u011B vedouc\u00ED z [bytu chud\u00E1ka, kterej nem\u00E1 r\u00E1d kluby](mi_byt_chudaka_kterej_nem\u00E1_rad_kluby) na [the Airship](the_airship). Schodi\u0161t\u011B p\u0159ekon\u00E1v\u00E1 v\u00FD\u0161kov\u00FD rozd\u00EDl 10 blok\u016F a krom dvou v\u00FD\u0161e zm\u00EDn\u011Bn\u00FDch m\u00EDstnost\u00ED m\u00E1 vchody do 2 dal\u0161\u00EDch. Uprost\u0159ed schodi\u0161t\u011B se na prav\u00E9 stran\u011B nach\u00E1z\u00ED dve\u0159e do [Dining room](mi_dining_room) a na lev\u00E9 stran\u011B voln\u00FD vchod do [Beetroot farmy](mi_beetroot_farma). Schodi\u0161t\u011B je 2 bloky \u0161irok\u00E9 a 10 blok\u016F dlouh\u00E9."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "N\u00E1zev schodi\u0161t\u011B je podobn\u00FD schodi\u0161t\u00EDm jako [Schodi\u0161t\u011B AA](mi_schodiste_aa) \u010Di [Schodi\u0161t\u011B ZZ](mi_schodiste_zz). P\u00EDsmeno T bylo zvoleno podle n\u00E1zvu koncov\u00E9 m\u00EDstnosti [the Airship](mi_the_airship)."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Ve st\u011Bn\u011B na schodi\u0161ti je jedin\u00FD crafting table a dva trapdoory, je\u017E skr\u00FDvaj\u00ED hlin\u011Bn\u00E9 bloky z [Beetroot farmy](mi_beetroot_farma)."
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": "Ze Schodi\u0161t\u011B TT lze otev\u0159\u00EDt barel uprost\u0159ed \u0159epn\u00E9ho pole v [Beetroot farm\u011B](mi_beetroot_farma).\nP\u016Fvodn\u00ED n\u00E1zev Schodi\u0161t\u011B TT m\u011Bl b\u00FDt [Schodi\u0161t\u011B AA](mi_schodiste_aa), ale tento n\u00E1zev byl ji\u017E zabr\u00E1n."
+      }
+    ],
+    "image_id": 0,
+    "area": 20,
+    "Empty": false,
+    "numberOfRooms": 0
+  },
+  "mi_oranjestad": {
+    "Title": "Oranjestad",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "ORANJESTAD",
+      "ULI\u010CKA",
+      "V\u00DDKLENEK NA ULICI SCHODOVOU"
+    ],
+    "Metadata": {
+      "N\u00E1zev": "Oranjestad",
+      "Blok": "[Barvy](bl_barvy)",
+      "Okrsek": "[Smrk](ok_smrk)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
+      "Plocha": "64 blok\u00B2"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Oranjestad je v\u00EDce\u00FArov\u0148ov\u00E1 m\u00EDstnost v [Barv\u00E1ch](bl_barvy). M\u00EDstnost je rozd\u011Blena na dv\u011B \u010D\u00E1sti a to na \u010D\u00E1st hlavn\u00ED a uli\u010Dku. Uli\u010Dka je \u010D\u00E1ste\u010Dn\u011B otev\u0159en\u00E1 chodba vedouc\u00ED z [the Crossingu](mi_the_crossing) do hlavn\u00ED \u010D\u00E1sti Oranjestadu. Do hlavn\u00ED \u010D\u00E1sti vedou 3 dal\u0161\u00ED vchody z nich\u017E dva nemaj\u00ED dve\u0159e a to vchod do [Rubce](mi_rubec) a [Beetroot farmy](mi_beetroot_farma). Jedin\u00FD vchod se dve\u0159mi vede do [Ru\u010F\u00E1kova domu](mi_rudakuv_dum)."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "N\u00E1zev m\u00EDstnosti se shoduje s n\u00E1zvem hlavn\u00EDho m\u011Bsta nizozemsk\u00E9ho z\u00E1mo\u0159sk\u00E9ho \u00FAzem\u00ED Aruby.\nSpole\u010Dn\u011B s Ru\u010Fakov\u00FDm domem dali jm\u00E9no bloku [Barvy](bl_barvy)"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Interi\u00E9r Oranjestadu je zjevn\u011B rozd\u011Blen na dv\u011B \u010D\u00E1sti, hlavn\u00ED \u010D\u00E1st a uli\u010Dku.\nUli\u010Dka je chodba, kter\u00E1 propojuje hlavn\u00ED \u010D\u00E1st s [the Crossingem](mi_the_crossing). Na ji\u017En\u00ED stran\u011B lze nahl\u00E9dnout do [Sila](mi_silo) oknem. Na stran\u011B severn\u00ED je mal\u00FD nezasklen\u00FD v\u00FDklenek o v\u00FD\u0161ce 1-1.5 bloku j\u00EDm\u017E lze proj\u00EDt na [ulici Schodovou](mi_ulice_schodova), kter\u00E1 je 2.5 bloku n\u00ED\u017Ee. V uli\u010Dce se tak\u00E9 nach\u00E1z\u00ED \u010Derven\u00E1 postel.\nV hlavn\u00ED \u010D\u00E1sti m\u016F\u017Eeme naj\u00EDt 2 crafting tably, 3 barely a 2 \u0161ed\u00E9 postele. Ob\u011B postele jsou polo\u017Eeny na um\u011Ble vytvo\u0159en\u00FDch plo\u0161in\u00E1ch. V hlavn\u00ED \u010D\u00E1sti m\u016F\u017Eeme naj\u00EDt dvojici francouzsk\u00FDch oken s plochou p\u0159es 30 blok\u016F\u00B2 nab\u00EDzej\u00EDc\u00EDch nadhern\u00FD v\u00FDhled na mo\u0159e."
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": "Jedna z \u0161ed\u00FDch postel\u00ED v hlavn\u00ED \u010D\u00E1sti Oranjestadu nen\u00ED jednodu\u0161e p\u0159\u00EDstupn\u00E1. Je t\u0159eba vysko\u010Dit a na postel kliknout v pr\u016Fb\u011Bhu skoku.\nM\u00EDstnost Rubec spojuje Oranjestad s [Basgiathem](ct_basgiath)."
+      }
+    ],
+    "image_id": 0,
+    "area": 64,
+    "Empty": false,
+    "numberOfRooms": 0
+  },
+  "mi_beetroot_farma": {
+    "Title": "Beetroot farma",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "BEETROOT FARMA"
+    ],
+    "Metadata": {
+      "N\u00E1zev": "Beetroot farma",
+      "Blok": "[Barvy](bl_barvy)",
+      "Okrsek": "[Smrk](ok_smrk)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
+      "Plocha": "p\u0159ibli\u017En\u011B 134 blok\u00B2"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Beetroot farma je otev\u0159en\u00E1 m\u00EDstnost s jedin\u00FDmi dve\u0159mi a to do [Dining room](mi_dining_room). P\u0159\u00EDmo se do n\u00ED lze dostat z [Ru\u010F\u00E1kova domu](mi_rudakuv_dum), [Schodi\u0161t\u011B TT](mi_schodiste_tt), [Oranjestadu](mi_oranjestad), [Hv\u011Bzdy](mi_hvezda), [Balk\u00F3nu svat\u00E9 ned\u011Ble](mi_balkon_svate_nedele), [Parsley Atticu](mi_parsley_attic) a [Ulice schodov\u00E9](mi_ulice_schodova). Beetroot farma je jednodu\u0161e p\u0159\u00EDstupn\u00E1 a u\u017Eite\u010Dn\u00E1 m\u00EDstnost, nebo\u0165 na jej\u00ED plo\u0161e se nach\u00E1z\u00ED \u0159epn\u00E1 farma i s mo\u017Enost\u00ED uskladn\u011Bn\u00ED \u0159edkv\u00ED."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "N\u00E1zev m\u00EDstnosti je anglick\u00FD p\u0159eklad \u010Desk\u00E9ho v\u00FDrazu \u0022\u0159epn\u00E1 farma\u0022."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Dominantou interi\u00E9ru je \u0159epn\u00E1 farma o plo\u0161e 55 blok\u016F\u00B2. P\u0159i vhodn\u00FDch podm\u00EDnk\u00E1ch a p\u0159i \u010Dast\u00E9m sb\u011Bru \u0159epy m\u016F\u017Ee farma vyprodukovat a\u017E 5 \u0159ep za minutu. Na v\u00FDchodn\u00ED a z\u00E1padn\u00ED stran\u011B od farmy jsou dv\u011B prostranstv\u00ED.\nV\u00FDchodn\u00ED prostranstv\u00ED je l\u00E9pe p\u0159\u00EDstupn\u00E9 p\u0159es [ulici Schodovou](mi_ulice_schodova), [Hv\u011Bzdu](mi_hvezda) \u010Di [balk\u00F3n_svat\u00E9_ned\u011Ble](mi_balkon_svate_nedele), na kter\u00FD se lze dostat z [Unikov\u00E9ho schodi\u0161t\u011B](mi_unikove_schodiste).\nV z\u00E1padn\u00EDm prostranstv\u00ED je k dispozici \u017Elut\u00E1 postel a lze se na n\u011Bj dostat schody z [Parsley Attic](mi_parsley_attic) a otev\u0159en\u00FDm vchodem z [Oranjestadu](mi_oranjestad).\nNa plo\u0161e cel\u00E9 m\u00EDstnosti jsou postaveny 3 crafting tably a 1 barel na uskladn\u011Bn\u00ED \u0159edkv\u00ED z farmy."
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": "Beetroot farma je jedin\u00E1 m\u00EDstnost, kde se rostou \u0159edkve.\nP\u0159i pohledu na jih z v\u00FDchodn\u00EDho prostranstv\u00ED lze vid\u011Bt severn\u00ED st\u011Bnu [ordinace Pink Lady](mi_ordinace_pink_lady).\nV barelu na uskladn\u011Bn\u00ED \u0159edkv\u00ED je uskladn\u011Bna i diamantov\u00E1 motyka."
+      }
+    ],
+    "image_id": 0,
+    "area": 134,
+    "Empty": false,
+    "numberOfRooms": 0
+  },
+  "mi_ulice_schodova": {
+    "Title": "Ulice Schodov\u00E1",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Metadata": {
+      "N\u00E1zev": "Ulice Schodov\u00E1",
+      "Blok": "[St\u0159echa](bl_strecha)",
+      "Okrsek": "[Smrk](ok_smrk)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
+      "Plocha": "54 blok\u00B2"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Ulice Schodov\u00E1 je to\u010Dit\u00E9 schodi\u0161t\u011B vedouc\u00ED z [Sila](mi_silo) na nejmenovan\u00E9 n\u00E1m\u011Bst\u00ED\u010Dko hned vedle [Double Decker house](mi_double_decker_house). Na za\u010D\u00E1tku schodi\u0161t\u011B je mal\u00FD balk\u00F3n s v\u00FDhledem na mo\u0159e a \u017Eeb\u0159\u00EDkem dol\u016F do [Klubu](mi_klub).\nPrvn\u00ED \u010D\u00E1st schodi\u0161t\u011B vede na jih na mal\u00E9 rozcest\u00ED. Z rozcest\u00ED doleva pokra\u010Duje ulice Schodov\u00E1 a rovn\u011B se nach\u00E1z\u00ED [Ropn\u00E1 plo\u0161ina](mi_ropna_plosina). Vpravo se nach\u00E1z\u00ED plot bez branky a za n\u00EDm [Byt chud\u00E1ka, kterej nem\u00E1 r\u00E1d kluby](mi_byt_chudaka_kterej_nema_rad_kluby).\nSchodi\u0161t\u011B d\u00E1le pokra\u010Duje na v\u00FDchod a na chv\u00EDli se z n\u011Bj odd\u011Bluje men\u0161\u00ED schodi\u0161t\u011B vedouc\u00ED do [Netheru](mi_nether). Hlavn\u00ED \u010D\u00E1st schodi\u0161t\u011B pokra\u010Duje d\u00E1le a pak se st\u00E1\u010D\u00ED na jih kde schodi\u0161t\u011B kon\u010D\u00ED na onom nejmenovan\u00E9m n\u00E1m\u011Bst\u00ED\u010Dku. V posledn\u00ED zat\u00E1\u010Dce schodi\u0161t\u011B m\u016F\u017Eeme nal\u00E9zt druh\u00E9 dve\u0159e do [Netheru](mi_nether). Cel\u00E9 schodi\u0161t\u011B m\u00E1 \u0161\u00ED\u0159ku dva bloky, d\u00E9lku 20 blok\u016F a v\u00FD\u0161kov\u00FD rozd\u00EDl je 8 blok\u016F."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "N\u00E1zev m\u00EDstnosti je jednodu\u0161e odvozen od faktu, \u017Ee se jedn\u00E1 o schodi\u0161t\u011B. N\u00E1zev je shodn\u00FD s ulic\u00ED v m\u011Bst\u011B Brn\u011B."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Interi\u00E9r krom schodi\u0161t\u011B obsahuje mal\u00FD balk\u00F3nek s crafting tablem. Hned za hranic\u00ED ulice Schodov\u00E9 s [Ropnou plo\u0161inou](mi_ropna_plosina) se nach\u00E1z\u00ED sv\u011Btle modr\u00E1 postel."
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": "Na lev\u00E9 stran\u011B prvn\u00EDch dvou \u010D\u00E1st\u00ED schodi\u0161t\u011B je neoplocen\u00E1 d\u00EDra s hloubkou 2.5-17 blok\u016F. V nejhlub\u0161\u00EDm m\u00EDst\u011B se nach\u00E1z\u00ED \u010D\u00E1ste\u010Dn\u011B voda sou\u010D\u00E1st\u00ED [p\u0159\u00EDstavn\u00EDho mola](mi_pristavni_molo). P\u0159i velk\u00E9 ne\u0161ikovnosti chyb\u011Bj\u00EDc\u00ED plot m\u016F\u017Ee zp\u016Fsobit a\u017E 4 srd\u00ED\u010Dka po\u0161kozen\u00ED (d\u00EDky bl\u00EDzk\u00E9mu [beaconu](beacon_parez) je k dispozici resistance efekt).\nZ prvn\u00ED \u010D\u00E1sti schodi\u0161t\u011B p\u0159i pohledu na v\u00FDchod lze vid\u011Bt endermana s b\u00EDlou ko\u010Dkou v lodi, kter\u00E1 se nach\u00E1z\u00ED pobl\u00ED\u017E [M\u011Bstsk\u00E9ho okruhu](mi_mestsky_okruh)."
+      }
+    ],
+    "image_id": 0,
+    "area": 54,
+    "Empty": false,
+    "numberOfRooms": 0
+  },
+  "mi_byt_chudaka_kterej_nema_rad_kluby": {
+    "Title": "Byt chud\u00E1ka, kterej nem\u00E1 r\u00E1d kluby",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "POHLED NA BYT",
+      "VCHOD DO PILY"
+    ],
+    "Metadata": {
+      "N\u00E1zev": "Byt chud\u00E1ka, kterej nem\u00E1 r\u00E1d kluby",
+      "Blok": "[V\u00EDde\u0148](bl_viden)",
+      "Okrsek": "[Ben\u00E1tky](ok_benatky)",
+      "\u010Ctvr\u0165": "[Ryb\u00E1\u0159sk\u00E1 Kolonie](ct_rybarska_kolonie)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
+      "Plocha": "52 blok\u00B2"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Byt chud\u00E1ka, kterej nem\u00E1 r\u00E1d kluby je hned po [Nadchodu](mi_nadchod) nejv\u00FD\u0161e polo\u017Een\u00E1 m\u00EDstnost ve [V\u00EDdni](bl_viden). M\u00EDstnost je pr\u016Fchoz\u00ED a to d\u00EDky voln\u00E9mu vstupu z [schodi\u0161t\u011B TT](mi_schodiste_tt) a [Nadchodu](mi_nadchod). 4 dal\u0161\u00ED vstupy konkr\u00E9tn\u011B z [Rubce](mi_rubec), [Hv\u011Bzdy](mi_hvezda), [Ropn\u00E9 plo\u0161iny](mi_ropna_plosina) a [Pily](mi_pila) jsou \u0159e\u0161eny dve\u0159mi. Posledn\u00ED vstup je jednosm\u011Brn\u00FD v\u00FDtah z [Klubu](mi_klub), je\u017E se nach\u00E1z\u00ED o patro n\u00ED\u017Ee. Na v\u00FDchod\u011B se nach\u00E1z\u00ED plot je\u017E lze p\u0159esko\u010Dit p\u0159\u00EDmo na [ulici Schodovou](mi_ulice_schodova)."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "N\u00E1zev je odpov\u011Bd\u00ED na ot\u00E1zku \u0022Co se nach\u00E1z\u00ED nad [klubem](mi_klub)?\u0022 slavn\u00E9 mal\u00ED\u0159ky [Marcely Hebertov\u00E9](os_marcela_hebertova)."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Dominantou interi\u00E9ru bytu je oran\u017Eov\u00E1 postel, je\u017E m\u00E1 na obou stran\u00E1ch 2 barely a crafting table. Nejv\u00FD\u0161e polo\u017Een\u00FD barel na lev\u00E9 stran\u011B je ur\u010Den pro skladovan\u00ED music disk\u016F. Aktu\u00E1ln\u011B jsou v n\u011Bm ulo\u017Eeny 2 music disky \u0022C418 - 13\u0022.\nCel\u00E1 m\u00EDstnost je postavena na dvou v\u00FD\u0161kov\u00FDch \u00FArovn\u00EDch. Ta n\u00ED\u017Ee polo\u017Een\u00E1 obsahuje v\u00FD\u0161e zm\u00EDn\u011Bnou oran\u017Eovou postel. V\u00FD\u0161e polo\u017Een\u00E1 \u010D\u00E1st je v\u00FDrazn\u011B men\u0161\u00ED a je po\u010D\u00E1tkem [schodi\u0161t\u011B TT](mi_schodiste_tt)."
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": "Pro vyu\u017Eit\u00ED vstupu do [Pily](mi_pila) je t\u0159eba p\u0159ej\u00EDt v\u00FDtah z [Klubu](mi_klub)\nByt chud\u00E1ka, kterej nem\u00E1 r\u00E1d kluby je jedinou m\u00EDstnost\u00ED do n\u00ED\u017E vedou 2 mosty z [Basgiathu](ct_basgiath).\nByt chud\u00E1ka, kterej nem\u00E1 r\u00E1d kluby je nejdel\u0161\u00EDm n\u00E1zvem m\u00EDstnosti v cel\u00E9m dom\u011B."
+      }
+    ],
+    "image_id": 0,
+    "area": 52,
+    "Empty": false,
+    "numberOfRooms": 0
+  },
+  "mi_klub": {
+    "Title": "Klub",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "POHLED NA JIH",
+      "POHLED NA SEVER"
+    ],
+    "Metadata": {
+      "N\u00E1zev": "Klub",
+      "Blok": "[V\u00EDde\u0148](bl_viden)",
+      "Okrsek": "[Ben\u00E1tky](ok_benatky)",
+      "\u010Ctvr\u0165": "[Ryb\u00E1\u0159sk\u00E1 Kolonie](ct_rybarska_kolonie)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
+      "Plocha": "78 blok\u00B2"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Klub je m\u00EDstnost ve [V\u00EDdni](bl_viden) s velk\u00FDm mno\u017Estv\u00EDm vchod\u016F a v\u00FDchod\u016F. Z m\u00EDstnost\u00ED se d\u00E1 dostat do dev\u00EDti r\u016Fzn\u00FDch m\u00EDstnost\u00ED. Na severu najdeme \u017Eeb\u0159\u00EDk na [ulici Schodovou](mi_ulice_schodova) a dve\u0159e do [Sila](mi_silo). Na v\u00FDchod\u011B jsou schody na [M\u011Bstsk\u00FD okruh](mi_mestsky_okruh) a dve\u0159e na [P\u0159echod](mi_prechod). Na jihu jsou dvojit\u00E9 dve\u0159e na [Ropnou plo\u0161inu b](mi_ropna_plosina_b), schody na [Ropnou plo\u0161inu](mi_ropna_plosina) a dve\u0159e na [Pilu](mi_pila). V neposledn\u00ED \u0159ad\u011B je v m\u00EDstnosti v\u00FDtah do [Bytu chud\u00E1ka, kterej nem\u00E1 r\u00E1d kluby](mi_byt_chudaka_kterej_nem\u00E1_r\u00E1d_kluby) a v prost\u0159edku m\u00EDstnosti jsou schody dol\u016F do [V\u00EDdn\u011B](mi_viden).\nKlub je plo\u0161n\u011B velk\u00FD, ale vzhledem k velk\u00E9mu po\u010Dtu dve\u0159\u00ED, schod\u016F a v\u00FDtah\u016F je prostor pln\u011B vyu\u017Eit. \u010Casto se jedn\u00E1 o pr\u016Fchoz\u00ED m\u00EDstnost."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "N\u00E1zev byl inspirov\u00E1n vlastn\u00EDm prostorem m\u00EDstnosti a jeho velikost\u00ED."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Interi\u00E9r klubu je velmi komplikovan\u00FD. M\u00EDstnost je prot\u00E1hl\u00E1 a m\u00E1 na d\u00E9lku 18 blok\u016F a na \u0161\u00ED\u0159ku pouze 5. Uprost\u0159ed m\u00EDstnosti nalezneme schody do [V\u00EDdn\u011B](mi_viden), kde se nach\u00E1z\u00ED [D\u00E1lnice](mi_dalnice). V\u00FDchodn\u00ED strana m\u00EDstnosti je kompletn\u011B pokryta vstupy do jin\u00FDch m\u00EDstnost\u00ED zat\u00EDmco strana z\u00E1padn\u00ED m\u011Bla m\u00EDsto na velk\u00E9 okno s v\u00FDhledem na [Basgiath](ct_basgiath) a mo\u0159e. Na severu je men\u0161\u00ED z\u00E1zem\u00ED se vstupn\u00EDm v\u00FDtahem do [bytu](mi_byt_chudaka_kterej_nema_rad_kluby) o patro v\u00FD\u0161e a v\u00FDstupn\u00EDm v\u00FDtahem z [V\u00EDdn\u011B](mi_vide). Na \u00FApln\u00E9m konci je men\u0161\u00ED plot za n\u00EDm\u017E je men\u0161\u00ED voln\u00FD prostor. D\u00E1le je zde \u017Eeb\u0159\u00EDk na [ulici Schodovou](mi_ulice_schodova) a dve\u0159e do [Sila](mi_silo).\nI p\u0159es nedostatek zbyl\u00E9ho m\u00EDsta je v Klubu \u0161ed\u00E1 postel, 2 crafting tably a 2 barely ur\u010Den\u00E9 na uskladn\u011Bn\u00ED hub."
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": "Klub je nejv\u011Bt\u0161\u00ED m\u00EDstnost ve [V\u00EDdni](bl_viden).\nZ Klubu existuje p\u0159\u00EDm\u00FD vstup do [Bytu chud\u00E1ka, kterej nem\u00E1 r\u00E1d kluby](mi_byt_chudaka_kterej_nema_rad_kluby), ale naopak p\u0159\u00EDm\u00FD vstup neexistuje. Je t\u0159eba proj\u00EDt skrz [Pilu](mi_pila) \u010Di [Ropnou plo\u0161inu](mi_ropna_plosina)."
+      }
+    ],
+    "image_id": 0,
+    "area": 78,
+    "Empty": false,
+    "numberOfRooms": 0
+  },
+  "mi_viden": {
+    "Title": "V\u00EDde\u0148",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "D\u00C1LNICE, SKLADI\u0160T\u011A A V\u00DDTAH",
+      "SCHODY DO DOBR\u00C9 VODY",
+      "KOUTEK S POSTEL\u00CD"
+    ],
+    "Metadata": {
+      "N\u00E1zev": "V\u00EDde\u0148",
+      "Blok": "[V\u00EDde\u0148](bl_viden)",
+      "Okrsek": "[Ben\u00E1tky](ok_benatky)",
+      "\u010Ctvr\u0165": "[Ryb\u00E1\u0159sk\u00E1 Kolonie](ct_rybarska_kolonie)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
+      "Plocha": "36 blok\u00B2"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "V\u00EDde\u0148 je m\u00EDstnost ve stejnojmenn\u00E9m bloku slou\u017E\u00EDc\u00ED jako termin\u00E1l [D\u00E1lnice](mi_dalnice). M\u00EDstnost m\u00E1 dv\u011B \u010D\u00E1sti. Prvn\u00ED \u010D\u00E1st\u00ED jsou schody ke dve\u0159\u00EDm do [Dobr\u00E9 Vody](mi_dobra_voda) a brance na [Pultovou St\u0159echu](mi_pultova_strecha). Druh\u00E1, hlavn\u00ED, \u010D\u00E1st je hned po t\u011Bmito schody. Nach\u00E1zej\u00ED se zde schody a v\u00FDtah do [Klubu](mi_klub), v\u00FDtah z [Mosti\u0161t\u011B](mi_mostiste) a za\u010D\u00E1tek [D\u00E1lnice](mi_dalnice)."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "M\u00EDstnost sd\u00EDl\u00ED n\u00E1zev s \u003Ca href=\u0022https://cs.wikipedia.org/wiki/V\u00EDde\u0148\u0022\u003Ehlavn\u00EDm m\u011Bstem Rakouska\u003C/a\u003E a \u003Ca href=\u0022https://cs.wikipedia.org/wiki/V\u00EDde\u0148_(okres_\u017D\u010F\u00E1r_nad_S\u00E1zavou)\u0022\u003Emalou vesnic\u00ED na Vyso\u010Din\u011B\u003C/a\u003E. N\u00E1zev byl inspirov\u00E1n kon\u010D\u00EDc\u00ED d\u00E1lnic\u00ED a pl\u00E1nem ud\u011Blat s [V\u00EDdn\u011B](mi_viden) dopravn\u00ED k\u0159i\u017Eovatku.\nV\u00EDde\u0148 dala n\u00E1zev bloku ve kter\u00E9m se nach\u00E1z\u00ED. Bl\u00EDzk\u00E9 m\u00EDstnost [Mosti\u0161t\u011B](mosti\u0161t\u011B) a [Dobr\u00E1 Voda](dobr\u00E1 voda) jsou pojmenov\u00E1ny podle vesnic pobl\u00ED\u017E V\u00EDdn\u011B na Vyso\u010Din\u011B."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "V interi\u00E9ru m\u00EDstnosti m\u016F\u017Eeme krom schod\u016F a v\u00FDtah\u016F naj\u00EDt crafting table a t\u0159i barely z nich\u017E dva jsou ur\u010Deny na uskladn\u011Bn\u00ED ledu a jeden na lod\u011B. Na ji\u017En\u00ED stran\u011B je b\u00EDl\u00E1 postel a vedle n\u00ED, pod schody do [Klubu](mi_klub), je men\u0161\u00ED nevyu\u017Eit\u00FD prostor."
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": "P\u0159i pohledu na sever ze schod\u016F do [Dobr\u00E9 vody](mi_dobra_voda) lze p\u0159\u00EDmo vid\u011Bt strom v [Silu](mi_silo) (\u017E\u00E1dn\u00E9 bloky ani okna nejsou v cest\u011B)\nI kdy\u017E vede z [Mosti\u0161t\u011B](mi_mostiste) p\u0159\u00EDm\u00FD vchod do V\u00EDdn\u011B je opa\u010Dn\u00E1 cesta velmi komplikovan\u00E1. Nejkrat\u0161\u00ED cestou je p\u0159esko\u010Dit plot na schodech do [Dobr\u00E9 Vody](mi_dobra_voda)."
+      }
+    ],
+    "image_id": 0,
+    "area": 36,
+    "Empty": false,
+    "numberOfRooms": 0
+  },
+  "mi_rubec": {
+    "Title": "Rubec",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "POHLED NA RUBEC"
+    ],
+    "Metadata": {
+      "N\u00E1zev": "Rubec",
+      "Blok": "[V\u00EDde\u0148](bl_viden)",
+      "Okrsek": "[Ben\u00E1tky](ok_benatky)",
+      "\u010Ctvr\u0165": "[Ryb\u00E1\u0159sk\u00E1 Kolonie](ct_rybarska_kolonie)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
+      "Plocha": "33 blok\u00B2"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Rubec je otev\u0159en\u00FD most z [Dra\u010D\u00ED Rotundy](mi_draci_rotunda) do [Hv\u011Bzdy](mi_hvezda), [Bytu chud\u00E1ka, kterej nem\u00E1 r\u00E1d kluby](mi_byt_chudaka_kterej_nema_rad_kluby) a [Oranjestadu](mi_oranjestad). Hlavn\u00ED \u010D\u00E1st mostu je dva bloky \u0161irok\u00E1 a 12 blok\u016F dlouh\u00E1. Z rubce se v\u0161ak odd\u011Bluje 9 blok\u016F dlouh\u00E9 schodi\u0161t\u011B do [Oranjestadu](mi_oranjestad)."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Rubec je \u010D\u00E1st slova \u0022d\u0159evorubec\u0022. N\u00E1zev byl inspirov\u00E1n faktem \u017Ee Rubec vede z [Dra\u010D\u00ED rotundy](mi_draci_rotunda), kde roste vysok\u00FD smrk."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Rubec je otev\u0159en\u00E1 m\u00EDstnost tud\u00ED\u017E nem\u00E1 \u017E\u00E1dn\u00FD interi\u00E9r. M\u00EDstnost je osv\u011Btlena lanternami."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Rubec je jeden ze \u010Dty\u0159 most\u016F spojuj\u00EDc\u00EDch [Basgiath](ct_basgiath) s [Pa\u0159ezem](ca_parez)."
+      }
+    ],
+    "image_id": 0,
+    "area": 33,
+    "Empty": false,
+    "numberOfRooms": 0
+  },
+  "mi_nadchod": {
+    "Title": "Nadchod",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "NADCHOD Z THE CROSSINGU",
+      "NADCHOD Z BYTU CHUD\u00C1KA, KTEREJ NEM\u00C1 R\u00C1D KLUBY"
+    ],
+    "Metadata": {
+      "N\u00E1zev": "Nadchod",
+      "Blok": "[V\u00EDde\u0148](bl_viden)",
+      "Okrsek": "[Ben\u00E1tky](ok_benatky)",
+      "\u010Ctvr\u0165": "[Ryb\u00E1\u0159sk\u00E1 Kolonie](ct_rybarska_kolonie)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
+      "Plocha": "14 blok\u00B2"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Nadchod je m\u00EDstnost bez dve\u0159\u00ED. Jedn\u00E1 se o spojnici [the Crossingu](mi_the_crossing) a [Bytu chud\u00E1ka, kterej nem\u00E1 r\u00E1d kluby](mi_byt_chudaka_kterej_nema_rad_kluby). Nadchod je 2 bloky \u0161irok\u00FD a 7 blok\u016F dlouh\u00FD. Nadchod jde nejprve o dva bloky v\u00FD\u0161e z [the Crossingu](mi_the_crossing) a na konci o 3 bloky n\u00ED\u017Ee do [Bytu](mi_byt_chudaka_kterej_nema_rad_kluby)."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Nadchod se jmenuje nadchod nebo\u0165 je nadchodem nad [ulic\u00ED Schodovou](mi_ulice_schodova)."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "V nadchodu se nenach\u00E1z\u00ED \u017E\u00E1dn\u00E1 postel, crafting table ani barel. Jedno z oken v nadchodu v\u0161ak nab\u00EDz\u00ED v\u00FDhled na [ulici Schodovou](mi_ulice_schodova) a [Hv\u011Bzdu](mi_hvezda). Nejbli\u017E\u0161\u00EDmi postelemi jsou b\u00EDl\u00E1 postel v [the Crossingu](mi_the_crossing) a oran\u017Eov\u00E1 v [Bytu chud\u00E1ka, kterej nem\u00E1 r\u00E1d kluby](mi_byt_chudaka_kterej_nema_rad_kluby)."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Kdyby nebyl nadchod nadchodem, nebylo by mo\u017En\u00E9 po [ulici Schodov\u00E9](mi_ulice_schodova) proj\u00EDt."
+      }
+    ],
+    "image_id": 0,
+    "area": 14,
+    "Empty": false,
+    "numberOfRooms": 0
+  },
+  "beacon_parez": {
+    "Title": "Beacon - Pa\u0159ez",
+    "Type": "beacon",
+    "Images": [],
+    "Image_titles": [
+      "BEACON V TAJN\u00C9 CHODB\u011A",
+      "BAREVN\u00C1 SKLA NA OKRUHU",
+      "PAPRSKY BEACONU V DRAGON LAIR"
+    ],
+    "Metadata": {
+      "M\u00EDstnost": "[Tajn\u00E1 Chodba](mi_tajna_chodba)",
+      "Blok": "[Suter\u00E9n](bl_suteren)",
+      "Okrsek": "[D\u016Fl](ok_dul)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
+      "Plocha": "4 blok\u00B2",
+      "Plocha podstavy": "100 blok\u00B2"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Beacon - Pa\u0159ez je nejstar\u0161\u00ED beacon v cel\u00E9m dom\u011B. Nach\u00E1z\u00ED se na podlaze asi ve st\u0159edu [tajn\u00E9 chodby](mi_tajna_chodba) vedouc\u00ED z [tajn\u00E9 m\u00EDstnosti](mi_tajna_mistnost) do [plant\u00E1\u017Eov\u00E9ho kr\u00E1lovstv\u00ED](mi_plantazove_kralovstvi). Samotn\u00FD beacon je slo\u017Een ze 4 beacon blok\u016F a 216 iron blok\u016F (podstava beaconu)."
+      },
+      {
+        "Title": "Efekty",
+        "Content": "Jednotliv\u00E9 beacony od severoz\u00E1padn\u00EDho d\u00E1vaj\u00ED tyto efekty: Jump Boost II, Haste II, Speed II a posledn\u00ED efekty Resistance a Regeneration. Beacon poskytuje tyto efekty cel\u00E9 \u010D\u00E1sti [Pa\u0159ez](ca_parez) ale i [Tr\u00F3je](ca_troja) a \u010D\u00E1sti [Nov\u00E9ho Dil\u00ED](ca_nove_dili). \u010Ctvr\u0165 [Basgiath](ct_basgiath) na [Sibi\u0159i](ca_sibir) je tak\u00E9 v dosahu beaconu."
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": "Na severn\u00ED \u010D\u00E1sti podstavy beaconu je polo\u017Een led ze [z\u00E1vodn\u00EDho okruhu](mi_zavodni_okruh).\nV podlaze [Okruhu](mi_okruh) jsou polo\u017Eeny 4 barevn\u00E1 skla, kter\u00E9 davaj\u00ED jednotliv\u00FDm paprsk\u016Fm barevn\u00FD vzhled.\nV\u0161echny paprsky beaconu proch\u00E1zej\u00ED nejen [\u00FAst\u0159edn\u00EDm st\u0159ediskem Alfou](mi_ustredni_stredisko_alfa) a [l\u00E1zn\u011Bmi Panoraama](mi_lazne_panoraama) ale tak\u00E9 p\u0159esn\u00FDm st\u0159edem [Dragon Lair](mi_dragon_lair)."
+      }
+    ],
+    "image_id": 0,
+    "area": 4,
+    "Empty": false,
+    "numberOfRooms": 0
+  },
+  "os_marcela_hebertova": {
+    "Title": "Marcela Hebertov\u00E1",
+    "Type": "osoba",
+    "Images": [],
+    "Image_titles": [
+      "v Pa\u0159\u00ED\u017Ei"
+    ],
+    "Metadata": {
+      "Jm\u00E9no": "Marcela Hebertov\u00E1",
+      "N\u00E1rodnost": "\u010Cesk\u00E1",
+      "Povol\u00E1n\u00ED": "Mal\u00ED\u0159ka",
+      "V\u011Bk": "27 let",
+      "Dcera": "[Marie Hebertov\u00E1](os_marie_hebertova)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Marcela Hebertov\u00E1 je \u010Desk\u00E1 mal\u00ED\u0159ka \u017Eij\u00EDc\u00ED na ji\u017En\u00ED Morav\u011B. Jej\u00ED d\u00EDla jsou zn\u00E1m\u00E1 po cel\u00E9m sv\u011Bt\u011B a \u010Dasto se objevuj\u00ED na v\u00FDstav\u00E1ch v Evrop\u011B \u010Di Americe. Jej\u00ED d\u00EDla lze nal\u00E9zt na ofici\u00E1ln\u00EDch str\u00E1nk\u00E1ch \u003Ca href=\u0022https://galeriemerci.webnode.cz/\u0022\u003Egaleriemerci.webnode.cz\u003C/a\u003E.\nMarcela tak\u00E9 dala n\u00E1zev m\u00EDstnosti [Byt chud\u00E1ka, kterej nem\u00E1 r\u00E1d kluby](mi_byt_chudaka_kterej_nema_rad_kluby)."
+      },
+      {
+        "Title": "\u017Divotopis",
+        "Content": "Marcela Hebertov\u00E1 vystudovala 3 vysok\u00E9 \u0161koly a 2 st\u0159edn\u00ED \u0161koly s maturitn\u00ED zkou\u0161kou. Jej\u00ED profesion\u00E1ln\u00ED praxe obsahuje v\u00FDuku na z\u00E1kladn\u00ED \u0161kole a tane\u010Dn\u00EDho oboru, ilustrace pro nespo\u010Det nakladatelstv\u00ED a grafick\u00E9 studio, restaurov\u00E1n\u00ED um\u011Bleck\u00FDch d\u011Bl, tane\u010Dn\u00ED spolupr\u00E1ci s divadli a tvorbu animac\u00ED. Absolvovala tak\u00E9 skl\u00E1\u0159sk\u00FD, kov\u00E1\u0159sk\u00FD, socha\u0159sk\u00FD a \u0159ezb\u00E1\u0159sk\u00FD kurz a byla ocen\u011Bna 1. m\u00EDstem v sout\u011B\u017Ei Zlat\u00FD Kokr\u0161pan\u011Bl za rok 2017."
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": "Marcela Hebertov\u00E1 je tak\u00E9 socha\u0159kou, tesa\u0159kou, ilustr\u00E1torkou, tane\u010Dnic\u00ED, houslistkou, kucha\u0159kou, u\u010Ditelkou, here\u010Dkou a v neposledn\u00ED \u0159ad\u011B program\u00E1torkou.\nMarcela mluv\u00ED plynn\u011B anglicky, \u010Desky, slovensky, n\u011Bmecky, francouzsky, italsky, \u010D\u00EDnsky, igbo\u0161sky, \u0161pan\u011Blsky a rusky."
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": false,
+    "numberOfRooms": 0
+  },
+  "bl_barvy": {
+    "Title": "Barvy",
+    "Type": "blok",
+    "Images": [],
+    "Image_titles": [],
+    "Metadata": {
+      "N\u00E1zev": "Barvy",
+      "Okrsek": "[Smrk](ok_smrk)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Barvy jsou blok slo\u017Een\u00FD ze 4 m\u00EDstnost\u00ED a to [Ru\u010F\u00E1kova domu](mi_rudakuv_dum), [Oranjestadu](mi_oranjestad), [Beetroot farmy](mi_beetroot_farma) a [Schodi\u0161t\u011B TT](mi_schodiste_tt). Nejv\u011Bt\u0161\u00ED m\u00EDstnost\u00ED v bloku je [Beetroot farma](mi_beetroot_farma) s plochou 134 blok\u016F\u00B2.\nBarvy se nach\u00E1z\u00ED v okrsku [Smrk](ok_smrk) a \u010Dtvrti [Ko\u0159en](ct_koren).\nBarvy soused\u00ED s n\u00E1sleduj\u00EDc\u00EDmi bloky: [St\u0159echa](bl_strecha), [P\u0159\u00EDkop](bl_prikop), [The Airship](bl_the_airship), [Ropn\u00E1 plo\u0161ina](bl_ropna_plosina), [V\u00EDde\u0148](bl_viden), [Pod masou](bl_pod_masou) a [Vestibul](bl_vestibul)."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "N\u00E1zev bloku je odvozen od n\u00E1zvu m\u00EDstnost\u00ED [Oranjestad](mi_oranjestad) (oran\u017Eov\u00E1 barva) a [Ru\u010F\u00E1kova domu](mi_rudakuv_dum) (\u010Derven\u00E1 barva)."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Jednotliv\u00E9 m\u00EDstnosti jsou navz\u00E1jem dob\u0159e propojeny a to bu\u010F dve\u0159mi \u010Di voln\u00FDm p\u0159\u00EDstupem. V\u0161echny m\u00EDstnosti a\u017E na [Schodi\u0161t\u011B TT](mi_schodiste_tt) maj\u00ED voln\u00FD p\u0159\u00EDstup do [Beetroot farmy](mi_beetroot_farma). V\u0161echny m\u00EDstnosti krom [Schodi\u0161t\u011B TT](mi_schodiste_tt) maj\u00ED alespo\u0148 jednu postel a crafting table se nach\u00E1z\u00ED v m\u00EDstnostech v\u0161ech. Postele maj\u00ED barvu bu\u010F b\u00EDlou, \u017Elutou a nebo \u0161edou.\nV [Beetroot farm\u011B](mi_beetroot_farma) se nach\u00E1z\u00ED barel s \u0159epou a \u0159epn\u00E1 farma, co\u017E d\u011Bl\u00E1 [Beetroot farmu](mi_beetroot_farma) jedinou u\u017Eite\u010Dnou m\u00EDstnost\u00ED v bloku."
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": "Barvy jsou jeden z m\u00E1la blok\u016F kde je mo\u017En\u00E9 nav\u0161t\u00EDvit v\u0161echny m\u00EDstnosti bez pou\u017Eit\u00ED dve\u0159\u00ED, nebo\u0165 v\u0161echny m\u00EDstnost\u00ED maj\u00ED voln\u00FD p\u0159\u00EDstup do [Beetroot farmy](mi_beetroot_farma)."
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": false,
+    "numberOfRooms": 0
+  },
+  "bl_viden": {
+    "Title": "V\u00EDde\u0148",
+    "Type": "blok",
+    "Images": [],
+    "Image_titles": [],
+    "Metadata": {
+      "N\u00E1zev": "V\u00EDde\u0148",
+      "Okrsek": "[Ben\u00E1tky](ok_benatky)",
+      "\u010Ctvr\u0165": "[Ryb\u00E1\u0159sk\u00E1 Kolonie](ct_rybarska_kolonie)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": ""
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": ""
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": ""
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": ""
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": false,
+    "numberOfRooms": 0
+  },
+  "ca_parez": {
+    "Title": "Pa\u0159ez",
+    "Type": "\u010D\u00E1st",
+    "Images": [],
+    "Image_titles": [],
+    "Metadata": {
+      "N\u00E1zev": "Pa\u0159ez"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": ""
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Pa\u0159ez"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": ""
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": ""
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": false,
+    "numberOfRooms": 0
+  }
+}

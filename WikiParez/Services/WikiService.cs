@@ -14,7 +14,7 @@ public class WikiService
 
     public WikiService(IHostEnvironment env)
     {
-        _path = Path.Combine(env.ContentRootPath, "appdata", "data.json");
+        _path = Path.Combine(env.ContentRootPath, "appdata", "pagesData.json");
         _pages = LoadPages();
     }
 
@@ -64,10 +64,10 @@ public class WikiService
             }
             if (!IsSubdivision(dictionary[key].Type))
             {
-                foreach (var metadata in dictionary[key].Metadata)
+                foreach (var dataKey in dictionary[key].Metadata.Keys)
                 {
-                    string slug = GetSlugByValue(metadata.Value);
-                    if (IsSubdivision(metadata.Label) && dictionary.Keys.Contains(slug))
+                    string slug = GetSlugByValue(dictionary[key].Metadata[dataKey]);
+                    if (IsSubdivision(dataKey) && dictionary.Keys.Contains(slug))
                     {
                         dictionary[slug].area += dictionary[key].area;
                         if (dictionary[key].Type == "místnost") dictionary[slug].numberOfRooms++;
@@ -84,16 +84,8 @@ public class WikiService
             }
             if (IsSubdivision(dictionary[key].Type))
             {
-                dictionary[key].Metadata.Add(new Metadata
-                {
-                    Label = "Plocha",
-                    Value = dictionary[key].area.ToString() + " blok²"
-                });
-                dictionary[key].Metadata.Add(new Metadata
-                {
-                    Label = "Počet místností",
-                    Value = dictionary[key].numberOfRooms.ToString()
-                });
+                dictionary[key].Metadata["Plocha"] = dictionary[key].area.ToString() + " blok²";
+                dictionary[key].Metadata["Počet místností"] = dictionary[key].numberOfRooms.ToString();
             }
         }
         return dictionary;
@@ -120,9 +112,9 @@ public class WikiService
         }
         if (page?.Metadata != null)
         {
-            foreach (var metadata in page.Metadata)
+            foreach (var key in page.Metadata.Keys)
             {
-                metadata.Value = UseRegex(metadata.Value);
+                page.Metadata[key] = UseRegex(page.Metadata[key]);
             }
         }
     }

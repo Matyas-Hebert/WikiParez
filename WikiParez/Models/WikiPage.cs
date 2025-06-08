@@ -6,7 +6,7 @@ public class WikiPage
     public string Type { get; set; } = string.Empty;
     public List<string> Images { get; set; } = new List<string>();
     public List<string> Image_titles { get; set; } = new List<string>();
-    public List<Metadata> Metadata { get; set; } = new List<Metadata>();
+    public Dictionary<string, string> Metadata { get; set; } = new Dictionary<string, string>();
     public List<Section> Sections { get; set; } = new List<Section>();
     public int image_id { get; set; } = 0;
     public int area { get; set; } = 0;
@@ -16,12 +16,6 @@ public class WikiPage
     {
         return Image_titles.Count;
     }
-}
-
-public class Metadata
-{
-    public string Label { get; set; } = string.Empty;
-    public string Value { get; set; } = string.Empty;
 }
 
 public class Section
