@@ -3,7 +3,7 @@
     "Title": "Ru\u010F\u00E1k\u016Fv d\u016Fm",
     "Type": "m\u00EDstnost",
     "Images": [],
-    "Image_titles": [],
+    "Image_titles": ["POHLED NA BEETROOT FARMU", "ŠACHTA A JIŽNÍ OKNO SILA"],
     "Metadata": {
       "N\u00E1zev": "Ru\u010F\u00E1k\u016Fv d\u016Fm",
       "Blok": "[Barvy](bl_barvy)",
@@ -153,7 +153,7 @@
     "Title": "Ulice Schodov\u00E1",
     "Type": "m\u00EDstnost",
     "Images": [],
-    "Image_titles": [],
+    "Image_titles": ["POHLED Z KRIŽOVATKY", "POHLED OD DVEŘÍ DO NETHERU"],
     "Metadata": {
       "N\u00E1zev": "Ulice Schodov\u00E1",
       "Blok": "[St\u0159echa](bl_strecha)",
