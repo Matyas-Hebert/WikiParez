@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets/Images/mi_beetroot_farma1.png"
     },
     {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_builder_cepicka1.png",
+      "PackagePath": "staticwebassets/Images/mi_builder_cepicka1.png"
+    },
+    {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_byt_chudaka_kterej_nema_rad_kluby1.png",
       "PackagePath": "staticwebassets/Images/mi_byt_chudaka_kterej_nema_rad_kluby1.png"
     },
@@ -115,6 +119,14 @@
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_skokanske_mustky2.png",
       "PackagePath": "staticwebassets/Images/mi_skokanske_mustky2.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_staj1.png",
+      "PackagePath": "staticwebassets/Images/mi_staj1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_staj2.png",
+      "PackagePath": "staticwebassets/Images/mi_staj2.png"
     },
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_strecha1.png",

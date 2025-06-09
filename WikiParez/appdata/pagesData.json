@@ -707,7 +707,9 @@
     "Title": "D\u00E1lni\u010Dn\u00ED p\u0159echod",
     "Type": "m\u00EDstnost",
     "Images": [],
-    "Image_titles": ["DÁLNIČNÍ PŘECHOD"],
+    "Image_titles": [
+      "D\u00C1LNI\u010CN\u00CD P\u0158ECHOD"
+    ],
     "Metadata": {
       "N\u00E1zev": "D\u00E1lni\u010Dn\u00ED p\u0159echod",
       "Blok": "[The Airship](bl_the_airship)",
@@ -742,7 +744,10 @@
     "Title": "Pu\u010Dmeloun farma",
     "Type": "m\u00EDstnost",
     "Images": [],
-    "Image_titles": ["PUČMELOUN FARMA PŘED", "PUČMELOUN FARMA PO"],
+    "Image_titles": [
+      "PU\u010CMELOUN FARMA P\u0158ED",
+      "PU\u010CMELOUN FARMA PO"
+    ],
     "Metadata": {
       "N\u00E1zev": "Pu\u010Dmeloun farma",
       "Blok": "[Spojnice](bl_spojnice)",
@@ -771,6 +776,77 @@
     ],
     "image_id": 0,
     "area": 26,
+    "Empty": false,
+    "numberOfRooms": 0
+  },
+  "mi_staj": {
+    "Title": "St\u00E1j",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": ["STÁJ", "POHLED NA EXPRESIONISMUS A LOM"],
+    "Metadata": {
+      "N\u00E1zev": "St\u00E1j",
+      "Blok": "[The Airship](bl_the_airship)",
+      "Okrsek": "[The Airship](ok_the_airship)",
+      "\u010Ctvr\u0165": "[Kmen](ct_kmen)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
+      "\u00DA\u010Del": "Sklad brn\u011Bn\u00ED na kon\u011B a vod\u00EDtek, v\u00FDb\u011Bh pro kon\u011B a osla"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "St\u00E1j je \u010Dtvercov\u00E1 m\u00EDstnost na ji\u017En\u00ED stran\u011B [Airshipu](mi_the_airship). Do st\u00E1je vedou dva voln\u00E9 vchody (mal\u00E9 tak aby nimi k\u016F\u0148 nepro\u0161el) a branka. V\u0161echny vchody vedou z [Airshipu](mi_the_airship). M\u00EDstnost nem\u00E1 \u017E\u00E1dn\u00E9 st\u011Bny, na v\u0161ech stran\u00E1ch je plot."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jedn\u00E1 se o v\u00FDb\u011Bh pro kon\u011B a osla, proto se m\u00EDstnost jmenuje st\u00E1j."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "V interi\u00E9ru st\u00E1je jsou dva barely. Jeden je ur\u010Den na uskladn\u011Bn\u00ED vod\u00EDtek a druh\u00FD na uskladn\u011Bn\u00ED brn\u011Bn\u00ED na kon\u011B. V m\u00EDstnosti nen\u00ED \u017E\u00E1dn\u00E1 postel ani crafting table. V jihov\u00FDchodn\u00EDm a v jihoz\u00E1padn\u00EDm rohu st\u00E1je jsou polo\u017Eeny dva bloky dubov\u00E9ho list\u00ED. Tyto \u010Dty\u0159i bloky jsou jedinou potenci\u00E1ln\u00ED potravou pro zde \u017Eij\u00EDc\u00ED zv\u00ED\u0159ata. Pokud by se situace s nedostatkem potravy zhor\u0161ila, mohli by do oblasti zas\u00E1hnout ochr\u00E1nci zv\u00ED\u0159at.\r\nProstor je zast\u0159e\u0161en st\u0159echou ve v\u00FD\u0161ce 4.5 bloku a je osv\u011Btlen lou\u010Demi. Severn\u00ED st\u011Bna p\u0159ipom\u00EDn\u00E1 sv\u00FDm vzhledem hradn\u00ED br\u00E1nu. Je postavena z kombinace plot\u016F a trapdor\u016F.\r\nJi\u017En\u00ED strana nab\u00EDz\u00ED v\u00FDhled na [Lom](ct_lom) a [Expresionismus](ct_expresionismus) a k n\u011Bmu vedouc\u00ED [Most](mi_most)."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "V severn\u00ED st\u011Bn\u011B jsou dva voln\u00E9 pr\u016Fchody. Pr\u016Fchody jsou dostate\u010Dn\u011B velk\u00E9 pro hr\u00E1\u010De ale ne pro kon\u011B."
+      }
+    ],
+    "image_id": 0,
+    "area": 81,
+    "Empty": false,
+    "numberOfRooms": 0
+  },
+  "mi_builder_cepicka": {
+    "Title": "Builder \u010Depi\u010Dka",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": ["BUILDER ČEPIČKA"],
+    "Metadata": {
+      "N\u00E1zev": "Builder \u010Depi\u010Dka",
+      "Blok": "[The Airship](bl_the_airship)",
+      "Okrsek": "[The Airship](ok_the_airship)",
+      "\u010Ctvr\u0165": "[Kmen](ct_kmen)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Builder \u010Depi\u010Dka je mal\u00E1 ov\u00E1ln\u00E1 m\u00EDstnost, kter\u00E1 je z velk\u00E9 \u010D\u00E1sti postavena nad mo\u0159em, kter\u00E9 je o 30 blok\u016F n\u00ED\u017Ee. V t\u011Bchto m\u00EDstech je standartn\u00ED d\u0159ev\u011Bn\u00E1 podlaha nahrazena za skl\u011Bn\u011Bnou.\r\nP\u016Fdorus m\u00EDstnosti je ov\u00E1ln\u00FD a bokorys s n\u00E1rysem maj\u00ED tvar poloov\u00E1lu. Z m\u00EDstnosti vedou jedin\u00E9 dve\u0159e a to na [Airship](mi_the_airship)."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "N\u00E1zev se vztahuje na hra\u010Dku bratrance [Marie Hebertov\u00E9](os_marie_hebertova). Jednalo se o norm\u00E1ln\u00ED ochranou helmu \u017Elut\u00E9 barvy, kterou d\u011Blnic\u00ED pou\u017E\u00EDvaj\u00ED na stavb\u011B. Odtud i specifick\u00FD tvar m\u00EDstnosti."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "V interi\u00E9ru se nach\u00E1z\u00ED \u0161ed\u00E1 postel a crafting table. Prostor je osv\u011Btlen t\u0159emi lanternami, kter\u00E9 zmen\u0161uj\u00ED vyu\u017Eiteln\u00FD prostor o t\u0159i bloky. V\u00FD\u0161ka stropu v m\u00EDstnosti se pohybuje mezi 2 a 4 bloky a velk\u00E1 v\u011Bt\u0161ina podlahy je postavena ze skla."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "84% podlahy Builder \u010Depi\u010Dky je ze skla."
+      }
+    ],
+    "image_id": 0,
+    "area": 56,
     "Empty": false,
     "numberOfRooms": 0
   }

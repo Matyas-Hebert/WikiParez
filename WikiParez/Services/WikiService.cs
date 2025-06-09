@@ -116,11 +116,6 @@ public class WikiService
                     }
                 }
             }
-            if (IsSubdivision(dictionary[key].Type))
-            {
-                dictionary[key].Metadata["Plocha"] = dictionary[key].area.ToString() + " blok²";
-                dictionary[key].Metadata["Počet místností"] = dictionary[key].numberOfRooms.ToString();
-            }
         }
         return dictionary;
     }
