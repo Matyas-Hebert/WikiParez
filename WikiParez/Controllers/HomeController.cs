@@ -1,21 +1,24 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using WikiParez.Models;
+using WikiParez.Services;
 
 namespace WikiParez.Controllers;
 
 public class HomeController : Controller
 {
     private readonly ILogger<HomeController> _logger;
+    private readonly WikiService _wikiService;
 
-    public HomeController(ILogger<HomeController> logger)
+    public HomeController(ILogger<HomeController> logger, WikiService wikiService)
     {
         _logger = logger;
+        _wikiService = wikiService;
     }
 
     public IActionResult Index()
     {
-        return View();
+        return View(_wikiService.Last10pages());
     }
 
     public IActionResult Privacy()

@@ -27,9 +27,43 @@ public class WikiService
                 });
     }
 
+    public Dictionary<string, string> Last10pages(){
+        int pageCount = _pages.Count;
+        var dict = new Dictionary<string, string>();
+        for(int i=pageCount-1; i>=pageCount-10; i--){
+            var key = _pages.Keys.ElementAt(i);
+            dict[key] = _pages[key].Title;
+        }
+        return dict;
+    }
+
+    public string? GetRandomSlug()
+    {
+        if (_pages == null || _pages.Count == 0)
+            return null;
+
+        var keys = new List<string>(_pages.Keys);
+        var random = new Random();
+        var randomKey = keys[random.Next(keys.Count)];
+        return randomKey;
+    }
+
+    public string? GetRandomRoomSlug(){
+        if (_pages == null || _pages.Count == 0)
+            return null;
+
+        var keys = new List<string>(_pages.Keys);
+        var random = new Random();
+        var randomKey = keys[random.Next(keys.Count)];
+        while (!randomKey.StartsWith("mi")){
+            randomKey = keys[random.Next(keys.Count)];
+        }
+        return randomKey;
+    }
+
     private bool IsSubdivision(string type)
     {
-        return type != null && 
+        return type != null &&
             (type.Equals("blok", StringComparison.OrdinalIgnoreCase) ||
              type.Equals("okrsek", StringComparison.OrdinalIgnoreCase) ||
              type.Equals("čtvrť", StringComparison.OrdinalIgnoreCase) ||

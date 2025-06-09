@@ -590,11 +590,7 @@
     "Title": "St\u0159echa",
     "Type": "m\u00EDstnost",
     "Images": [],
-    "Image_titles": [
-      "ST\u0158ECHA",
-      "V\u00DDHLED NA L\u00C1ZN\u011A PANORAAMA",
-      "\u017DEB\u0158\u00CDK Z DOUBLE DECKER HOUSU"
-    ],
+    "Image_titles": ["POHLED NA STŘECHU", "VÝHLED NA LÁZNĚ PANORAAMA", "ŽEBŘÍK Z DOUBLE DECKER HOUSU"],
     "Metadata": {
       "N\u00E1zev": "St\u0159echa",
       "Blok": "[St\u0159echa](bl_strecha)",
@@ -629,10 +625,7 @@
     "Title": "Skokansk\u00E9 m\u016Fstky",
     "Type": "m\u00EDstnost",
     "Images": [],
-    "Image_titles": [
-      "SKOKANSK\u00C9 M\u016ESTKY",
-      "PAPRSKY BEACONU"
-    ],
+    "Image_titles": ["SKOKANSKÉ MŮSTKY", "PAPRSKY BEACONU"],
     "Metadata": {
       "N\u00E1zev": "Skokansk\u00E9 m\u016Fstky",
       "Blok": "[L\u00E1zn\u011B Panoraama](bl_lazne_panoraama)",
@@ -661,116 +654,6 @@
     ],
     "image_id": 0,
     "area": 93,
-    "Empty": false,
-    "numberOfRooms": 0
-  },
-  "mi_chodba": {
-    "Title": "Chodba",
-    "Type": "m\u00EDstnost",
-    "Images": [],
-    "Image_titles": [
-      "POHLED OD KAHANU",
-      "POHLED OD DETOURU",
-      "TROJICE DVE\u0158\u00CD NA THE AIRSHIPU"
-    ],
-    "Metadata": {
-      "N\u00E1zev": "Chodba",
-      "Blok": "[The Airship](bl_the_airship)",
-      "Okrsek": "[The Airship](ok_the_airship)",
-      "\u010Ctvr\u0165": "[Kmen](ct_kmen)",
-      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": "Chodba je dlouh\u00E1 m\u00EDstnost spojuj\u00EDc\u00ED [The Detour](mi_the_detour) s [Kahanem](mi_kahan). Krom\u011B t\u011Bchto dvou vchod\u016F je v Chodb\u011B 11 dal\u0161\u00EDch a to do t\u011Bchto m\u00EDstnost\u00ED: [Zakin\u00ED](mi_zakini), [Pu\u010Dmeloun farma](mi_pucmeloun_farma), [Skokansk\u00E9 m\u016Fstky](mi_skokanske_mustky), [Chodba II](mi_chodba_ii), [\u00DAnikov\u00E9 schodi\u0161t\u011B](mi_unikove_schodiste), [D\u00E1lni\u010Dn\u00ED p\u0159echod](mi_dalnicni_prechod) a 4 dve\u0159e na [Airship](mi_the_airship).\r\nChodba je n\u011Bco m\u00E1le p\u0159es 50 blok\u016F dlouh\u00E1 a ve v\u011Bt\u0161in\u011B m\u00EDst dva bloky \u0161irok\u00E1."
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": "Je to chodba :D."
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": "V interi\u00E9ru chodby se nach\u00E1z\u00ED 5 crafting tabl\u016F a u [Kahanu](mi_kahan) 1 barel.\r\nChodba vede ze severoz\u00E1pad na jihov\u00FDchod a postupn\u011B stoup\u00E1. Od sv\u00E9ho za\u010D\u00E1tku o [Detouru](mi_the_detour) ke [Kahanu](mi_kahan) stoupne o 5 blok\u016F. Nejvy\u0161\u0161\u00EDm bodem chodby je v\u0161ak vchod do [Z\u00E1kin\u00ED](mi_zakini) je\u0161t\u011B o blok v\u00FD\u0161e."
-      },
-      {
-        "Title": "Zaj\u00EDmavosti",
-        "Content": "Chodbu a [Airship](mi_the_airship) propojuje \u010Dtve\u0159ice vchod\u016F z nich\u017E t\u0159i jsou dvojit\u00E9 dve\u0159e hned vedle sebe.\r\nStrop v chodb\u011B je neobvykle vysok\u00FD a to 4,5 bloku.\r\n\u010Cerven\u00FD a modr\u00FD paprsek z [beaconu](beacon_parez) proch\u00E1z\u00ED sklem mezi Chodbou a [Skokansk\u00FDmi m\u016Fstky](mi_skokanske_mustky)."
-      }
-    ],
-    "image_id": 0,
-    "area": 128,
-    "Empty": false,
-    "numberOfRooms": 0
-  },
-  "mi_dalnicni_prechod": {
-    "Title": "D\u00E1lni\u010Dn\u00ED p\u0159echod",
-    "Type": "m\u00EDstnost",
-    "Images": [],
-    "Image_titles": ["DÁLNIČNÍ PŘECHOD"],
-    "Metadata": {
-      "N\u00E1zev": "D\u00E1lni\u010Dn\u00ED p\u0159echod",
-      "Blok": "[The Airship](bl_the_airship)",
-      "Okrsek": "[The Airship](ok_the_airship)",
-      "\u010Ctvr\u0165": "[Kmen](ct_kmen)",
-      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": "D\u00E1lni\u010Dn\u00ED p\u0159echod je p\u0159echod p\u0159es [D\u00E1lni\u010Dn\u00ED pil\u00ED\u0159](mi_dalnicni_pilir) z [Chodby](mi_chodba) na [the Detour](mi_the_detour). Jedn\u00E1 se o schod nahoru na [d\u00E1lni\u010Dn\u00ED pil\u00ED\u0159](mi_dalnicni_pilir), samotn\u00FD p\u0159echod a schod zp\u011Bt dol\u016F. "
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": "Jedn\u00E1 se o p\u0159echod p\u0159es ledovou d\u00E1lnici [\u0022D\u00E1lni\u010Dn\u00ED pil\u00ED\u0159\u0022](mi_dalnicni_pilir)."
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": "D\u00E1lni\u010Dn\u00ED p\u0159echod je pln\u011B otev\u0159en\u00E1 m\u00EDstnost ve kter\u00E9 nen\u00ED jedin\u00E1 postel, crafting table \u010Di barel.\r\n\u010C\u00E1st podlahy p\u0159echodu je tvo\u0159ena ledem [D\u00E1lni\u010Dn\u00EDho pil\u00ED\u0159e](mi_dalnicni_pilir)."
-      },
-      {
-        "Title": "Zaj\u00EDmavost",
-        "Content": "D\u00E1lni\u010Dn\u00ED p\u0159echod sd\u00EDl\u00ED 4 bloky s [D\u00E1lni\u010Dn\u00EDm pil\u00ED\u0159em](mi_dalnicni_pilir).\r\n[The Detour](mi_the_detour) je jedna z m\u00E1la m\u00EDstnost\u00ED, kter\u00E1 je rozd\u011Blena na 2 \u010D\u00E1sti, kter\u00E9 jsou spojeny jen jinou m\u00EDstnost\u00ED. Pro p\u0159echod mezi dv\u011Bmi \u010D\u00E1stmi [Detouru](mi_the_detour) je t\u0159eba vyu\u017E\u00EDt D\u00E1lni\u010Dn\u00EDho p\u0159echodu."
-      }
-    ],
-    "image_id": 0,
-    "area": 15,
-    "Empty": false,
-    "numberOfRooms": 0
-  },
-  "mi_pucmeloun_farma": {
-    "Title": "Pu\u010Dmeloun farma",
-    "Type": "m\u00EDstnost",
-    "Images": [],
-    "Image_titles": ["PUČMELOUN FARMA PŘED", "PUČMELOUN FARMA PO"],
-    "Metadata": {
-      "N\u00E1zev": "Pu\u010Dmeloun farma",
-      "Blok": "[Spojnice](bl_spojnice)",
-      "Okrsek": "[Obchodn\u00ED st\u0159edisko](ok_obchodni_stredisko)",
-      "\u010Ctvr\u0165": "[Kmen](ct_kmen)",
-      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
-      "\u00DA\u010Del": "Sklad meloun\u016F, sklad d\u00FDn\u00ED, melounov\u00E1 farma, d\u00FD\u0148ov\u00E1 farma"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": "Pu\u010Dmeloun farma je mal\u00E1 m\u00EDstnost v [Obchodn\u00EDm st\u0159edisku](ok_obchodni_stredisko). Je tvo\u0159ena t\u00E9m\u011B\u0159 kompletn\u011B farmou na melouny a d\u00FDn\u011B. Do m\u00EDstnosti se d\u00E1 dostat bu\u010F ze z\u00E1padu z [Chodby](mi_chodba) nebo z v\u00FDchodu z [Overpassu](mi_the_overpass). V m\u00EDstnosti roste 5 meloun\u016F a 5 d\u00FDn\u00ED. P\u0159i dobr\u00FDch podm\u00EDnk\u00E1ch a \u010D\u00E1st\u00E9m sb\u011Bru plodin to znamen\u00E1 1 d\u00FD\u0148ov\u00FD a melounov\u00FD blok ka\u017Ed\u00E9 3-4 minuty."
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": "Slovo \u0022Pu\u010Dmeloun\u0022 obsahuje n\u00E1zev plodiny, kter\u00E1 zde roste."
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": "V interi\u00E9ru m\u00EDstnosti se nach\u00E1z\u00ED \u0161ed\u00E1 postel, crafting table a barel na uskladn\u011Bn\u00ED \u00FArody. Dominantou m\u00EDstnosti je d\u00FD\u0148ovo-melounov\u00E1 farma, kter\u00E1 zab\u00EDr\u00E1 v\u011Bt\u0161inu plochy m\u00EDstnosti. Na severn\u00ED stran\u011B je velk\u00E9 okno s v\u00FDhledem na [L\u00E1zn\u011B Panoraama](bl_lazne_panoraama). Ji\u017En\u00ED a v\u00FDchodn\u00ED st\u011Bna je postavena z trapdoor\u016F."
-      },
-      {
-        "Title": "Zaj\u00EDmavosti",
-        "Content": "Samotn\u00E1 farma zab\u00EDr\u00E1 77% plochy m\u00EDstnosti.\r\nM\u00EDstnost osv\u011Btluje jedin\u00E1 lanterna, kter\u00E1 vis\u00ED ze stropu.\r\nPro pr\u016Fchod m\u00EDstnost\u00ED je t\u0159eba p\u0159ej\u00EDt farmu."
-      }
-    ],
-    "image_id": 0,
-    "area": 26,
     "Empty": false,
     "numberOfRooms": 0
   }

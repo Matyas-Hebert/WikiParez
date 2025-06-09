@@ -29,12 +29,44 @@
       "PackagePath": "staticwebassets/Images/mi_byt_chudaka_kterej_nema_rad_kluby2.png"
     },
     {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_chodba1.png",
+      "PackagePath": "staticwebassets/Images/mi_chodba1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_chodba2.png",
+      "PackagePath": "staticwebassets/Images/mi_chodba2.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_chodba3.png",
+      "PackagePath": "staticwebassets/Images/mi_chodba3.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_dalnicni_prechod1.png",
+      "PackagePath": "staticwebassets/Images/mi_dalnicni_prechod1.png"
+    },
+    {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_klub1.png",
       "PackagePath": "staticwebassets/Images/mi_klub1.png"
     },
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_klub2.png",
       "PackagePath": "staticwebassets/Images/mi_klub2.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_mostiste1.png",
+      "PackagePath": "staticwebassets/Images/mi_mostiste1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_mostiste2.png",
+      "PackagePath": "staticwebassets/Images/mi_mostiste2.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_mostiste3.png",
+      "PackagePath": "staticwebassets/Images/mi_mostiste3.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_mostiste4.png",
+      "PackagePath": "staticwebassets/Images/mi_mostiste4.png"
     },
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_nadchod1.png",
@@ -57,6 +89,14 @@
       "PackagePath": "staticwebassets/Images/mi_oranjestad3.png"
     },
     {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_pucmeloun_farma1.png",
+      "PackagePath": "staticwebassets/Images/mi_pucmeloun_farma1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_pucmeloun_farma2.png",
+      "PackagePath": "staticwebassets/Images/mi_pucmeloun_farma2.png"
+    },
+    {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_rubec1.png",
       "PackagePath": "staticwebassets/Images/mi_rubec1.png"
     },
@@ -67,6 +107,26 @@
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_schodiste_tt2.png",
       "PackagePath": "staticwebassets/Images/mi_schodiste_tt2.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_skokanske_mustky1.png",
+      "PackagePath": "staticwebassets/Images/mi_skokanske_mustky1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_skokanske_mustky2.png",
+      "PackagePath": "staticwebassets/Images/mi_skokanske_mustky2.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_strecha1.png",
+      "PackagePath": "staticwebassets/Images/mi_strecha1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_strecha2.png",
+      "PackagePath": "staticwebassets/Images/mi_strecha2.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_strecha3.png",
+      "PackagePath": "staticwebassets/Images/mi_strecha3.png"
     },
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_viden1.png",
