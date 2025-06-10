@@ -1215,5 +1215,124 @@
     "area": 285,
     "Empty": false,
     "numberOfRooms": 0
+  },
+  "mi_lodzie": {
+    "Title": "Lod\u017Eie",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "LOD\u017DIE",
+      "SCHODY Z M\u011ASTSK\u00C9HO OKRUHU"
+    ],
+    "Bordering_rooms": [
+      "mi_ropna_plosina_b",
+      "mi_prechod",
+      "mi_mestsky_okruh"
+    ],
+    "Metadata": {
+      "N\u00E1zev": "Lod\u017Eie",
+      "Blok": "[Ke klubu](bl_ke_klubu)",
+      "Okrsek": "[Ben\u00E1tky](ok_benatky)",
+      "\u010Ctvr\u0165": "[Ryb\u00E1\u0159sk\u00E1 Kolonie](ct_rybarska_kolonie)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Lod\u017Eie je v\u011Bt\u0161\u00ED ze dvou m\u00EDstnost\u00ED v bloku [Ke klubu](bl_ke_klubu). Samotn\u00E1 m\u00EDstnost se skl\u00E1d\u00E1 z m\u00EDrn\u00E9ho schodi\u0161t\u011B z [M\u011Bstsk\u00E9ho okruhu](mi_mestsky_okruh) do mal\u00E9 m\u00EDstn\u016Fstky, kde se nach\u00E1zej\u00ED dve\u0159e na [P\u0159echod](mi_prechod) a [Ropnou plo\u0161inu b](mi_ropna_plosina_b). Tato m\u00EDstn\u016Fstka je doopravdy balk\u00F3nem v [Dobr\u00E9 vod\u011B](mi_dobra_voda)."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Lod\u017Eie je architektonick\u00FD prvek ozna\u010Duj\u00EDc\u00ED \u0022zastropen\u00FD prostor v budov\u011B, navenek otev\u0159en\u00FD do exteri\u00E9ru\u0022. I kdy\u017E tomuto popisu m\u00EDstnost nevyhovuje, byl n\u00E1zev t\u00EDmto architektonick\u00FDm prvkem inspirov\u00E1n."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "V interi\u00E9ru Lod\u017Eie se nach\u00E1z\u00ED jedin\u00FD crafting table. V hlavn\u00ED \u010D\u00E1sti je plot a za n\u00EDm [Dobr\u00E1 voda](mi_dobra_voda). Schody vedouc\u00ED z [M\u011Bstsk\u00E9ho okruhu](mi_mestsky_okruh) jsou dva bloky \u0161irok\u00E9 a nejsou oploceny. T\u0159i a\u017E \u010Dty\u0159i bloky pod n\u00EDm se nach\u00E1z\u00ED [Rozhran\u00ED](mi_rozhrani)."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Na strop\u011B hlavn\u00ED \u010D\u00E1sti lod\u017Eie jsou trapdoory zakr\u00FDvaj\u00EDc\u00ED obsidian z [Nether Port\u00E1lu](mi_nether).\r\nD\u00EDky plotu na [Rozhran\u00ED](mi_rozhrani) je mo\u017En\u00E9 vysko\u010Dit na schody v Lod\u017Eii.\r\nVe skoku lze nahl\u00E9dnout mal\u00FDm ok\u00FDnkem u stropu na [Ropnou plo\u0161inu](mi_ropna_plosina)."
+      }
+    ],
+    "image_id": 0,
+    "area": 31,
+    "Empty": false,
+    "numberOfRooms": 0
+  },
+  "mi_prechod": {
+    "Title": "P\u0159echod",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "P\u0158ECHOD"
+    ],
+    "Bordering_rooms": [
+      "mi_klub",
+      "mi_lodzie"
+    ],
+    "Metadata": {
+      "N\u00E1zev": "P\u0159echod",
+      "Blok": "[Ke klubu](bl_ke_klubu)",
+      "Okrsek": "[Ben\u00E1tky](ok_benatky)",
+      "\u010Ctvr\u0165": "[Ryb\u00E1\u0159sk\u00E1 Kolonie](ct_rybarska_kolonie)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159echod je men\u0161\u00ED ze dvou m\u00EDstnost\u00ED v bloku [Ke klubu](mi_ke_klubu). Jedn\u00E1 se o most postaven\u00FD nad [Pultovou st\u0159echou](mi_pultova_strecha) spojuj\u00EDc\u00ED [Klub](mi_klub) a [Lod\u017Eii](mi_lodzie).\r\nSamotn\u00FD most je 2 bloky \u0161irok\u00FD s ploty nakraj\u00EDch a m\u00E1 velmi n\u00EDzk\u00FD strop."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jedn\u00E1 se p\u0159echod nad [Pultovou st\u0159echou](mi_pultova_strecha)."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Na interi\u00E9ru m\u00EDstnosti nen\u00ED nic zaj\u00EDmav\u00E9ho. Nenach\u00E1z\u00ED se zde \u017E\u00E1dn\u00FD barel, postel ani crafting table. Strop je v m\u00EDstnosti ve v\u00FD\u0161ce jen 2 a\u017E 2.5 bloku (nad mostem se nach\u00E1z\u00ED [Ropn\u00E1 Plo\u0161ina](mi_ropna_plosina). V\u00FD\u0161ka stropu br\u00E1n\u00ED hr\u00E1\u010Di v p\u0159eskoku plotu. Interi\u00E9r je osv\u011Btlen lou\u010D\u00ED."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "P\u0159echod dal jm\u00E9no [bloku](mi_ke_klubu) ve kter\u00E9m se nach\u00E1z\u00ED, nebo\u0165 vede ke [Klubu](mi_klub)."
+      }
+    ],
+    "image_id": 0,
+    "area": 13,
+    "Empty": false,
+    "numberOfRooms": 0
+  },
+  "bl_ke_klubu": {
+    "Title": "Ke Klubu",
+    "Type": "blok",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Metadata": {
+      "N\u00E1zev": "Ke Klubu",
+      "Okrsek": "[Ben\u00E1tky](ok_benatky)",
+      "\u010Ctvr\u0165": "[Ryb\u00E1\u0159sk\u00E1 Kolonie](ct_rybarska_kolonie)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Ke Klubu je mal\u00FD blok sestaven\u00FD ze dvou m\u00EDstnost\u00ED. V\u011Bt\u0161\u00ED z nich je [Lod\u017Eie](mi_lodzie), kter\u00E1 spojuje blok s [M\u011Bstsk\u00FDm okruhem](mi_mestsky_okruh). Druhou a men\u0161\u00ED m\u00EDstnost\u00ED je p\u0159echod, most spojuj\u00EDc\u00ED [Lod\u017Eii](mi_lodzie) s [Klubem](mi_klub).\r\nKe Klubu soused\u00ED s n\u00E1sleduj\u00EDc\u00EDmi bloky: [V\u00EDde\u0148](bl_viden), [Ropn\u00E1 plo\u0161ina](bl_ropna_plosina) a [Vestibul](bl_vestibul). P\u0159i p\u0159eskoku plotu v Lod\u017Eii se d\u00E1 dostat i do [Dobr\u00E9 Vody](mi_dobra_voda) na [Hlavn\u00ED T\u0159\u00EDd\u011B](bl_hlavni_trida)."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Blok z\u00EDskal sv\u016Fj n\u00E1zev d\u00EDky [P\u0159echodu](mi_prechod), kter\u00FD vede ke [Klubu](mi_klub)."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Interi\u00E9r cel\u00E9ho bloku je velmi pr\u00E1zdn\u00FD a nach\u00E1z\u00ED se v n\u011Bm jedin\u00FD crafting table. V\u00FD\u0161ka stropu je \u010Dasto n\u00EDzk\u00E1 s maxim\u00E1ln\u00ED v\u00FD\u0161kou \u010Dty\u0159 blok\u016F."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Ke Klubu je jeden z m\u00E1la blok\u016F bez jedin\u00E9 postele."
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": false,
+    "numberOfRooms": 0
   }
 }
