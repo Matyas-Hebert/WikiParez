@@ -31,6 +31,5 @@
 /root/wikiparez/WikiParez/obj/Debug/net8.0/WikiParez.genruntimeconfig.cache
 /root/wikiparez/WikiParez/obj/Debug/net8.0/ref/WikiParez.dll
 /root/wikiparez/WikiParez/bin/Debug/net8.0/appdata/pagesData.json
-/root/wikiparez/WikiParez/bin/Debug/net8.0/appdata/oldData.json
-/root/wikiparez/WikiParez/bin/Debug/net8.0/appdata/oldData (2).json
 /root/wikiparez/WikiParez/bin/Debug/net8.0/appdata/olddData.json
+/root/wikiparez/WikiParez/bin/Debug/net8.0/appdata/OLDERData.json

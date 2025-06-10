@@ -27,6 +27,10 @@ public class WikiService
                 });
     }
 
+    public bool DoesSlugExist(string slug){
+        return _pages.Keys.Contains(slug);
+    }
+
     public Dictionary<string, string> Last10pages(){
         int pageCount = _pages.Count;
         var dict = new Dictionary<string, string>();
