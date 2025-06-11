@@ -253,7 +253,7 @@
     "Sections": [
       {
         "Title": "P\u0159ehled",
-        "Content": "Byt chud\u00E1ka, kterej nem\u00E1 r\u00E1d kluby je hned po [Nadchodu](mi_nadchod) nejv\u00FD\u0161e polo\u017Een\u00E1 m\u00EDstnost ve [V\u00EDdni](bl_viden). M\u00EDstnost je pr\u016Fchoz\u00ED a to d\u00EDky voln\u00E9mu vstupu z [schodi\u0161t\u011B TT](mi_schodiste_tt) a [Nadchodu](mi_nadchod). 4 dal\u0161\u00ED vstupy konkr\u00E9tn\u011B z [Rubce](mi_rubec), [Hv\u011Bzdy](mi_hvezda), [Ropn\u00E9 plo\u0161iny](mi_ropna_plosina) a [Pily](mi_pila) jsou \u0159e\u0161eny dve\u0159mi. Posledn\u00ED vstup je jednosm\u011Brn\u00FD v\u00FDtah z [Klubu](mi_klub), je\u017E se nach\u00E1z\u00ED o patro n\u00ED\u017Ee. Na v\u00FDchod\u011B se nach\u00E1z\u00ED plot je\u017E lze p\u0159esko\u010Dit p\u0159\u00EDmo na [ulici Schodovou](mi_ulice_schodova)."
+        "Content": "Byt chud\u00E1ka, kterej nem\u00E1 r\u00E1d kluby (zkracov\u00E1no na BCKNRK) je hned po [Nadchodu](mi_nadchod) nejv\u00FD\u0161e polo\u017Een\u00E1 m\u00EDstnost ve [V\u00EDdni](bl_viden). M\u00EDstnost je pr\u016Fchoz\u00ED a to d\u00EDky voln\u00E9mu vstupu z [schodi\u0161t\u011B TT](mi_schodiste_tt) a [Nadchodu](mi_nadchod). 4 dal\u0161\u00ED vstupy konkr\u00E9tn\u011B z [Rubce](mi_rubec), [Hv\u011Bzdy](mi_hvezda), [Ropn\u00E9 plo\u0161iny](mi_ropna_plosina) a [Pily](mi_pila) jsou \u0159e\u0161eny dve\u0159mi. Posledn\u00ED vstup je jednosm\u011Brn\u00FD v\u00FDtah z [Klubu](mi_klub), je\u017E se nach\u00E1z\u00ED o patro n\u00ED\u017Ee. Na v\u00FDchod\u011B se nach\u00E1z\u00ED plot je\u017E lze p\u0159esko\u010Dit p\u0159\u00EDmo na [ulici Schodovou](mi_ulice_schodova)."
       },
       {
         "Title": "N\u00E1zev",
@@ -353,7 +353,7 @@
       },
       {
         "Title": "N\u00E1zev",
-        "Content": "M\u00EDstnost sd\u00EDl\u00ED n\u00E1zev s \u003Ca href=\u0022https://cs.wikipedia.org/wiki/V\u00EDde\u0148\u0022\u003Ehlavn\u00EDm m\u011Bstem Rakouska\u003C/a\u003E a \u003Ca href=\u0022https://cs.wikipedia.org/wiki/V\u00EDde\u0148_(okres_\u017D\u010F\u00E1r_nad_S\u00E1zavou)\u0022\u003Emalou vesnic\u00ED na Vyso\u010Din\u011B\u003C/a\u003E. N\u00E1zev byl inspirov\u00E1n kon\u010D\u00EDc\u00ED d\u00E1lnic\u00ED a pl\u00E1nem ud\u011Blat s [V\u00EDdn\u011B](mi_viden) dopravn\u00ED k\u0159i\u017Eovatku.\r\nV\u00EDde\u0148 dala n\u00E1zev bloku ve kter\u00E9m se nach\u00E1z\u00ED. Bl\u00EDzk\u00E9 m\u00EDstnost [Mosti\u0161t\u011B](mosti\u0161t\u011B) a [Dobr\u00E1 Voda](dobr\u00E1 voda) jsou pojmenov\u00E1ny podle vesnic pobl\u00ED\u017E V\u00EDdn\u011B na Vyso\u010Din\u011B."
+        "Content": "M\u00EDstnost sd\u00EDl\u00ED n\u00E1zev s \u003Ca href=\u0022https://cs.wikipedia.org/wiki/V\u00EDde\u0148\u0022\u003Ehlavn\u00EDm m\u011Bstem Rakouska\u003C/a\u003E a \u003Ca href=\u0022https://cs.wikipedia.org/wiki/V\u00EDde\u0148_(okres_\u017D\u010F\u00E1r_nad_S\u00E1zavou)\u0022\u003Emalou vesnic\u00ED na Vyso\u010Din\u011B\u003C/a\u003E. N\u00E1zev byl inspirov\u00E1n kon\u010D\u00EDc\u00ED d\u00E1lnic\u00ED a pl\u00E1nem ud\u011Blat s [V\u00EDdn\u011B](mi_viden) dopravn\u00ED k\u0159i\u017Eovatku.\r\nV\u00EDde\u0148 dala n\u00E1zev bloku ve kter\u00E9m se nach\u00E1z\u00ED. Bl\u00EDzk\u00E9 m\u00EDstnost [Mosti\u0161t\u011B](mi_mosti\u0161t\u011B) a [Dobr\u00E1 Voda](mi_dobr\u00E1 voda) jsou pojmenov\u00E1ny podle vesnic pobl\u00ED\u017E V\u00EDdn\u011B na Vyso\u010Din\u011B."
       },
       {
         "Title": "Interi\u00E9r",
@@ -948,7 +948,8 @@
     "Type": "m\u00EDstnost",
     "Images": [],
     "Image_titles": [
-      "BUILDER \u010CEPI\u010CKA"
+      "BUILDER \u010CEPI\u010CKA",
+      "K\u0160ILT"
     ],
     "Bordering_rooms": [
       "mi_the_airship"
@@ -975,7 +976,7 @@
       },
       {
         "Title": "Zaj\u00EDmavost",
-        "Content": "84% podlahy Builder \u010Depi\u010Dky je ze skla."
+        "Content": "84% podlahy Builder \u010Depi\u010Dky je ze skla.\nNa ji\u017En\u00ED stran\u011B m\u00EDstnosti z venku je postavena napodobenina typick\u00E9ho k\u0161iltu helmy."
       }
     ],
     "image_id": 0,
@@ -1332,6 +1333,232 @@
     ],
     "image_id": 0,
     "area": 0,
+    "Empty": false,
+    "numberOfRooms": 0
+  },
+  "mi_ropna_plosina": {
+    "Title": "Ropn\u00E1 Plo\u0161ina",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "HLAVN\u00CD \u010C\u00C1ST",
+      "SCHODI\u0160T\u011A",
+      "NETHER PORT\u00C1L ZA OKNEM",
+      "VSTUP DO BYTU A KLUBU"
+    ],
+    "Bordering_rooms": [
+      "mi_hlidkovaci_kos",
+      "mi_paluba",
+      "mi_stredove_namesti",
+      "mi_ulice_schodova",
+      "mi_klub",
+      "mi_byt_chudaka_kterej_nema_rad_kluby",
+      "mi_diving_room",
+      "mi_ropna_plosina_b"
+    ],
+    "Metadata": {
+      "N\u00E1zev": "Ropn\u00E1 Plo\u0161ina",
+      "Blok": "[Ropn\u00E1 Plo\u0161ina](bl_ropna_plosina)",
+      "Okrsek": "[Ben\u00E1tky](ok_benatky)",
+      "\u010Ctvr\u0165": "[Ryb\u00E1\u0159sk\u00E1 Kolonie](ct_rybarska_kolonie)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
+      "\u00DA\u010Del": "Tabor\u00E1ky x4"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Ropn\u00E1 plo\u0161ina je m\u00EDstnost ve [stejnojmenn\u00E9m bloku](bl_ropna_plosina). M\u00EDstnost samotn\u00E1 m\u00E1 st\u011Bny jen na ji\u017En\u00ED a z\u00E1padn\u00ED stran\u011B. Z m\u00EDstnosti se jde dostat do celkov\u00E9ho po\u010Dtu osmi m\u00EDstnost\u00ED.\r\nNa severu je men\u0161\u00ED prostranstv\u00ED, kter\u00E9 kon\u010D\u00ED u [ulice Schodov\u00E9](mi_ulice_schodova). Z n\u011Bj tak\u00E9 vedou schody dol\u016F do [Klubu](mi_klub) a dve\u0159e do [Bytu chud\u00E1ka, kterej nem\u00E1 r\u00E1d kluby](mi_byt_chudaka_kterej_nema_rad_kluby). Prostranstv\u00ED je rozd\u011Bleno je postaveno na t\u0159ech r\u016Fzn\u00FDch v\u00FD\u0161kov\u00FDch \u00FArovn\u00EDch. \r\nNa z\u00E1pad\u011B se nach\u00E1z\u00ED ve\u0161ker\u00E1 schodi\u0161t\u011B vedouc\u00ED z Ropn\u00E9 plo\u0161iny. Mezi n\u011B pat\u0159\u00ED: schodi\u0161t\u011B nahoru na [St\u0159edov\u00E9 n\u00E1m\u011Bst\u00ED](mi_stredove_namesti) a schody nahor\u016F do [Diving room](mi_diving_room) a na [Hl\u00EDdkovac\u00ED ko\u0161](mi_hlidkovaci_kos), dol\u016F vedou schody na [Rozhran\u00ED](mi_rozhrani) a [Ropnou plo\u0161inu b](mi_ropna_plosina_b). Pod schodi\u0161t\u011Bm do [Diving room](mi_diving_room) a na [Hl\u00EDdkovac\u00ED ko\u0161](mi_hlidkovaci_kos) jsou dve\u0159e na [Palubu](mi_paluba).\r\nMezi schodi\u0161t\u011Bm a prostranstv\u00EDm je hlavn\u00ED \u010D\u00E1st m\u00EDstnosti s tabor\u00E1ky uprost\u0159ed."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "P\u0159ed v\u00FDstavbou cel\u00E9 [Ryb\u00E1\u0159sk\u00E9 Kolonie](ct_rybarska_kolonie) st\u00E1la Ropn\u00E1 plo\u0161ina na \u00FAzk\u00FDch sloupc\u00EDch z plot\u016F nad hladinou \u0159eky. Z d\u00E1lky tak spole\u010Dn\u011B s [Ropnou plo\u0161inou b](mi_ropna_plosina_b) p\u0159ipom\u00EDnala skute\u010Dn\u00E9 technick\u00E9 za\u0159\u00EDzen\u00ED ur\u010Den\u00E9 k t\u011B\u017Eb\u011B ropy."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "V interi\u00E9ru Ropn\u00E9 plo\u0161iny se nach\u00E1z\u00ED dv\u011B postele, jedna sv\u011Btle modr\u00E1 a druh\u00E1 b\u00EDl\u00E1, crafting table a 4 t\u00E1bor\u00E1ky.\r\nHlavn\u00ED \u010D\u00E1st m\u00EDstnosti je prostor s velmi specifick\u00FDmi st\u011Bnami a stropem. Z\u00E1padn\u00ED st\u011Bna je tvo\u0159ena nejen d\u0159ev\u011Bn\u00FDmi prkny a skl\u011Bn\u011Bn\u00FDmi tabulkami ale tak\u00E9 ploty a schody. Ji\u017En\u00ED st\u011Bna je typick\u00E1 sv\u00FDm \u0161achovn\u00EDcov\u00FDm designem okenic. V rohu tvo\u0159en\u00E9m t\u011Bmito dv\u011Bma st\u011Bnami je polo\u017Eena b\u00EDla postel a jedin\u00FD crafting table v m\u00EDstnosti. Ve strop\u011B, kter\u00FD je troj\u00FAheln\u00EDkov\u00E9ho tvaru, hned nad tabor\u00E1ky je 2x2 bloky velk\u00E1 d\u00EDra do [Hv\u011Bzdy](mi_hvezda). Schodi\u0161t\u011B z hlavn\u00ED \u010D\u00E1sti dol\u016F je z po\u010D\u00E1tku 4 bloky \u0161\u00EDrok\u00E9 a pot\u00E9 se d\u011Bl\u00ED na 3 \u010D\u00E1sti. St\u0159ed schodi\u0161t\u011B pokra\u010Duje dol\u016F na [Rozhran\u00ED](mi_rozhrani). Zat\u00EDmco bo\u010Dn\u00ED \u010D\u00E1sti schodi\u0161t\u011B se ot\u00E1\u010Dej\u00ED o 180\u00B0 a sm\u011B\u0159uj\u00ED na [Ropnou plo\u0161inu b](mi_ropna_plosina_b).\r\nNa prostranstv\u00ED, kter\u00E9 je na sever od hlavn\u00ED \u010D\u00E1sti, je polo\u017Eena sv\u011Btle modr\u00E1 postel a okna, kter\u00FDmi lze vid\u011Bt [Nether port\u00E1l](mi_nether) a [Lod\u017Eii](mi_lodzie).\r\nProstor m\u00EDstnosti je osv\u011Btlen lou\u010Demi, lanternami a t\u00E1bor\u00E1ky."
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": "Jedin\u00E9 dva z osmi vstup\u016F na ropnou plo\u0161inu jsou tvo\u0159eny dve\u0159mi.\r\nZ Ropn\u00E9 plo\u0161iny nevede \u017E\u00E1dn\u00FD vchod do [Netheru](mi_nether). Dva z vchod\u016F do [Netheru](mi_nether) se ale nach\u00E1z\u00ED jen dva bloky za hranic\u00ED m\u00EDstnosti.\r\nOkno na prostranstv\u00ED p\u0159esn\u011B kop\u00EDruje [Nether port\u00E1l](mi_nether), kter\u00FD je za n\u00EDm postaven\u00FD. Okno tak z\u00EDsk\u00E1v\u00E1 fialovou barvu.\nD\u00E1 se \u0159\u00EDct, \u017Ee Ropn\u00E1 Plo\u0161ina dala vzniku cel\u00E9 [Ryb\u00E1\u0159sk\u00E9 kolonii](ct_rybarska_kolonie)."
+      }
+    ],
+    "image_id": 0,
+    "area": 124,
+    "Empty": false,
+    "numberOfRooms": 0
+  },
+  "mi_ropna_plosina_b": {
+    "Title": "Ropn\u00E1 Plo\u0161ina b",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "ROPN\u00C1 PLO\u0160INA B",
+      "KOUTEK"
+    ],
+    "Bordering_rooms": [
+      "mi_ropna_plosina",
+      "mi_klub",
+      "mi_podpalubi",
+      "mi_retarder",
+      "mi_smashy_house",
+      "mi_rozhrani",
+      "mi_lodzie"
+    ],
+    "Metadata": {
+      "N\u00E1zev": "Ropn\u00E1 Plo\u0161ina b",
+      "Blok": "[Ropn\u00E1 Plo\u0161ina](bl_ropna_plosina)",
+      "Okrsek": "[Ben\u00E1tky](ok_benatky)",
+      "\u010Ctvr\u0165": "[Ryb\u00E1\u0159sk\u00E1 Kolonie](ct_rybarska_kolonie)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Je m\u00EDstnost nach\u00E1zej\u00EDc\u00ED se hned pod [Ropnou Plo\u0161inou](mi_ropna_plosina). Na ni vede hned dvojice schod\u016F na v\u00FDchodn\u00ED stran\u011B m\u00EDstnosti. Schody na lev\u00E9 stran\u011B nav\u00EDc vedou ke dve\u0159\u00EDm do [Lod\u017Eie](mi_lodzie) a schody na stran\u011B prav\u00E9 vedou nejen nahoru k [Ropn\u00E9 Plo\u0161in\u011B](mi_ropna_plosina), ale i dol\u016F k [Smashy housu](mi_smashy_house) a na [Rozhran\u00ED](mi_rozhrani). Krom\u011B t\u011Bchto vchod\u016F se d\u00E1 dostat z Ropn\u00E9 Plo\u0161iny b dve\u0159mi do [Podpalub\u00ED](mi_podpalubi) a do [Klubu](mi_klub) a uprost\u0159ed m\u00EDstnosti je dva bloky \u0161irok\u00E9 schodi\u0161t\u011B na [Retard\u00E9r](mi_retarder).\r\nCelkov\u011B m\u00E1 m\u00EDstnost velmi n\u00EDzk\u00FD strop, jen 2.5 bloku a na j\u00ED\u017En\u00ED a z\u00E1padn\u00ED stran\u011B se nenal\u00E9z\u00E1 \u017E\u00E1dn\u00E1 st\u011Bna \u010Di plot, kter\u00FD by chr\u00E1nil proti do \u0159eky \u010Di na [Pultovou st\u0159echu], kter\u00E1 se nach\u00E1z\u00ED n\u00ED\u017Ee."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Ropn\u00E1 Plo\u0161ina b zd\u011Bdila n\u00E1zev od [Ropn\u00E9 Plo\u0161iny](mi_ropna_plosina), kter\u00E1 byla postavena d\u0159\u00EDve."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Interi\u00E9ru m\u00EDstnosti dominuje schodi\u0161t\u011B na [Retard\u00E9r](mi_retarder). Schodi\u0161t\u011B se nach\u00E1z\u00ED ve st\u0159edu m\u00EDstnosti. Z m\u00EDstnosti vedou je\u0161t\u011B dv\u011B schodi\u0161t\u011B a ob\u011B se nach\u00E1z\u00ED na v\u00FDchodn\u00ED stran\u011B. Mezi nimi je mal\u00FD koutek o rozm\u011Brech 1x2 bloky s b\u00EDlou postel\u00ED, crafting tablem a dv\u011Bmi barely, kter\u00E9 nejsou vyu\u017Eity. \r\nV jihoz\u00E1padn\u00EDm rohu se nach\u00E1z\u00ED posledn\u00ED zbyl\u00FD plotov\u00FD sloupek z [Ropn\u00E9 Plo\u0161iny](mi_ropna_plosina). Mo\u017En\u00E1 i d\u00EDky n\u011Bmu neexistuje z\u00E1padn\u00ED a ji\u017En\u00ED st\u011Bna a Ropn\u00E1 Plo\u0161ina b tak z\u016Fst\u00E1v\u00E1 otev\u0159enou m\u00EDstnost\u00ED."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Postel v koutku je polo\u017Eena na dvou trapdoorech, kter\u00E9 p\u0159i zav\u0159en\u00ED zakryj\u00ED v\u00FD\u0161e zm\u00EDn\u011Bn\u00E9 barely.\r\nI kdy\u017E se Ropn\u00E1 Plo\u0161ina b nach\u00E1z\u00ED pod [Ropnou Plo\u0161inou](mi_ropna_plosina) byla postavena pozd\u011Bji."
+      }
+    ],
+    "image_id": 0,
+    "area": 60,
+    "Empty": false,
+    "numberOfRooms": 0
+  },
+  "mi_hvezda": {
+    "Title": "Hv\u011Bzda",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "HV\u011AZDA",
+      "MAL\u00C9 RAMENO",
+      "VELK\u00C9 RAMENO"
+    ],
+    "Bordering_rooms": [
+      "mi_rubec",
+      "mi_beetroot_farma",
+      "mi_byt_chudaka_kterej_nema_rad_kluby",
+      "mi_diving_room",
+      "mi_ordinace_pink_lady",
+      "mi_unikove_schodiste",
+      "mi_dalnicni_pilir"
+    ],
+    "Metadata": {
+      "N\u00E1zev": "Hv\u011Bzda",
+      "Blok": "[Ropn\u00E1 Plo\u0161ina](bl_ropna_plosina)",
+      "Okrsek": "[Ben\u00E1tky](ok_benatky)",
+      "\u010Ctvr\u0165": "[Ryb\u00E1\u0159sk\u00E1 Kolonie](ct_rybarska_kolonie)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Hv\u011Bzda je m\u00EDstnost ve tvaru p\u00EDsmene L. Krat\u0161\u00ED rameno m\u00EDstnosti je 4 bloky dlouh\u00E1 chodba zakon\u010Dena dve\u0159mi do [Bytu chud\u00E1ka, kterej nem\u00E1 r\u00E1d kluby](mi_byt_chudaka_kterej_nema_rad_kluby) po lev\u00E9 stran\u011B. Del\u0161\u00ED rameno o d\u00E9lce dev\u00EDti blok\u016F m\u00E1 po severn\u00ED stran\u011B schody nahoru na [Beetroot farmu](mi_beetroot_farma) a na jihu branku do [Diving room](mi_diving_room). Samotn\u00E9 rameno je ukon\u010Deno v\u00FDtahem vedouc\u00EDm do [\u00DAnikov\u00E9ho schodi\u0161t\u011B](mi_unikove_schodiste) a na [D\u00E1lni\u010Dn\u00ED pil\u00ED\u0159](mi_dalnicni_pilir). Ze st\u0159edu lze vej\u00EDt dve\u0159mi na [Rubec](mi_rubec) a do [ordinace Pink Lady](mi_ordinace_pink_lady)."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "M\u00EDstnost z\u00EDskala sv\u016Fj n\u00E1zev podle sv\u00E9ho tvaru, kter\u00FD ironicky hv\u011Bzdu nep\u0159ipom\u00EDn\u00E1."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "V m\u00EDstnosti se nach\u00E1z\u00ED \u017Elut\u00E1 postel a jeden crafting table. Men\u0161\u00ED rameno je oploceno a zabra\u0148uje tak p\u00E1du na [Ropnou Plo\u0161inu] n\u00ED\u017Ee. Oproti tomu rameno v\u011Bt\u0161\u00ED je oploceno jen z prav\u00E9 strany a tak z n\u011Bj lze sesko\u010Dit dol\u016F na [St\u0159edov\u00E9 n\u00E1m\u011Bst\u00ED](mi_stredove_namesti).\r\nVe st\u0159edu m\u00EDstnosti se nach\u00E1z\u00ED 2x2 bloky velk\u00E1 d\u00EDra, kter\u00E1 nen\u00ED nijak oplocena, z n\u00ED\u017E vych\u00E1z\u00ED kou\u0159 z t\u00E1bor\u00E1k\u016F na [Ropn\u00E9 Plo\u0161in\u011B](mi_ropna_plosina). Na ji\u017En\u00ED st\u011Bn\u011B tohoto prostoru je velk\u00E9 okno s v\u00FDhledem na [Lom](ct_lom).\r\nStrop je ve v\u011Bt\u0161in\u011B m\u00EDstnosti 3-4 bloky vysoko. Na kraji del\u0161\u00EDho ramena se strop nal\u00E9z\u00E1 ve v\u00FD\u0161ce sedmi a p\u016Fl bloku."
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": "Z Hv\u011Bzdy lze vid\u011Bt t\u0159i typy list\u00ED/jehli\u010D\u00ED: t\u0159e\u0161\u0148ov\u00E9, dubov\u00E9 a smrkov\u00E9.\r\nDo Hv\u011Bzdy se ned\u00E1 dostat do \u017E\u00E1dn\u00E9 jin\u00E9 m\u00EDstnosti v [Ropn\u00E9 Plo\u0161in\u011B](bl_ropna_plosina). Z n\u00ED pouze p\u0159i sebevra\u017Eedn\u00E9m skoku na ho\u0159\u00EDc\u00ED t\u00E1bor\u00E1ky.\r\nPro vstup do [ordinace Pink Lady] je t\u0159eba p\u0159ej\u00EDt \u017Elutou postel."
+      }
+    ],
+    "image_id": 0,
+    "area": 89,
+    "Empty": false,
+    "numberOfRooms": 0
+  },
+  "bl_ropna_plosina": {
+    "Title": "Ropn\u00E1 Plo\u0161ina",
+    "Type": "blok",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Metadata": {
+      "N\u00E1zev": "Ropn\u00E1 Plo\u0161ina",
+      "Okrsek": "[Ben\u00E1tky](ok_benatky)",
+      "\u010Ctvr\u0165": "[Ryb\u00E1\u0159sk\u00E1 Kolonie](ct_rybarska_kolonie)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Ropn\u00E1 plo\u0161ina je blok v [Ben\u00E1tk\u00E1ch](ok_benatky) se t\u0159emi m\u00EDstnostmi. Jednotliv\u00E9 m\u00EDstnosti jsou postaveny na sob\u011B, ka\u017Ed\u00E1 v jin\u00E9m pat\u0159e. Od nejn\u00ED\u017Ee polo\u017Eenou se jedn\u00E1 o: [Ropnou Plo\u0161inu b](mi_ropna_plosina_b), [Ropnou Plo\u0161inu](mi_ropna_plosina) a [Hv\u011Bzdu](mi_hvezda). Nejv\u011Bt\u0161\u00ED m\u00EDstnost\u00ED je [Ropn\u00E1 Plo\u0161ina](mi_ropna_plosina) a nejmen\u0161\u00ED [Ropn\u00E1 Plo\u0161ina b](mi_ropna_plosina_b).\r\nRopn\u00E9 plo\u0161iny jsou mezi sebou propojeny schody \u010D\u00EDm\u017E se li\u0161\u00ED od [Hv\u011Bzdy](mi_hvezda), kter\u00E1 nen\u00ED s ostatn\u00EDmi m\u00EDstnostmi p\u0159\u00EDmo propojena. [Hv\u011Bzda](mi_hvezda) je tak exkl\u00E1vou Ropn\u00E9 Plo\u0161iny.\r\nRopn\u00E1 Plo\u0161ina soused\u00ED s n\u00E1sleduj\u00EDc\u00EDmi bloky: [Pir\u00E1tsk\u00E1 Lo\u010F](bl_piratska_lod), [Koridory](bl_koridory), [Hlavn\u00ED T\u0159\u00EDda](bl_hlavni_trida), [V\u00EDde\u0148](bl_viden), [Ke Klubu](bl_ke_klubu), [P\u0159\u00EDkop](bl_prikop), [St\u0159ed](bl_stred), [St\u0159echa](bl_strecha), [Doup\u011B](bl_doupe), [The Airship](bl_the_airship) a [Barvy](bl_barvy)."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Ropn\u00E1 plo\u0161ina z\u00EDskala sv\u016Fj n\u00E1zev podle hlavn\u00ED m\u00EDstnosti v bloku, [Ropn\u00E9 Plo\u0161iny](mi_ropna_plosina)."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Ve v\u0161ech m\u00EDstnostech bloku je alespo\u0148 jedna postel (v [Ropn\u00E9 Plo\u0161in\u011B](mi_ropna_plosina) dv\u011B) a jsou zejm\u00E9na otev\u0159en\u00E9. Z ka\u017Ed\u00E9 vede alespo\u0148 jedno schodi\u0161t\u011B a v ka\u017Ed\u00E9 je pou\u017Eit plot. Krom schodi\u0161\u0165e m\u00E1 [Hv\u011Bzda](mi_hvezda) p\u0159\u00EDstup k v\u00FDtahu sm\u011B\u0159uj\u00EDc\u00EDmu na [The Airship](bl_the_airship).\r\nKa\u017Ed\u00E1 z m\u00EDstnost\u00ED m\u00E1 nav\u00EDc n\u011Bjak\u00FD specifick\u00FD prvek. Pro [Ropnou Plo\u0161inu b](mi_ropna_plosina_b) je to mal\u00FD koutek s postel\u00ED a barely, pro [Ropnou Plo\u0161inu](mi_ropna_plosina) \u010Dtve\u0159ice t\u00E1bor\u00E1k\u016F a pro [Hv\u011Bzdu](mi_hvezda) d\u00EDra p\u0159\u00EDmo nad t\u00E1borsk\u00FDm ohn\u011Bm."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "[Hv\u011Bzda](mi_hvezda) je exkl\u00E1vou bloku, nebo\u0165 nen\u00ED s \u017E\u00E1dnou ostatn\u00ED m\u00EDstnost\u00ED p\u0159\u00EDmo propojena.\r\nI p\u0159es fakt, \u017Ee se jedn\u00E1 o men\u0161\u00ED blok soused\u00ED Ropn\u00E1 Plo\u0161ina s 11 dal\u0161\u00EDmi bloky. P\u0159edev\u0161\u00EDm d\u00EDky skv\u011Bl\u00E9mu propojen\u00ED m\u00EDstnost\u00ED se zbytkem domu."
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": false,
+    "numberOfRooms": 0
+  },
+  "mi_nether": {
+    "Title": "Nether",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "M\u00CDSTNOST A NETHER PORT\u00C1L",
+      "SCHODY"
+    ],
+    "Bordering_rooms": [
+      "mi_stredove_namesti",
+      "mi_ulice_schodova",
+      "mi_double_decker_house",
+      "mi_the_crossing"
+    ],
+    "Metadata": {
+      "N\u00E1zev": "Nether",
+      "Blok": "[St\u0159ed](bl_stred)",
+      "Okrsek": "[Smrk](ok_smrk)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
+      "\u00DA\u010Del": "Nether port\u00E1l"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Nether je mal\u00E1 m\u00EDstnost na [St\u0159edu](bl_stred). M\u00EDstnost se skl\u00E1d\u00E1 z hlavn\u00ED \u010D\u00E1sti a schodi\u0161t\u011B. Schodi\u0161t\u011B je 5 blok\u016F dlouh\u00E9 a z n\u011Bj vedou dve\u0159e do [Double Decker Housu](mi_double_decker_house) a na [ulici Schodovou](mi_ulice_schodova). Z hlavn\u00ED \u010D\u00E1sti se d\u00E1 odej\u00EDt \u010Dty\u0159mi vchody. Dva z nich vedou na [St\u0159edov\u00E9 n\u00E1m\u011Bst\u00ED](mi_stredove_namesti), 1 na [Crossing](mi_the_crossing) a posledn\u00ED na [ulici Schodovou](mi_ulice_schodova). M\u00EDstnost je u\u017Eite\u010Dn\u00E1, nebo\u0165 se n\u00ED nach\u00E1z\u00ED port\u00E1l do jin\u00E9 dimenze"
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "V m\u00EDstnosti se vyskytuje port\u00E1l do nether dimenze."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Nether je mal\u00E1 m\u00EDstnost o rozm\u011Brech 6x4 bloky se schodi\u0161t\u011Bm nahoru. Na v\u00FDchodn\u00ED stran\u011B je plot s brankou na [St\u0159edov\u00E9 n\u00E1m\u011Bst\u00ED](mi_stredove_namesti) a na z\u00E1pad\u011B je dominanta a hlavn\u00ED d\u016Fvod pro\u010D se m\u00EDstnost jmenuje Nether. Jedn\u00E1 se o nether port\u00E1l o rozm\u011Brech 3x3 bloky.\r\nKrom nether port\u00E1lu je v m\u00EDstnosti jedin\u00FD crafting table o to ve strop\u011B. V Netheru nen\u00ED \u017E\u00E1dn\u00E1 postel, mo\u017En\u00E1 reference na risk p\u0159i manipulaci s postelemi v pekeln\u00E9 dimenzi, ani \u017E\u00E1dn\u00FD barel. Ve\u0161ker\u00E9 v\u011Bci z netheru jsou uskladn\u011Bny v [J\u00E1m\u011B pekeln\u00E9](mi_jama_pekelna).\r\nM\u00EDstnost je osv\u011Btlena lou\u010Demi a fialov\u00FDm sv\u011Btlem z port\u00E1lu."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Nad jedin\u00FDm crafting tablem v m\u00EDstnosti je polo\u017Eena podlaha [Balk\u00F3nu svat\u00E9 ned\u011Ble](mi_balkon_svate_nedele)."
+      }
+    ],
+    "image_id": 0,
+    "area": 32,
     "Empty": false,
     "numberOfRooms": 0
   }

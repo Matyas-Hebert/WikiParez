@@ -74,6 +74,74 @@ public class WikiService
              type.Equals("část", StringComparison.OrdinalIgnoreCase));
     }
 
+    void PrintSortedDictionary(Dictionary<string, int> dict, List<string> keys)
+    {
+        foreach (var pair in dict.OrderByDescending(kvp => kvp.Value))
+        {
+            if(!keys.Contains(pair.Key)){
+                Console.ForegroundColor = ConsoleColor.Red;
+            }
+            Console.WriteLine($"{pair.Key}: {pair.Value}");
+            Console.ResetColor();
+        }
+    }
+
+    public void Analyze(Dictionary<string, WikiPage> dictionary){
+        var linksDict = new Dictionary<string, int>();
+        var lengths = new Dictionary<string, int>();
+        int total = 0;
+        int articles = 0;
+        foreach (var key in dictionary.Keys){
+            articles++;
+            foreach (var section in dictionary[key].Sections){
+                string result = Regex.Replace(section.Content, @"\[(.*?)\]\((.*?)\)", match =>
+                {
+                    string name = match.Groups[1].Value;
+                    string link = match.Groups[2].Value;
+
+                    if (!linksDict.ContainsKey(link))
+                        linksDict[link] = 0;
+                    linksDict[link]++;
+
+                    return $"{name}";
+                });
+                if (!lengths.ContainsKey(key)){
+                    lengths[key] = 0;
+                }
+                lengths[key] += result.Length;
+                total += result.Length;
+            }
+            foreach (var mkey in dictionary[key].Metadata.Keys){
+                string result = Regex.Replace(dictionary[key].Metadata[mkey], @"\[(.*?)\]\((.*?)\)", match =>
+                {
+                    string name = match.Groups[1].Value;
+                    string link = match.Groups[2].Value;
+
+                    if (!linksDict.ContainsKey(link))
+                        linksDict[link] = 0;
+                    linksDict[link]++;
+
+                    return $"{name}";
+                });
+            }
+        }
+
+        List<string> dictKeys = dictionary.Keys.ToList();
+
+        Console.ForegroundColor = ConsoleColor.Blue;
+        Console.WriteLine("lengths");
+        Console.ResetColor();
+        PrintSortedDictionary(lengths, dictKeys);
+        Console.ForegroundColor = ConsoleColor.Blue;
+        Console.WriteLine("links");
+        Console.ResetColor();
+        PrintSortedDictionary(linksDict, dictKeys);
+
+        Console.ForegroundColor = ConsoleColor.Green;
+        Console.WriteLine("Total of: " + total + " characters in " + articles + " articles.");
+        Console.ResetColor();
+    }
+
     public Dictionary<string, WikiPage> LoadPages()
     {
         if (!File.Exists(_path))
@@ -85,6 +153,7 @@ public class WikiService
             PropertyNameCaseInsensitive = true,
         };
         var dictionary = JsonSerializer.Deserialize<Dictionary<string, WikiPage>>(json, options) ?? new Dictionary<string, WikiPage>();
+        //Analyze(dictionary);
         foreach (var key in dictionary.Keys)
         {
             if (dictionary[key].image_count() == 0)
