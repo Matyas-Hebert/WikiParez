@@ -102,14 +102,23 @@ public class WikiService
 
     void PrintSortedDictionary(Dictionary<string, int> dict, List<string> keys)
     {
+        double total = 0;
+        double done = 0;
         foreach (var pair in dict.OrderByDescending(kvp => kvp.Value))
         {
-            if(!keys.Contains(pair.Key)){
+            if (!keys.Contains(pair.Key))
+            {
+                done += pair.Value;
                 Console.ForegroundColor = ConsoleColor.Red;
             }
+            total += pair.Value;
             Console.WriteLine($"{pair.Key}: {pair.Value}");
             Console.ResetColor();
         }
+        done = total - done;
+        Console.ForegroundColor = ConsoleColor.Green;
+        Console.WriteLine(done + "/" + total + " (" + done/total + ")");
+        Console.ResetColor();
     }
 
     public void Analyze(Dictionary<string, WikiPage> dictionary){
@@ -117,9 +126,11 @@ public class WikiService
         var lengths = new Dictionary<string, int>();
         int total = 0;
         int articles = 0;
-        foreach (var key in dictionary.Keys){
+        foreach (var key in dictionary.Keys)
+        {
             articles++;
-            foreach (var section in dictionary[key].Sections){
+            foreach (var section in dictionary[key].Sections)
+            {
                 string result = Regex.Replace(section.Content, @"\[(.*?)\]\((.*?)\)", match =>
                 {
                     string name = match.Groups[1].Value;
@@ -131,13 +142,15 @@ public class WikiService
 
                     return $"{name}";
                 });
-                if (!lengths.ContainsKey(key)){
+                if (!lengths.ContainsKey(key))
+                {
                     lengths[key] = 0;
                 }
                 lengths[key] += result.Length;
                 total += result.Length;
             }
-            foreach (var mkey in dictionary[key].Metadata.Keys){
+            foreach (var mkey in dictionary[key].Metadata.Keys)
+            {
                 if (dictionary[key].Metadata[mkey] != null)
                 {
                     string result = Regex.Replace(dictionary[key].Metadata[mkey], @"\[(.*?)\]\((.*?)\)", match =>
