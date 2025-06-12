@@ -40,7 +40,8 @@
     "image_id": 0,
     "area": 33,
     "Empty": false,
-    "numberOfRooms": 0
+    "numberOfRooms": 0,
+    "redirect": ""
   },
   "mi_schodiste_tt": {
     "Title": "Schodi\u0161t\u011B TT",
@@ -66,7 +67,7 @@
     "Sections": [
       {
         "Title": "P\u0159ehled",
-        "Content": "Schodi\u0161t\u011B TT je schodi\u0161t\u011B vedouc\u00ED z [bytu chud\u00E1ka, kterej nem\u00E1 r\u00E1d kluby](mi_byt_chudaka_kterej_nem\u00E1_rad_kluby) na [the Airship](the_airship). Schodi\u0161t\u011B p\u0159ekon\u00E1v\u00E1 v\u00FD\u0161kov\u00FD rozd\u00EDl 10 blok\u016F a krom dvou v\u00FD\u0161e zm\u00EDn\u011Bn\u00FDch m\u00EDstnost\u00ED m\u00E1 vchody do 2 dal\u0161\u00EDch. Uprost\u0159ed schodi\u0161t\u011B se na prav\u00E9 stran\u011B nach\u00E1z\u00ED dve\u0159e do [Dining room](mi_dining_room) a na lev\u00E9 stran\u011B voln\u00FD vchod do [Beetroot farmy](mi_beetroot_farma). Schodi\u0161t\u011B je 2 bloky \u0161irok\u00E9 a 10 blok\u016F dlouh\u00E9."
+        "Content": "Schodi\u0161t\u011B TT je schodi\u0161t\u011B vedouc\u00ED z [bytu chud\u00E1ka, kterej nem\u00E1 r\u00E1d kluby](mi_byt_chudaka_kterej_nema_rad_kluby) na [the Airship](the_airship). Schodi\u0161t\u011B p\u0159ekon\u00E1v\u00E1 v\u00FD\u0161kov\u00FD rozd\u00EDl 10 blok\u016F a krom dvou v\u00FD\u0161e zm\u00EDn\u011Bn\u00FDch m\u00EDstnost\u00ED m\u00E1 vchody do 2 dal\u0161\u00EDch. Uprost\u0159ed schodi\u0161t\u011B se na prav\u00E9 stran\u011B nach\u00E1z\u00ED dve\u0159e do [Dining room](mi_dining_room) a na lev\u00E9 stran\u011B voln\u00FD vchod do [Beetroot farmy](mi_beetroot_farma). Schodi\u0161t\u011B je 2 bloky \u0161irok\u00E9 a 10 blok\u016F dlouh\u00E9."
       },
       {
         "Title": "N\u00E1zev",
@@ -84,7 +85,8 @@
     "image_id": 0,
     "area": 20,
     "Empty": false,
-    "numberOfRooms": 0
+    "numberOfRooms": 0,
+    "redirect": ""
   },
   "mi_oranjestad": {
     "Title": "Oranjestad",
@@ -129,7 +131,8 @@
     "image_id": 0,
     "area": 64,
     "Empty": false,
-    "numberOfRooms": 0
+    "numberOfRooms": 0,
+    "redirect": ""
   },
   "mi_beetroot_farma": {
     "Title": "Beetroot farma",
@@ -177,7 +180,8 @@
     "image_id": 0,
     "area": 134,
     "Empty": false,
-    "numberOfRooms": 0
+    "numberOfRooms": 0,
+    "redirect": ""
   },
   "mi_ulice_schodova": {
     "Title": "Ulice Schodov\u00E1",
@@ -224,7 +228,8 @@
     "image_id": 0,
     "area": 54,
     "Empty": false,
-    "numberOfRooms": 0
+    "numberOfRooms": 0,
+    "redirect": ""
   },
   "mi_byt_chudaka_kterej_nema_rad_kluby": {
     "Title": "Byt chud\u00E1ka, kterej nem\u00E1 r\u00E1d kluby",
@@ -271,7 +276,8 @@
     "image_id": 0,
     "area": 52,
     "Empty": false,
-    "numberOfRooms": 0
+    "numberOfRooms": 0,
+    "redirect": ""
   },
   "mi_klub": {
     "Title": "Klub",
@@ -303,7 +309,7 @@
     "Sections": [
       {
         "Title": "P\u0159ehled",
-        "Content": "Klub je m\u00EDstnost ve [V\u00EDdni](bl_viden) s velk\u00FDm mno\u017Estv\u00EDm vchod\u016F a v\u00FDchod\u016F. Z m\u00EDstnost\u00ED se d\u00E1 dostat do dev\u00EDti r\u016Fzn\u00FDch m\u00EDstnost\u00ED. Na severu najdeme \u017Eeb\u0159\u00EDk na [ulici Schodovou](mi_ulice_schodova) a dve\u0159e do [Sila](mi_silo). Na v\u00FDchod\u011B jsou schody na [M\u011Bstsk\u00FD okruh](mi_mestsky_okruh) a dve\u0159e na [P\u0159echod](mi_prechod). Na jihu jsou dvojit\u00E9 dve\u0159e na [Ropnou plo\u0161inu b](mi_ropna_plosina_b), schody na [Ropnou plo\u0161inu](mi_ropna_plosina) a dve\u0159e na [Pilu](mi_pila). V neposledn\u00ED \u0159ad\u011B je v m\u00EDstnosti v\u00FDtah do [Bytu chud\u00E1ka, kterej nem\u00E1 r\u00E1d kluby](mi_byt_chudaka_kterej_nem\u00E1_r\u00E1d_kluby) a v prost\u0159edku m\u00EDstnosti jsou schody dol\u016F do [V\u00EDdn\u011B](mi_viden).\r\nKlub je plo\u0161n\u011B velk\u00FD, ale vzhledem k velk\u00E9mu po\u010Dtu dve\u0159\u00ED, schod\u016F a v\u00FDtah\u016F je prostor pln\u011B vyu\u017Eit. \u010Casto se jedn\u00E1 o pr\u016Fchoz\u00ED m\u00EDstnost."
+        "Content": "Klub je m\u00EDstnost ve [V\u00EDdni](bl_viden) s velk\u00FDm mno\u017Estv\u00EDm vchod\u016F a v\u00FDchod\u016F. Z m\u00EDstnost\u00ED se d\u00E1 dostat do dev\u00EDti r\u016Fzn\u00FDch m\u00EDstnost\u00ED. Na severu najdeme \u017Eeb\u0159\u00EDk na [ulici Schodovou](mi_ulice_schodova) a dve\u0159e do [Sila](mi_silo). Na v\u00FDchod\u011B jsou schody na [M\u011Bstsk\u00FD okruh](mi_mestsky_okruh) a dve\u0159e na [P\u0159echod](mi_prechod). Na jihu jsou dvojit\u00E9 dve\u0159e na [Ropnou plo\u0161inu b](mi_ropna_plosina_b), schody na [Ropnou plo\u0161inu](mi_ropna_plosina) a dve\u0159e na [Pilu](mi_pila). V neposledn\u00ED \u0159ad\u011B je v m\u00EDstnosti v\u00FDtah do [Bytu chud\u00E1ka, kterej nem\u00E1 r\u00E1d kluby](mi_byt_chudaka_kterej_nema_rad_kluby) a v prost\u0159edku m\u00EDstnosti jsou schody dol\u016F do [V\u00EDdn\u011B](mi_viden).\r\nKlub je plo\u0161n\u011B velk\u00FD, ale vzhledem k velk\u00E9mu po\u010Dtu dve\u0159\u00ED, schod\u016F a v\u00FDtah\u016F je prostor pln\u011B vyu\u017Eit. \u010Casto se jedn\u00E1 o pr\u016Fchoz\u00ED m\u00EDstnost."
       },
       {
         "Title": "N\u00E1zev",
@@ -321,7 +327,8 @@
     "image_id": 0,
     "area": 78,
     "Empty": false,
-    "numberOfRooms": 0
+    "numberOfRooms": 0,
+    "redirect": ""
   },
   "mi_viden": {
     "Title": "V\u00EDde\u0148",
@@ -367,7 +374,8 @@
     "image_id": 0,
     "area": 36,
     "Empty": false,
-    "numberOfRooms": 0
+    "numberOfRooms": 0,
+    "redirect": ""
   },
   "mi_rubec": {
     "Title": "Rubec",
@@ -410,7 +418,8 @@
     "image_id": 0,
     "area": 33,
     "Empty": false,
-    "numberOfRooms": 0
+    "numberOfRooms": 0,
+    "redirect": ""
   },
   "mi_nadchod": {
     "Title": "Nadchod",
@@ -452,7 +461,8 @@
     "image_id": 0,
     "area": 14,
     "Empty": false,
-    "numberOfRooms": 0
+    "numberOfRooms": 0,
+    "redirect": ""
   },
   "beacon_parez": {
     "Title": "Beacon - Pa\u0159ez",
@@ -490,7 +500,8 @@
     "image_id": 0,
     "area": 4,
     "Empty": false,
-    "numberOfRooms": 0
+    "numberOfRooms": 0,
+    "redirect": ""
   },
   "os_marcela_hebertova": {
     "Title": "Marcela Hebertov\u00E1",
@@ -524,7 +535,8 @@
     "image_id": 0,
     "area": 0,
     "Empty": false,
-    "numberOfRooms": 0
+    "numberOfRooms": 0,
+    "redirect": ""
   },
   "bl_barvy": {
     "Title": "Barvy",
@@ -559,7 +571,8 @@
     "image_id": 0,
     "area": 0,
     "Empty": false,
-    "numberOfRooms": 0
+    "numberOfRooms": 0,
+    "redirect": ""
   },
   "bl_viden": {
     "Title": "V\u00EDde\u0148",
@@ -576,7 +589,7 @@
     "Sections": [
       {
         "Title": "P\u0159ehled",
-        "Content": "V\u00EDde\u0148 je blok slo\u017Een z \u0161esti m\u00EDstnost\u00ED. \u010Cty\u0159i z t\u011Bchto \u0161esti m\u00EDstnost\u00ED jsou um\u00EDst\u011Bny nad sebou, od nejn\u00ED\u017Ee polo\u017Een\u00E9 v tomto po\u0159ad\u00ED: [Mosti\u0161t\u011B](mi_mostiste), [V\u00EDde\u0148](mi_viden), [Klub](mi_klub) a [Byt chud\u00E1ka, kterej nem\u00E1 r\u00E1d kluby](mi_byt_chudaka_kterej_nema_rad_kluby). Tyto m\u00EDstnosti jsou propojeny schody a v\u00FDtahy a\u017E na dva p\u0159\u00EDklady, kdy je probl\u00E9m se dostat o patro n\u00ED\u017Ee.\r\nDv\u011Bmi zb\u00FDvaj\u00EDc\u00EDmi m\u00EDstnostmi jsou [Nadchod](mi_nadchod) a [Rubec](mi_rubec). V obou p\u0159\u00EDpadech se jedn\u00E1 o m\u00EDstnost p\u0159ipom\u00EDnaj\u00EDc\u00ED chodbu vedouc\u00ED z [Bytu chud\u00E1ka, kter\u00FD nem\u00E1 rad kluby](mi_byt_chudaka_kterej_nema_rad_klub).\r\nNejv\u011Bt\u0161\u00ED m\u00EDstnosti bloku je [Klub](mi_klub) a nejmen\u0161\u00ED je [Nadchod](mi_nadchod). V\u00EDde\u0148 soused\u00ED s n\u00E1sleduj\u00EDc\u00EDmi dev\u00EDti bloky: [Barvy](bl_barvy), [Ropn\u00E1 Plo\u0161ina](bl_ropna_plosina), [Vestibul](bl_vestibul), [Rotunda](bl_rotunda), [Ke Klubu](bl_ke_klubu), [Silo](bl_silo), [Jezdci](bl_jezdci), [Hlavn\u00ED T\u0159\u00EDda](bl_hlavni_trida) a [Na Vod\u011B](bl_na_vode)"
+        "Content": "V\u00EDde\u0148 je blok slo\u017Een z \u0161esti m\u00EDstnost\u00ED. \u010Cty\u0159i z t\u011Bchto \u0161esti m\u00EDstnost\u00ED jsou um\u00EDst\u011Bny nad sebou, od nejn\u00ED\u017Ee polo\u017Een\u00E9 v tomto po\u0159ad\u00ED: [Mosti\u0161t\u011B](mi_mostiste), [V\u00EDde\u0148](mi_viden), [Klub](mi_klub) a [Byt chud\u00E1ka, kterej nem\u00E1 r\u00E1d kluby](mi_byt_chudaka_kterej_nema_rad_kluby). Tyto m\u00EDstnosti jsou propojeny schody a v\u00FDtahy a\u017E na dva p\u0159\u00EDklady, kdy je probl\u00E9m se dostat o patro n\u00ED\u017Ee.\r\nDv\u011Bmi zb\u00FDvaj\u00EDc\u00EDmi m\u00EDstnostmi jsou [Nadchod](mi_nadchod) a [Rubec](mi_rubec). V obou p\u0159\u00EDpadech se jedn\u00E1 o m\u00EDstnost p\u0159ipom\u00EDnaj\u00EDc\u00ED chodbu vedouc\u00ED z [Bytu chud\u00E1ka, kter\u00FD nem\u00E1 rad kluby](mi_byt_chudaka_kterej_nema_rad_kluby).\r\nNejv\u011Bt\u0161\u00ED m\u00EDstnosti bloku je [Klub](mi_klub) a nejmen\u0161\u00ED je [Nadchod](mi_nadchod). V\u00EDde\u0148 soused\u00ED s n\u00E1sleduj\u00EDc\u00EDmi dev\u00EDti bloky: [Barvy](bl_barvy), [Ropn\u00E1 Plo\u0161ina](bl_ropna_plosina), [Vestibul](bl_vestibul), [Rotunda](bl_rotunda), [Ke Klubu](bl_ke_klubu), [Silo](bl_silo), [Jezdci](bl_jezdci), [Hlavn\u00ED T\u0159\u00EDda](bl_hlavni_trida) a [Na Vod\u011B](bl_na_vode)"
       },
       {
         "Title": "N\u00E1zev",
@@ -584,7 +597,7 @@
       },
       {
         "Title": "Interi\u00E9r",
-        "Content": "V ka\u017Ed\u00E9 m\u00EDstnosti (tedy ve v\u0161ech krom\u011B [Rubce](mi_rubec) a [Nadchodu](mi_nadchod) je 1 postel. T\u0159i z m\u00EDstnost\u00ED maj\u00ED sv\u016Fj \u00FA\u010Del a to: [V\u00EDde\u0148](mi_viden) na uskladn\u011Bn\u00ED ledu a lod\u00ED, [Klub](mi_klub) na uskladn\u011Bn\u00ED hub a [Byt chud\u00E1ka, kter\u00FD nem\u00E1 rad kluby](mi_byt_chudaka_kterej_nema_rad_klub), kde je barel ur\u010Den\u00FD pro music disky.\r\nKrom\u011B [Klubu](mi_klub) se obecn\u011B jedn\u00E1 o men\u0161\u00ED m\u00EDstnosti s men\u0161\u00EDm po\u010Dtem oken, kter\u00E9 nejsou \u00FApln\u011B nejl\u00E9pe propojeny. V\u00FDtahy v m\u00EDstnostech nejsou \u010Dasto nejrychlej\u0161\u00EDm zp\u016Fsobem jak se dostat o patro v\u00FD\u0161e."
+        "Content": "V ka\u017Ed\u00E9 m\u00EDstnosti (tedy ve v\u0161ech krom\u011B [Rubce](mi_rubec) a [Nadchodu](mi_nadchod) je 1 postel. T\u0159i z m\u00EDstnost\u00ED maj\u00ED sv\u016Fj \u00FA\u010Del a to: [V\u00EDde\u0148](mi_viden) na uskladn\u011Bn\u00ED ledu a lod\u00ED, [Klub](mi_klub) na uskladn\u011Bn\u00ED hub a [Byt chud\u00E1ka, kter\u00FD nem\u00E1 rad kluby](mi_byt_chudaka_kterej_nema_rad_kluby), kde je barel ur\u010Den\u00FD pro music disky.\r\nKrom\u011B [Klubu](mi_klub) se obecn\u011B jedn\u00E1 o men\u0161\u00ED m\u00EDstnosti s men\u0161\u00EDm po\u010Dtem oken, kter\u00E9 nejsou \u00FApln\u011B nejl\u00E9pe propojeny. V\u00FDtahy v m\u00EDstnostech nejsou \u010Dasto nejrychlej\u0161\u00EDm zp\u016Fsobem jak se dostat o patro v\u00FD\u0161e."
       },
       {
         "Title": "Zaj\u00EDmavosti",
@@ -594,7 +607,8 @@
     "image_id": 0,
     "area": 0,
     "Empty": false,
-    "numberOfRooms": 0
+    "numberOfRooms": 0,
+    "redirect": ""
   },
   "ca_parez": {
     "Title": "Pa\u0159ez",
@@ -626,7 +640,8 @@
     "image_id": 0,
     "area": 0,
     "Empty": false,
-    "numberOfRooms": 0
+    "numberOfRooms": 0,
+    "redirect": ""
   },
   "mi_mostiste": {
     "Title": "Mosti\u0161t\u011B",
@@ -673,7 +688,8 @@
     "image_id": 0,
     "area": 38,
     "Empty": false,
-    "numberOfRooms": 0
+    "numberOfRooms": 0,
+    "redirect": ""
   },
   "mi_strecha": {
     "Title": "St\u0159echa",
@@ -720,7 +736,8 @@
     "image_id": 0,
     "area": 143,
     "Empty": false,
-    "numberOfRooms": 0
+    "numberOfRooms": 0,
+    "redirect": ""
   },
   "mi_skokanske_mustky": {
     "Title": "Skokansk\u00E9 m\u016Fstky",
@@ -758,13 +775,14 @@
       },
       {
         "Title": "Zaj\u00EDmavosti",
-        "Content": "\u010Cerven\u00FD a modr\u00FD paprsek z [beaconu](beacon_parez) proch\u00E1z\u00ED sklem mezi [Chodbou](mi_chodbou) a skokansk\u00FDmi m\u016Fstky.\r\nM\u016Fstky se nach\u00E1zej\u00ED 6.5 bloku nad hladinou vody.\r\nPro zopakov\u00E1n\u00ED skoku je t\u0159eba proj\u00EDt skrz [Schwarzenegger house](mi_schwarzenegger_house), [Airship](mi_the_airship) a [Chodbu](mi_chodba)."
+        "Content": "\u010Cerven\u00FD a modr\u00FD paprsek z [beaconu](beacon_parez) proch\u00E1z\u00ED sklem mezi [Chodbou](mi_chodba) a skokansk\u00FDmi m\u016Fstky.\r\nM\u016Fstky se nach\u00E1zej\u00ED 6.5 bloku nad hladinou vody.\r\nPro zopakov\u00E1n\u00ED skoku je t\u0159eba proj\u00EDt skrz [Schwarzenegger house](mi_schwarzenegger_house), [Airship](mi_the_airship) a [Chodbu](mi_chodba)."
       }
     ],
     "image_id": 0,
     "area": 93,
     "Empty": false,
-    "numberOfRooms": 0
+    "numberOfRooms": 0,
+    "redirect": ""
   },
   "mi_chodba": {
     "Title": "Chodba",
@@ -814,7 +832,8 @@
     "image_id": 0,
     "area": 128,
     "Empty": false,
-    "numberOfRooms": 0
+    "numberOfRooms": 0,
+    "redirect": ""
   },
   "mi_dalnicni_prechod": {
     "Title": "D\u00E1lni\u010Dn\u00ED p\u0159echod",
@@ -856,7 +875,8 @@
     "image_id": 0,
     "area": 15,
     "Empty": false,
-    "numberOfRooms": 0
+    "numberOfRooms": 0,
+    "redirect": ""
   },
   "mi_pucmeloun_farma": {
     "Title": "Pu\u010Dmeloun farma",
@@ -899,7 +919,8 @@
     "image_id": 0,
     "area": 26,
     "Empty": false,
-    "numberOfRooms": 0
+    "numberOfRooms": 0,
+    "redirect": ""
   },
   "mi_staj": {
     "Title": "St\u00E1j",
@@ -941,7 +962,8 @@
     "image_id": 0,
     "area": 81,
     "Empty": false,
-    "numberOfRooms": 0
+    "numberOfRooms": 0,
+    "redirect": ""
   },
   "mi_builder_cepicka": {
     "Title": "Builder \u010Depi\u010Dka",
@@ -982,7 +1004,8 @@
     "image_id": 0,
     "area": 56,
     "Empty": false,
-    "numberOfRooms": 0
+    "numberOfRooms": 0,
+    "redirect": ""
   },
   "mi_lokace": {
     "Title": "Lokace",
@@ -1024,7 +1047,8 @@
     "image_id": 0,
     "area": 99,
     "Empty": false,
-    "numberOfRooms": 0
+    "numberOfRooms": 0,
+    "redirect": ""
   },
   "mi_kabina": {
     "Title": "Kabina",
@@ -1068,7 +1092,8 @@
     "image_id": 0,
     "area": 53,
     "Empty": false,
-    "numberOfRooms": 0
+    "numberOfRooms": 0,
+    "redirect": ""
   },
   "mi_the_terrass": {
     "Title": "The Terrass",
@@ -1093,7 +1118,7 @@
     "Sections": [
       {
         "Title": "P\u0159ehled",
-        "Content": "The Terrass nebo tak\u00E9 Terasa je \u010Dtvercov\u00E1 m\u00EDstnost na samotn\u00E9m severn\u00EDm konci [Airshipu](bl_the_airship). Podlaha v m\u00EDstnosti je na t\u0159ech v\u00FD\u0161kov\u00FDch \u00FArovn\u00EDch a p\u0159ipom\u00EDn\u00E1 schodi\u0161t\u011B jdouc\u00ED z v\u00FDchodu na z\u00E1pad. Na nejni\u017E\u0161\u00ED \u00FArovni jsou dve\u0159e na [Airship](mi_the_airship) a na \u00FArovni nejvy\u0161\u0161\u00ED vstup do [Parsley Attic](mi_parsley_attic) a na [Detour](mi_detour).\r\nPodlaha m\u00EDstnosti je z velk\u00E9 \u010D\u00E1sti skl\u011Bn\u011Bn\u00E1 a nab\u00EDz\u00ED pohled na [Beetroot farmu](mi_beetroot_farma) a [Ru\u010F\u00E1k\u016Fv d\u016Fm](mi_rudakuv_dum) pod n\u00ED."
+        "Content": "The Terrass nebo tak\u00E9 Terasa je \u010Dtvercov\u00E1 m\u00EDstnost na samotn\u00E9m severn\u00EDm konci [Airshipu](bl_the_airship). Podlaha v m\u00EDstnosti je na t\u0159ech v\u00FD\u0161kov\u00FDch \u00FArovn\u00EDch a p\u0159ipom\u00EDn\u00E1 schodi\u0161t\u011B jdouc\u00ED z v\u00FDchodu na z\u00E1pad. Na nejni\u017E\u0161\u00ED \u00FArovni jsou dve\u0159e na [Airship](mi_the_airship) a na \u00FArovni nejvy\u0161\u0161\u00ED vstup do [Parsley Attic](mi_parsley_attic) a na [Detour](mi_the_detour).\r\nPodlaha m\u00EDstnosti je z velk\u00E9 \u010D\u00E1sti skl\u011Bn\u011Bn\u00E1 a nab\u00EDz\u00ED pohled na [Beetroot farmu](mi_beetroot_farma) a [Ru\u010F\u00E1k\u016Fv d\u016Fm](mi_rudakuv_dum) pod n\u00ED."
       },
       {
         "Title": "N\u00E1zev",
@@ -1111,7 +1136,8 @@
     "image_id": 0,
     "area": 69,
     "Empty": false,
-    "numberOfRooms": 0
+    "numberOfRooms": 0,
+    "redirect": ""
   },
   "mi_parsley_attic": {
     "Title": "Parsley Attic",
@@ -1157,7 +1183,8 @@
     "image_id": 0,
     "area": 82,
     "Empty": false,
-    "numberOfRooms": 0
+    "numberOfRooms": 0,
+    "redirect": ""
   },
   "mi_the_airship": {
     "Title": "The Airship",
@@ -1215,7 +1242,8 @@
     "image_id": 0,
     "area": 285,
     "Empty": false,
-    "numberOfRooms": 0
+    "numberOfRooms": 0,
+    "redirect": ""
   },
   "mi_lodzie": {
     "Title": "Lod\u017Eie",
@@ -1258,7 +1286,8 @@
     "image_id": 0,
     "area": 31,
     "Empty": false,
-    "numberOfRooms": 0
+    "numberOfRooms": 0,
+    "redirect": ""
   },
   "mi_prechod": {
     "Title": "P\u0159echod",
@@ -1299,7 +1328,8 @@
     "image_id": 0,
     "area": 13,
     "Empty": false,
-    "numberOfRooms": 0
+    "numberOfRooms": 0,
+    "redirect": ""
   },
   "bl_ke_klubu": {
     "Title": "Ke Klubu",
@@ -1334,7 +1364,8 @@
     "image_id": 0,
     "area": 0,
     "Empty": false,
-    "numberOfRooms": 0
+    "numberOfRooms": 0,
+    "redirect": ""
   },
   "mi_ropna_plosina": {
     "Title": "Ropn\u00E1 Plo\u0161ina",
@@ -1385,7 +1416,8 @@
     "image_id": 0,
     "area": 124,
     "Empty": false,
-    "numberOfRooms": 0
+    "numberOfRooms": 0,
+    "redirect": ""
   },
   "mi_ropna_plosina_b": {
     "Title": "Ropn\u00E1 Plo\u0161ina b",
@@ -1432,7 +1464,8 @@
     "image_id": 0,
     "area": 60,
     "Empty": false,
-    "numberOfRooms": 0
+    "numberOfRooms": 0,
+    "redirect": ""
   },
   "mi_hvezda": {
     "Title": "Hv\u011Bzda",
@@ -1480,7 +1513,8 @@
     "image_id": 0,
     "area": 89,
     "Empty": false,
-    "numberOfRooms": 0
+    "numberOfRooms": 0,
+    "redirect": ""
   },
   "bl_ropna_plosina": {
     "Title": "Ropn\u00E1 Plo\u0161ina",
@@ -1515,7 +1549,8 @@
     "image_id": 0,
     "area": 0,
     "Empty": false,
-    "numberOfRooms": 0
+    "numberOfRooms": 0,
+    "redirect": ""
   },
   "mi_nether": {
     "Title": "Nether",
@@ -1560,6 +1595,433 @@
     "image_id": 0,
     "area": 32,
     "Empty": false,
-    "numberOfRooms": 0
+    "numberOfRooms": 0,
+    "redirect": ""
+  },
+  "mi_dobra_voda": {
+    "Title": "Dobr\u00E1 Voda",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "POHLED Z LOD\u017DIE",
+      "DRUH\u00C9 PODLA\u017D\u00CD"
+    ],
+    "Bordering_rooms": [
+      "mi_silo",
+      "mi_mestsky_okruh",
+      "mi_the_bridge",
+      "mi_pultova_strecha",
+      "mi_viden"
+    ],
+    "Metadata": {
+      "N\u00E1zev": "Dobr\u00E1 Voda",
+      "Blok": "[Hlavn\u00ED T\u0159\u00EDda](bl_hlavni_trida)",
+      "Okrsek": "[Ben\u00E1tky](ok_benatky)",
+      "\u010Ctvr\u0165": "[Ryb\u00E1\u0159sk\u00E1 Kolonie](ct_rybarska_kolonie)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
+      "\u00DA\u010Del": "Uskladn\u011Bn\u00ED lahvi\u010Dek z vodou"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Dobr\u00E1 Voda je dvoupatrov\u00E1 m\u00EDstnost na [Hlavn\u00ED T\u0159\u00EDd\u011B](bl_hlavni_trida). Jedn\u00E1 se prot\u00E1hlou m\u00EDstnost ve sm\u011Bru jih-sever s \u0161\u00ED\u0159kou 2-3 bloky. Na severn\u00EDm konci jsou schody do druh\u00E9ho podla\u017E\u00ED ve kter\u00E9m se nach\u00E1z\u00ED vstup na [M\u011Bstsk\u00FD Okruh](mi_mestsky_okruh) a do [Sila](mi_silo).\r\nV prvn\u00EDm pat\u0159e jsou je\u0161t\u011B dal\u0161\u00ED 3 dve\u0159e a to na [Pultovou St\u0159echu](mi_pultova_strecha), [The Bridge](mi_the_bridge) a [V\u00EDde\u0148](mi_viden).\r\nM\u00EDstnost je ozna\u010Dov\u00E1na za u\u017Eite\u010Dnou d\u00EDky barelu ur\u010Den\u00E9mu na uskladn\u011Bn\u00ED lahvi\u010Dek z vodou."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "N\u00E1zev m\u00EDstnosti se shoduje se jm\u00E9nem vesnice na Vyso\u010Din\u011B, kter\u00E1 je pobl\u00ED\u017E vesnice se jm\u00E9nem V\u00EDde\u0148. [V\u00EDde\u0148](mi_viden) a Dobr\u00E1 Voda jsou tedy pobl\u00ED\u017E jak v tomto dom\u011B tak na Vyso\u010Din\u011B."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Prostor v Dobr\u00E9 Vod\u011B je rozd\u011Blen na dv\u011B podla\u017E\u00ED, kter\u00E1 jsou spojena schody. Druh\u00E9 podla\u017E\u00ED je v\u00FDrazn\u011B men\u0161\u00ED s plo\u0161nou m\u00EDrou jen 6 blok\u016F\u00B2. Krom dvou dve\u0159\u00ED je zde plot chr\u00E1n\u00EDc\u00ED \u010D\u00E1ste\u010Dn\u011B proti p\u00E1du a na schodech je barel, jeho\u017E pouh\u00E1 \u010Dtvrtina je odkryta, z [Bridge](mi_the_bridge). \u010C\u00E1st v\u00FDchodn\u00ED a severn\u00ED st\u011Bny schodi\u0161t\u011B je tvo\u0159ena trapdoory.\r\nV prvn\u00EDm podla\u017E\u00ED hned vedle schod\u016F je b\u00EDl\u00E1 postel a p\u0159ed n\u00ED crafting table. D\u00E1le je na tomto pat\u0159e barel ur\u010Den\u00FD na uskladn\u011Bn\u00ED lahvi\u010Dek s vodou, kotl\u00EDk s vodou a celkem t\u0159i item framy. Jeden z nich je pr\u00E1zdn\u00FD a je um\u00EDst\u011Bn na barelu s lahvi\u010Dkami/lahvi\u010Dkou. Dal\u0161\u00ED dva jsou na z\u00E1padn\u00ED st\u011Bn\u011B hned vedle dve\u0159\u00ED na [Pultovou St\u0159echu](mi_pultova_strecha).\r\nNa ji\u017En\u00EDm konci m\u00EDstnosti je ve v\u00FD\u0161ce balk\u00F3n, je\u017E je sou\u010D\u00E1st\u00ED [Lod\u017Eie](mi_lodzie). Pod n\u00EDm je strop pouze 2 bloky vysoko. V ostatn\u00EDch m\u00EDstech je strop v\u00FD\u0161e: V druh\u00E9m podla\u017E\u00ED 2.5 bloku a v prvn\u00EDm 4.5 bloku vysoko."
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": "Barel ur\u010Den\u00FD na uskladn\u011Bn\u00ED lahvi\u010Dek z vodou nen\u00ED ozna\u010Den itemem, kter\u00FD do n\u011Bj pat\u0159\u00ED. Lahvi\u010Dky s vodou v item framu jsou m\u00EDsto toho um\u00EDst\u011Bny na druh\u00E9 stran\u011B m\u00EDstnosti.\r\nNa balk\u00F3n v [Lod\u017Eii](mi_lodzie) je mo\u017En\u00E9 dv\u011Bma ladn\u00FDmi skoky vysko\u010Dit."
+      }
+    ],
+    "image_id": 0,
+    "area": 38,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "redirect": ""
+  },
+  "mi_spojnice": {
+    "Title": "Spojnice",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "SPOJNICE",
+      "SCHODY K BET\u011A A DO STATKU",
+      "SCHODY Z AIRSHIPU"
+    ],
+    "Bordering_rooms": [
+      "mi_the_airship",
+      "mi_kabina",
+      "mi_chodba_ii",
+      "mi_galerie",
+      "mi_katakomby",
+      "mi_unikove_schodiste",
+      "mi_kino_scala",
+      "mi_ustredni_stredisko_beta",
+      "mi_statek"
+    ],
+    "Metadata": {
+      "N\u00E1zev": "Spojnice",
+      "Blok": "[The Airship](bl_the_airship) a [Spojnice](bl_spojnice)",
+      "Okrsek": "[The Airship](ok_the_airship) a [Obchodn\u00ED st\u0159edisko](ok_obchodni_stredisko)",
+      "\u010Ctvr\u0165": "[Kmen](ct_kmen)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Spojnice m\u00EDstnost rozd\u011Blena hranic\u00ED okrsk\u016F [The Airship](ok_the_airship) a [Obchodn\u00ED St\u0159edisko](ok_obchodni_stredisko).\r\n\u010C\u00E1st na [Airshipu](ok_the_airship) je tvo\u0159ena 2-3 bloky \u0161irok\u00FDm schodi\u0161t\u011Bm spojuj\u00EDc\u00EDm [The Airship](mi_the_airship) se zbytkem Spojnice. Na samotn\u00E9m schodi\u0161t\u011B jsou jedin\u00E9 dve\u0159e vedouc\u00ED do [Kabiny](mi_kabina).\r\n\u010C\u00E1st v [Obchodn\u00EDm St\u0159edisku](ok_obchodni_stredisko) je v\u00EDce ne\u017E \u010Dty\u0159n\u00E1sobn\u011B velk\u00E1 a je tvo\u0159ena hlavn\u00EDm prostorem a schodi\u0161t\u011Bm. Hlavn\u00ED prostor m\u00E1 rozm\u011Bry 6x11 blok\u016F a vede z n\u011Bj p\u011Btice dve\u0159\u00ED do n\u00E1sleduj\u00EDc\u00EDch m\u00EDstnost\u00ED: [Galerie](mi_galerie), [Chodba II](mi_chobda_ii), [Katakomby](mi_katakomby), [\u00DAnikov\u00E9 schodi\u0161t\u011B](mi_unikove_schodiste) a [Kino Scala](mi_kino_scala). Schodi\u0161t\u011B vedouc\u00ED z hlavn\u00ED prostoru vede a\u017E ke dve\u0159\u00EDm do [Statku](mi_statek) a nav\u00EDc se z n\u011Bj jde dostat voln\u00FDm vchodem do [Bety](mi_ustredni_stredisko_beta) a dve\u0159mi do [Kina](mi_kino_scala)."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Spojnice je v\u00FDraz odvozen\u00FD od slova \u0022spojovat\u0022 a m\u00EDstnost jm\u00E9no z\u00EDskala, nebo\u0165 spojuje [Statek](mi_statek) s [Airshipem](mi_the_airship)."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Schodi\u0161t\u011B na hlavn\u00ED prostor je postaveno na v\u00FDchodn\u00ED st\u011Bn\u011B [Airshipu](mi_the_airship) a proto se jedn\u00E1 o \u010D\u00E1st Spojnice s nejvy\u0161\u0161\u00EDm stropem. Hlavn\u00ED \u010D\u00E1st je nej\u0161ir\u0161\u00ED \u010D\u00E1st m\u00EDstnosti a v\u011Bt\u0161ina dve\u0159\u00ED jdouc\u00EDch na Spojnici je zde. Dominantou hlavn\u00ED \u010D\u00E1sti je jej\u00ED v\u00FDchodn\u00ED st\u011Bna na kter\u00E9 je postaveno 26 barel\u016F a ve st\u0159edu crafting table. Odtud vede jak schodi\u0161t\u011B na [Airship](mi_the_airship) tak schodi\u0161t\u011B sm\u011B\u0159uj\u00EDc\u00ED na [Statek](mi_statek).\r\nKoncem hlavn\u00ED \u010D\u00E1sti a za\u010D\u00E1tkem schodi\u0161t\u011B proch\u00E1z\u00ED paprsky [Beaconu](beacon_parez) a samotn\u00E9 schodi\u0161t\u011B je ukon\u010Deno oknem a dve\u0159mi po lev\u00E9 i prav\u00E9 stran\u011B.\r\nSpojnice m\u016F\u017Ee b\u00FDt ozna\u010Dena za schodi\u0161t\u011B nebo\u0165 v\u00FD\u0161kov\u00FD rozd\u00EDl mezi nejvy\u0161\u0161\u00EDm a nejni\u017E\u0161\u00EDm bodem je 9.5 bloku.\r\nObecn\u011B je Spojnice velmi prostorn\u00E1 s vysok\u00FDmi stropy pr\u016Fm\u011Brn\u011B 4 bloky vysoko. V samotn\u00E9 m\u00EDstnosti ale nen\u00ED \u017E\u00E1dn\u00E1 postel a na jej\u00ED velikost nemus\u00ED jedin\u00FD crafting table sta\u010Dit."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "\u010C\u00E1st spojnice vede p\u0159\u00EDmo nad [D\u00E1lni\u010Dn\u00EDm pil\u00ED\u0159em](mi_dalnicni_pilir).\r\nVe\u0161ker\u00E9 barely na hlavn\u00ED \u010D\u00E1sti jsou nevyu\u017Eity."
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "redirect": null
+  },
+  "mm_spojnice_1": {
+    "Title": "redirecting",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Metadata": {
+      "N\u00E1zev": "Spojnice-The Airhsip",
+      "Blok": "[The Airship](bl_the_airship)",
+      "Okrsek": "[The Airship](ok_the_airship)",
+      "\u010Ctvr\u0165": "[Kmen](ct_kmen)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
+      "Multi": "[Spojnice](mi_spojnice)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 38,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "redirect": "mi_spojnice"
+  },
+  "mm_spojnice_2": {
+    "Title": "redirecting",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Metadata": {
+      "N\u00E1zev": "Spojnice - Spojnice",
+      "Blok": "[Spojnice](bl_spojnice)",
+      "Okrsek": "[Obchodn\u00ED st\u0159edisko](ok_obchodni_stredisko)",
+      "\u010Ctvr\u0165": "[Kmen](ct_kmen)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
+      "Multi": "[Spojnice](mi_spojnice)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 133,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "redirect": "mi_spojnice"
+  },
+  "bl_the_airship": {
+    "Title": "The Airship",
+    "Type": "blok",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Metadata": {
+      "N\u00E1zev": "The Airship",
+      "Okrsek": "[The Airship](ok_the_airship)",
+      "\u010Ctvr\u0165": "[Kmen](ct_kmen)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "The Airship je blok ve [stejnojmenn\u00E9m okrsku](ok_the_airship). Cel\u00FD blok je tvo\u0159en deseti m\u00EDstnostmi a v\u0161echny krom\u011B [Kabiny](mi_kabina) a [D\u00E1lni\u010Dn\u00EDho p\u0159echodu](mi_dalnicni_prechod) p\u0159\u00EDmo soused\u00ED s [Airshipem](mi_the_airship). Dominantou cel\u00E9ho bloko je n\u00E1m\u011Bst\u00ED v m\u00EDstnosti [Airship](mi_the_airship) kolem, kter\u00E9ho jsou postaveny ve\u0161ker\u00E9 ostatn\u00ED m\u00EDstnosti v bloku. Ve sm\u011Bru hodinov\u00FDch ru\u010Di\u010Dek se jedn\u00E1 o: [St\u00E1j](mi_staj), [Builder \u010Depi\u010Dka](mi_builder_cepicka), [Lokace](mi_lokace), [The Terrass](mi_the_terrass), \u010D\u00E1st [D\u00E1lni\u010Dn\u00EDho pil\u00ED\u0159e](mi_dalnicni_pilir), \u010D\u00E1st [Spojnice](mi_spojnice), [Chodba](mi_chodba). V bloku se tak\u00E9 nach\u00E1zej\u00ED dv\u011B u\u017Eite\u010Dn\u00E9 m\u00EDstnosti a to [St\u00E1j](mi_staj), kde je sklad brn\u011Bn\u00ED na kon\u011B a vod\u00EDtek, a [Lokace](mi_lokace), kde jsou barely ur\u010Den\u00E9 na itemy bez ur\u010Den\u00E9ho m\u00EDsta.\r\n[Kabina](mi_kabina) je m\u00EDstnost soused\u00EDc\u00ED se [Spojnic\u00ED](mi_spojnice) a [D\u00E1lni\u010Dn\u00ED P\u0159echod](mi_dalnicni_prechod) p\u0159\u00EDmo soused\u00ED s \u010D\u00E1st\u00ED [D\u00E1lni\u010Dn\u00EDho Pil\u00ED\u0159e](mi_dalnicni_pilir) v bloku.\r\nBlok soused\u00ED s velk\u00FDm po\u010Dtem jin\u00FDch blok\u016F d\u00EDky sv\u00E9 velikosti. Mezi n\u011B pat\u0159\u00ED: [Doup\u011B](bl_doupe), [P\u0159\u00EDkop](bl_prikop), [L\u00E1zn\u011B Panoraama](bl_lazne_panoraama), [Barvy](bl_barvy), [Pod Masou](bl_pod_masou), [Mal\u00FD Pil\u00ED\u0159](bl_maly_pilir), [Katakomby](bl_katakomby), [Beta](bl_beta) a nakonec [Spojnice](bl_spojnice)."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "N\u00E1zev je shodn\u00FD s nejv\u011Bt\u0161\u00ED a nejd\u016Fle\u017Eit\u011Bj\u0161\u00ED m\u00EDstnost\u00ED v bloku."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Interi\u00E9r jednotliv\u00FDch m\u00EDstnost\u00ED zejm\u00E9na [Airshipu](mi_the_airship) je velmi prostorn\u00FD. Mnoh\u00E9 z m\u00EDstnost\u00ED jako t\u0159eba [Kabina](mi_kabina) \u010Di [Lokace](mi_lokace) tak m\u016F\u017Eou p\u016Fsobit a\u017E pr\u00E1zdn\u011B. S t\u00EDm souvis\u00ED i fakt, \u017Ee v\u0161echny m\u00EDstnosti a\u017E na [Airship](mi_the_airship) a [Builder \u010Depi\u010Dku](mi_builder_cepicka) maj\u00ED jednoduch\u00FD obd\u00E9ln\u00EDkov\u00FD \u010Di \u010Dtvercov\u00FD tvar. Oproti tomu je interi\u00E9r m\u00EDstnost\u00ED bloku zaj\u00EDmav\u00FD zv\u00FD\u0161en\u00FDm vyu\u017Eit\u00EDm plot\u016F, skel a barel\u016F.\r\nNa hlavn\u00ED n\u00E1m\u011Bst\u00ED vede velk\u00E9 mno\u017Estv\u00ED schodi\u0161\u0165 z r\u016Fzn\u00FDch \u010D\u00E1st\u00ED domu. Toto zaji\u0161\u0165uje, \u017Ee je blok dopravn\u00ED k\u0159i\u017Eovatkou a t\u00E9m\u011B\u0159 v\u0161echny cesty domem vedou skrz n\u011Bj. Mimo schodi\u0161t\u011B sem vede odno\u017E [D\u00E1lni\u010Dn\u00EDho Pil\u00ED\u0159e](mi_dalnicni_pilir), kon\u010D\u00ED zde v\u00FDtah vedouc\u00ED z [Hlavn\u00EDho Koridoru II](mi_hlavni_koridor_ii) a \u010D\u00E1st [Airshipu](mi_the_airship) je otev\u0159en\u00E1 a umo\u017E\u0148uje vlet s elytrou."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Airship je se svoj\u00ED plochou jedn\u00EDm z nejv\u011Bt\u0161\u00EDch blok\u016F v dom\u011B.\r\nNejv\u011Bt\u0161\u00ED okno v bloku m\u00E1 plochu 49 blok\u016F. Jedn\u00E1 se o okno v [Lokaci](mi_lokace)."
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "redirect": null
+  },
+  "mi_dalnicni_pilir": {
+    "Title": "D\u00E1lni\u010Dn\u00ED Pil\u00ED\u0159",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "VELK\u00DD PIL\u00CD\u0158",
+      "MAL\u00DD PIL\u00CD\u0158",
+      "ZAST\u00C1VKA NAD PODL\u00CD\u0158EM",
+      "ZA\u010C\u00C1TEK PIL\u00CD\u0158E NA AIRSHIPU",
+      "PIL\u00CD\u0158 NA AIRSHIPU"
+    ],
+    "Bordering_rooms": [
+      "mi_silo",
+      "mi_silak",
+      "mi_katakomby",
+      "mi_balonky",
+      "mi_ustredni_stredisko_beta",
+      "mi_dalnicni_prechod",
+      "mi_the_airship",
+      "mi_podlir",
+      "mi_ctverec",
+      "mi_ufo",
+      "mi_okap",
+      "mi_paranoia",
+      "mi_troja",
+      "mi_the_overpass"
+    ],
+    "Metadata": {
+      "N\u00E1zev": "D\u00E1lni\u010Dn\u00ED Pil\u00ED\u0159",
+      "Blok": "[The Airship](bl_the_airship), [Mal\u00FD Pil\u00ED\u0159](bl_maly_pilir) a [Velk\u00FD Pil\u00ED\u0159](bl_velky_pilir)",
+      "Okrsek": "[The Airship](ok_the_airship) a [Pil\u00ED\u0159](ok_pilir)",
+      "\u010Ctvr\u0165": "[Kmen](ct_kmen) a [D\u00E1lni\u010Dn\u00ED Kolonie](ct_dalnicni_kolonie)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
+      "\u00DA\u010Del": "Ledov\u00E1 d\u00E1lnice"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "D\u00E1lni\u010Dn\u00ED Pil\u00ED\u0159 je ledov\u00E1 d\u00E1lnice skl\u00E1d\u00E1j\u00EDc\u00ED se ze t\u0159\u00ED \u010D\u00E1st\u00ED. Velk\u00E9ho pil\u00ED\u0159e ze kter\u00E9ho se odd\u011Bluje Mal\u00FD Pil\u00ED\u0159. A ledov\u00E9 cesty na [Airshipu](bl_the_airship), kter\u00E1 je napojena na Mal\u00FD Pil\u00ED\u0159.\r\nVelk\u00FD Pil\u00ED\u0159, s celkovou d\u00E9lkou 54 blok\u016F, spojuje [\u017Deleznou Lhotu](ct_zelezna_lhota) s [Tr\u00F3jou](mi_troja) a [Overpassem](mi_the_overpass). V [\u017Delezn\u00E9 Lhot\u011B](ct_zelezna_lhota) soused\u00ED Velk\u00FD Pil\u00ED\u0159 s [Paranoiou](mi_paranoia). Velk\u00FD Pil\u00ED\u0159 tak\u00E9 proch\u00E1z\u00ED skrz [Okap](mi_okap) naproti kter\u00E9mu je v\u00FDtah spojuj\u00EDc\u00ED D\u00E1lni\u010Dn\u00ED Pil\u00ED\u0159 se [\u010Ctvercem](mi_ctverec) a s [Ufem](mi_ufo). Hned za v\u00FDtahem je odbo\u010Dka vpravo naz\u00FDv\u00E1n\u00E1 Mal\u00FD Pil\u00ED\u0159.\r\nMal\u00FD Pil\u00ED\u0159 s d\u00E9lkou 51 blok\u016F kon\u010D\u00ED v [Silu](mi_silo). Po cest\u011B existuje n\u011Bkolik n\u00E1stupn\u00EDch stanic z m\u00EDstnost\u00ED. Mezi n\u011B pat\u0159\u00ED: [Podl\u00ED\u0159](mi_podlir), [\u00DAst\u0159edn\u00ED st\u0159edisko Beta](mi_ustredni_stredisko_beta), [Bal\u00F3nky](mi_balonky), [Katakomby](mi_katakomby), [Sil\u00E1k](mi_silak). Na Mal\u00FD Pil\u00ED\u0159 tak\u00E9 vede dvojice v\u00FDtah\u016F a to z [Verandy](mi_veranda) a z [Sila](mi_silo).\r\nD\u00E1lni\u010Dn\u00ED Pil\u00ED\u0159 na [Airshipu](bl_the_airship) je o blok n\u00ED\u017Ee n\u011B\u017E Velk\u00FD a Mal\u00FD Pil\u00ED\u0159. Nen\u00ED proto mo\u017En\u00E9 jet z [Airshipu](mi_the_airship) na Mal\u00FD Pil\u00ED\u0159 bez zast\u00E1vky. Celkov\u00E1 d\u00E9lka t\u00E9to \u010D\u00E1sti je 31 blok\u016F a asi v polovin\u011B je p\u0159eru\u0161ena [D\u00E1lni\u010Dn\u00EDm P\u0159echodem](mi_dalnicni_prechod), kter\u00FD d\u011Bl\u00ED D\u00E1lni\u010Dn\u00ED Pil\u00ED\u0159 na dv\u011B nespojit\u00E9 \u010D\u00E1sti. Kone\u010Dn\u00E1 D\u00E1lni\u010Dn\u00EDho Pil\u00ED\u0159e je hned pod [Spojnic\u00ED](mi_spojnice) na [Airshipu](mi_the_airship). Hned vedle d\u00E1lnice je zde v\u00FDstup z v\u00FDtahu vedouc\u00ED z [Hlavn\u00EDho Koridoru II](mi_hlavni_koridor_ii)."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "N\u00E1zev \u0022D\u00E1lnice\u0022 byl ji\u017E zabr\u00E1n [ledovou cestou](mi_dalnice) postavenou n\u00ED\u017Ee. Proto tato d\u00E1lnice byla pojmenov\u00E1na D\u00E1lni\u010Dn\u00ED Pil\u00ED\u0159."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "V\u011Bt\u0161ina ledov\u00E9 d\u00E1lnice nen\u00ED zast\u0159e\u0161ena, ale i p\u0159es to se takov\u00E1 m\u00EDsta najdou. Jedinou zast\u0159e\u0161enou cestou na Velk\u00E9m Pil\u00ED\u0159i je pas\u00E1\u017E skrz [Okap](mi_okap). Vedle Mal\u00E9ho Pil\u00ED\u0159e je postavena zast\u0159e\u0161en\u00E1 m\u00EDstnost se schodi\u0161t\u011Bm vedouc\u00EDho z [Podl\u00ED\u0159e](mi_podlir). Tato zast\u0159e\u0161en\u00E1 \u010D\u00E1st pat\u0159\u00ED do D\u00E1lni\u010Dn\u00EDho Pil\u00ED\u0159e a p\u0159ipom\u00EDn\u00E1 zast\u00E1vku hromadn\u00E9 dopravy. D\u00E1le je zde mo\u017En\u00E9 naj\u00EDt malou m\u00EDstnost ve kter\u00E9 je otev\u0159en\u00FD vchod z [Bety](mi_ustredni_stredisko_beta) a v\u00FDstup z v\u00FDtahu z [Verandy](mi_veranda). Z t\u00E9to m\u00EDstnosti se d\u00E1 dve\u0159mi dostat na \u010D\u00E1st na [Airshipu](bl_the_airship). Mal\u00FD Pil\u00ED\u0159 d\u00E1le pokra\u010Duje pod kr\u00E1tk\u00FDm podjezdem u vstupu do [Bal\u00F3nk\u016F](mi_balonky) a o kus d\u00E1le se nach\u00E1zej\u00ED schody ke [Katakomb\u00E1m](mi_katakomby). \u010C\u00E1st na [Airshipu](bl_the_airship) je t\u00E9m\u011B\u0159 cel\u00E1 zast\u0159e\u0161ena.\r\nCel\u00E1 d\u00E1lnice je postavena ze stla\u010Den\u00E9ho ledu a na ka\u017Ed\u00E9m bloku je postaveno tla\u010D\u00EDtku jako prevence proti monstr\u016Fm. Okraje d\u00E1lnice jsou postaveny z p\u016Flblok\u016F krom\u011B ojedin\u011Bl\u00FDch ms\u00EDt na [Airshipu](bl_the_airship), kde byly pou\u017Eity trapd\u00F3ry. Cel\u00E1 d\u00E9lka v\u0161ech pil\u00ED\u0159\u016F je osv\u011Btlena lou\u010Demi.\r\nNa \u00FAzem\u00ED D\u00E1lni\u010Dn\u00EDho Pil\u00ED\u0159e je pouze jedin\u00FD crafting tablem pobl\u00ED\u017E vstupu do [Bal\u00F3nk\u016F](mi_balonky). Nen\u00ED zde v\u0161ak \u017E\u00E1dn\u00FD barel ani postel."
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": "Mezi Mal\u00FDm Pil\u00ED\u0159em a [Temnou Stranou S\u00EDly](mi_temna_strana_sily) je jen mal\u00E1 jednoblokov\u00E1 mezera.\r\nD\u00E1lni\u010Dn\u00ED Pil\u00ED\u0159 propojuje 3 ze 4 \u010D\u00E1st\u00ED domu (v\u0161echny krom\u011B [Sibi\u0159e](ca_sibir)).\r\nCelkov\u00E1 d\u00E9lka D\u00E1lni\u010Dn\u00EDho Pil\u00ED\u0159e 136 blok\u016Fm."
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "redirect": null
+  },
+  "mm_dalnicni_pilir_1": {
+    "Title": "redirecting",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Metadata": {
+      "N\u00E1zev": "D\u00E1lni\u010Dn\u00ED Pil\u00ED\u0159 - The Airship",
+      "Blok": "[The Airship](bl_the_airship)",
+      "Okrsek": "[The Airship](ok_the_airship)",
+      "\u010Ctvr\u0165": "[Kmen](ct_kmen)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
+      "Multi": "[D\u00E1lni\u010Dn\u00ED Pil\u00ED\u0159](mi_dalnicni_pilir)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 86,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "redirect": "mi_dalnicni_pilir"
+  },
+  "mm_dalnicni_pilir_2": {
+    "Title": "redirecting",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Metadata": {
+      "N\u00E1zev": "D\u00E1lni\u010Dn\u00ED Pil\u00ED\u0159 - Mal\u00FD Pil\u00ED\u0159",
+      "Blok": "[Mal\u00FD Pil\u00ED\u0159](bl_maly_pilir)",
+      "Okrsek": "[Pil\u00ED\u0159](ok_pilir)",
+      "\u010Ctvr\u0165": "[D\u00E1lni\u010Dn\u00ED Kolonie](ct_dalnicni_kolonie)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
+      "Multi": "[D\u00E1lni\u010Dn\u00ED Pil\u00ED\u0159](mi_dalnicni_pilir)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 201,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "redirect": "mi_dalnicni_pilir"
+  },
+  "mm_dalnicni_pilir_3": {
+    "Title": "redirecting",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Metadata": {
+      "N\u00E1zev": "D\u00E1lni\u010Dn\u00ED Pil\u00ED\u0159 - Velk\u00FD Pil\u00ED\u0159",
+      "Blok": "[Velk\u00FD Pil\u00ED\u0159](bl_velky_pilir)",
+      "Okrsek": "[Pil\u00ED\u0159](ok_pilir)",
+      "\u010Ctvr\u0165": "[D\u00E1lni\u010Dn\u00ED Kolonie](ct_dalnicni_kolonie)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
+      "Multi": "[D\u00E1lni\u010Dn\u00ED Pil\u00ED\u0159](mi_dalnicni_pilir)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 332,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "redirect": "mi_dalnicni_pilir"
+  },
+  "mi_silak": {
+    "Title": "Sil\u00E1k",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "N\u00C1STUP",
+      "V\u00DDSTUP"
+    ],
+    "Bordering_rooms": [
+      "mi_silo",
+      "mi_dalnicni_pilir"
+    ],
+    "Metadata": {
+      "N\u00E1zev": "Sil\u00E1k",
+      "Blok": "[Silo](bl_silo)",
+      "Okrsek": "[Silo](ok_silo)",
+      "\u010Ctvr\u0165": "[Ryb\u00E1\u0159sk\u00E1 Kolonie](ct_rybarska_kolonie)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Sil\u00E1k je v\u00FDtah vedouc\u00ED ze [Sila](mi_silo) na [D\u00E1lni\u010Dn\u00ED Pil\u00ED\u0159](mi_dalnicni_pilir). Vstup do v\u00FDtahu se nal\u00E9z\u00E1 v nejni\u017E\u0161\u00EDm podla\u017E\u00ED [Sila](mi_silo) na severn\u00ED st\u011Bn\u011B napravo od barel\u016F. Samotn\u00FD v\u00FDtah je 30 blok\u016F vysok\u00FD a slou\u017E\u00ED pro jednoduchou a rychlou p\u0159epravu mezi spodn\u00EDmi podla\u017E\u00EDmi a horn\u00ED \u010D\u00E1sti [Sila](mi_silo). Kone\u010Dn\u00E1 Sil\u00E1ka se nach\u00E1z\u00ED na konci [D\u00E1lni\u010Dn\u00EDho Pil\u00ED\u0159e](mi_dalnicni_pilir)."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "N\u00E1zev Sil\u00E1k byl odvozen od stromov\u00E9 v\u011B\u017Ee [Sila](mi_sila)."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Interi\u00E9r se krom\u011B samotn\u00E9ho v\u00FDtahu skl\u00E1d\u00E1 z mal\u00E9 kom\u016Frky naho\u0159e na [D\u00E1lni\u010Dn\u00EDm Pil\u00ED\u0159i](mi_dalnicni_pilir) a dole z kr\u00E1tk\u00E9 p\u011Bti blokov\u00E9 chodby. Na konci n\u00ED\u017E je jedin\u00FD crafting table v m\u00EDstnosti.\r\nV\u00FDtah je postaven v \u00FAzk\u00E9 1x1 tub\u011B p\u0159i\u010Dem\u017E jej\u00ED\u017E v\u00FDchodn\u00ED st\u011Bna je postavena ze skl\u011Bn\u011Bn\u00FDch tabulek."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Sil\u00E1k je mo\u017En\u00E1 jedin\u00FD pojmenovan\u00FD v\u00FDtah. V\u00FDtahy nejsou obecn\u011B sou\u010D\u00E1st\u00ED \u017E\u00E1dn\u00E9 m\u00EDstnosti.\r\nCrafting Table v chodbi\u010Dce je polo\u017Een p\u0159\u00EDmo ve v\u00FDtahu (viz 1. foto)."
+      }
+    ],
+    "image_id": 0,
+    "area": 6,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "redirect": null
   }
 }

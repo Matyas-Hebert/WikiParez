@@ -49,8 +49,36 @@
       "PackagePath": "staticwebassets/Images/mi_chodba3.png"
     },
     {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_dalnicni_pilir1.png",
+      "PackagePath": "staticwebassets/Images/mi_dalnicni_pilir1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_dalnicni_pilir2.png",
+      "PackagePath": "staticwebassets/Images/mi_dalnicni_pilir2.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_dalnicni_pilir3.png",
+      "PackagePath": "staticwebassets/Images/mi_dalnicni_pilir3.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_dalnicni_pilir4.png",
+      "PackagePath": "staticwebassets/Images/mi_dalnicni_pilir4.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_dalnicni_pilir5.png",
+      "PackagePath": "staticwebassets/Images/mi_dalnicni_pilir5.png"
+    },
+    {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_dalnicni_prechod1.png",
       "PackagePath": "staticwebassets/Images/mi_dalnicni_prechod1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_dobra_voda1.png",
+      "PackagePath": "staticwebassets/Images/mi_dobra_voda1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_dobra_voda2.png",
+      "PackagePath": "staticwebassets/Images/mi_dobra_voda2.png"
     },
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_hvezda1.png",
@@ -209,12 +237,32 @@
       "PackagePath": "staticwebassets/Images/mi_schodiste_tt2.png"
     },
     {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_silak1.png",
+      "PackagePath": "staticwebassets/Images/mi_silak1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_silak2.png",
+      "PackagePath": "staticwebassets/Images/mi_silak2.png"
+    },
+    {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_skokanske_mustky1.png",
       "PackagePath": "staticwebassets/Images/mi_skokanske_mustky1.png"
     },
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_skokanske_mustky2.png",
       "PackagePath": "staticwebassets/Images/mi_skokanske_mustky2.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_spojnice1.png",
+      "PackagePath": "staticwebassets/Images/mi_spojnice1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_spojnice2.png",
+      "PackagePath": "staticwebassets/Images/mi_spojnice2.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_spojnice3.png",
+      "PackagePath": "staticwebassets/Images/mi_spojnice3.png"
     },
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_staj1.png",

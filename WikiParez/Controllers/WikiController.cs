@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using WikiParez.Services;
 using WikiParez.Models;
+using Microsoft.Extensions.Configuration.UserSecrets;
 
 namespace WikiParez.Controllers
 {
@@ -19,6 +20,10 @@ namespace WikiParez.Controllers
             var page = _wikiService.GetPageBySlug(slug);
             if (page == null)
                 return NotFound();
+            if (page.redirect != null && page.redirect != string.Empty)
+            {
+                return Page(page.redirect);
+            }
             return View("Index", page);
         }
 
@@ -29,6 +34,13 @@ namespace WikiParez.Controllers
             if (page == null)
                 return NotFound();
             return View("Index", page);
+        }
+
+        [HttpGet]
+        public IActionResult Search(string query)
+        {
+            var slug = _wikiService.FindBestMatch(query, 1);
+            return View("Index", _wikiService.GetPageBySlug(slug));
         }
     }
 }

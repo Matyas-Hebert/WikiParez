@@ -11,12 +11,13 @@ public class WikiPage
     public List<Section> Sections { get; set; } = new List<Section>();
     public int image_id { get; set; } = 0;
     public int area { get; set; } = 0;
-    public bool Empty {get; set; } = false;
+    public bool Empty { get; set; } = false;
     public int numberOfRooms { get; set; } = 0;
     public int image_count()
     {
         return Image_titles.Count;
     }
+    public string redirect { get; set; } = string.Empty;
 }
 
 public class Section

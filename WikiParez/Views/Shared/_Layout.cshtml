@@ -33,6 +33,10 @@
                             <a class="nav-link text-dark" asp-area="" asp-controller="Game" asp-action="Bordering">Sousedí to?</a>
                         </li>
                     </ul>
+                    <form class="d-flex" asp-controller="Wiki" asp-action="Search" method="get">
+                        <input class="form-control me-2" type="search" name="query" placeholder="Hledat stránku..." aria-label="Search">
+                        <button class="btn btn-outline-success" type="submit">Hledat</button>
+                    </form>
                 </div>
             </div>
         </nav>

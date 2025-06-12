@@ -6,6 +6,7 @@ using System.IO;
 using System.Text.Json;
 using System.Text.RegularExpressions;
 using Microsoft.Extensions.Hosting;
+using System.Runtime.InteropServices;
 
 public class WikiService
 {
@@ -16,6 +17,23 @@ public class WikiService
     {
         _path = Path.Combine(env.ContentRootPath, "appdata", "pagesData.json");
         _pages = LoadPages();
+    }
+
+    public string FindBestMatch(string searchValue, int n)
+    {
+        var best = -1.0;
+        string bestString = "";
+        foreach (var key in _pages.Keys)
+        {
+            string name = _pages[key].Title;
+            double result = SearchService.GetSimilarityValue(name, searchValue);
+            if (result > best)
+            {
+                best = result;
+                bestString = key;
+            }
+        }
+        return bestString;
     }
 
     private string GetSlugByValue(string value)
@@ -36,7 +54,14 @@ public class WikiService
         var dict = new Dictionary<string, string>();
         for(int i=pageCount-1; i>=pageCount-10; i--){
             var key = _pages.Keys.ElementAt(i);
-            dict[key] = _pages[key].Title;
+            if (key.StartsWith("mm"))
+            {
+                pageCount--;
+            }
+            else
+            {
+                dict[key] = _pages[key].Title;
+            }
         }
         return dict;
     }
@@ -71,7 +96,8 @@ public class WikiService
             (type.Equals("blok", StringComparison.OrdinalIgnoreCase) ||
              type.Equals("okrsek", StringComparison.OrdinalIgnoreCase) ||
              type.Equals("čtvrť", StringComparison.OrdinalIgnoreCase) ||
-             type.Equals("část", StringComparison.OrdinalIgnoreCase));
+             type.Equals("část", StringComparison.OrdinalIgnoreCase) ||
+             type.Equals("multi", StringComparison.OrdinalIgnoreCase));
     }
 
     void PrintSortedDictionary(Dictionary<string, int> dict, List<string> keys)
@@ -112,17 +138,20 @@ public class WikiService
                 total += result.Length;
             }
             foreach (var mkey in dictionary[key].Metadata.Keys){
-                string result = Regex.Replace(dictionary[key].Metadata[mkey], @"\[(.*?)\]\((.*?)\)", match =>
+                if (dictionary[key].Metadata[mkey] != null)
                 {
-                    string name = match.Groups[1].Value;
-                    string link = match.Groups[2].Value;
+                    string result = Regex.Replace(dictionary[key].Metadata[mkey], @"\[(.*?)\]\((.*?)\)", match =>
+                    {
+                        string name = match.Groups[1].Value;
+                        string link = match.Groups[2].Value;
 
-                    if (!linksDict.ContainsKey(link))
-                        linksDict[link] = 0;
-                    linksDict[link]++;
+                        if (!linksDict.ContainsKey(link))
+                            linksDict[link] = 0;
+                        linksDict[link]++;
 
-                    return $"{name}";
-                });
+                        return $"{name}";
+                    });
+                }
             }
         }
 
@@ -153,7 +182,7 @@ public class WikiService
             PropertyNameCaseInsensitive = true,
         };
         var dictionary = JsonSerializer.Deserialize<Dictionary<string, WikiPage>>(json, options) ?? new Dictionary<string, WikiPage>();
-        //Analyze(dictionary);
+        Analyze(dictionary);
         foreach (var key in dictionary.Keys)
         {
             if (dictionary[key].image_count() == 0)
@@ -174,16 +203,17 @@ public class WikiService
                 foreach (var dataKey in dictionary[key].Metadata.Keys)
                 {
                     string slug = GetSlugByValue(dictionary[key].Metadata[dataKey]);
+                    //Console.WriteLine("metadata key" + dataKey + " page key: " + key + "value: " + slug);
                     if (IsSubdivision(dataKey) && dictionary.Keys.Contains(slug))
                     {
                         dictionary[slug].area += dictionary[key].area;
                         if (dictionary[key].Type == "místnost") dictionary[slug].numberOfRooms++;
                         if (!dictionary[key].Empty)
                         {
-                            for(int i = 0; i < dictionary[key].image_count(); i++)
+                            for (int i = 0; i < dictionary[key].image_count(); i++)
                             {
                                 dictionary[slug].Images.Add(dictionary[key].Images[i]);
-                                dictionary[slug].Image_titles.Add("<a href=\"/"+key+"\">"+dictionary[key].Image_titles[i]+"</a>");
+                                dictionary[slug].Image_titles.Add("<a href=\"/" + key + "\">" + dictionary[key].Image_titles[i] + "</a>");
                             }
                         }
                     }
