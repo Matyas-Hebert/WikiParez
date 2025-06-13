@@ -277,6 +277,22 @@
       "PackagePath": "staticwebassets/Images/mi_silak2.png"
     },
     {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_silo1.png",
+      "PackagePath": "staticwebassets/Images/mi_silo1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_silo2.png",
+      "PackagePath": "staticwebassets/Images/mi_silo2.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_silo3.png",
+      "PackagePath": "staticwebassets/Images/mi_silo3.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_silo4.png",
+      "PackagePath": "staticwebassets/Images/mi_silo4.png"
+    },
+    {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_skokanske_mustky1.png",
       "PackagePath": "staticwebassets/Images/mi_skokanske_mustky1.png"
     },

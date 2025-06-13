@@ -107,7 +107,8 @@ public class WikiService
              type.Equals("okrsek", StringComparison.OrdinalIgnoreCase) ||
              type.Equals("čtvrť", StringComparison.OrdinalIgnoreCase) ||
              type.Equals("část", StringComparison.OrdinalIgnoreCase) ||
-             type.Equals("multi", StringComparison.OrdinalIgnoreCase));
+             type.Equals("multi", StringComparison.OrdinalIgnoreCase) ||
+             type.Equals("kategorie", StringComparison.OrdinalIgnoreCase));
     }
 
     void PrintSortedDictionary(Dictionary<string, int> dict, List<string> keys)
@@ -138,32 +139,12 @@ public class WikiService
         int articles = 0;
         foreach (var key in dictionary.Keys)
         {
-            articles++;
-            foreach (var section in dictionary[key].Sections)
+            if (!key.StartsWith("mm"))
             {
-                string result = Regex.Replace(section.Content, @"\[(.*?)\]\((.*?)\)", match =>
+                articles++;
+                foreach (var section in dictionary[key].Sections)
                 {
-                    string name = match.Groups[1].Value;
-                    string link = match.Groups[2].Value;
-
-                    if (!linksDict.ContainsKey(link))
-                        linksDict[link] = 0;
-                    linksDict[link]++;
-
-                    return $"{name}";
-                });
-                if (!lengths.ContainsKey(key))
-                {
-                    lengths[key] = 0;
-                }
-                lengths[key] += result.Length;
-                total += result.Length;
-            }
-            foreach (var mkey in dictionary[key].Metadata.Keys)
-            {
-                if (dictionary[key].Metadata[mkey] != null)
-                {
-                    string result = Regex.Replace(dictionary[key].Metadata[mkey], @"\[(.*?)\]\((.*?)\)", match =>
+                    string result = Regex.Replace(section.Content, @"\[(.*?)\]\((.*?)\)", match =>
                     {
                         string name = match.Groups[1].Value;
                         string link = match.Groups[2].Value;
@@ -174,6 +155,29 @@ public class WikiService
 
                         return $"{name}";
                     });
+                    if (!lengths.ContainsKey(key))
+                    {
+                        lengths[key] = 0;
+                    }
+                    lengths[key] += result.Length;
+                    total += result.Length;
+                }
+                foreach (var mkey in dictionary[key].Metadata.Keys)
+                {
+                    if (dictionary[key].Metadata[mkey] != null)
+                    {
+                        string result = Regex.Replace(dictionary[key].Metadata[mkey], @"\[(.*?)\]\((.*?)\)", match =>
+                        {
+                            string name = match.Groups[1].Value;
+                            string link = match.Groups[2].Value;
+
+                            if (!linksDict.ContainsKey(link))
+                                linksDict[link] = 0;
+                            linksDict[link]++;
+
+                            return $"{name}";
+                        });
+                    }
                 }
             }
         }

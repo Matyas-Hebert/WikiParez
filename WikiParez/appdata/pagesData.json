@@ -1111,7 +1111,7 @@
       },
       {
         "Title": "N\u00E1zev",
-        "Content": "Jedn\u00E1 se o kabinu. Nev\u00EDm co jin\u00E9ho dodat..."
+        "Content": "M\u00EDstnost se m\u00E1 podobat kabin\u011B vzducholod\u011B, nebo\u0165 se nach\u00E1z\u00ED pobl\u00ED\u017E [Airshipu](mi_the_airship). Ironi\u00ED je v\u0161ak fakt, \u017Ee ve skute\u010Dnosti je kabina vzducholod\u011B pod celou kostrou a ne nad n\u00ED."
       },
       {
         "Title": "Interi\u00E9r",
@@ -1126,7 +1126,7 @@
     "area": 53,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": ""
+    "redirect": null
   },
   "mi_the_terrass": {
     "Title": "The Terrass",
@@ -2170,7 +2170,7 @@
     "Sections": [
       {
         "Title": "P\u0159ehled",
-        "Content": "Ordinace Pink Lady je m\u00EDstnost zn\u00E1m\u00E1 sv\u00FDm r\u016F\u017Eov\u00FDm odst\u00EDnem (bez konkurence je ordinace nejr\u016F\u017Eov\u011Bj\u0161\u00ED m\u00EDstnost\u00ED v dom\u011B). Jedn\u00E1 se o relativn\u011B malou a pln\u011B vyu\u017Eitou m\u00EDstnost. Vedou do n\u00ED pouze dva vchody a to do [Diving Room](mi_diving_room) a na [Hv\u011Bzdu](mi_hvezda) a uprostred je trapdoor pod n\u00EDm\u017E je d\u00EDra naz\u00FDvan\u00E1 [Diving Hole](mi_diving_hole). [Diving Hole](mi_diving_hole) pokra\u010Duje je\u0161t\u011B o dv\u011B patra n\u00ED\u017Ee na [Hl\u00EDdkovac\u00ED Ko\u0161](mi_hlidkovaci_kos) a  [Palubu](mi_paluba)."
+        "Content": "Ordinace Pink Lady je m\u00EDstnost zn\u00E1m\u00E1 sv\u00FDm r\u016F\u017Eov\u00FDm odst\u00EDnem (bez konkurence je ordinace nejr\u016F\u017Eov\u011Bj\u0161\u00ED m\u00EDstnost\u00ED v dom\u011B). Jedn\u00E1 se o relativn\u011B malou a pln\u011B vyu\u017Eitou m\u00EDstnost. Vedou do n\u00ED pouze dva vchody a to do [Diving Room](mi_diving_room) a na [Hv\u011Bzdu](mi_hvezda) a uprost\u0159ed je trapdoor pod n\u00EDm\u017E je d\u00EDra naz\u00FDvan\u00E1 [Diving Hole](mi_diving_hole). [Diving Hole](mi_diving_hole) pokra\u010Duje je\u0161t\u011B o dv\u011B patra n\u00ED\u017Ee na [Hl\u00EDdkovac\u00ED Ko\u0161](mi_hlidkovaci_kos) a  [Palubu](mi_paluba)."
       },
       {
         "Title": "N\u00E1zev",
@@ -2178,7 +2178,7 @@
       },
       {
         "Title": "Interi\u00E9r",
-        "Content": "Interi\u00E9r ordinace je velmi specifick\u00FD st\u011Bnami postaven\u00FDmi z t\u0159e\u0161\u0148ov\u00E9ho list\u00ED. St\u011Bny jsou z tohoto na v\u0161ech m\u00EDstech krom\u011B jihov\u00FDchodn\u00EDho rohu, kde se nach\u00E1z\u00ED nejen vstup do [Diving Room](mi_diving_room), ale i jedin\u00FD crafting table a barel s jablky a zlat\u00FDmi ingoty.\r\nVe zbytku m\u00EDstnosti je polo\u017Eeno 5 postel\u00ED a dal\u0161\u00ED \u010Dty\u0159i barely. V\u0161echny postele jsou samoz\u0159ejm\u011B tematicky r\u016F\u017Eov\u00E9. Uprost\u0159ed se nach\u00E1z\u00ED trapdoor vedouc\u00ED do [Diving Hole](mi_diving_hole). Cel\u00FD prostor je osv\u011Btlen \u010Dtve\u0159ic\u00ED lanteren."
+        "Content": "Interi\u00E9r ordinace je velmi specifick\u00FD st\u011Bnami postaven\u00FDmi z t\u0159e\u0161\u0148ov\u00E9ho list\u00ED. Ve\u0161ker\u00E9 st\u011Bny jsou postaveny z tohoto materi\u00E1lu a\u017E na jihov\u00FDchodn\u00ED roh, kde se nach\u00E1z\u00ED nejen vstup do [Diving Room](mi_diving_room), ale i jedin\u00FD crafting table a barel s jablky a zlat\u00FDmi ingoty.\r\nVe zbytku m\u00EDstnosti je polo\u017Eeno 5 postel\u00ED a dal\u0161\u00ED \u010Dty\u0159i barely. V\u0161echny postele jsou samoz\u0159ejm\u011B tematicky r\u016F\u017Eov\u00E9. Uprost\u0159ed se nach\u00E1z\u00ED trapdoor vedouc\u00ED do [Diving Hole](mi_diving_hole). Cel\u00FD prostor je osv\u011Btlen \u010Dtve\u0159ic\u00ED lanteren."
       },
       {
         "Title": "Zaj\u00EDmavost",
@@ -2262,15 +2262,15 @@
     "Sections": [
       {
         "Title": "P\u0159ehled",
-        "Content": "Schodi\u0161t\u011B AA je 12 blok\u016F dlouh\u00E9 schodi\u0161t\u011B spojuj\u00EDc\u00ED [Alej](mi_alej) s [Airshipem](mi_the_airship). Mimo tyto dv\u011B m\u00EDstnosti z n\u011Bj vedou dal\u0161\u00ED t\u0159i vchody. O nejn\u00ED\u017Ee polo\u017Een\u00E9ho je to voln\u00FD vchod do [Diving Room](mi_diving_room), dve\u0159e do [Sloupu](mi_sloup) a branka do [Schwarzenegger Housu](mi_schwarzenegger_house)."
+        "Content": "Schodi\u0161t\u011B AA je 12 blok\u016F dlouh\u00E9 schodi\u0161t\u011B spojuj\u00EDc\u00ED [Alej](mi_alej) s [Airshipem](mi_the_airship). Mimo tyto dv\u011B m\u00EDstnosti z n\u011Bj vedou dal\u0161\u00ED t\u0159i vchody. Od nejn\u00ED\u017Ee polo\u017Een\u00E9ho je to voln\u00FD vchod do [Diving Room](mi_diving_room), dve\u0159e do [Sloupu](mi_sloup) a branka do [Schwarzenegger Housu](mi_schwarzenegger_house)."
       },
       {
         "Title": "N\u00E1zev",
-        "Content": "Jedn\u00E1 se o schodi\u0161t\u011B. P\u00EDsmeno A zna\u010D\u00ED, \u017Ee vede na [Airship](mi_the_airship)."
+        "Content": "Jedn\u00E1 se o schodi\u0161t\u011B. P\u00EDsmena AA zna\u010D\u00ED, \u017Ee schodi\u0161t\u011B vede z [Aleje](mi_alej) na [Airship](mi_the_airship)."
       },
       {
         "Title": "Interi\u00E9r",
-        "Content": "Na schodi\u0161ti se nenach\u00E1z\u00ED \u017E\u00E1dn\u00E1 postel ani barel a pouze jedin\u00FD crafting table. Schodi\u0161t\u011B sm\u011B\u0159uje na sever a nach\u00E1z\u00ED hned pod ji\u017En\u00ED stranou [Airshipu](mi_the_airship). Strop je tedy na jihu v\u00FDrazn\u011B v\u00FD\u0161e. \u0160\u00ED\u0159ka schod\u016F je ve spodn\u00ED \u010D\u00E1sti 3 bloky a ve zbytku jen 2.\nČást levé strany schodiště je oplocena."
+        "Content": "Na schodi\u0161ti se nenach\u00E1z\u00ED \u017E\u00E1dn\u00E1 postel ani barel a pouze jedin\u00FD crafting table. Schodi\u0161t\u011B sm\u011B\u0159uje na sever a nach\u00E1z\u00ED hned pod ji\u017En\u00ED stranou [Airshipu](mi_the_airship). Strop je tedy na jihu v\u00FDrazn\u011B v\u00FD\u0161e. \u0160\u00ED\u0159ka schod\u016F je ve spodn\u00ED \u010D\u00E1sti 3 bloky a ve zbytku jen 2.\r\n\u010C\u00E1st lev\u00E9 strany schodi\u0161t\u011B je oplocena."
       },
       {
         "Title": "Zaj\u00EDmavost",
@@ -2279,6 +2279,106 @@
     ],
     "image_id": 0,
     "area": 28,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "redirect": null
+  },
+  "mi_silo": {
+    "Title": "Silo",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "SILO",
+      "POSTEL, BARELY \u0026 VSTUP DO SIL\u00C1KA",
+      "POHLED DOL\u016E",
+      "HORN\u00CD PODLA\u017D\u00CD"
+    ],
+    "Bordering_rooms": [
+      "mi_silak",
+      "mi_dira_do_pekel",
+      "mi_podchod",
+      "mi_hlavni_trida",
+      "mi_dalnice",
+      "mi_the_bridge",
+      "mi_klub",
+      "mi_the_crossing",
+      "mi_ulice_schodova",
+      "mi_dobra_voda",
+      "mi_parsley_attic",
+      "mi_the_detour",
+      "mi_the_terrass",
+      "mi_katakomby",
+      "mi_stair_heaven",
+      "mi_galerie",
+      "mi_chodba_ii",
+      "mi_jama_pekelna",
+      "mi_dalnicni_pilir"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Silo",
+      "Blok": "[Silo](bl_silo)",
+      "Okrsek": "[Silo](ok_silo)",
+      "\u010Ctvr\u0165": "[Ryb\u00E1\u0159sk\u00E1 Kolonie](ct_rybarska_kolonie)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
+      "\u00DA\u010Del": "Strom, sklad d\u0159eva, sazenic, seker a bone mealu",
+      "Kategorie": "[Stromov\u00E1 v\u011B\u017E](ka_stromove_veze)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Silo je m\u00EDstnost ve stejnojmenn\u00E9m [bloku](bl_silo) a [okrsku](ok_silo). Jedn\u00E1 se o [stromovou v\u011B\u017E](ka_stromove_veze) tvo\u0159enou dv\u011Bmi hlavn\u00EDmi podla\u017E\u00EDmi a \u0161esti ochozy. Ka\u017Ed\u00FD z ochoz\u016F (krom\u011B dvou) p\u0159esn\u011B kop\u00EDruje obrys v\u011B\u017Ee a dv\u011B hlavn\u00ED podla\u017E\u00ED se nach\u00E1z\u00ED \u00FApln\u011B dole a \u00FApln\u011B naho\u0159e Sila.\r\nNi\u017E\u0161\u00ED hlavn\u00ED podla\u017E\u00ED je m\u00EDsto, kde roste strom. Nach\u00E1z\u00ED se zde trojice barel\u016F na uskladn\u011Bn\u00ED vy\u011B\u017Een\u00E9ho d\u0159eva, smrkov\u00FDch sazenic, seker a kostn\u00ED mou\u010Dky na urychlen\u00ED r\u016Fstu. Na toto podla\u017E\u00ED vedou t\u0159i vstupy. Dve\u0159mi se sem d\u00E1 dostat z [D\u00EDry do Pekel](mi_dira_do_pekel) a voln\u00FDm vstupy z [Podchodu](mi_podchod). Taky je zde za\u010D\u00E1tek \u017Eeb\u0159\u00EDku do nejvy\u0161\u0161\u00EDch prostor Sila a n\u00E1stup do v\u00FDtahu [Sil\u00E1k](mi_silak). Je\u0161t\u011B p\u0159ed prvn\u00EDm ochozem hned u \u017Eeb\u0159\u00EDku vedou do sila dal\u0161\u00ED dve\u0159e z [Hlavn\u00ED T\u0159\u00EDdy](mi_hlavni_trida).\r\nPrvn\u00ED ochoz je ve v\u00FD\u0161ce 9.5 bloku nad podlahou Sila a je propojen s kolemvedouc\u00ED [D\u00E1lnic\u00ED](mi_dalnice). Krom\u011B d\u00E1lnice na n\u011Bj vedou dve\u0159e z [Bridge](mi_the_bridge). Tento ochoz je pouze \u010D\u00E1ste\u010Dn\u00FD, nebo\u0165 nevede kolem cel\u00E9ho obvodu Sila. O 2.5 bloku v\u00FD\u0161e je druh\u00FD \u010D\u00E1ste\u010Dn\u00FD ochoz s vchodem z [Klubu](mi_klub).\r\nPrvn\u00EDm dvojice skute\u010Dn\u00FDch ochoz\u016F je jen 2.5 bloku od sebe. Na nich se nach\u00E1z\u00ED trojice dve\u0159\u00ED vedouc\u00EDch z [Crossingu](mi_the_crossing), [ulice Schodov\u00E9](mi_ulice_schodova) a [Dobr\u00E9 Vody](mi_dobra_voda). Z p\u0159edposledn\u00EDho ochozu vedou dve\u0159e na nejmenovan\u00E9 n\u00E1m\u011Bst\u00ED\u010Dko a z ochozu nejv\u00FD\u0161e nad zem\u00ED se d\u00E1 dostat do [Parsley Attic](mi_parsley_attic), na [Detour](mi_the_detour), na [Terasu](mi_the_terrass) a [D\u00E1lni\u010Dn\u00ED Pil\u00ED\u0159](mi_dalnicni_pilir).\r\nNejvy\u0161\u0161\u00ED podla\u017E\u00ED v silu je neuv\u011B\u0159iteln\u00FDch 33 blok\u016F nad podlahou Sila. Vedou odtud schody nahoru do [Stair Heaven](mi_stair_heaven) a dvojice schodi\u0161\u0165 do [Katakomb](mi_katakomby). Toto podla\u017E\u00ED je p\u0159\u00EDmo propojeno s [Galeri\u00ED](mi_galerie) a hned nad koncem \u017Eeb\u0159\u00EDkem jsou dve\u0159e na [Chodbu \u010D\u00EDslo 2](mi_chodba_ii). V neposledn\u00ED \u0159ad\u011B se zde nach\u00E1z\u00ED pod\u00E9ln\u00E1 d\u00EDra o rozm\u011Brech 6x1 bloku nesouc\u00ED jm\u00E9no [D\u00EDra Pekeln\u00E1](mi_dira_pekelna)."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Exteri\u00E9r v\u011B\u017Ee po v\u00FDstavb\u011B stavitel\u016Fm p\u0159ipom\u00EDnal silo."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "M\u00EDstnost m\u00E1 p\u016Fdorys kruhu o vnit\u0159n\u00EDm pr\u016Fm\u011Bru deseti blok\u016F. Na ka\u017Ed\u00E9m ze \u010Dty\u0159 z\u00E1kladn\u00EDch sv\u011Btov\u00FDch stran jsou vysok\u00E1 dva bloky \u0161irok\u00E1 okna, kter\u00E1 se t\u00E1hnou a\u017E t\u011Bsn\u011B pod nejvy\u0161\u0161\u00ED podla\u017E\u00ED m\u00EDstnosti (33 blok\u016F nad podlahou). Vyj\u00EDmkou je v\u0161ak ji\u017En\u00ED okno, kter\u00E9 je jednou p\u0159eru\u0161eno a to prot\u00EDnaj\u00EDc\u00ED [D\u00E1lnic\u00ED](mi_dalnice). Ka\u017Ed\u00E9 z oken m\u00E1 v\u00FD\u0161ku 31 blok\u016F a nab\u00EDz\u00ED \u010Dasto n\u00E1dhern\u00E9 v\u00FDhledy.\r\nV m\u00EDstnosti se nach\u00E1z\u00ED p\u011Bt crafting tabl\u016F, dv\u011B postele (b\u00EDl\u00E1 a \u0161ed\u00E1) a sedm barel\u016F. \u010Cty\u0159i z t\u011Bchto barel\u016F jsou polo\u017Eeny v nejni\u017E\u0161\u00EDm podla\u017E\u00ED a t\u0159i zb\u00FDvaj\u00EDc\u00ED se nach\u00E1z\u00ED pod schodi\u0161t\u011Bm vedouc\u00EDm na [Stair Heaven](mi_stair_heaven).\r\nV jihov\u00FDchodn\u00EDm rohu m\u00EDstnosti je \u017Eeb\u0159\u00EDk, kter\u00FD umo\u017E\u0148uje jednoduch\u00FD p\u0159\u00EDstup ke v\u0161em ochoz\u016Fm ve v\u011B\u017Ei (dnes je v\u0161ak \u010Dasto nahrazov\u00E1n [Sil\u00E1kem](mi_silak). Jednotliv\u00E9 ochozy jsou jen jeden blok \u0161irok\u00E9 a obch\u00E1zej\u00ED cel\u00FD obvod Sila. Obecn\u011B ma ka\u017Ed\u00FD plochu 36 blok\u016F \u010Dtvere\u010Dn\u00EDch."
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": "Silo je nejstar\u0161\u00ED [Stromovou v\u011B\u017E\u00ED](ka_stromove_veze) v dom\u011B.\r\nOchoz se dve\u0159mi z [Klubu](mi_klub) je jedin\u00FDm ochozem, kter\u00FD nem\u00E1 p\u0159\u00EDstup k \u017Eeb\u0159\u00EDku.\r\nJedin\u00FDm oknem mimo \u010Dty\u0159ech hlavn\u00EDch je mal\u00E9 2x1 okno s [Oranjestadem](mi_oranjestad).\r\nCelkov\u00FD objem Sila je odhadov\u00E1n na v\u00EDce ne\u017E 2600 blok\u016F krychlov\u00FDch.\r\nSilo je jednou z nejv\u011Bt\u0161\u00EDch m\u00EDstnost\u00ED jen v jednom bloku."
+      }
+    ],
+    "image_id": 0,
+    "area": 325,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "redirect": null
+  },
+  "ka_stromove_veze": {
+    "Title": "Stromov\u00E9 v\u011B\u017Ee",
+    "Type": "kategorie",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Stromov\u00E9 v\u011B\u017Ee",
+      "\u00DA\u010Del": "Stromy"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Stromov\u00E9 v\u011B\u017Ee jsou m\u00EDstnosti zpravidla v\u00E1lcovit\u00E9ho tvaru ur\u010Deny pro r\u016Fst vysok\u00FDch smrk\u016F. Podstava v\u011B\u017E\u00ED je kruhov\u00E1 z pr\u016Fm\u011Brem alespo\u0148 10 blok\u016F a jejich v\u00FD\u0161ka je minim\u00E1ln\u011B 30 blok\u016F, co\u017E odpov\u00EDd\u00E1 maxim\u00E1ln\u00ED v\u00FD\u0161ce vysok\u00FDch smrk\u016F.\r\nStromov\u00E9 v\u011B\u017Ee jsou mo\u017En\u00E1 neju\u017Eite\u010Dn\u011Bj\u0161\u00EDmi m\u00EDstnostmi a jejich druhov\u00E9 stoj\u00ED po cel\u00E9m dom\u011B. Mezi n\u011B pat\u0159\u00ED: [Silo](mi_silo), nejstar\u0161\u00ED stromov\u00E1 v\u011B\u017E, [Kahan](mi_kahan), kde strom nikdy nevyroste s\u00E1m, [Buben](mi_buben), jedin\u00E1 stromov\u00E1 v\u011B\u017E v [Tr\u00F3ji](ca_troja), [Okap](mi_okap), v\u011B\u017E se spir\u00E1lovit\u00FDmi okny, [Mrkev](mi_mrkev), v\u011B\u017E v [Nov\u00E9m Dil\u00ED](ca_nove_dili) s atypick\u00FDm vzhledem a [Dra\u010D\u00ED Rotunda](mi_draci_rotunda) na [Sibi\u0159i](ca_sibir)."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "V\u011B\u017Ee se stromy -\u003E stromov\u00E9 v\u011B\u017Ee."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Ka\u017Ed\u00E1 stromov\u00E1 v\u011B\u017E m\u00E1 ve st\u0159edu sv\u00E9 podlahy \u010Dtve\u0159ici podzol\u016F s vyrostl\u00FDm stromem a nebo zasazen\u00FDmi sazeni\u010Dkami. D\u00E1le je zde v\u017Edy jeden \u010Di v\u00EDce barel\u016F s p\u0159ebyte\u010Dn\u00FDmi sazenicemi, d\u0159evem, kostn\u00ED mou\u010Dkou \u010Di n\u00E1stroji a s jedinou vyj\u00EDmkou velik\u00E1 okna. Vyj\u00EDmkou je samozd\u0159ejm\u011B [Mrkev](mi_mrkev), nebo\u0165 se jedn\u00E1 o jedinou stromovou v\u011B\u017E v podzem\u00ED. V ka\u017Ed\u00E9 v\u011B\u017Ei je tak\u00E9 \u017Eeb\u0159\u00EDk \u010Di p\u0159istav\u011Bn\u00FD v\u00FDtah, kter\u00FD umo\u017E\u0148uje jednoduch\u00FD zp\u016Fsob jak se dostat do koruny strom\u016F."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Stromov\u00E9 v\u011B\u017Ee jsou zdrojem ve\u0161ker\u00E9ho d\u0159eva na stavbu domu. \r\nNejvy\u0161\u0161\u00ED stromovou v\u011B\u017E\u00ED je [Okap](mi_okap) s v\u00FD\u0161kou 41.5 bloku. Nejni\u017E\u0161\u00ED je [Mrkev](mi_mrkev) jen se 30 bloky."
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
     "Empty": false,
     "numberOfRooms": 0,
     "redirect": null
