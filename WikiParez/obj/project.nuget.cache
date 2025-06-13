@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "KKeWvoqKSRg=",
+  "dgSpecHash": "nmaG5EAdkXQ=",
   "success": true,
   "projectFilePath": "/root/wikiparez/WikiParez/WikiParez.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/root/.nuget/packages/microsoft.netcore.app.ref/8.0.16/microsoft.netcore.app.ref.8.0.16.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.16/microsoft.aspnetcore.app.ref.8.0.16.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.16/microsoft.netcore.app.host.linux-x64.8.0.16.nupkg.sha512"
+  ],
   "logs": []
 }

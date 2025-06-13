@@ -32,6 +32,16 @@ public class WikiService
                 best = result;
                 bestString = key;
             }
+
+            foreach (var alt in _pages[key].Alternate_names)
+            {
+                result = SearchService.GetSimilarityValue(alt, searchValue);
+                if (result > best)
+                {
+                    best = result;
+                    bestString = key;
+                }
+            }
         }
         return bestString;
     }
