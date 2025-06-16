@@ -2327,7 +2327,7 @@
     "Sections": [
       {
         "Title": "P\u0159ehled",
-        "Content": "Silo je m\u00EDstnost ve stejnojmenn\u00E9m [bloku](bl_silo) a [okrsku](ok_silo). Jedn\u00E1 se o [stromovou v\u011B\u017E](ka_stromove_veze) tvo\u0159enou dv\u011Bmi hlavn\u00EDmi podla\u017E\u00EDmi a \u0161esti ochozy. Ka\u017Ed\u00FD z ochoz\u016F (krom\u011B dvou) p\u0159esn\u011B kop\u00EDruje obrys v\u011B\u017Ee a dv\u011B hlavn\u00ED podla\u017E\u00ED se nach\u00E1z\u00ED \u00FApln\u011B dole a \u00FApln\u011B naho\u0159e Sila.\r\nNi\u017E\u0161\u00ED hlavn\u00ED podla\u017E\u00ED je m\u00EDsto, kde roste strom. Nach\u00E1z\u00ED se zde trojice barel\u016F na uskladn\u011Bn\u00ED vy\u011B\u017Een\u00E9ho d\u0159eva, smrkov\u00FDch sazenic, seker a kostn\u00ED mou\u010Dky na urychlen\u00ED r\u016Fstu. Na toto podla\u017E\u00ED vedou t\u0159i vstupy. Dve\u0159mi se sem d\u00E1 dostat z [D\u00EDry do Pekel](mi_dira_do_pekel) a voln\u00FDm vstupy z [Podchodu](mi_podchod). Taky je zde za\u010D\u00E1tek \u017Eeb\u0159\u00EDku do nejvy\u0161\u0161\u00EDch prostor Sila a n\u00E1stup do v\u00FDtahu [Sil\u00E1k](mi_silak). Je\u0161t\u011B p\u0159ed prvn\u00EDm ochozem hned u \u017Eeb\u0159\u00EDku vedou do sila dal\u0161\u00ED dve\u0159e z [Hlavn\u00ED T\u0159\u00EDdy](mi_hlavni_trida).\r\nPrvn\u00ED ochoz je ve v\u00FD\u0161ce 9.5 bloku nad podlahou Sila a je propojen s kolemvedouc\u00ED [D\u00E1lnic\u00ED](mi_dalnice). Krom\u011B d\u00E1lnice na n\u011Bj vedou dve\u0159e z [Bridge](mi_the_bridge). Tento ochoz je pouze \u010D\u00E1ste\u010Dn\u00FD, nebo\u0165 nevede kolem cel\u00E9ho obvodu Sila. O 2.5 bloku v\u00FD\u0161e je druh\u00FD \u010D\u00E1ste\u010Dn\u00FD ochoz s vchodem z [Klubu](mi_klub).\r\nPrvn\u00EDm dvojice skute\u010Dn\u00FDch ochoz\u016F je jen 2.5 bloku od sebe. Na nich se nach\u00E1z\u00ED trojice dve\u0159\u00ED vedouc\u00EDch z [Crossingu](mi_the_crossing), [ulice Schodov\u00E9](mi_ulice_schodova) a [Dobr\u00E9 Vody](mi_dobra_voda). Z p\u0159edposledn\u00EDho ochozu vedou dve\u0159e na nejmenovan\u00E9 n\u00E1m\u011Bst\u00ED\u010Dko a z ochozu nejv\u00FD\u0161e nad zem\u00ED se d\u00E1 dostat do [Parsley Attic](mi_parsley_attic), na [Detour](mi_the_detour), na [Terasu](mi_the_terrass) a [D\u00E1lni\u010Dn\u00ED Pil\u00ED\u0159](mi_dalnicni_pilir).\r\nNejvy\u0161\u0161\u00ED podla\u017E\u00ED v silu je neuv\u011B\u0159iteln\u00FDch 33 blok\u016F nad podlahou Sila. Vedou odtud schody nahoru do [Stair Heaven](mi_stair_heaven) a dvojice schodi\u0161\u0165 do [Katakomb](mi_katakomby). Toto podla\u017E\u00ED je p\u0159\u00EDmo propojeno s [Galeri\u00ED](mi_galerie) a hned nad koncem \u017Eeb\u0159\u00EDkem jsou dve\u0159e na [Chodbu \u010D\u00EDslo 2](mi_chodba_ii). V neposledn\u00ED \u0159ad\u011B se zde nach\u00E1z\u00ED pod\u00E9ln\u00E1 d\u00EDra o rozm\u011Brech 6x1 bloku nesouc\u00ED jm\u00E9no [D\u00EDra Pekeln\u00E1](mi_dira_pekelna)."
+        "Content": "Silo je m\u00EDstnost ve stejnojmenn\u00E9m [bloku](bl_silo) a [okrsku](ok_silo). Jedn\u00E1 se o [stromovou v\u011B\u017E](ka_stromove_veze) tvo\u0159enou dv\u011Bmi hlavn\u00EDmi podla\u017E\u00EDmi a \u0161esti ochozy. Ka\u017Ed\u00FD z ochoz\u016F (krom\u011B dvou) p\u0159esn\u011B kop\u00EDruje obrys v\u011B\u017Ee a dv\u011B hlavn\u00ED podla\u017E\u00ED se nach\u00E1z\u00ED \u00FApln\u011B dole a \u00FApln\u011B naho\u0159e Sila.\r\nNi\u017E\u0161\u00ED hlavn\u00ED podla\u017E\u00ED je m\u00EDsto, kde roste strom. Nach\u00E1z\u00ED se zde trojice barel\u016F na uskladn\u011Bn\u00ED vy\u011B\u017Een\u00E9ho d\u0159eva, smrkov\u00FDch sazenic, seker a kostn\u00ED mou\u010Dky na urychlen\u00ED r\u016Fstu. Na toto podla\u017E\u00ED vedou t\u0159i vstupy. Dve\u0159mi se sem d\u00E1 dostat z [D\u00EDry do Pekel](mi_dira_do_pekel) a voln\u00FDm vstupy z [Podchodu](mi_podchod). Taky je zde za\u010D\u00E1tek \u017Eeb\u0159\u00EDku do nejvy\u0161\u0161\u00EDch prostor Sila a n\u00E1stup do v\u00FDtahu [Sil\u00E1k](mi_silak). Je\u0161t\u011B p\u0159ed prvn\u00EDm ochozem hned u \u017Eeb\u0159\u00EDku vedou do sila dal\u0161\u00ED dve\u0159e z [Hlavn\u00ED T\u0159\u00EDdy](mi_hlavni_trida).\r\nPrvn\u00ED ochoz je ve v\u00FD\u0161ce 9.5 bloku nad podlahou Sila a je propojen s kolemvedouc\u00ED [D\u00E1lnic\u00ED](mi_dalnice). Krom\u011B d\u00E1lnice na n\u011Bj vedou dve\u0159e z [Bridge](mi_the_bridge). Tento ochoz je pouze \u010D\u00E1ste\u010Dn\u00FD, nebo\u0165 nevede kolem cel\u00E9ho obvodu Sila. O 2.5 bloku v\u00FD\u0161e je druh\u00FD \u010D\u00E1ste\u010Dn\u00FD ochoz s vchodem z [Klubu](mi_klub).\r\nPrvn\u00EDm dvojice skute\u010Dn\u00FDch ochoz\u016F je jen 2.5 bloku od sebe. Na nich se nach\u00E1z\u00ED trojice dve\u0159\u00ED vedouc\u00EDch z [Crossingu](mi_the_crossing), [ulice Schodov\u00E9](mi_ulice_schodova) a [Dobr\u00E9 Vody](mi_dobra_voda). Z p\u0159edposledn\u00EDho ochozu vedou dve\u0159e na nejmenovan\u00E9 n\u00E1m\u011Bst\u00ED\u010Dko a z ochozu nejv\u00FD\u0161e nad zem\u00ED se d\u00E1 dostat do [Parsley Attic](mi_parsley_attic), na [Detour](mi_the_detour), na [Terasu](mi_the_terrass) a [D\u00E1lni\u010Dn\u00ED Pil\u00ED\u0159](mi_dalnicni_pilir).\r\nNejvy\u0161\u0161\u00ED podla\u017E\u00ED v silu je neuv\u011B\u0159iteln\u00FDch 33 blok\u016F nad podlahou Sila. Vedou odtud schody nahoru do [Stair Heaven](mi_stair_heaven) a dvojice schodi\u0161\u0165 do [Katakomb](mi_katakomby). Toto podla\u017E\u00ED je p\u0159\u00EDmo propojeno s [Galeri\u00ED](mi_galerie) a hned nad koncem \u017Eeb\u0159\u00EDkem jsou dve\u0159e na [Chodbu \u010D\u00EDslo 2](mi_chodba_ii). V neposledn\u00ED \u0159ad\u011B se zde nach\u00E1z\u00ED pod\u00E9ln\u00E1 d\u00EDra o rozm\u011Brech 6x1 bloku nesouc\u00ED jm\u00E9no [J\u00E1ma Pekeln\u00E1](mi_jama_pekelna)."
       },
       {
         "Title": "N\u00E1zev",
@@ -2379,6 +2379,168 @@
     ],
     "image_id": 0,
     "area": 0,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "redirect": null
+  },
+  "mi_jama_pekelna": {
+    "Title": "J\u00E1ma Pekeln\u00E1",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "J\u00C1MA"
+    ],
+    "Bordering_rooms": [
+      "mi_silo"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "J\u00E1ma Pekeln\u00E1",
+      "Blok": "[Silo](bl_silo)",
+      "Okrsek": "[Silo](ok_silo)",
+      "\u010Ctvr\u0165": "[Ryb\u00E1\u0159sk\u00E1 Kolonie](ct_rybarska_kolonie)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
+      "Kategorie": "[by Kiki](ka_by_kiki)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "J\u00E1ma Pekeln\u00E1 je mal\u00FD otvor v podlaze horn\u00EDho podla\u017E\u00ED [Sila](mi_silo). J\u00E1ma se nach\u00E1z\u00ED na prav\u00E9 stran\u011B od schodi\u0161t\u011B do [Stair Heavenu](mi_stair_heaven) a pod n\u00ED je 33 blok\u016F hlubok\u00E1 d\u00EDra."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Je to prost\u011B J\u00E1ma. P\u0159\u00EDdavek \u0022pekeln\u00E1\u0022 byl k n\u00E1zvu p\u0159id\u00E1n, nebo\u0165 se to k tomu hodilo. J\u00E1ma tak\u00E9 nese ozna\u010Den\u00ED [\u0022by kiki\u0022](ka_by_kiki), kter\u00E9 \u0159\u00EDk\u00E1, \u017Ee m\u00EDsto bylo pojmenov\u00E1no [Kry\u0161tofem Baudy\u0161em](os_krystof_baudys)."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Jedn\u00E1 se o otvor v zemi ve tvaru obd\u00E9ln\u00EDku 6x1 bloku."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "J\u00E1ma Pekeln\u00E1 je jedin\u00E1 \u0022m\u00EDstnost\u0022 s nulovou plochou."
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "redirect": null
+  },
+  "ka_by_kiki": {
+    "Title": "by kiki",
+    "Type": "kategorie",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "by Kiki"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "\u0022by kiki\u0022 je ozna\u010Den\u00ED m\u00EDst v dom\u011B pojmenovan\u00FDch [Kry\u0161tofem Baudy\u0161em](os_krystof_baudys). Aktu\u00E1ln\u011B se jedn\u00E1 o dvojici m\u00EDst a to: [J\u00E1my Pekeln\u00E9](mi_jama_pekelna) a [Sloupku](mi_sloupek)."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "\u0022Kiki\u0022 je p\u0159ezd\u00EDvkou [Kry\u0161tofa Baudy\u0161e](os_krystof_baudys). "
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "\u017D\u00E1dn\u00E9 z m\u00EDst nesouc\u00EDch toto ozna\u010Den\u00ED nen\u00ED opravdovou m\u00EDstnost\u00ED. V p\u0159\u00EDpad\u011B [J\u00E1my Pekeln\u00E9](mi_jama_pekelna) se jedn\u00E1 o \u0161kv\u00EDru v zemi a [Sloupek](mi_sloupek) se svoji plochou 16 pixel\u016F \u010Dtvere\u010Dn\u00EDch je 2. nejmen\u0161\u00ED lokac\u00ED v dom\u011B."
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "redirect": null
+  },
+  "mi_dining_room": {
+    "Title": "Dining Room",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "DIVING ROOM"
+    ],
+    "Bordering_rooms": [
+      "mi_sloup",
+      "mi_schodiste_tt",
+      "mi_beetroot_farma"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Dining Room",
+      "Blok": "[P\u0159\u00EDkop](bl_prikop)",
+      "Okrsek": "[Ben\u00E1tky](ok_benatky)",
+      "\u010Ctvr\u0165": "[Ryb\u00E1\u0159sk\u00E1 Kolonie](ct_rybarska_kolonie)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Dining Room je m\u00EDstnost na [P\u0159\u00EDkop\u011B](bl_prikop) se t\u0159emi vchody. Ze severu se sem d\u00E1 vej\u00EDt ze [Schodi\u0161t\u011B TT](mi_schodiste_tt) a z [Beetroot farmy](mi_beetroot_farma). Z ji\u017En\u00ED strany sem vedou dve\u0159e ze [Sloupu](mi_sloup).\r\nJedn\u00E1 se o velikostn\u011B st\u0159edn\u00ED m\u00EDstnost na sam\u00E9m jihoz\u00E1padn\u00EDm konci [Pa\u0159ezu](ca_parez)."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Stoly napov\u00EDdaj\u00ED, \u017Ee se jedn\u00E1 o m\u00EDstnost ur\u010Denou ke konzumaci pokrm\u016F."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "V m\u00EDstnosti se nach\u00E1z\u00ED \u010Dtve\u0159ice stol\u016F tvo\u0159en\u00FDch z plot\u016F a b\u00EDl\u00FDch koberc\u016F. Vedle nejv\u011Bt\u0161\u00EDho z nich je sv\u011Btle modr\u00E1 postel. Stoly jsou postaveny ve dvou \u0159ad\u00E1ch mezi kter\u00FDmi vede \u00FAzk\u00E1, 2 bloky \u0161irok\u00E1 uli\u010Dka. Prost\u0159edn\u00ED uli\u010Dka vede ke dve\u0159\u00EDm vedouc\u00EDm na [Schodi\u0161t\u011B TT](mi_schodiste_tt). U t\u011Bchto dve\u0159\u00ED je jedin\u00FD crafting table v m\u00EDstnosti a nad dve\u0159mi, kter\u00E9 jsou mimochodem o p\u016Fl bloku n\u00ED\u017Ee ne\u017E podlaha, je trapdoor umo\u017E\u0148uj\u00EDc\u00ED dve\u0159e pou\u017E\u00EDvat.\r\nV\u00FDhodou je relativn\u011B vysok\u00FD strop o v\u00FD\u0161ce 4.5 bloku. Naproti tomu je podlaha polo\u017Eena o p\u016Fl bloku n\u00ED\u017Ee a tak jsou stoly p\u0159\u00EDli\u0161 vysoko. Na v\u00FDchodn\u00ED stran\u011B jsou dv\u011B velk\u00E1 okna za nimi\u017E je prostor nad [Hv\u011Bzdou](mi_hvezda)."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": " Nad okny na z\u00E1padn\u00ED stran\u011B je m\u00EDrn\u011B ni\u017E\u0161\u00ED strop kv\u016Fli [Airshipu](mi_the_airship)."
+      }
+    ],
+    "image_id": 0,
+    "area": 62,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "redirect": null
+  },
+  "mi_sloup": {
+    "Title": "Sloup",
+    "Type": "místnost",
+    "Images": [],
+    "Image_titles": [
+      "SLOUP",
+      "\u010C\u00C1ST POD SCHODI\u0160T\u011AM AA"
+    ],
+    "Bordering_rooms": [
+      "mi_dining_room",
+      "mi_schodiste_aa",
+      "mi_schwarzenegger_house"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Sloup",
+      "Blok": "[P\u0159\u00EDkop](bl_prikop)",
+      "Okrsek": "[Ben\u00E1tky](ok_benatky)",
+      "\u010Ctvr\u0165": "[Ryb\u00E1\u0159sk\u00E1 Kolonie](ct_rybarska_kolonie)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Sloup je \u00FAtuln\u00E1 m\u00EDstnost\u00ED na jihoz\u00E1pad\u011B [Pa\u0159ezu](ca_parez). M\u00EDstnost m\u00E1 velmi typick\u00FD vzhled, ale chyb\u00ED j\u00ED \u00FA\u010Del. Vede do n\u00ED trojice dve\u0159\u00ED. Mezi n\u011B pat\u0159\u00ED: [Schodi\u0161t\u011B AA](mi_schodiste_aa), [Schwarzenegger House](mi_schwarzenegger_house) a [Dining Room](mi_dining_room)."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "N\u00E1zev byla pojmenov\u00E1na podle t\u0159\u00ED barel\u016F, kter\u00E9 stoj\u00ED v jihoz\u00E1padn\u00EDm rohu m\u00EDstnosti. Barely p\u0159ipom\u00EDnaj\u00ED sloup, nebo\u0165 jsou polo\u017Eeny na sv\u00E9m boku."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "V hlavn\u00ED \u010D\u00E1sti interi\u00E9ru je b\u00EDl\u00E1 postel, crafting table a trojice barel\u016F postaven\u00FDch na boku ve sloupku. Vedle t\u011Bchto barel\u016F se nach\u00E1z\u00ED nejv\u011Bt\u0161\u00ED okno m\u00EDstnosti, kter\u00FDm lze nahl\u00E9dnout podlahou do [Builder \u010Depi\u010Dky](mi_builder_cepicka). Podlaha m\u00EDstnosti je polo\u017Eena o p\u016Fl bloku n\u00ED\u017Ee ne\u017E vstupn\u00ED dve\u0159e.\r\nNa severov\u00FDchodn\u00ED stran\u011B je \u010D\u00E1st m\u00EDstnosti pod [Schodi\u0161t\u011Bm AA](mi_schodiste_aa). Je zde krom\u011B dve\u0159\u00ED do [Schwarzenegger Housu](mi_schwarzenegger_house) i plot za n\u00EDm\u017E je prostor nad [Hv\u011Bzdou](mi_hvezda)."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 38,
     "Empty": false,
     "numberOfRooms": 0,
     "redirect": null
