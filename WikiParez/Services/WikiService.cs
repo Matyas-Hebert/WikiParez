@@ -68,6 +68,9 @@ public class WikiService
             {
                 pageCount--;
             }
+            else if (_pages[key].redirect != null && _pages[key].redirect != ""){
+                pageCount--;
+            }
             else
             {
                 dict[key] = _pages[key].Title;
@@ -227,6 +230,14 @@ public class WikiService
             }
             if (!IsSubdivision(dictionary[key].Type))
             {
+                if (dictionary[key].redirect != null && dictionary[key].redirect != "")
+                {
+                    var red = dictionary[key].redirect;
+                    for (int i = 0; i < dictionary[key].image_count(); i++)
+                    {
+                        dictionary[red].Images.Add(dictionary[key].Images[i]);
+                    }
+                }
                 foreach (var dataKey in dictionary[key].Metadata.Keys)
                 {
                     string slug = GetSlugByValue(dictionary[key].Metadata[dataKey]);
