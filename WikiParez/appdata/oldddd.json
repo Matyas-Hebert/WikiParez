@@ -42,7 +42,8 @@
     "area": 33,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": ""
+    "redirect": "",
+    "tobeedited": false
   },
   "mi_schodiste_tt": {
     "Title": "Schodi\u0161t\u011B TT",
@@ -55,7 +56,7 @@
     "Bordering_rooms": [
       "mi_byt_chudaka_kterej_nema_rad_kluby",
       "mi_beetroot_farma",
-      "mi_dining_room",
+      "mi_vecere",
       "mi_the_airship"
     ],
     "Alternate_names": [],
@@ -69,7 +70,7 @@
     "Sections": [
       {
         "Title": "P\u0159ehled",
-        "Content": "Schodi\u0161t\u011B TT je schodi\u0161t\u011B vedouc\u00ED z [bytu chud\u00E1ka, kterej nem\u00E1 r\u00E1d kluby](mi_byt_chudaka_kterej_nema_rad_kluby) na [the Airship](the_airship). Schodi\u0161t\u011B p\u0159ekon\u00E1v\u00E1 v\u00FD\u0161kov\u00FD rozd\u00EDl 10 blok\u016F a krom dvou v\u00FD\u0161e zm\u00EDn\u011Bn\u00FDch m\u00EDstnost\u00ED m\u00E1 vchody do 2 dal\u0161\u00EDch. Uprost\u0159ed schodi\u0161t\u011B se na prav\u00E9 stran\u011B nach\u00E1z\u00ED dve\u0159e do [Dining room](mi_dining_room) a na lev\u00E9 stran\u011B voln\u00FD vchod do [Beetroot farmy](mi_beetroot_farma). Schodi\u0161t\u011B je 2 bloky \u0161irok\u00E9 a 10 blok\u016F dlouh\u00E9."
+        "Content": "Schodi\u0161t\u011B TT je schodi\u0161t\u011B vedouc\u00ED z [bytu chud\u00E1ka, kterej nem\u00E1 r\u00E1d kluby](mi_byt_chudaka_kterej_nema_rad_kluby) na [the Airship](the_airship). Schodi\u0161t\u011B p\u0159ekon\u00E1v\u00E1 v\u00FD\u0161kov\u00FD rozd\u00EDl 10 blok\u016F a krom dvou v\u00FD\u0161e zm\u00EDn\u011Bn\u00FDch m\u00EDstnost\u00ED m\u00E1 vchody do 2 dal\u0161\u00EDch. Uprost\u0159ed schodi\u0161t\u011B se na prav\u00E9 stran\u011B nach\u00E1z\u00ED dve\u0159e do [Ve\u010De\u0159e](mi_vecere) a na lev\u00E9 stran\u011B voln\u00FD vchod do [Beetroot farmy](mi_beetroot_farma). Schodi\u0161t\u011B je 2 bloky \u0161irok\u00E9 a 10 blok\u016F dlouh\u00E9."
       },
       {
         "Title": "N\u00E1zev",
@@ -81,14 +82,15 @@
       },
       {
         "Title": "Zaj\u00EDmavosti",
-        "Content": "Ze Schodi\u0161t\u011B TT lze otev\u0159\u00EDt barel uprost\u0159ed \u0159epn\u00E9ho pole v [Beetroot farm\u011B](mi_beetroot_farma).\nP\u016Fvodn\u00ED n\u00E1zev Schodi\u0161t\u011B TT m\u011Bl b\u00FDt [Schodi\u0161t\u011B AA](mi_schodiste_aa), ale tento n\u00E1zev byl ji\u017E zabr\u00E1n."
+        "Content": "Ze Schodi\u0161t\u011B TT lze otev\u0159\u00EDt barel uprost\u0159ed \u0159epn\u00E9ho pole v [Beetroot farm\u011B](mi_beetroot_farma).\r\nP\u016Fvodn\u00ED n\u00E1zev Schodi\u0161t\u011B TT m\u011Bl b\u00FDt [Schodi\u0161t\u011B AA](mi_schodiste_aa), ale tento n\u00E1zev byl ji\u017E zabr\u00E1n."
       }
     ],
     "image_id": 0,
     "area": 20,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": ""
+    "redirect": null,
+    "tobeedited": false
   },
   "mi_oranjestad": {
     "Title": "Oranjestad",
@@ -135,7 +137,8 @@
     "area": 64,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": ""
+    "redirect": "",
+    "tobeedited": false
   },
   "mi_beetroot_farma": {
     "Title": "Beetroot farma",
@@ -150,7 +153,7 @@
       "mi_parsley_attic",
       "mi_oranjestad",
       "mi_rudakuv_dum",
-      "mi_dining_room",
+      "mi_vecere",
       "mi_hvezda",
       "mi_balkon_svate_nedele"
     ],
@@ -168,7 +171,7 @@
     "Sections": [
       {
         "Title": "P\u0159ehled",
-        "Content": "Beetroot farma je otev\u0159en\u00E1 m\u00EDstnost s jedin\u00FDmi dve\u0159mi a to do [Dining room](mi_dining_room). P\u0159\u00EDmo se do n\u00ED lze dostat z [Ru\u010F\u00E1kova domu](mi_rudakuv_dum), [Schodi\u0161t\u011B TT](mi_schodiste_tt), [Oranjestadu](mi_oranjestad), [Hv\u011Bzdy](mi_hvezda), [Balk\u00F3nu svat\u00E9 ned\u011Ble](mi_balkon_svate_nedele), [Parsley Atticu](mi_parsley_attic) a [Ulice schodov\u00E9](mi_ulice_schodova). Beetroot farma je jednodu\u0161e p\u0159\u00EDstupn\u00E1 a u\u017Eite\u010Dn\u00E1 m\u00EDstnost, nebo\u0165 na jej\u00ED plo\u0161e se nach\u00E1z\u00ED \u0159epn\u00E1 farma i s mo\u017Enost\u00ED uskladn\u011Bn\u00ED \u0159edkv\u00ED."
+        "Content": "Beetroot farma je otev\u0159en\u00E1 m\u00EDstnost s jedin\u00FDmi dve\u0159mi a to do [Ve\u0159e\u0159e](mi_vecere). P\u0159\u00EDmo se do n\u00ED lze dostat z [Ru\u010F\u00E1kova domu](mi_rudakuv_dum), [Schodi\u0161t\u011B TT](mi_schodiste_tt), [Oranjestadu](mi_oranjestad), [Hv\u011Bzdy](mi_hvezda), [Balk\u00F3nu svat\u00E9 ned\u011Ble](mi_balkon_svate_nedele), [Parsley Atticu](mi_parsley_attic) a [Ulice schodov\u00E9](mi_ulice_schodova). Beetroot farma je jednodu\u0161e p\u0159\u00EDstupn\u00E1 a u\u017Eite\u010Dn\u00E1 m\u00EDstnost, nebo\u0165 na jej\u00ED plo\u0161e se nach\u00E1z\u00ED \u0159epn\u00E1 farma i s mo\u017Enost\u00ED uskladn\u011Bn\u00ED \u0159edkv\u00ED."
       },
       {
         "Title": "N\u00E1zev",
@@ -187,7 +190,8 @@
     "area": 134,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": null
+    "redirect": null,
+    "tobeedited": false
   },
   "mi_ulice_schodova": {
     "Title": "Ulice Schodov\u00E1",
@@ -236,7 +240,8 @@
     "area": 54,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": ""
+    "redirect": "",
+    "tobeedited": false
   },
   "mi_byt_chudaka_kterej_nema_rad_kluby": {
     "Title": "Byt chud\u00E1ka, kterej nem\u00E1 r\u00E1d kluby",
@@ -288,7 +293,8 @@
     "area": 52,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": ""
+    "redirect": "",
+    "tobeedited": false
   },
   "mi_klub": {
     "Title": "Klub",
@@ -340,7 +346,8 @@
     "area": 78,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": ""
+    "redirect": "",
+    "tobeedited": false
   },
   "mi_viden": {
     "Title": "V\u00EDde\u0148",
@@ -388,7 +395,8 @@
     "area": 36,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": ""
+    "redirect": "",
+    "tobeedited": false
   },
   "mi_rubec": {
     "Title": "Rubec",
@@ -433,7 +441,8 @@
     "area": 33,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": ""
+    "redirect": "",
+    "tobeedited": false
   },
   "mi_nadchod": {
     "Title": "Nadchod",
@@ -477,7 +486,8 @@
     "area": 14,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": ""
+    "redirect": "",
+    "tobeedited": false
   },
   "beacon_parez": {
     "Title": "Beacon - Pa\u0159ez",
@@ -517,7 +527,8 @@
     "area": 4,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": ""
+    "redirect": "",
+    "tobeedited": false
   },
   "os_marcela_hebertova": {
     "Title": "Marcela Hebertov\u00E1",
@@ -553,7 +564,8 @@
     "area": 0,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": ""
+    "redirect": "",
+    "tobeedited": false
   },
   "bl_barvy": {
     "Title": "Barvy",
@@ -590,7 +602,8 @@
     "area": 0,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": ""
+    "redirect": "",
+    "tobeedited": false
   },
   "bl_viden": {
     "Title": "V\u00EDde\u0148",
@@ -627,7 +640,8 @@
     "area": 0,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": ""
+    "redirect": "",
+    "tobeedited": false
   },
   "ca_parez": {
     "Title": "Pa\u0159ez",
@@ -642,7 +656,7 @@
     "Sections": [
       {
         "Title": "P\u0159ehled",
-        "Content": ""
+        "Content": null
       },
       {
         "Title": "N\u00E1zev",
@@ -650,18 +664,19 @@
       },
       {
         "Title": "Interi\u00E9r",
-        "Content": ""
+        "Content": null
       },
       {
         "Title": "Zaj\u00EDmavosti",
-        "Content": ""
+        "Content": null
       }
     ],
     "image_id": 0,
     "area": 0,
-    "Empty": false,
+    "Empty": true,
     "numberOfRooms": 0,
-    "redirect": ""
+    "redirect": null,
+    "tobeedited": false
   },
   "mi_mostiste": {
     "Title": "Mosti\u0161t\u011B",
@@ -710,7 +725,8 @@
     "area": 38,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": ""
+    "redirect": "",
+    "tobeedited": false
   },
   "mi_strecha": {
     "Title": "St\u0159echa",
@@ -759,7 +775,8 @@
     "area": 143,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": ""
+    "redirect": "",
+    "tobeedited": false
   },
   "mi_skokanske_mustky": {
     "Title": "Skokansk\u00E9 m\u016Fstky",
@@ -805,7 +822,8 @@
     "area": 93,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": ""
+    "redirect": "",
+    "tobeedited": false
   },
   "mi_chodba": {
     "Title": "Chodba",
@@ -857,7 +875,8 @@
     "area": 128,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": ""
+    "redirect": "",
+    "tobeedited": false
   },
   "mi_dalnicni_prechod": {
     "Title": "D\u00E1lni\u010Dn\u00ED p\u0159echod",
@@ -901,7 +920,8 @@
     "area": 15,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": ""
+    "redirect": "",
+    "tobeedited": false
   },
   "mi_pucmeloun_farma": {
     "Title": "Pu\u010Dmeloun farma",
@@ -949,7 +969,8 @@
     "area": 26,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": null
+    "redirect": null,
+    "tobeedited": false
   },
   "mi_staj": {
     "Title": "St\u00E1j",
@@ -993,7 +1014,8 @@
     "area": 81,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": ""
+    "redirect": "",
+    "tobeedited": false
   },
   "mi_builder_cepicka": {
     "Title": "Builder \u010Depi\u010Dka",
@@ -1036,7 +1058,8 @@
     "area": 56,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": ""
+    "redirect": "",
+    "tobeedited": false
   },
   "mi_lokace": {
     "Title": "Lokace",
@@ -1080,7 +1103,8 @@
     "area": 99,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": ""
+    "redirect": "",
+    "tobeedited": false
   },
   "mi_kabina": {
     "Title": "Kabina",
@@ -1126,7 +1150,8 @@
     "area": 53,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": null
+    "redirect": null,
+    "tobeedited": false
   },
   "mi_the_terrass": {
     "Title": "The Terrass",
@@ -1173,7 +1198,8 @@
     "area": 69,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": null
+    "redirect": null,
+    "tobeedited": false
   },
   "mi_parsley_attic": {
     "Title": "Parsley Attic",
@@ -1223,7 +1249,8 @@
     "area": 82,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": null
+    "redirect": null,
+    "tobeedited": false
   },
   "mi_the_airship": {
     "Title": "The Airship",
@@ -1286,7 +1313,8 @@
     "area": 285,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": null
+    "redirect": null,
+    "tobeedited": false
   },
   "mi_lodzie": {
     "Title": "Lod\u017Eie",
@@ -1331,7 +1359,8 @@
     "area": 31,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": ""
+    "redirect": "",
+    "tobeedited": false
   },
   "mi_prechod": {
     "Title": "P\u0159echod",
@@ -1374,7 +1403,8 @@
     "area": 13,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": ""
+    "redirect": "",
+    "tobeedited": false
   },
   "bl_ke_klubu": {
     "Title": "Ke Klubu",
@@ -1411,7 +1441,8 @@
     "area": 0,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": ""
+    "redirect": "",
+    "tobeedited": false
   },
   "mi_ropna_plosina": {
     "Title": "Ropn\u00E1 Plo\u0161ina",
@@ -1464,7 +1495,8 @@
     "area": 124,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": ""
+    "redirect": "",
+    "tobeedited": false
   },
   "mi_ropna_plosina_b": {
     "Title": "Ropn\u00E1 Plo\u0161ina b",
@@ -1513,7 +1545,8 @@
     "area": 60,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": ""
+    "redirect": "",
+    "tobeedited": false
   },
   "mi_hvezda": {
     "Title": "Hv\u011Bzda",
@@ -1563,7 +1596,8 @@
     "area": 89,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": ""
+    "redirect": "",
+    "tobeedited": false
   },
   "bl_ropna_plosina": {
     "Title": "Ropn\u00E1 Plo\u0161ina",
@@ -1600,7 +1634,8 @@
     "area": 0,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": ""
+    "redirect": "",
+    "tobeedited": false
   },
   "mi_nether": {
     "Title": "Nether",
@@ -1650,7 +1685,8 @@
     "area": 32,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": null
+    "redirect": null,
+    "tobeedited": false
   },
   "mi_dobra_voda": {
     "Title": "Dobr\u00E1 Voda",
@@ -1698,7 +1734,8 @@
     "area": 38,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": ""
+    "redirect": "",
+    "tobeedited": false
   },
   "mi_spojnice": {
     "Title": "Spojnice",
@@ -1750,7 +1787,8 @@
     "area": 0,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": null
+    "redirect": null,
+    "tobeedited": false
   },
   "mm_spojnice_1": {
     "Title": "redirecting",
@@ -1789,7 +1827,8 @@
     "area": 38,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": "mi_spojnice"
+    "redirect": "mi_spojnice",
+    "tobeedited": false
   },
   "mm_spojnice_2": {
     "Title": "redirecting",
@@ -1828,7 +1867,8 @@
     "area": 133,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": "mi_spojnice"
+    "redirect": "mi_spojnice",
+    "tobeedited": false
   },
   "bl_the_airship": {
     "Title": "The Airship",
@@ -1868,7 +1908,8 @@
     "area": 0,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": null
+    "redirect": null,
+    "tobeedited": false
   },
   "mi_dalnicni_pilir": {
     "Title": "D\u00E1lni\u010Dn\u00ED Pil\u00ED\u0159",
@@ -1930,7 +1971,8 @@
     "area": 0,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": null
+    "redirect": null,
+    "tobeedited": false
   },
   "mm_dalnicni_pilir_1": {
     "Title": "redirecting",
@@ -1969,7 +2011,8 @@
     "area": 86,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": "mi_dalnicni_pilir"
+    "redirect": "mi_dalnicni_pilir",
+    "tobeedited": false
   },
   "mm_dalnicni_pilir_2": {
     "Title": "redirecting",
@@ -2008,7 +2051,8 @@
     "area": 201,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": "mi_dalnicni_pilir"
+    "redirect": "mi_dalnicni_pilir",
+    "tobeedited": false
   },
   "mm_dalnicni_pilir_3": {
     "Title": "redirecting",
@@ -2047,7 +2091,8 @@
     "area": 332,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": "mi_dalnicni_pilir"
+    "redirect": "mi_dalnicni_pilir",
+    "tobeedited": false
   },
   "mi_silak": {
     "Title": "Sil\u00E1k",
@@ -2091,7 +2136,8 @@
     "area": 6,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": null
+    "redirect": null,
+    "tobeedited": false
   },
   "mi_diving_room": {
     "Title": "Diving Room",
@@ -2140,7 +2186,8 @@
     "area": 44,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": null
+    "redirect": null,
+    "tobeedited": false
   },
   "mi_ordinace_pink_lady": {
     "Title": "Ordinace Pink Lady",
@@ -2189,7 +2236,8 @@
     "area": 32,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": null
+    "redirect": null,
+    "tobeedited": false
   },
   "mi_diving_hole": {
     "Title": "Diving Hole",
@@ -2234,7 +2282,8 @@
     "area": 2,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": null
+    "redirect": null,
+    "tobeedited": false
   },
   "mi_schodiste_aa": {
     "Title": "Schodi\u0161t\u011B AA",
@@ -2281,7 +2330,8 @@
     "area": 28,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": null
+    "redirect": null,
+    "tobeedited": false
   },
   "mi_silo": {
     "Title": "Silo",
@@ -2346,7 +2396,8 @@
     "area": 325,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": null
+    "redirect": null,
+    "tobeedited": false
   },
   "ka_stromove_veze": {
     "Title": "Stromov\u00E9 v\u011B\u017Ee",
@@ -2381,7 +2432,8 @@
     "area": 0,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": null
+    "redirect": null,
+    "tobeedited": false
   },
   "mi_jama_pekelna": {
     "Title": "J\u00E1ma Pekeln\u00E1",
@@ -2424,7 +2476,8 @@
     "area": 0,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": null
+    "redirect": null,
+    "tobeedited": false
   },
   "ka_by_kiki": {
     "Title": "by kiki",
@@ -2454,62 +2507,44 @@
     "area": 0,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": null
+    "redirect": null,
+    "tobeedited": false
   },
   "mi_dining_room": {
-    "Title": "Dining Room",
-    "Type": "m\u00EDstnost",
+    "Title": "P\u0159esunuto",
+    "Type": "redirect",
     "Images": [],
     "Image_titles": [
-      "DIVING ROOM"
+      "DINING ROOM"
     ],
-    "Bordering_rooms": [
-      "mi_sloup",
-      "mi_schodiste_tt",
-      "mi_beetroot_farma"
-    ],
+    "Bordering_rooms": [],
     "Alternate_names": [],
     "Metadata": {
-      "N\u00E1zev": "Dining Room",
-      "Blok": "[P\u0159\u00EDkop](bl_prikop)",
-      "Okrsek": "[Ben\u00E1tky](ok_benatky)",
-      "\u010Ctvr\u0165": "[Ryb\u00E1\u0159sk\u00E1 Kolonie](ct_rybarska_kolonie)",
-      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+      "Pozn\u00E1mka": "Tato str\u00E1nka byla p\u0159ejmenov\u00E1na nebo p\u0159esunuta na [Ve\u010De\u0159e](mi_vecere)"
     },
     "Sections": [
       {
-        "Title": "P\u0159ehled",
-        "Content": "Dining Room je m\u00EDstnost na [P\u0159\u00EDkop\u011B](bl_prikop) se t\u0159emi vchody. Ze severu se sem d\u00E1 vej\u00EDt ze [Schodi\u0161t\u011B TT](mi_schodiste_tt) a z [Beetroot farmy](mi_beetroot_farma). Z ji\u017En\u00ED strany sem vedou dve\u0159e ze [Sloupu](mi_sloup).\r\nJedn\u00E1 se o velikostn\u011B st\u0159edn\u00ED m\u00EDstnost na sam\u00E9m jihoz\u00E1padn\u00EDm konci [Pa\u0159ezu](ca_parez)."
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": "Stoly napov\u00EDdaj\u00ED, \u017Ee se jedn\u00E1 o m\u00EDstnost ur\u010Denou ke konzumaci pokrm\u016F."
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": "V m\u00EDstnosti se nach\u00E1z\u00ED \u010Dtve\u0159ice stol\u016F tvo\u0159en\u00FDch z plot\u016F a b\u00EDl\u00FDch koberc\u016F. Vedle nejv\u011Bt\u0161\u00EDho z nich je sv\u011Btle modr\u00E1 postel. Stoly jsou postaveny ve dvou \u0159ad\u00E1ch mezi kter\u00FDmi vede \u00FAzk\u00E1, 2 bloky \u0161irok\u00E1 uli\u010Dka. Prost\u0159edn\u00ED uli\u010Dka vede ke dve\u0159\u00EDm vedouc\u00EDm na [Schodi\u0161t\u011B TT](mi_schodiste_tt). U t\u011Bchto dve\u0159\u00ED je jedin\u00FD crafting table v m\u00EDstnosti a nad dve\u0159mi, kter\u00E9 jsou mimochodem o p\u016Fl bloku n\u00ED\u017Ee ne\u017E podlaha, je trapdoor umo\u017E\u0148uj\u00EDc\u00ED dve\u0159e pou\u017E\u00EDvat.\r\nV\u00FDhodou je relativn\u011B vysok\u00FD strop o v\u00FD\u0161ce 4.5 bloku. Naproti tomu je podlaha polo\u017Eena o p\u016Fl bloku n\u00ED\u017Ee a tak jsou stoly p\u0159\u00EDli\u0161 vysoko. Na v\u00FDchodn\u00ED stran\u011B jsou dv\u011B velk\u00E1 okna za nimi\u017E je prostor nad [Hv\u011Bzdou](mi_hvezda)."
-      },
-      {
-        "Title": "Zaj\u00EDmavost",
-        "Content": " Nad okny na z\u00E1padn\u00ED stran\u011B je m\u00EDrn\u011B ni\u017E\u0161\u00ED strop kv\u016Fli [Airshipu](mi_the_airship)."
+        "Title": "P\u0159esunuto",
+        "Content": "Tato str\u00E1nka byla p\u0159ejmenov\u00E1na nebo p\u0159esunuta na [Ve\u010De\u0159e](mi_vecere)."
       }
     ],
     "image_id": 0,
-    "area": 62,
+    "area": 0,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": null
+    "redirect": "mi_vecere",
+    "tobeedited": false
   },
   "mi_sloup": {
     "Title": "Sloup",
-    "Type": "místnost",
+    "Type": "m\u00EDstnost",
     "Images": [],
     "Image_titles": [
       "SLOUP",
       "\u010C\u00C1ST POD SCHODI\u0160T\u011AM AA"
     ],
     "Bordering_rooms": [
-      "mi_dining_room",
+      "mi_vecere",
       "mi_schodiste_aa",
       "mi_schwarzenegger_house"
     ],
@@ -2524,7 +2559,7 @@
     "Sections": [
       {
         "Title": "P\u0159ehled",
-        "Content": "Sloup je \u00FAtuln\u00E1 m\u00EDstnost\u00ED na jihoz\u00E1pad\u011B [Pa\u0159ezu](ca_parez). M\u00EDstnost m\u00E1 velmi typick\u00FD vzhled, ale chyb\u00ED j\u00ED \u00FA\u010Del. Vede do n\u00ED trojice dve\u0159\u00ED. Mezi n\u011B pat\u0159\u00ED: [Schodi\u0161t\u011B AA](mi_schodiste_aa), [Schwarzenegger House](mi_schwarzenegger_house) a [Dining Room](mi_dining_room)."
+        "Content": "Sloup je \u00FAtuln\u00E1 m\u00EDstnost\u00ED na jihoz\u00E1pad\u011B [Pa\u0159ezu](ca_parez). M\u00EDstnost m\u00E1 velmi typick\u00FD vzhled, ale chyb\u00ED j\u00ED \u00FA\u010Del. Vede do n\u00ED trojice dve\u0159\u00ED. Mezi n\u011B pat\u0159\u00ED: [Schodi\u0161t\u011B AA](mi_schodiste_aa), [Schwarzenegger House](mi_schwarzenegger_house) a [Ve\u010De\u0159e](mi_vecere)."
       },
       {
         "Title": "N\u00E1zev",
@@ -2543,6 +2578,193 @@
     "area": 38,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": null
+    "redirect": null,
+    "tobeedited": false
+  },
+  "mi_vecere": {
+    "Title": "Ve\u010De\u0159e",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "DINING ROOM"
+    ],
+    "Bordering_rooms": [
+      "mi_sloup",
+      "mi_schodiste_tt",
+      "mi_beetroot_farma"
+    ],
+    "Alternate_names": [
+      "Dining Room"
+    ],
+    "Metadata": {
+      "N\u00E1zev": "Ve\u010De\u0159e",
+      "Blok": "[P\u0159\u00EDkop](bl_prikop)",
+      "Okrsek": "[Ben\u00E1tky](ok_benatky)",
+      "\u010Ctvr\u0165": "[Ryb\u00E1\u0159sk\u00E1 Kolonie](ct_rybarska_kolonie)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Ve\u010De\u0159e je m\u00EDstnost na [P\u0159\u00EDkop\u011B](bl_prikop) se t\u0159emi vchody. Ze severu se sem d\u00E1 vej\u00EDt ze [Schodi\u0161t\u011B TT](mi_schodiste_tt) a z [Beetroot farmy](mi_beetroot_farma). Z ji\u017En\u00ED strany sem vedou dve\u0159e ze [Sloupu](mi_sloup).\r\nJedn\u00E1 se o velikostn\u011B st\u0159edn\u00ED m\u00EDstnost na sam\u00E9m jihoz\u00E1padn\u00EDm konci [Pa\u0159ezu](ca_parez)."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Stoly napov\u00EDdaj\u00ED, \u017Ee se jedn\u00E1 o m\u00EDstnost ur\u010Denou ke konzumaci pokrm\u016F."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "V m\u00EDstnosti se nach\u00E1z\u00ED \u010Dtve\u0159ice stol\u016F tvo\u0159en\u00FDch z plot\u016F a b\u00EDl\u00FDch koberc\u016F. Vedle nejv\u011Bt\u0161\u00EDho z nich je sv\u011Btle modr\u00E1 postel. Stoly jsou postaveny ve dvou \u0159ad\u00E1ch mezi kter\u00FDmi vede \u00FAzk\u00E1, 2 bloky \u0161irok\u00E1 uli\u010Dka. Prost\u0159edn\u00ED uli\u010Dka vede ke dve\u0159\u00EDm vedouc\u00EDm na [Schodi\u0161t\u011B TT](mi_schodiste_tt). U t\u011Bchto dve\u0159\u00ED je jedin\u00FD crafting table v m\u00EDstnosti a nad dve\u0159mi, kter\u00E9 jsou mimochodem o p\u016Fl bloku n\u00ED\u017Ee ne\u017E podlaha, je trapdoor umo\u017E\u0148uj\u00EDc\u00ED dve\u0159e pou\u017E\u00EDvat.\r\nV\u00FDhodou je relativn\u011B vysok\u00FD strop o v\u00FD\u0161ce 4.5 bloku. Naproti tomu je podlaha polo\u017Eena o p\u016Fl bloku n\u00ED\u017Ee a tak jsou stoly p\u0159\u00EDli\u0161 vysoko. Na v\u00FDchodn\u00ED stran\u011B jsou dv\u011B velk\u00E1 okna za nimi\u017E je prostor nad [Hv\u011Bzdou](mi_hvezda)."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": " Nad okny na z\u00E1padn\u00ED stran\u011B je m\u00EDrn\u011B ni\u017E\u0161\u00ED strop kv\u016Fli [Airshipu](mi_the_airship)."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "17/06/25: P\u0159ejmenov\u00E1no z Dining Room na Ve\u010De\u0159e."
+      }
+    ],
+    "image_id": 0,
+    "area": 62,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "redirect": null,
+    "tobeedited": false
+  },
+  "mi_hlidkovaci_kos": {
+    "Title": "Hl\u00EDdkovac\u00ED Ko\u0161",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "HL\u00CDDKOVAC\u00CD KO\u0160",
+      "V\u00DDHLED NA LOM A BASGIATH"
+    ],
+    "Bordering_rooms": [
+      "mi_diving_hole",
+      "mi_stredove_namesti",
+      "mi_ropna_plosina"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Hl\u00EDdkovac\u00ED Ko\u0161",
+      "Blok": "[Pir\u00E1tsk\u00E1 Lo\u010F](bl_piratska_lod)",
+      "Okrsek": "[Ben\u00E1tky](ok_benatky)",
+      "\u010Ctvr\u0165": "[Ryb\u00E1\u0159sk\u00E1 Kolonie](ct_rybarska_kolonie)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Hl\u00EDdkovac\u00ED Ko\u0161 je nejv\u00FD\u0161e polo\u017Een\u00E1 m\u00EDstnost v [Pir\u00E1tsk\u00E9 Lodi](bl_piratska_lod). Z m\u00EDstnosti vedou dva otev\u0159en\u00E9 vchody a to na [Ropnou Plo\u0161inu](mi_ropna_plosina) a na [St\u0159edov\u00E9 N\u00E1m\u011Bst\u00ED](mi_stredove_namesti). Vchod z [n\u00E1m\u011Bst\u00ED](mi_stredove_namesti) je v\u0161ak relativn\u011B vysoko nad n\u00EDm a tak je pot\u0159eba do n\u011Bj vysko\u010Dit.\r\nKrom\u011B t\u011Bchto vstup\u016F je na ji\u017En\u00ED stran\u011B m\u00EDstnosti d\u00EDra s trapd\u00F3ry v zemi i ve strop\u011B zvan\u00E1 [Diving Hole](mi_diving_hole). D\u00EDra propojuje Hl\u00EDdkovac\u00ED Ko\u0161 s [Palubou](mi_paluba) o patro n\u00ED\u017Ee a s [Ordinac\u00ED Pink Lady](mi_ordinace_pink_lady) o patro v\u00FD\u0161e."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Na z\u00E1padn\u00ED stran\u011B m\u00EDstnosti je mo\u017En\u00E9 \u0022hl\u00EDdkovat\u0022. Je to m\u00EDsto, kter\u00E9 nen\u00ED pod [Ordinac\u00ED](mi_ordinace_pink_lady) a tak nab\u00EDz\u00ED p\u011Bkn\u00FD v\u00FDhled na [Basgiath](ca_basgiath) \u010Di [Lom](ca_lom)."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "M\u00EDstnost m\u00E1 n\u00EDzk\u00FD strop, v\u011Bt\u0161inou jen dva bloky. Z\u00E1padn\u00ED a ji\u017En\u00ED st\u011Bna je tvo\u0159ena plotem, p\u0159i\u010Dem\u017E zvl\u00E1\u0161t\u011B z\u00E1padn\u00ED st\u011Bna poskytuje p\u011Bkn\u00FD v\u00FDhled. Na t\u00E9to stran\u011B netvo\u0159\u00ED strop podlaha [Ordinace Pink Lady](mi_ordinace_pink_lady), ale podlaha [Sloupu](mi_sloup), m\u00EDstnosti o patro v\u00FD\u0161e).\r\nV Hl\u00EDdkovac\u00EDm Ko\u0161i je \u017Elut\u00E1 postel a jedin\u00FD crafting table. Podlaha nen\u00ED na pln\u00E9m bloku a tak zde nejsou \u017E\u00E1dn\u00E9 dve\u0159e."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Z nejz\u00E1padn\u011Bj\u0161\u00EDho bodu m\u00EDstnosti lze vid\u011Bt r\u016F\u017Eovou st\u011Bnu [Ordinace](mi_ordinace_pink_lady)."
+      }
+    ],
+    "image_id": 0,
+    "area": 49,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "redirect": null,
+    "tobeedited": false
+  },
+  "mi_lavicka": {
+    "Title": "Lavi\u010Dka",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "LAVI\u010CKA"
+    ],
+    "Bordering_rooms": [
+      "mi_stredove_namesti"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Lavi\u010Dka",
+      "Blok": "[Pir\u00E1tsk\u00E1 Lo\u010F](bl_piratska_lod)",
+      "Okrsek": "[Ben\u00E1tky](ok_benatky)",
+      "\u010Ctvr\u0165": "[Ryb\u00E1\u0159sk\u00E1 Kolonie](ct_rybarska_kolonie)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Lavi\u010Dka je mal\u00E1 d\u0159ev\u011Bn\u00E1 konstrukce na [Pir\u00E1tsk\u00E9 Lodi](bl_piratska_lod). Je um\u00EDst\u011Bna p\u0159\u00EDmo nad plotem mezi [St\u0159edov\u00FDm n\u00E1m\u011Bst\u00EDm](mi_stredove_namesti) a [Palubou](mi_paluba). Na Lavi\u010Dku je mo\u017En\u00E9 vysko\u010Dit z n\u011Bkter\u00E9ho vyv\u00FD\u0161en\u00E9ho m\u00EDsta na [St\u0159edov\u00E9m n\u00E1m\u011Bst\u00ED](mi_stredove_namesti)."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "P\u0159ipom\u00EDn\u00E1 lavi\u010Dku."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Lavi\u010Dka je tvo\u0159ena 4 trapdoory. Dva z nich tvo\u0159\u00ED sed\u00E1tko a dva op\u011Bradlo. Za lavi\u010Dkou je okno s [Hl\u00EDdovac\u00EDm Ko\u0161em](mi_hlidkovaci_kos)."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Lavi\u010Dka existuje jen v p\u0159\u00EDpad\u011B, \u017Ee nen\u00ED jej\u00ED sed\u00E1tko sklopeno."
+      }
+    ],
+    "image_id": 0,
+    "area": 2,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "redirect": null,
+    "tobeedited": false
+  },
+  "mi_paluba": {
+    "Title": "Paluba",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "PALUBA",
+      "V\u00DDKLENEK"
+    ],
+    "Bordering_rooms": [
+      "mi_ropna_plosina",
+      "mi_stredove_namesti",
+      "mi_diving_hole"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Paluba",
+      "Blok": "[Pir\u00E1tsk\u00E1 Lo\u010F](bl_piratska_lod)",
+      "Okrsek": "[Ben\u00E1tky](ok_benatky)",
+      "\u010Ctvr\u0165": "[Ryb\u00E1\u0159sk\u00E1 Kolonie](ct_rybarska_kolonie)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Paluba je \u010D\u00E1ste\u010Dn\u011B otev\u0159en\u00E1 m\u00EDstnost v [Pir\u00E1tsk\u00E9 Lodi](bl_piratska_lod). Jedn\u00E1 se o m\u00EDstnost na konci [Diving Hole](mi_diving_hole). Krom n\u00ED se z m\u00EDstnosti d\u00E1 dostat dve\u0159mi na [Ropnou Plo\u0161inu](mi_ropna_plosina) a [St\u0159edov\u00E9 N\u00E1m\u011Bst\u00ED](mi_stredove_namesti) a schodi\u0161t\u011Bm o patro n\u00ED\u017Ee do [Podpalub\u00ED](mi_podpalubi). M\u00EDstnost p\u0159esn\u011B kop\u00EDruje rozm\u011Bry [Hl\u00EDdkovac\u00EDho Ko\u0161e](mi_hlidkovaci_kos), je\u017E se nach\u00E1z\u00ED o patro v\u00FD\u0161e."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Je pravd\u011Bpodobn\u00E9, \u017Ee m\u00EDstnost byla pojmenov\u00E1na podle [bloku](bl_piratska_lod) ve kter\u00E9m se nach\u00E1z\u00ED."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "M\u00EDstnost m\u00E1 n\u00EDzk\u00FD strop o v\u00FD\u0161ce jen dvou blok\u016F. Na severn\u00ED stran\u011B je jedin\u00E1 postel a jedin\u00FD crafting table v m\u00EDstnosti ale tak\u00E9 dve\u0159e na [Ropnou Plo\u0161inu](mi_ropna_plosina) se schodi\u0161t\u011Bm o patro n\u00ED\u017Ee. Vedle dve\u0159\u00ED na [Ropnou Plo\u0161inu](mi_ropna_plosina) je dvojice trapdoor\u016F, kter\u00E9 zakr\u00FDvaj\u00ED specifickou st\u011Bnu [Ropn\u00E9 Plo\u0161iny](mi_ropna_plosina).\r\nNa v\u00FDchodn\u00ED stran\u011B je men\u0161\u00ED oplocen\u00FD v\u00FDklenek, za n\u00EDm\u017E je [St\u0159edov\u00E9 n\u00E1m\u011Bst\u00ED](mi_stredove_namesti). Uspo\u0159\u00E1dan\u00ED plot\u016F je zde velmi specifick\u00E9 mo\u017En\u00E1 i proto, \u017Ee se v\u00FD\u0161e nach\u00E1z\u00ED [Lavi\u010Dka](mi_lavicka).\r\nZ\u00E1padn\u00ED a ji\u017En\u00ED st\u011Bny jsou tvo\u0159eny okny a cel\u00E1 m\u00EDstnost je osv\u011Btlena \u010Dtve\u0159ic\u00ED lanteren."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "[Lavi\u010Dka](mi_lavicka) br\u00E1n\u00ED p\u0159esko\u010Den\u00ED plotu ve v\u00FDklenku."
+      }
+    ],
+    "image_id": 0,
+    "area": 50,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "redirect": null,
+    "tobeedited": false
   }
 }
