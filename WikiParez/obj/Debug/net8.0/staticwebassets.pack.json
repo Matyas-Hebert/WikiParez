@@ -37,6 +37,14 @@
       "PackagePath": "staticwebassets/Images/mi_byt_chudaka_kterej_nema_rad_kluby2.png"
     },
     {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_chajda_pani_hlinene1.png",
+      "PackagePath": "staticwebassets/Images/mi_chajda_pani_hlinene1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_chajda_pani_hlinene2.png",
+      "PackagePath": "staticwebassets/Images/mi_chajda_pani_hlinene2.png"
+    },
+    {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_chodba1.png",
       "PackagePath": "staticwebassets/Images/mi_chodba1.png"
     },
