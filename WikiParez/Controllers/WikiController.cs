@@ -64,7 +64,10 @@ namespace WikiParez.Controllers
             mail.Subject = "Error on " + slug + " page.";
             mail.Body = message;
             var smtp = new SmtpClient("smtp.gmail.com");
-            smtp.Credentials = new NetworkCredential("hebertmatyas@gmail.com", "gagq sttd iica susz");
+            string emailUser = Environment.GetEnvironmentVariable("emailUser");
+            string emailPass = Environment.GetEnvironmentVariable("emailPass");
+            smtp.Credentials = new NetworkCredential(emailUser, emailPass);
+            smtp.Port = 587;
             smtp.EnableSsl = true;
             smtp.Send(mail);
         }
