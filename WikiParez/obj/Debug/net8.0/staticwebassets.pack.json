@@ -461,6 +461,26 @@
       "PackagePath": "staticwebassets/Images/os_marcela_hebertova1.png"
     },
     {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/te_stehovani_narodu1.png",
+      "PackagePath": "staticwebassets/Images/te_stehovani_narodu1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/te_stehovani_narodu2.png",
+      "PackagePath": "staticwebassets/Images/te_stehovani_narodu2.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/te_stehovani_narodu3.png",
+      "PackagePath": "staticwebassets/Images/te_stehovani_narodu3.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/te_stehovani_narodu4.png",
+      "PackagePath": "staticwebassets/Images/te_stehovani_narodu4.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/te_stehovani_narodu5.png",
+      "PackagePath": "staticwebassets/Images/te_stehovani_narodu5.png"
+    },
+    {
       "Id": "/root/wikiparez/WikiParez/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },

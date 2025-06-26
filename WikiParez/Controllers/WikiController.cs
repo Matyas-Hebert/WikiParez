@@ -67,6 +67,7 @@ namespace WikiParez.Controllers
             string emailUser = Environment.GetEnvironmentVariable("emailUser");
             string emailPass = Environment.GetEnvironmentVariable("emailPass");
             smtp.UseDefaultCredentials = false;
+            smtp.DeliveryMethod = SmtpDeliveryMethod.Network;
             smtp.Credentials = new NetworkCredential(emailUser, emailPass);
             smtp.EnableSsl = true;
             smtp.Send(mail);
