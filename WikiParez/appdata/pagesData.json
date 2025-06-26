@@ -89,7 +89,7 @@
     "area": 20,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_oranjestad": {
@@ -190,7 +190,7 @@
     "area": 134,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_ulice_schodova": {
@@ -675,7 +675,7 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_mostiste": {
@@ -969,7 +969,7 @@
     "area": 26,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_staj": {
@@ -1150,7 +1150,7 @@
     "area": 53,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_the_terrass": {
@@ -1198,7 +1198,7 @@
     "area": 69,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_parsley_attic": {
@@ -1249,7 +1249,7 @@
     "area": 82,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_the_airship": {
@@ -1313,7 +1313,7 @@
     "area": 285,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_lodzie": {
@@ -1545,7 +1545,7 @@
     "area": 60,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_hvezda": {
@@ -1685,7 +1685,7 @@
     "area": 32,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_dobra_voda": {
@@ -1787,7 +1787,7 @@
     "area": 0,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mm_spojnice_1": {
@@ -1908,7 +1908,7 @@
     "area": 0,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_dalnicni_pilir": {
@@ -1976,7 +1976,7 @@
     "area": 0,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mm_dalnicni_pilir_1": {
@@ -2141,7 +2141,7 @@
     "area": 6,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_diving_room": {
@@ -2191,7 +2191,7 @@
     "area": 44,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_ordinace_pink_lady": {
@@ -2241,7 +2241,7 @@
     "area": 32,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_diving_hole": {
@@ -2287,7 +2287,7 @@
     "area": 2,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_schodiste_aa": {
@@ -2335,7 +2335,7 @@
     "area": 28,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_silo": {
@@ -2401,7 +2401,7 @@
     "area": 325,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "ka_stromove_veze": {
@@ -2437,7 +2437,7 @@
     "area": 0,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_jama_pekelna": {
@@ -2481,7 +2481,7 @@
     "area": 0,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "ka_by_kiki": {
@@ -2512,7 +2512,7 @@
     "area": 0,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_dining_room": {
@@ -2583,7 +2583,7 @@
     "area": 38,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_vecere": {
@@ -2634,7 +2634,7 @@
     "area": 62,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_hlidkovaci_kos": {
@@ -2680,7 +2680,7 @@
     "area": 49,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_lavicka": {
@@ -2723,7 +2723,7 @@
     "area": 2,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_paluba": {
@@ -2769,7 +2769,7 @@
     "area": 50,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_podpalubi": {
@@ -2811,7 +2811,7 @@
     "area": 40,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_smashy_house": {
@@ -2855,7 +2855,7 @@
     "area": 20,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_dum_hloupeho_honzy": {
@@ -2899,7 +2899,7 @@
     "area": 27,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_stredove_namesti": {
@@ -2956,7 +2956,7 @@
     "area": 127,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_na_ochozu": {
@@ -3002,7 +3002,7 @@
     "area": 69,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_jeslicky": {
@@ -3044,7 +3044,7 @@
     "area": 29,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_na_rohu": {
@@ -3085,7 +3085,7 @@
     "area": 18,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_alej": {
@@ -3134,7 +3134,7 @@
     "area": 115,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_laborator": {
@@ -3181,7 +3181,7 @@
     "area": 59,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_vyloha": {
@@ -3223,7 +3223,7 @@
     "area": 46,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_koreny": {
@@ -3277,7 +3277,7 @@
     "area": 92,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_nejvetsi_tma": {
@@ -3322,7 +3322,7 @@
     "area": 63,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_plaminek": {
@@ -3365,7 +3365,7 @@
     "area": 18,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_nevim_a_pece": {
@@ -3407,7 +3407,7 @@
     "area": 115,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_os": {
@@ -3450,7 +3450,7 @@
     "area": 13,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_kahan": {
@@ -3503,7 +3503,7 @@
     "area": 286,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_pavlac": {
@@ -3557,7 +3557,7 @@
     "area": 176,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_pavlacovy_dum": {
@@ -3599,7 +3599,7 @@
     "area": 49,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_podpavlacovy_dum": {
@@ -3643,7 +3643,7 @@
     "area": 45,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_rainbow_house": {
@@ -3688,7 +3688,7 @@
     "area": 22,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_rainbow_garden": {
@@ -3732,7 +3732,7 @@
     "area": 10,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_zahradkarska_kolonie": {
@@ -3780,7 +3780,7 @@
     "area": 57,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_prizemi": {
@@ -3823,7 +3823,7 @@
     "area": 21,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_holy_hole_to_hell": {
@@ -3864,7 +3864,7 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_samovrazedne_dvere": {
@@ -3906,7 +3906,7 @@
     "area": 1,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_zahradni_domek": {
@@ -3948,7 +3948,7 @@
     "area": 24,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_schodiste_zz": {
@@ -3992,7 +3992,7 @@
     "area": 13,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_dum_pana_brabce": {
@@ -4035,7 +4035,7 @@
     "area": 49,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_rozcesti": {
@@ -4082,7 +4082,7 @@
     "area": 56,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_na_moste": {
@@ -4125,7 +4125,7 @@
     "area": 45,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_vez_4_podlazi": {
@@ -4170,7 +4170,7 @@
     "area": 17,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_vez_3_podlazi": {
@@ -4216,7 +4216,7 @@
     "area": 18,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_vez_2_podlazi": {
@@ -4261,7 +4261,7 @@
     "area": 20,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_sloupek": {
@@ -4303,7 +4303,7 @@
     "area": 1,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_vez_1_podlazi": {
@@ -4346,7 +4346,7 @@
     "area": 17,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_vez_5_podlazi": {
@@ -4390,7 +4390,7 @@
     "area": 17,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_sauron": {
@@ -4435,7 +4435,7 @@
     "area": 47,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_lazne_panoraama": {
@@ -4478,7 +4478,7 @@
     "area": 19,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_armory": {
@@ -4520,7 +4520,7 @@
     "area": 28,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_namesti_u_vody": {
@@ -4570,7 +4570,7 @@
     "area": 213,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_schwarzenegger_house": {
@@ -4616,7 +4616,7 @@
     "area": 47,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_balkon_ctvrtka": {
@@ -4660,7 +4660,7 @@
     "area": 84,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_satna": {
@@ -4703,7 +4703,7 @@
     "area": 33,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_carrot_farma": {
@@ -4748,7 +4748,7 @@
     "area": 41,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_double_decker_house": {
@@ -4797,7 +4797,7 @@
     "area": 153,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_balkon_svate_nedele": {
@@ -4840,7 +4840,7 @@
     "area": 11,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_vytahovy_mustek": {
@@ -4882,7 +4882,7 @@
     "area": 14,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_zastavka": {
@@ -4924,7 +4924,7 @@
     "area": 17,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_podlir": {
@@ -4968,7 +4968,7 @@
     "area": 74,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_temna_strana_sily": {
@@ -5010,7 +5010,7 @@
     "area": 57,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_ustredni_stredisko_beta": {
@@ -5061,7 +5061,7 @@
     "area": 237,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_kulna": {
@@ -5102,7 +5102,7 @@
     "area": 9,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_pod_masou": {
@@ -5147,7 +5147,7 @@
     "area": 38,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_spy": {
@@ -5189,7 +5189,7 @@
     "area": 104,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_galerie": {
@@ -5234,7 +5234,7 @@
     "area": 88,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_chodba_ii": {
@@ -5281,7 +5281,7 @@
     "area": 91,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_katakomby": {
@@ -5331,7 +5331,7 @@
     "area": 293,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_tranzit": {
@@ -5377,7 +5377,7 @@
     "area": 121,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_magistrala": {
@@ -5422,7 +5422,7 @@
     "area": 49,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_hotel": {
@@ -5467,7 +5467,7 @@
     "area": 129,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_apartman_i": {
@@ -5508,7 +5508,7 @@
     "area": 17,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_apartman_ii": {
@@ -5549,7 +5549,7 @@
     "area": 17,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_apartman_iii": {
@@ -5590,7 +5590,7 @@
     "area": 17,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_farmus_bambus": {
@@ -5638,7 +5638,7 @@
     "area": 170,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_dragon_lair": {
@@ -5686,7 +5686,7 @@
     "area": 435,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_kralovska_cesta": {
@@ -5728,7 +5728,7 @@
     "area": 84,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_ctverec": {
@@ -5775,7 +5775,7 @@
     "area": 463,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_zapadni_kridlo": {
@@ -5820,7 +5820,7 @@
     "area": 317,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_severni_kridlo": {
@@ -5864,7 +5864,7 @@
     "area": 188,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_jogurt": {
@@ -5909,7 +5909,7 @@
     "area": 86,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_stin_3_podlazi": {
@@ -5952,7 +5952,7 @@
     "area": 31,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_stin_2_podlazi": {
@@ -5996,7 +5996,7 @@
     "area": 103,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_stin": {
@@ -6039,7 +6039,7 @@
     "area": 101,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_stair_heaven": {
@@ -6086,7 +6086,7 @@
     "area": 156,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_schodiste_ss": {
@@ -6128,7 +6128,7 @@
     "area": 36,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_nebe": {
@@ -6169,7 +6169,7 @@
     "area": 30,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_stena": {
@@ -6212,7 +6212,7 @@
     "area": 18,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_stoupani": {
@@ -6260,7 +6260,7 @@
     "area": 38,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_mestsky_okruh": {
@@ -6308,7 +6308,7 @@
     "area": 142,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_mustek": {
@@ -6352,7 +6352,7 @@
     "area": 25,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_vandula": {
@@ -6395,7 +6395,7 @@
     "area": 38,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_juka_faraona": {
@@ -6439,7 +6439,7 @@
     "area": 38,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_amazonsky_havirov": {
@@ -6484,7 +6484,7 @@
     "area": 25,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_astra": {
@@ -6526,7 +6526,7 @@
     "area": 9,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_trinacty_rok": {
@@ -6567,7 +6567,7 @@
     "area": 9,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_morska_kapusta": {
@@ -6610,7 +6610,7 @@
     "area": 14,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_durtol": {
@@ -6654,7 +6654,7 @@
     "area": 37,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_kunila": {
@@ -6695,7 +6695,7 @@
     "area": 9,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_kalina": {
@@ -6739,7 +6739,7 @@
     "area": 36,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_okrasny_ker_z_noveho_zelandu": {
@@ -6783,7 +6783,7 @@
     "area": 10,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_kajan": {
@@ -6825,7 +6825,7 @@
     "area": 12,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_latnat": {
@@ -6870,7 +6870,7 @@
     "area": 19,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_supina": {
@@ -6911,7 +6911,7 @@
     "area": 4,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_komule": {
@@ -6952,7 +6952,7 @@
     "area": 17,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_liana": {
@@ -6997,7 +6997,7 @@
     "area": 24,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_silice": {
@@ -7041,7 +7041,7 @@
     "area": 41,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_pequin": {
@@ -7084,7 +7084,7 @@
     "area": 14,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_hosta": {
@@ -7127,7 +7127,7 @@
     "area": 14,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_hrachor": {
@@ -7171,7 +7171,7 @@
     "area": 19,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_rdesno": {
@@ -7213,7 +7213,7 @@
     "area": 18,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_kokarda": {
@@ -7257,7 +7257,7 @@
     "area": 17,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_iva": {
@@ -7301,7 +7301,7 @@
     "area": 15,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_brslen": {
@@ -7342,7 +7342,7 @@
     "area": 9,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_slonarcis": {
@@ -7387,7 +7387,7 @@
     "area": 62,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_lilek_10": {
@@ -7432,7 +7432,7 @@
     "area": 24,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_aloe": {
@@ -7477,7 +7477,7 @@
     "area": 25,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_agave": {
@@ -7520,7 +7520,7 @@
     "area": 15,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_anyz": {
@@ -7564,7 +7564,7 @@
     "area": 6,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_javor": {
@@ -7609,12 +7609,12 @@
     "area": 15,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_delfin_a_macka": {
     "Title": "Delf\u00EDn a Ma\u010Dka",
-    "Type": null,
+    "Type": "místnost",
     "Images": [],
     "Image_titles": [],
     "Bordering_rooms": [
@@ -7652,7 +7652,7 @@
     "area": 18,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_gruyere": {
@@ -7695,7 +7695,7 @@
     "area": 17,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_drevene_uhli": {
@@ -7738,7 +7738,7 @@
     "area": 13,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_zivocisne_uhli": {
@@ -7779,7 +7779,7 @@
     "area": 5,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_mezonet": {
@@ -7823,7 +7823,7 @@
     "area": 64,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_iveta": {
@@ -7864,7 +7864,7 @@
     "area": 21,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_venkovni_schodiste": {
@@ -7912,7 +7912,7 @@
     "area": 359,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_kamrlik": {
@@ -7954,7 +7954,7 @@
     "area": 14,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_panget": {
@@ -7997,7 +7997,7 @@
     "area": 19,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_sklad": {
@@ -8039,7 +8039,7 @@
     "area": 48,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_pasaz": {
@@ -8084,7 +8084,7 @@
     "area": 176,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_statek": {
@@ -8132,7 +8132,7 @@
     "area": 418,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_kralovske_abonma": {
@@ -8178,7 +8178,7 @@
     "area": 215,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_kino_scala": {
@@ -8224,7 +8224,7 @@
     "area": 164,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_zakini": {
@@ -8268,7 +8268,7 @@
     "area": 39,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_guacamole": {
@@ -8314,7 +8314,7 @@
     "area": 112,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_horni_nadrazi": {
@@ -8358,7 +8358,7 @@
     "area": 78,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_zahradni_mesto": {
@@ -8401,7 +8401,7 @@
     "area": 63,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_autobusak": {
@@ -8445,7 +8445,7 @@
     "area": 165,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_dolni_nadrazi": {
@@ -8487,7 +8487,7 @@
     "area": 157,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_policka": {
@@ -8528,7 +8528,7 @@
     "area": 25,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_zamecke_schody": {
@@ -8572,7 +8572,7 @@
     "area": 57,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_weaver_house": {
@@ -8616,7 +8616,7 @@
     "area": 69,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_hlavni_koridor_i": {
@@ -8667,7 +8667,7 @@
     "area": 197,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_hlavni_koridor_ii": {
@@ -8725,7 +8725,7 @@
     "area": 184,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_tunel": {
@@ -8767,7 +8767,7 @@
     "area": 14,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_dum_zavisti": {
@@ -8810,7 +8810,7 @@
     "area": 22,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_pernikova_chaloupka": {
@@ -8855,7 +8855,7 @@
     "area": 37,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_okruh": {
@@ -8913,7 +8913,7 @@
     "area": 343,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_potato_farma": {
@@ -8956,7 +8956,7 @@
     "area": 30,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_prvni_dum": {
@@ -8997,7 +8997,7 @@
     "area": 6,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_trucovna": {
@@ -9039,7 +9039,7 @@
     "area": 12,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_koupaci_jezirko": {
@@ -9082,7 +9082,7 @@
     "area": 41,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_pod_schody": {
@@ -9128,7 +9128,7 @@
     "area": 34,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_plantazove_kralovstvi": {
@@ -9174,7 +9174,7 @@
     "area": 65,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_samote_u_vody": {
@@ -9217,7 +9217,7 @@
     "area": 54,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_pod_schodama": {
@@ -9264,7 +9264,7 @@
     "area": 100,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_nkp": {
@@ -9309,7 +9309,7 @@
     "area": 20,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_mezipatro": {
@@ -9352,7 +9352,7 @@
     "area": 30,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_zmatek": {
@@ -9397,7 +9397,7 @@
     "area": 89,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_olafuv_dum": {
@@ -9440,7 +9440,7 @@
     "area": 45,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_vratnice": {
@@ -9481,7 +9481,7 @@
     "area": 16,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_dum_zvonika_glassimoda": {
@@ -9524,7 +9524,7 @@
     "area": 27,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_parkoviste": {
@@ -9567,7 +9567,7 @@
     "area": 11,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_podchod": {
@@ -9611,7 +9611,7 @@
     "area": 53,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_komurka": {
@@ -9653,7 +9653,7 @@
     "area": 5,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_preddvor": {
@@ -9701,7 +9701,7 @@
     "area": 125,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_zabory": {
@@ -9744,7 +9744,7 @@
     "area": 34,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_sobota": {
@@ -9789,7 +9789,7 @@
     "area": 48,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_predel": {
@@ -9836,7 +9836,7 @@
     "area": 127,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_pristav": {
@@ -9882,7 +9882,7 @@
     "area": 14,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_ufo": {
@@ -9934,7 +9934,7 @@
     "area": 455,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_chajda_pani_hlinene": {
@@ -9983,7 +9983,7 @@
     "area": 33,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_kabelkuv_kabinet": {
@@ -10025,7 +10025,7 @@
     "area": 33,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_suteren": {
@@ -10068,7 +10068,7 @@
     "area": 35,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_tajna_chodba": {
@@ -10113,7 +10113,7 @@
     "area": 51,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_tajna_mistnost": {
@@ -10156,7 +10156,7 @@
     "area": 69,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_skryta_mistnost": {
@@ -10200,7 +10200,7 @@
     "area": 82,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_blok_a": {
@@ -10243,7 +10243,7 @@
     "area": 42,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_blok_b": {
@@ -10285,7 +10285,7 @@
     "area": 19,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_down_the_rabbit_hole": {
@@ -10330,7 +10330,1325 @@
     "area": 156,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "mi_the_bridge": {
+    "Title": "The Bridge",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_alej",
+      "mi_na_ochozu",
+      "mi_vyloha",
+      "mi_koreny",
+      "mi_laborator",
+      "mi_zamecke_schody",
+      "mi_v_vez_1_podlazi",
+      "mi_vytahova_sachta",
+      "mi_na_mustku",
+      "mi_predel",
+      "mi_diagonala",
+      "mi_preddvor",
+      "mi_sobota",
+      "mi_wheat_farma",
+      "mi_villager_bridge",
+      "mi_the_crossing",
+      "mi_vypikarna",
+      "mi_sloupek",
+      "mi_hlavni_koridor_ii",
+      "mi_vez_2_podlazi",
+      "mi_dalnice",
+      "mi_zabory",
+      "mi_veranda",
+      "mi_villager_house",
+      "mi_bily_strop",
+      "mi_silo",
+      "mi_dobra_voda",
+      "mi_rozhrani",
+      "mi_mestsky_okruh"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "The Bridge",
+      "Blok": "[Z\u00E1meck\u00E9 Schody](bl_zamecke_schody), [Vestibul](bl_vestibul), [St\u0159ed](bl_stred) a [V\u011B\u017E]bl_vez)",
+      "Okrsek": "[D\u00E1lni\u010Dn\u00ED Kolonie](ok_dalnicni_kolonie), [Veve\u0159\u00ED](ok_veveri) a [Smrk](ok_smrk)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren) a [D\u00E1lni\u010Dn\u00ED Kolonie](ct_dalnicni_kolonie)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "mm_the_bridge_1": {
+    "Title": "Redirecting",
+    "Type": "mísnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Redirecting",
+      "Blok": "[Vestibul](bl_vestibul)",
+      "Okrsek": "[D\u00E1lni\u010Dn\u00ED Kolonie](ok_dalnicni_kolonie)",
+      "\u010Ctvr\u0165": "[D\u00E1lni\u010Dn\u00ED Kolonie](ct_dalnicni_kolonie)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
+      "Multi": "[The Bridge](mi_the_bridge)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 152,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "redirect": "mi_the_bridge",
+    "tobeedited": false
+  },
+  "mm_the_bridge_2": {
+    "Title": "Redirecting",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Redirecting",
+      "Blok": "[V\u011B\u017E](bl_vez)",
+      "Okrsek": "[Veve\u0159\u00ED](ok_veveri)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
+      "Multi": "[The Bridge](mi_the_bridge)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 45,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "redirect": "mi_the_bridge",
+    "tobeedited": false
+  },
+  "mm_the_bridge_3": {
+    "Title": "Redirecting",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Redirecting",
+      "Blok": "[Z\u00E1meck\u00E9 Schody](bl_zamecke_schody), [Vestibul](bl_vestibul), [St\u0159ed](bl_stred) a [V\u011B\u017E]bl_vez)",
+      "Okrsek": "[Veve\u0159\u00ED](ok_veveri)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
+      "Multi": "[The Bridge](mi_the_bridge)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 73,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "redirect": "mi_the_bridge",
+    "tobeedited": false
+  },
+  "mm_the_bridge_4": {
+    "Title": "Redirecting",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Redirecting",
+      "Blok": "[St\u0159ed](bl_stred)",
+      "Okrsek": "[Smrk](ok_smrk)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
+      "Multi": "[The Bridge](mi_the_bridge)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 60,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "redirect": "mi_the_bridge",
+    "tobeedited": false
+  },
+  "mi_the_crossing": {
+    "Title": "The Crossing",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_nadchod",
+      "mi_silo",
+      "mi_oranjestad",
+      "mi_nether",
+      "mi_dum_hloupeho_honzy",
+      "mi_mestsky_okruh",
+      "mi_the_bridge",
+      "mi_schodiste_ss",
+      "mi_nebe",
+      "mi_rozcesti",
+      "mi_stoupani",
+      "mi_a_lucca",
+      "mi_stena",
+      "mi_v_vez_4_podlazi"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "The Crossing",
+      "Blok": "[Vestibul](bl_vestibul)",
+      "Okrsek": "[D\u00E1lni\u010Dn\u00ED Kolonie](ok_dalnicni_kolonie)",
+      "\u010Ctvr\u0165": "[D\u00E1lni\u010Dn\u00ED Kolonie](ct_dalnicni_kolonie)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 171,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "mi_the_detour": {
+    "Title": "The Detour",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_parsley_attic",
+      "mi_silo",
+      "mi_the_terrass",
+      "mi_dalnicni_prechod",
+      "mi_katakomby",
+      "mi_the_airship",
+      "mi_chodba",
+      "mi_strecha",
+      "mi_ustredni_stredisko_beta",
+      "mi_chodba_ii",
+      "mi_schodiste_ss",
+      "mi_double_decker_house",
+      "mi_rozcesti",
+      "mi_sauron",
+      "mi_mustek"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "The Detour",
+      "Blok": "[Katakomby](bl_katakomby)",
+      "Okrsek": "[D\u00E1lni\u010Dn\u00ED Kolonie](ok_dalnicni_kolonie)",
+      "\u010Ctvr\u0165": "[D\u00E1lni\u010Dn\u00ED Kolonie](ct_dalnicni_kolonie)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 175,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "mi_the_overpass": {
+    "Title": "The Overpass",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_vytahova_sachta",
+      "mi_guacamole",
+      "mi_autobusak",
+      "mi_temna_strana_sily",
+      "mi_ustredni_stredisko_beta",
+      "mi_teraska",
+      "mi_troja",
+      "mi_dolni_nadrazi",
+      "mi_strecha",
+      "mi_spojka",
+      "mi_policka",
+      "mi_pucmeloun_farma"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "The Overpass",
+      "Blok": "[Autobus\u00E1k](bl_autobusak)",
+      "Okrsek": "[Sklen\u00EDk](ok_sklenik)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "25/06/25: Cel\u00E1 m\u00EDstnost nov\u011B v bloku [Autobus\u00E1k](bl_autobusak). D\u0159\u00EDve byla rozd\u011Blena na bloky [Lanterna](bl_lanterna), [St\u0159echa](bl_strecha), [Beta](bl_beta),[Tr\u00F3ja](bl_troja) a [V\u00FDtahov\u00E1 \u0160achta](bl_vytahova_sachta)."
+      }
+    ],
+    "image_id": 0,
+    "area": 232,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "mi_w_vez_1_podlazi": {
+    "Title": "W-V\u011B\u017E 1. podla\u017E\u00ED",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_w_vez_2_podlazi",
+      "mi_koupaci_jezirko",
+      "mi_nkp"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "W-V\u011B\u017E 1. podla\u017E\u00ED",
+      "Blok": "[W V\u011B\u017E](bl_w_vez)",
+      "Okrsek": "[Dub](ok_dub)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
+      "\u00DA\u010Del": "Farma na obil\u00ED, sklad obiln\u00FDch sem\u00EDnek a obil\u00ED"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 58,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "mi_w_vez_2_podlazi": {
+    "Title": "W-V\u011B\u017E 2. podla\u017E\u00ED",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_na_samote_u_vody",
+      "mi_w_vez_1_podlazi",
+      "mi_w_vez_3_podlazi",
+      "mi_pod_schodama"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "W-V\u011B\u017E 2. podla\u017E\u00ED",
+      "Blok": "[W V\u011B\u017E](bl_w_vez)",
+      "Okrsek": "[Dub](ok_dub)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
+      "\u00DA\u010Del": "Farma na obil\u00ED"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 41,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "mi_w_vez_3_podlazi": {
+    "Title": "W-V\u011B\u017E 3. podla\u017E\u00ED",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_w_vez_2_podlazi",
+      "mi_hlavni_koridor_ii"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "W-V\u011B\u017E 3. podla\u017E\u00ED",
+      "Blok": "[W V\u011B\u017E](bl_w_vez)",
+      "Okrsek": "[Dub](ok_dub)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
+      "\u00DA\u010Del": "V\u00FDb\u011Bh s kr\u00E1vami, sklad obil\u00ED"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 64,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "mi_svaty_vyt": {
+    "Title": "Svat\u00FD V\u00FDt",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_honda",
+      "mi_laborator",
+      "mi_kapsule"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Svat\u00FD V\u00FDt",
+      "Blok": "[Hrad](bl_hrad)",
+      "Okrsek": "[Veve\u0159\u00ED](ok_veveri)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 46,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "mi_kapsule": {
+    "Title": "Kapsule",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_os",
+      "mi_svaty_vyt",
+      "mi_kahan"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Kapsule",
+      "Blok": "[Hrad](bl_hrad)",
+      "Okrsek": "[Veve\u0159\u00ED](ok_veveri)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 21,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "mi_honda": {
+    "Title": "Honda",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_svaty_vyt"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Honda",
+      "Blok": "[Hrad](bl_hrad)",
+      "Okrsek": "[Veve\u0159\u00ED](ok_veveri)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 2,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "mi_ustredni_stredisko_alfa": {
+    "Title": "\u00DAst\u0159edn\u00ED st\u0159edisko Alfa",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_vault",
+      "mi_vypikarna",
+      "mi_dum_margity_stehlikove",
+      "mi_hlavni_koridor_ii",
+      "mi_rozhrani",
+      "mi_wheat_farma",
+      "mi_chlev"
+    ],
+    "Alternate_names": [
+      "Alfa",
+      "Alpha",
+      "\u00DAst\u0159edn\u00ED st\u0159edisko Alpha"
+    ],
+    "Metadata": {
+      "N\u00E1zev": "\u00DAst\u0159edn\u00ED st\u0159edisko Alfa",
+      "Blok": "[Alfa](bl_alfa)",
+      "Okrsek": "[Dub](ok_dub)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
+      "new5": "Sklad skla, masa a sponge blok\u016F"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 45,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "mi_chlev": {
+    "Title": "Chl\u00E9v",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_jeslicky",
+      "mi_bobuv_dum",
+      "mi_wheat_farma",
+      "mi_ustredni_stredisko_alfa"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Chl\u00E9v",
+      "Blok": "[Alfa](bl_alfa)",
+      "Okrsek": "[Dub](ok_dub)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
+      "\u00DA\u010Del": "V\u00FDb\u011Bh s kr\u00E1vami, sklad obil\u00ED a obiln\u00FDch sem\u00EDnek"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 48,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "mi_vypikarna": {
+    "Title": "Vyp\u00EDk\u00E1rna",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_ustredni_stredisko_alfa",
+      "mi_the_bridge",
+      "mi_mestsky_okruh"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Vyp\u00EDk\u00E1rna",
+      "Blok": "[Alfa](bl_alfa)",
+      "Okrsek": "[Dub](ok_dub)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
+      "\u00DA\u010Del": "Pece, sklad uhl\u00ED"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 25,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "mi_vault": {
+    "Title": "Vault",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_ustredni_stredisko_alfa"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Vault",
+      "Blok": "[Alfa](bl_alfa)",
+      "Okrsek": "[Dub](ok_dub)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 29,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "mi_dum_margity_stehlikove": {
+    "Title": "D\u016Fm Margity Stehl\u00EDkov\u00E9",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_ustredni_stredisko_alfa",
+      "mi_dum_zavisti"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "D\u016Fm Margity Stehl\u00EDkov\u00E9",
+      "Blok": "[Alfa](bl_alfa)",
+      "Okrsek": "[Dub](ok_dub)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
+      "\u00DA\u010Del": "V\u010Dely, sklad medu"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 21,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "mi_arcanum": {
+    "Title": "Arcanum",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_preatrium",
+      "mi_vystup",
+      "mi_nejvetsi_tma"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Arcanum",
+      "Blok": "[Arcanum](bl_arcanum)",
+      "Okrsek": "[Veve\u0159\u00ED](ok_veveri)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 73,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "mi_hlavni_trida": {
+    "Title": "Hlavn\u00ED T\u0159\u00EDda",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_okruh",
+      "mi_hlavni_koridor_ii",
+      "mi_kaplicka",
+      "mi_kapitana_jarose",
+      "mi_pultova_strecha",
+      "mi_mostiste",
+      "mi_silo",
+      "mi_dira_do_pekel"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Hlavn\u00ED T\u0159\u00EDda",
+      "Blok": "[Hlavn\u00ED T\u0159\u00EDda](bl_hlavni_trida)",
+      "Okrsek": "[Ben\u00E1tky](ok_benatky)",
+      "\u010Ctvr\u0165": "[Ryb\u00E1\u0159sk\u00E1 Kolonie](ct_rybarska_kolonie)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 88,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "mi_pultova_strecha": {
+    "Title": "Pultov\u00E1 St\u0159echa",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_hlavni_trida",
+      "mi_mostiste",
+      "mi_viden",
+      "mi_dobra_voda",
+      "mi_bily_strop",
+      "mi_retarder"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Pultov\u00E1 St\u0159echa",
+      "Blok": "[Hlavn\u00ED T\u0159\u00EDda](bl_hlavni_trida)",
+      "Okrsek": "[Ben\u00E1tky](ok_benatky)",
+      "\u010Ctvr\u0165": "[Ryb\u00E1\u0159sk\u00E1 Kolonie](ct_rybarska_kolonie)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 81,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "mi_bily_strop": {
+    "Title": "B\u00EDl\u00FD Strop",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_pultova_strecha",
+      "mi_viden",
+      "mi_hlavni_koridor_ii",
+      "mi_pernikova_chaloupka",
+      "mi_dalnice",
+      "mi_the_bridge"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "B\u00EDl\u00FD Strop",
+      "Blok": "[Hlavn\u00ED T\u0159\u00EDda](bl_hlavni_trida)",
+      "Okrsek": "[Ben\u00E1tky](ok_benatky)",
+      "\u010Ctvr\u0165": "[Ryb\u00E1\u0159sk\u00E1 Kolonie](ct_rybarska_kolonie)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 66,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "mi_skrys": {
+    "Title": "Skr\u00FD\u0161",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_bily_strop"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Skr\u00FD\u0161",
+      "Blok": "[Hlavn\u00ED T\u0159\u00EDda](bl_hlavni_trida)",
+      "Okrsek": "[Ben\u00E1tky](ok_benatky)",
+      "\u010Ctvr\u0165": "[Ryb\u00E1\u0159sk\u00E1 Kolonie](ct_rybarska_kolonie)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 10,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "mi_kapitana_jarose": {
+    "Title": "Kapit\u00E1na Jaro\u0161e",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_hlavni_trida",
+      "mi_mostiste",
+      "mi_dum_zvonika_glassimoda",
+      "mi_slavnostni_balkon",
+      "mi_pristavni_molo"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Kapit\u00E1na Jaro\u0161e",
+      "Blok": "[Hlavn\u00ED T\u0159\u00EDda](bl_hlavni_trida)",
+      "Okrsek": "[Ben\u00E1tky](ok_benatky)",
+      "\u010Ctvr\u0165": "[Ryb\u00E1\u0159sk\u00E1 Kolonie](ct_rybarska_kolonie)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 50,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "mi_slavnostni_balkon": {
+    "Title": "Slavnostn\u00ED Balk\u00F3n",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_kapitana_jarose"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Slavnostn\u00ED Balk\u00F3n",
+      "Blok": "[Hlavn\u00ED T\u0159\u00EDda](bl_hlavni_trida)",
+      "Okrsek": "[Ben\u00E1tky](ok_benatky)",
+      "\u010Ctvr\u0165": "[Ryb\u00E1\u0159sk\u00E1 Kolonie](ct_rybarska_kolonie)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 7,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "mi_kaplicka": {
+    "Title": "Kapli\u010Dka",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_retarder",
+      "mi_hlavni trida",
+      "mi_hlavni_koridor_i",
+      "mi_hlavni_koridor_ii"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Kapli\u010Dka",
+      "Blok": "[Hlavn\u00ED T\u0159\u00EDda](bl_hlavni_trida)",
+      "Okrsek": "[Ben\u00E1tky](ok_benatky)",
+      "\u010Ctvr\u0165": "[Ryb\u00E1\u0159sk\u00E1 Kolonie](ct_rybarska_kolonie)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
+      "\u00DA\u010Del": "Sklad koz\u00EDch roh\u016F"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 43,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "mi_retarder": {
+    "Title": "Retard\u00E9r",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_kaplicka",
+      "mi_ropna_plosina_b",
+      "mi_pultova_strecha",
+      "mi_rozhrani"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Retard\u00E9r",
+      "Blok": "[Hlavn\u00ED T\u0159\u00EDda](bl_hlavni_trida)",
+      "Okrsek": "[Ben\u00E1tky](ok_benatky)",
+      "\u010Ctvr\u0165": "[Ryb\u00E1\u0159sk\u00E1 Kolonie](ct_rybarska_kolonie)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 40,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "mi_stupinek": {
+    "Title": "Stup\u00EDnek",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_hlavni_koridor_ii"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Stup\u00EDnek",
+      "Blok": "[Hlavn\u00ED T\u0159\u00EDda](bl_hlavni_trida)",
+      "Okrsek": "[Ben\u00E1tky](ok_benatky)",
+      "\u010Ctvr\u0165": "[Ryb\u00E1\u0159sk\u00E1 Kolonie](ct_rybarska_kolonie)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 4,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "redirect": "",
     "tobeedited": false
   }
 }

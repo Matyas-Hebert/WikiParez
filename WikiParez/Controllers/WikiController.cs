@@ -29,7 +29,7 @@ namespace WikiParez.Controllers
 
         public IActionResult Random()
         {
-            var slug = _wikiService.GetRandomSlug();
+            var slug = _wikiService.GetRandomSlug(false);
             var page = _wikiService.GetPageBySlug(slug);
             if (page == null)
                 return NotFound();

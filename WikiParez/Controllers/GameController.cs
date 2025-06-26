@@ -15,7 +15,7 @@ namespace WikiParez.Controllers
 
         public IActionResult Bordering()
         {
-            var slug = _wikiService.GetRandomRoomSlug();
+            var slug = _wikiService.GetRandomRoomSlug(true);
             var page = _wikiService.GetPageBySlug(slug);
             var borderingRooms = new List<string>();
 
@@ -29,9 +29,9 @@ namespace WikiParez.Controllers
             var pages = new List<WikiPage>();
 
             if (answer == 0){
-                var slug2 = _wikiService.GetRandomRoomSlug();
+                var slug2 = _wikiService.GetRandomRoomSlug(true);
                 while(slug2 == slug || borderingRooms.Contains(slug2)){
-                    slug2 = _wikiService.GetRandomRoomSlug();
+                    slug2 = _wikiService.GetRandomRoomSlug(true);
                 }
                 pages = new List<WikiPage> {page, _wikiService.GetPageBySlug(slug2)};
             }
@@ -51,10 +51,10 @@ namespace WikiParez.Controllers
 
         public IActionResult HigherLower()
         {
-            var pageslug1 = _wikiService.GetRandomRoomSlug();
-            var pageslug2 = _wikiService.GetRandomRoomSlug();
+            var pageslug1 = _wikiService.GetRandomRoomSlug(true);
+            var pageslug2 = _wikiService.GetRandomRoomSlug(true);
             while (pageslug2 == pageslug1){
-                pageslug2 = _wikiService.GetRandomRoomSlug();
+                pageslug2 = _wikiService.GetRandomRoomSlug(true);
             }
             var page1 = _wikiService.GetPageBySlug(pageslug1);
             var page2 = _wikiService.GetPageBySlug(pageslug2);
@@ -85,18 +85,18 @@ namespace WikiParez.Controllers
             }
 
             if (roomToChange == 0){
-                slug1 = _wikiService.GetRandomRoomSlug();
+                slug1 = _wikiService.GetRandomRoomSlug(true);
                 while(slug1 == slug2){
-                    slug1 = _wikiService.GetRandomRoomSlug();
+                    slug1 = _wikiService.GetRandomRoomSlug(true);
                 }
                 ViewBag.Area1 = "";
                 ViewBag.Area2 = area2.ToString() + " blok²";
             }
 
             if (roomToChange == 1){
-                slug2 = _wikiService.GetRandomRoomSlug();
+                slug2 = _wikiService.GetRandomRoomSlug(true);
                 while(slug1 == slug2){
-                    slug2 = _wikiService.GetRandomRoomSlug();
+                    slug2 = _wikiService.GetRandomRoomSlug(true);
                 }
                 ViewBag.Area1 = area1.ToString() + " blok²";
                 ViewBag.Area2 = "";

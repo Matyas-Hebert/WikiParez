@@ -64,7 +64,7 @@ public class WikiService
         var dict = new Dictionary<string, string>();
         for(int i=pageCount-1; i>=pageCount-10; i--){
             var key = _pages.Keys.ElementAt(i);
-            if (key.StartsWith("mm"))
+            if (key.StartsWith("mm") || _pages[key].Empty)
             {
                 pageCount--;
             }
@@ -79,7 +79,7 @@ public class WikiService
         return dict;
     }
 
-    public string? GetRandomSlug()
+    public string? GetRandomSlug(bool canBeEmpty)
     {
         if (_pages == null || _pages.Count == 0)
             return null;
@@ -87,17 +87,21 @@ public class WikiService
         var keys = new List<string>(_pages.Keys);
         var random = new Random();
         var randomKey = keys[random.Next(keys.Count)];
+        while ((_pages[randomKey].Empty && !canBeEmpty) || (_pages[randomKey].redirect != "" && _pages[randomKey].redirect != null))
+        {
+            randomKey = keys[random.Next(keys.Count)];
+        }
         return randomKey;
     }
 
-    public string? GetRandomRoomSlug(){
+    public string? GetRandomRoomSlug(bool canBeEmpty){
         if (_pages == null || _pages.Count == 0)
             return null;
 
         var keys = new List<string>(_pages.Keys);
         var random = new Random();
         var randomKey = keys[random.Next(keys.Count)];
-        while (!randomKey.StartsWith("mi")){
+        while (!randomKey.StartsWith("mi") || (_pages[randomKey].Empty && !canBeEmpty) || (_pages[randomKey].redirect != "" && _pages[randomKey].redirect != null)){
             randomKey = keys[random.Next(keys.Count)];
         }
         return randomKey;
