@@ -2,6 +2,8 @@ using Microsoft.AspNetCore.Mvc;
 using WikiParez.Services;
 using WikiParez.Models;
 using Microsoft.Extensions.Configuration.UserSecrets;
+using System.Net;
+using System.Net.Mail;
 
 namespace WikiParez.Controllers
 {
@@ -24,6 +26,7 @@ namespace WikiParez.Controllers
             {
                 return Page(page.redirect);
             }
+            ViewBag.Slug = slug;
             return View("Index", page);
         }
 
@@ -33,6 +36,7 @@ namespace WikiParez.Controllers
             var page = _wikiService.GetPageBySlug(slug);
             if (page == null)
                 return NotFound();
+            ViewBag.Slug = slug;
             return View("Index", page);
         }
 
@@ -40,7 +44,29 @@ namespace WikiParez.Controllers
         public IActionResult Search(string query)
         {
             var slug = _wikiService.FindBestMatch(query, 1);
+            ViewBag.Slug = slug;
             return View("Index", _wikiService.GetPageBySlug(slug));
+        }
+
+        [HttpPost]
+        public IActionResult SendEmail(string message, string slug)
+        {
+            SendEmailToMe(message, slug);
+            ViewBag.Slug = slug;
+            return View("Index", _wikiService.GetPageBySlug(slug));
+        }
+
+        private void SendEmailToMe(string message, string slug)
+        {
+            var mail = new MailMessage();
+            mail.To.Add("hebertmatyas@gmail.com");
+            mail.From = new MailAddress("Parez@Wiki.com");
+            mail.Subject = "Error on " + slug + " page.";
+            mail.Body = message;
+            var smtp = new SmtpClient("smtp.gmail.com");
+            smtp.Credentials = new NetworkCredential("hebertmatyas@gmail.com", "gagq sttd iica susz");
+            smtp.EnableSsl = true;
+            smtp.Send(mail);
         }
     }
 }

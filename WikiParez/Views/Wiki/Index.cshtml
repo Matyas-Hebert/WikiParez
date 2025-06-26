@@ -66,6 +66,12 @@
                     </tr>
                 }
             </table>
+            @using (Html.BeginForm("SendEmail", "Wiki", FormMethod.Post))
+            {
+                <input type="hidden" name="slug" value=@ViewBag.Slug />
+                <input type="text" name="message" placeholder="Popiš chybu" />
+                <button type="submit">Odeslat</button>
+            }
         </aside>
     </div>
 
