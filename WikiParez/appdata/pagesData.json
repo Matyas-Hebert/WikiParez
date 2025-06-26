@@ -7614,7 +7614,7 @@
   },
   "mi_delfin_a_macka": {
     "Title": "Delf\u00EDn a Ma\u010Dka",
-    "Type": "místnost",
+    "Type": "m\u00EDstnost",
     "Images": [],
     "Image_titles": [],
     "Bordering_rooms": [
@@ -10404,7 +10404,7 @@
   },
   "mm_the_bridge_1": {
     "Title": "Redirecting",
-    "Type": "mísnost",
+    "Type": "m\u00EDsnost",
     "Images": [],
     "Image_titles": [],
     "Bordering_rooms": [],
@@ -11647,6 +11647,199 @@
     "image_id": 0,
     "area": 4,
     "Empty": true,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "mi_rozhrani": {
+    "Title": "Rozhran\u00ED",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_retarder",
+      "mi_ropna_plosina_b",
+      "mi_ropna_plosina",
+      "mi_the_bridge",
+      "mi_villager_house",
+      "mi_ustredni_stredisko_alfa",
+      "mi_hlavni_koridor_i",
+      "mi_stredove_namesti",
+      "mi_hlavni_koridor_ii",
+      "mi_unikove_schodiste",
+      "mi_the_airship"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Rozhran\u00ED",
+      "Blok": "[Koridory](bl_koridory)",
+      "Okrsek": "[Dub](ok_dub)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 92,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "mi_v_vez_1_podlazi": {
+    "Title": "V-V\u011B\u017E 1. podla\u017E\u00ED",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "ULI\u010CKA",
+      "SCHODY A BRANKA"
+    ],
+    "Bordering_rooms": [
+      "mi_v_vez_2_podlazi",
+      "mi_vietnamska_ctvrt",
+      "mi_svaty_vyt",
+      "mi_laborator",
+      "mi_the_bridge"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "V-V\u011B\u017E 1. podla\u017E\u00ED",
+      "Blok": "[V-V\u011B\u017E](bl_v_vez)",
+      "Okrsek": "[Veve\u0159\u00ED](ok_veveri)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "V-V\u011B\u017E 1. podla\u017E\u00ED je nejn\u00ED\u017Ee polo\u017Een\u00E1 m\u00EDstnost ve [V-V\u011B\u017Ei](bl_v_vez). Jedn\u00E1 se o relativn\u011B malou m\u00EDstnost s p\u011Bti vchody. Na ji\u017En\u00ED stran\u011B m\u00EDstnosti se nach\u00E1z\u00ED dve\u0159e ze [Svat\u00E9ho V\u00FDta](mi_svaty_vyt) a na v\u00FDchod\u011B dve\u0159e z [Vietnamsk\u00E9 \u010Dtvrti](mi_vietnamska_ctvrt). V severoz\u00E1padn\u00EDm rohu se d\u00E1 brankou vej\u00EDt z [Bridge](mi_the_bridge) a z [Laborato\u0159e](mi_laborator) a v neposledn\u00ED \u0159ad\u011B schody z [2. podla\u017E\u00ED V-V\u011B\u017Ee](mi_v_vez_2_podlazi).\r\nM\u00EDstnost spole\u010Dn\u011B s ostatn\u00EDmy patry [v\u011B\u017Ee](bl_v_vez) slou\u017Eili jako ubytov\u00E1n\u00ED pro vesni\u010Dany, kte\u0159\u00ED aktu\u00E1ln\u011B s\u00EDdl\u00ED ve \u010Dtvrti [Gandalf](ct_gandalf)."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jedn\u00E1 se o m\u00EDstnost nach\u00E1zej\u00EDc\u00ED se v 1. podla\u017E\u00ED [V-V\u011B\u017Ee](bl_v_vez)."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "M\u00EDstnost je 3 bloky \u0161irok\u00E1 a 3 bloky vysok\u00E1. Skl\u00E1d\u00E1 se z uli\u010Dky a vstupn\u00EDho prostoru. Uli\u010Dka, kde d\u0159\u00EDve byly polo\u017Eeny postele pro vesni\u010Dany, je krom\u011B dvou dve\u0159\u00ED kompletn\u011B pr\u00E1zdn\u00E1. Jedn\u00E1 se o nejprostorn\u011Bj\u0161\u00ED \u010D\u00E1st m\u00EDstnosti i d\u00EDky o p\u016Fl bloku vy\u0161\u00ED\u00EDmu stropu. Na za\u010D\u00E1tku uli\u010Dky m\u016F\u017Eeme ve strop\u011B vid\u011Bt trapdoor vedouc\u00ED z [2. podla\u017E\u00ED](mi_v_vez_2_podlazi).\r\nVe vstupn\u00ED \u010D\u00E1sti se nach\u00E1z\u00ED schody vedouc\u00ED o podla\u017E\u00ED v\u00FD\u0161e a dvojit\u00E1 branka, kterou lze opustit m\u00EDstnost do [Laborato\u0159e](mi_laborator) nebo na [the Bridge](mi_the_bridge). Krom toho je zde polo\u017Een jedin\u00FD crafting table v m\u00EDstnosti."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Dve\u0159e do [Vietnamsk\u00E9 \u010Ctvrti](mi_vietnamska_ctvrt) a [Svat\u00E9ho V\u00FDta](mi_svaty_vyt) byly postaveny a\u017E po p\u0159esunu vesni\u010Dan\u016F a proto nemaj\u00ED opat\u0159en\u00ED proti jejich \u00FAniku."
+      }
+    ],
+    "image_id": 0,
+    "area": 48,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "mi_v_vez_2_podlazi": {
+    "Title": "V-V\u011B\u017E 2. podla\u017E\u00ED",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "ULI\u010CKA",
+      "SCHODI\u0160T\u011A"
+    ],
+    "Bordering_rooms": [
+      "mi_prizemi",
+      "mi_v_vez_1_podlazi",
+      "mi_v_vez_3_podlazi"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "V-V\u011B\u017E 2. podla\u017E\u00ED",
+      "Blok": "[V-V\u011B\u017E](bl_v_vez)",
+      "Okrsek": "[Veve\u0159\u00ED](ok_veveri)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
+      "\u00DA\u010Del": "Sklad emerald\u016F a \u017Eeleza*"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "V-V\u011B\u017E 2. podla\u017E\u00ED je m\u00EDstnost ve druh\u00E9m podla\u017E\u00ED [V-V\u011B\u017Ee](bl_v_vez). Do m\u00EDstnosti vede jedin\u00E1 branka z [P\u0159\u00EDzem\u00ED](mi_prizemi), do kter\u00E9ho se lze p\u0159\u00EDjemn\u011B dostat z [Hlavn\u00EDho Koridoru](mi_hlavni_koridor_i) v\u00FDtahem. Krom branky z m\u00EDstnosti vedou schody jak do [1.](mi_v_vez_1_podlazi) tak do [3. podla\u017E\u00ED](mi_v_vez_3_podlazi) [V-V\u011B\u017Ee](bl_v_vez)."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jedn\u00E1 se o m\u00EDstnost nach\u00E1zej\u00EDc\u00ED se v 2. podla\u017E\u00ED [V-V\u011B\u017Ee](bl_v_vez)."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Stejn\u011B jako [m\u00EDstnost o patro n\u00ED\u017Ee](mi_v_vez_1_podlazi) je 2. podla\u017E\u00ED rozd\u011Bleno na uli\u010Dku a vstupn\u00ED \u010D\u00E1st. Uli\u010Dka je jen 2 bloky \u0161irok\u00E1 a 3.5 bloku vysok\u00E1 a d\u0159\u00EDve byly po jej\u00ED stran\u011B postaveny postele pro vesni\u010Dany. Z uli\u010Dky nevedou \u017E\u00E1dn\u00E9 dve\u0159e.\r\nVe vstupn\u00ED \u010D\u00E1sti se krom\u011B schodi\u0161t\u011B do sousedn\u00EDch pater [V-V\u011B\u017Ee](bl_v_vez) a branky nach\u00E1z\u00ED jedin\u00FD crafting table a dvojice barel\u016F. Lev\u00FD z nich je ur\u010Den na uskladn\u011Bn\u00ED emerald\u016F, co\u017E p\u0159ipom\u00EDn\u00E1 doby, kdy zde s\u00EDdlili vesni\u010Dani a v prav\u00E9m barelu by m\u011Blo b\u00FDt \u017Eelezo. P\u0159ed barely le\u017E\u00ED dva b\u00EDle koberce, je\u017E zakr\u00FDvaj\u00ED sn\u00EDh, kter\u00FD tlum\u00ED p\u00E1d. Nad nimi je \u0161kv\u00EDra sahaj\u00EDc\u00ED a\u017E na nejvy\u0161\u0161\u00ED bod [Zlat\u00E9ho Schodi\u0161t\u011B](mi_zlate_schodiste). Ve strop\u011B u \u0161kv\u00EDry je tak\u00E9 trojice trapdoor\u016F nad nimi\u017E se nach\u00E1z\u00ED [3. patro V-V\u011B\u017Ee](mi_v_vez_3_podlazi).\r\nSchodi\u0161t\u011B do [3. patra](mi_v_vez_3_podlazi) je z prav\u00E9 strany zabezpe\u010Deno trapdoory a v zadn\u00ED \u010D\u00E1sti vstupn\u00ED \u010D\u00E1sti je v zemi um\u00EDst\u011Bn trapdoor pod n\u00EDm\u017E je [1. podla\u017E\u00ED V-V\u011B\u017Ee](mi_v_vez_1_podlazi).\r\nCel\u00FD prostor je osv\u011Btlen lou\u010Demi a jednou lanternou."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Schodi\u0161t\u011B do [3. patra](mi_v_vez_3_podlazi) je z prav\u00E9 strany zabezpe\u010Deno trapdoory, nebo\u0165 vysok\u00E9 riziko p\u00E1du na schodi\u0161t\u011B sm\u011B\u0159uj\u00EDc\u00ED dol\u016F zap\u0159\u00ED\u010Dinilo smrt vesni\u010Dana.\r\nV barelu na \u017Eelezu bylo v dob\u011B psan\u00ED tohoto \u010Dl\u00E1nku 5 mrkv\u00ED, 7 \u0159edkv\u00ED, 3 brambory, 51 kus\u016F cukrov\u00E9 t\u0159tiny, 36 pap\u00EDr\u016F, 12 knihovny a 2 kamenn\u00E9 sekery."
+      }
+    ],
+    "image_id": 0,
+    "area": 55,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "mi_v_vez_3_podlazi": {
+    "Title": "V-V\u011B\u017E 3. podla\u017E\u00ED",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "ULI\u010CKA",
+      "VSTUPN\u00CD \u010C\u00C1ST"
+    ],
+    "Bordering_rooms": [
+      "mi_pavlac",
+      "mi_kahan",
+      "mi_v_vez_2_podlazi",
+      "mi_preatrium"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "V-V\u011B\u017E 3. podla\u017E\u00ED",
+      "Blok": "[V-V\u011B\u017E](bl_v_vez)",
+      "Okrsek": "[Veve\u0159\u00ED](ok_veveri)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "V-V\u011B\u017E 3. podla\u017E\u00ED je nejmen\u0161\u00ED a nejv\u00FD\u0161e polo\u017Een\u00E1 m\u00EDstnost ve [V-V\u011B\u017Ei](bl_v_vez). Do m\u00EDstnosti vede schodi\u0161t\u011B z [n\u00ED\u017E\u0161\u00EDho podla\u017E\u00ED](mi_v_vez_2_podlazi), branka z [Pavla\u010De](mi_pavlac) a dv\u011B dve\u0159e z [Kahanu](mi_kahan) a horn\u00ED \u010D\u00E1sti [Preatria](mi_preatrium)."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jedn\u00E1 se o m\u00EDstnost nach\u00E1zej\u00EDc\u00ED se v 3. podla\u017E\u00ED [V-V\u011B\u017Ee](bl_v_vez)."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "M\u00EDstnost celkem p\u0159esn\u011B kop\u00EDruje tvar ni\u017E\u0161\u00EDch podla\u017E\u00ED, je tvo\u0159ena uli\u010Dkou a vstupn\u00ED \u010D\u00E1st\u00ED. V uli\u010Dce se nach\u00E1z\u00ED dvojice dve\u0159\u00ED, kter\u00E9 jsou zm\u00EDn\u011Bn\u00E9 v\u00FD\u0161e, a jedin\u00FD crafting table v m\u00EDstnosti. Na rozd\u00EDl od ni\u017E\u0161\u00EDch podla\u017E\u00ED je v uli\u010Dce strop ni\u017E\u0161\u00ED ne\u017E ve vstupn\u00ED \u010D\u00E1sti. \r\nVe vstupn\u00ED \u010D\u00E1sti se krom\u011B schod\u016F do [2. patra](mi_v_vez_2_podlazi) nach\u00E1z\u00ED trojice trapdoor\u016F, kter\u00E9 vedou tak kam schodi\u0161t\u011B. Je zde tak\u00E9 branka za n\u00ED\u017E je mal\u00FD prostor a druh\u00E1 branka. Jednalo se o opat\u0159en\u00ED proti \u00FAt\u011Bku vesni\u010Dan\u016F p\u0159ed t\u00EDm ne\u017E byly p\u0159est\u011Bhov\u00E1ni."
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": "Za oknem na z\u00E1padn\u00ED st\u011Bn\u011B vstupn\u00ED \u010D\u00E1sti se nach\u00E1z\u00ED \u0161achta s sn\u011Bhem tlum\u00EDc\u00EDm p\u00E1d na dn\u011B.\r\nDve\u0159e do [Kahanu](mi_kahan) a [Preatria](mi_preatrium) byly postaveny a\u017E po p\u0159est\u011Bhov\u00E1n\u00ED vesni\u010Dan\u016F."
+      }
+    ],
+    "image_id": 0,
+    "area": 42,
+    "Empty": false,
     "numberOfRooms": 0,
     "redirect": "",
     "tobeedited": false

@@ -413,6 +413,30 @@
       "PackagePath": "staticwebassets/Images/mi_ulice_schodova2.png"
     },
     {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_v_vez_1_podlazi1.png",
+      "PackagePath": "staticwebassets/Images/mi_v_vez_1_podlazi1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_v_vez_1_podlazi2.png",
+      "PackagePath": "staticwebassets/Images/mi_v_vez_1_podlazi2.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_v_vez_2_podlazi1.png",
+      "PackagePath": "staticwebassets/Images/mi_v_vez_2_podlazi1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_v_vez_2_podlazi2.png",
+      "PackagePath": "staticwebassets/Images/mi_v_vez_2_podlazi2.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_v_vez_3_podlazi1.png",
+      "PackagePath": "staticwebassets/Images/mi_v_vez_3_podlazi1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_v_vez_3_podlazi2.png",
+      "PackagePath": "staticwebassets/Images/mi_v_vez_3_podlazi2.png"
+    },
+    {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_viden1.png",
       "PackagePath": "staticwebassets/Images/mi_viden1.png"
     },
