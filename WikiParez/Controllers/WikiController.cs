@@ -63,11 +63,11 @@ namespace WikiParez.Controllers
             mail.From = new MailAddress("Parez@Wiki.com");
             mail.Subject = "Error on " + slug + " page.";
             mail.Body = message;
-            var smtp = new SmtpClient("smtp.gmail.com");
+            var smtp = new SmtpClient("smtp.gmail.com", 587);
             string emailUser = Environment.GetEnvironmentVariable("emailUser");
             string emailPass = Environment.GetEnvironmentVariable("emailPass");
+            smtp.UseDefaultCredentials = false;
             smtp.Credentials = new NetworkCredential(emailUser, emailPass);
-            smtp.Port = 587;
             smtp.EnableSsl = true;
             smtp.Send(mail);
         }
