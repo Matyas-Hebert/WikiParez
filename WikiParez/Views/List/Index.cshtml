@@ -1,0 +1,101 @@
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<style>
+    table, th, td {
+    border:1px solid black;
+    }
+</style>
+
+<div class="text-center">
+    <h1 class="display-4">Vítejte na Pařez Wiki!</h1>
+    <h3>Seznam článků: </h3>
+    <table style="width:100%">
+        <tr>
+            <th onclick="sortTable(0)">Název</th>
+            <th onclick="sortTable(1)">Článek</th>
+            <th onclick="sortTable(2)">Typ</th>
+            <th onclick="sortTable(3, 1)">Plocha</th>
+            <th onclick="sortTable(4)">Blok</th>
+            <th onclick="sortTable(5)">Okrsek</th>
+            <th onclick="sortTable(6)">Čtvrť</th>
+            <th onclick="sortTable(7)">Část</th>
+        </tr>
+        <tr>
+            @for(int i=0; i<8; i++){
+                <th>
+                    <input type="text" placeholder="Flirtovat" id="input@(i)" onkeydown="if(event.key === 'Enter'){ handleInputEnter(); }" />
+                    <button type="button" onclick="handleInputEnter()">Flirtovat</button>
+                </th>
+            }
+        </tr>
+        @foreach(var key in Model.Keys){
+            <tr>
+                @if(!@Model[key].Empty){
+                    <th><a href="/@key">@Model[key].Title</a></th>
+                } else{
+                    <th>@Model[key].Title</th>
+                }
+                @if(@Model[key].Empty){
+                    <th>Ne</th>
+                } else{
+                    <th>Ano</th>
+                }
+                <th>@Model[key].Type</th>
+                @if(@Model[key].area == 0){
+                    <th>-</th>
+                } else{
+                    <th>@Model[key].area</th>
+                }
+                <th>@Html.Raw(@Model[key].Blok)</th>
+                <th>@Html.Raw(@Model[key].Okrsek)</th>
+                <th>@Html.Raw(@Model[key].Cast)</th>
+                <th>@Html.Raw(@Model[key].Ctvrt)</th>
+            </tr>
+        }
+    </table>
+</div>
+
+<script>
+    function handleInputEnter(){
+        console.log("handleInputEnter triggered");
+        const table = document.querySelector("table");
+        let rows = Array.from(table.rows).slice(2);
+        rows.forEach(row => {
+            let match = true;
+            for (let i = 0; i < row.cells.length; i++) {
+                let input = document.getElementById("input" + i);
+                let text = input ? input.value : "";
+                
+                if (text && !row.cells[i].innerText.toLowerCase().includes(text.toLowerCase())) {
+                    match = false;
+                    break;
+                }
+            }
+            console.log(match);
+            row.style.display = match ? "" : "none";
+        });
+    }
+
+    function sortTable(n, t=0){
+        const table = document.querySelector("table");
+        let rows = Array.from(table.rows).slice(2);
+        let asc = table.getAttribute("data-sort-dir") !== "asc";
+        if(t == 0){
+            rows.sort((a,b) => {
+                let x = a.cells[n].innerText.toLowerCase();
+                let y = b.cells[n].innerText.toLowerCase();
+                return asc ? x.localeCompare(y) : y.localeCompare(x);
+            })
+        } else{
+            rows.sort((a,b) => {
+                let x = a.cells[n].innerText == "-" ? 0 : parseInt(a.cells[n].innerText);
+                let y = b.cells[n].innerText == "-" ? 0 : parseInt(b.cells[n].innerText);
+                return asc ? x - y : y - x;
+            })
+        }
+        rows.forEach(row => table.appendChild(row));
+        table.setAttribute("data-sort-dir", asc ? "asc" : "desc");
+    }
+</script>

@@ -19,6 +19,32 @@ public class WikiService
         _pages = LoadPages();
     }
 
+    public Dictionary<string, SimplifiedWikiPage> GetSimplifiedDict()
+    {
+        var dict = new Dictionary<string, SimplifiedWikiPage>();
+        foreach (var key in _pages.Keys)
+        {
+            var page = _pages[key];
+            if (page.redirect == "" || page.redirect == null)
+            {
+                dict[key] = new SimplifiedWikiPage
+                {
+                    Title = page.Title,
+                    Type = page.Type,
+                    Blok = page.Metadata.ContainsKey("Blok") ? UseRegex(page.Metadata["Blok"]) : "-",
+                    Okrsek = page.Metadata.ContainsKey("Okrsek") ? UseRegex(page.Metadata["Okrsek"]) : "-",
+                    Ctvrt = page.Metadata.ContainsKey("Čtvrť") ? UseRegex(page.Metadata["Čtvrť"]) : "-",
+                    Cast = page.Metadata.ContainsKey("Část") ? UseRegex(page.Metadata["Část"]) : "-",
+                    area = page.area,
+                    Empty = page.Empty,
+                    numberOfRooms = page.numberOfRooms,
+                    image_count = page.image_count()
+                };
+            }
+        }
+        return dict;
+    }
+
     public string FindBestMatch(string searchValue, int n)
     {
         var best = -1.0;
