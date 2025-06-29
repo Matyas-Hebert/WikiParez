@@ -137,7 +137,7 @@
     "area": 64,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_beetroot_farma": {
@@ -190,7 +190,7 @@
     "area": 134,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_ulice_schodova": {
@@ -293,7 +293,7 @@
     "area": 52,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_klub": {
@@ -376,11 +376,11 @@
     "Sections": [
       {
         "Title": "P\u0159ehled",
-        "Content": "V\u00EDde\u0148 je m\u00EDstnost ve stejnojmenn\u00E9m bloku slou\u017E\u00EDc\u00ED jako termin\u00E1l [D\u00E1lnice](mi_dalnice). M\u00EDstnost m\u00E1 dv\u011B \u010D\u00E1sti. Prvn\u00ED \u010D\u00E1st\u00ED jsou schody ke dve\u0159\u00EDm do [Dobr\u00E9 Vody](mi_dobra_voda) a brance na [Pultovou St\u0159echu](mi_pultova_strecha). Druh\u00E1, hlavn\u00ED, \u010D\u00E1st je hned po t\u011Bmito schody. Nach\u00E1zej\u00ED se zde schody a v\u00FDtah do [Klubu](mi_klub), v\u00FDtah z [Mosti\u0161t\u011B](mi_mostiste) a za\u010D\u00E1tek [D\u00E1lnice](mi_dalnice)."
+        "Content": "V\u00EDde\u0148 je m\u00EDstnost ve stejnojmenn\u00E9m bloku slou\u017E\u00EDc\u00ED jako termin\u00E1l [D\u00E1lnice](mi_dalnice). M\u00EDstnost m\u00E1 dv\u011B \u010D\u00E1sti. Prvn\u00ED \u010D\u00E1st\u00ED jsou schody ke dve\u0159\u00EDm do [Dobr\u00E9 Vody](mi_dobra_voda) a brance na [Pultovou St\u0159echu](mi_pultova_strecha). Druh\u00E1, hlavn\u00ED, \u010D\u00E1st je hned pod t\u011Bmito schody. Nach\u00E1zej\u00ED se zde schody a v\u00FDtah do [Klubu](mi_klub), v\u00FDtah z [Mosti\u0161t\u011B](mi_mostiste) a za\u010D\u00E1tek [D\u00E1lnice](mi_dalnice)."
       },
       {
         "Title": "N\u00E1zev",
-        "Content": "M\u00EDstnost sd\u00EDl\u00ED n\u00E1zev s \u003Ca href=\u0022https://cs.wikipedia.org/wiki/V\u00EDde\u0148\u0022\u003Ehlavn\u00EDm m\u011Bstem Rakouska\u003C/a\u003E a \u003Ca href=\u0022https://cs.wikipedia.org/wiki/V\u00EDde\u0148_(okres_\u017D\u010F\u00E1r_nad_S\u00E1zavou)\u0022\u003Emalou vesnic\u00ED na Vyso\u010Din\u011B\u003C/a\u003E. N\u00E1zev byl inspirov\u00E1n kon\u010D\u00EDc\u00ED d\u00E1lnic\u00ED a pl\u00E1nem ud\u011Blat s [V\u00EDdn\u011B](mi_viden) dopravn\u00ED k\u0159i\u017Eovatku.\r\nV\u00EDde\u0148 dala n\u00E1zev bloku ve kter\u00E9m se nach\u00E1z\u00ED. Bl\u00EDzk\u00E9 m\u00EDstnost [Mosti\u0161t\u011B](mi_mostiste) a [Dobr\u00E1 Voda](mi_dobra_voda) jsou pojmenov\u00E1ny podle vesnic pobl\u00ED\u017E V\u00EDdn\u011B na Vyso\u010Din\u011B."
+        "Content": "M\u00EDstnost sd\u00EDl\u00ED n\u00E1zev s \u003Ca href=\u0022https://cs.wikipedia.org/wiki/V\u00EDde\u0148\u0022\u003Ehlavn\u00EDm m\u011Bstem Rakouska\u003C/a\u003E a \u003Ca href=\u0022https://cs.wikipedia.org/wiki/V\u00EDde\u0148_(okres_\u017D\u010F\u00E1r_nad_S\u00E1zavou)\u0022\u003Emalou vesnic\u00ED na Vyso\u010Din\u011B\u003C/a\u003E. N\u00E1zev byl inspirov\u00E1n kon\u010D\u00EDc\u00ED d\u00E1lnic\u00ED a pl\u00E1nem ud\u011Blat z [V\u00EDdn\u011B](mi_viden) dopravn\u00ED k\u0159i\u017Eovatku.\r\nV\u00EDde\u0148 dala n\u00E1zev bloku ve kter\u00E9m se nach\u00E1z\u00ED. Bl\u00EDzk\u00E9 m\u00EDstnosti [Mosti\u0161t\u011B](mi_mostiste) a [Dobr\u00E1 Voda](mi_dobra_voda) jsou pojmenov\u00E1ny podle vesnic pobl\u00ED\u017E V\u00EDdn\u011B na Vyso\u010Din\u011B."
       },
       {
         "Title": "Interi\u00E9r",
@@ -564,7 +564,7 @@
     "area": 0,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "bl_barvy": {
@@ -1039,7 +1039,7 @@
     "Sections": [
       {
         "Title": "P\u0159ehled",
-        "Content": "Builder \u010Depi\u010Dka je mal\u00E1 ov\u00E1ln\u00E1 m\u00EDstnost, kter\u00E1 je z velk\u00E9 \u010D\u00E1sti postavena nad mo\u0159em, kter\u00E9 je o 30 blok\u016F n\u00ED\u017Ee. V t\u011Bchto m\u00EDstech je standartn\u00ED d\u0159ev\u011Bn\u00E1 podlaha nahrazena za skl\u011Bn\u011Bnou.\r\nP\u016Fdorus m\u00EDstnosti je ov\u00E1ln\u00FD a bokorys s n\u00E1rysem maj\u00ED tvar poloov\u00E1lu. Z m\u00EDstnosti vedou jedin\u00E9 dve\u0159e a to na [Airship](mi_the_airship)."
+        "Content": "Builder \u010Depi\u010Dka je mal\u00E1 ov\u00E1ln\u00E1 m\u00EDstnost, kter\u00E1 je z velk\u00E9 \u010D\u00E1sti postavena nad mo\u0159em, kter\u00E9 je o 30 blok\u016F n\u00ED\u017Ee. V t\u011Bchto m\u00EDstech je standartn\u00ED d\u0159ev\u011Bn\u00E1 podlaha nahrazena za skl\u011Bn\u011Bnou.\r\nP\u016Fdorys m\u00EDstnosti je ov\u00E1ln\u00FD a bokorys s n\u00E1rysem maj\u00ED tvar poloov\u00E1lu. Z m\u00EDstnosti vedou jedin\u00E9 dve\u0159e a to na [Airship](mi_the_airship)."
       },
       {
         "Title": "N\u00E1zev",
@@ -1051,7 +1051,7 @@
       },
       {
         "Title": "Zaj\u00EDmavost",
-        "Content": "84% podlahy Builder \u010Depi\u010Dky je ze skla.\nNa ji\u017En\u00ED stran\u011B m\u00EDstnosti z venku je postavena napodobenina typick\u00E9ho k\u0161iltu helmy."
+        "Content": "84% podlahy Builder \u010Depi\u010Dky je ze skla.\r\nNa ji\u017En\u00ED stran\u011B m\u00EDstnosti z venku je postavena napodobenina typick\u00E9ho k\u0161iltu helmy."
       }
     ],
     "image_id": 0,
@@ -1344,7 +1344,7 @@
       },
       {
         "Title": "N\u00E1zev",
-        "Content": "Lod\u017Eie je architektonick\u00FD prvek ozna\u010Duj\u00EDc\u00ED \u0022zastropen\u00FD prostor v budov\u011B, navenek otev\u0159en\u00FD do exteri\u00E9ru\u0022. I kdy\u017E tomuto popisu m\u00EDstnost nevyhovuje, byl n\u00E1zev t\u00EDmto architektonick\u00FDm prvkem inspirov\u00E1n."
+        "Content": "Lod\u017Eie je architektonick\u00FD prvek ozna\u010Duj\u00EDc\u00ED \u0022p\u0159edsazenou konstrukci podep\u0159enou nosnou svislou konstrukc\u00ED\u0022. I kdy\u017E tomuto popisu m\u00EDstnost nevyhovuje, byl n\u00E1zev t\u00EDmto architektonick\u00FDm prvkem inspirov\u00E1n."
       },
       {
         "Title": "Interi\u00E9r",
@@ -2141,7 +2141,7 @@
     "area": 6,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_diving_room": {
@@ -2723,7 +2723,7 @@
     "area": 2,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_paluba": {
@@ -6137,7 +6137,8 @@
     "Images": [],
     "Image_titles": [],
     "Bordering_rooms": [
-      "mi_the_crossing"
+      "mi_the_crossing",
+      "mi_spunt"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -12064,7 +12065,1483 @@
     "area": 0,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "mi_coltano": {
+    "Title": "Coltano",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_a_lucca",
+      "mi_stoupani",
+      "mi_plac"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Coltano",
+      "Blok": "[Pisa](bl_pisa)",
+      "Okrsek": "[Pisa](ok_pisa)",
+      "\u010Ctvr\u0165": "[Gideon](ct_gideon)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 117,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "mi_a_lucca": {
+    "Title": "A Lucca",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_spunt",
+      "mi_papokoi",
+      "mi_the_crossing",
+      "mi_coltano",
+      "mi_la_vettola"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "A Lucca",
+      "Blok": "[Pisa](bl_pisa)",
+      "Okrsek": "[Pisa](ok_pisa)",
+      "\u010Ctvr\u0165": "[Gideon](ct_gideon)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 116,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "mi_spunt": {
+    "Title": "\u0160punt",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_a_lucca",
+      "mi_nebe",
+      "mi_vytahovy_mustek"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "\u0160punt",
+      "Blok": "[Pisa](bl_pisa)",
+      "Okrsek": "[Pisa](ok_pisa)",
+      "\u010Ctvr\u0165": "[Gideon](ct_gideon)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "27/06/25: P\u0159ejmenov\u00E1no z \u0022V\u00FDtahov\u00FD M\u016Fstek\u0022 na \u0022\u0160punt\u0022."
+      }
+    ],
+    "image_id": 0,
+    "area": 6,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "mi_la_vettola": {
+    "Title": "La Vettola",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_a_lucca",
+      "mi_la",
+      "mi_tirrenia"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "La Vettola",
+      "Blok": "[Pisa](bl_pisa)",
+      "Okrsek": "[Pisa](ok_pisa)",
+      "\u010Ctvr\u0165": "[Gideon](ct_gideon)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 84,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "mi_la": {
+    "Title": "La",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_la_vettola",
+      "mi_podlir"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "La",
+      "Blok": "[Pisa](bl_pisa)",
+      "Okrsek": "[Pisa](ok_pisa)",
+      "\u010Ctvr\u0165": "[Gideon](ct_gideon)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 18,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "mi_tirrenia": {
+    "Title": "Tirrenia",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_mustek",
+      "mi_la_vettola",
+      "mi_podlir"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Tirrenia",
+      "Blok": "[Pisa](bl_pisa)",
+      "Okrsek": "[Pisa](ok_pisa)",
+      "\u010Ctvr\u0165": "[Gideon](ct_gideon)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 93,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "mi_paranoia": {
+    "Title": "Paranoia",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_deprese",
+      "mi_dalnicni_pilir"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Paranoia",
+      "Blok": "[Pocity](bl_pocity)",
+      "Okrsek": "[\u017Delezn\u00E1 Lhota](ok_zelezna_lhota)",
+      "\u010Ctvr\u0165": "[\u017Delezn\u00E1 Lhota](ct_zelezna_lhota)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 8,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "mi_deprese": {
+    "Title": "Deprese",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_paranoia",
+      "mi_radost"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Deprese",
+      "Blok": "[Pocity](bl_pocity)",
+      "Okrsek": "[\u017Delezn\u00E1 Lhota](ok_zelezna_lhota)",
+      "\u010Ctvr\u0165": "[\u017Delezn\u00E1 Lhota](ct_zelezna_lhota)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 32,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "mi_radost": {
+    "Title": "Radost",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_deprese",
+      "mi_ironie"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Radost",
+      "Blok": "[Pocity](bl_pocity)",
+      "Okrsek": "[\u017Delezn\u00E1 Lhota](ok_zelezna_lhota)",
+      "\u010Ctvr\u0165": "[\u017Delezn\u00E1 Lhota](ct_zelezna_lhota)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "29/06/25: M\u00EDstnost zv\u011Bt\u0161ena o 6 blok\u016F a voln\u00FD p\u0159\u00EDstup k rybn\u00EDku [Josef](mi_josef)."
+      }
+    ],
+    "image_id": 0,
+    "area": 32,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "mi_ironie": {
+    "Title": "Ironie",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_rizek",
+      "mi_hraz",
+      "mi_zelezna_lhota",
+      "mi_radost"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Ironie",
+      "Blok": "[Pocity](bl_pocity)",
+      "Okrsek": "[\u017Delezn\u00E1 Lhota](ok_zelezna_lhota)",
+      "\u010Ctvr\u0165": "[\u017Delezn\u00E1 Lhota](ct_zelezna_lhota)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "22/06/25: Nov\u00E9 sousedstv\u00ED s [Hr\u00E1z\u00ED](mi_hraz)."
+      }
+    ],
+    "image_id": 0,
+    "area": 27,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "mi_rizek": {
+    "Title": "\u0158\u00EDzek",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_ironie"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "\u0158\u00EDzek",
+      "Blok": "[Pocity](bl_pocity)",
+      "Okrsek": "[\u017Delezn\u00E1 Lhota](ok_zelezna_lhota)",
+      "\u010Ctvr\u0165": "[\u017Delezn\u00E1 Lhota](ct_zelezna_lhota)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "29/06/25: Nov\u00E9 sousedstv\u00ED s m\u00EDstnosti [Pod Vrbou](mi_pod_vrbou)."
+      }
+    ],
+    "image_id": 0,
+    "area": 2,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "mi_posse": {
+    "Title": "Posse",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_dalnice",
+      "mi_orizona",
+      "mi_goiatuba"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Posse",
+      "Blok": "[Vtip](bl_vtip)",
+      "Okrsek": "[Nord](ok_nord)",
+      "\u010Ctvr\u0165": "[Goias](ca_goias)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 68,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "mi_russe": {
+    "Title": "Russe",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_dalnice",
+      "mi_orizona"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Russe",
+      "Blok": "[Vtip](bl_vtip)",
+      "Okrsek": "[Nord](ok_nord)",
+      "\u010Ctvr\u0165": "[Goias](ca_goias)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 43,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "mi_zelezna_lhota": {
+    "Title": "\u017Delezn\u00E1 Lhota",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_velehumry",
+      "mi_dalnice",
+      "mi_goiania",
+      "mi_dalnicni_pilir",
+      "mi_ironie",
+      "mi_josef"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "\u017Delezn\u00E1 Lhota",
+      "Blok": "[\u017Delezn\u00E1 Lhota](bl_zelezna_lhota)",
+      "Okrsek": "[\u017Delezn\u00E1 Lhota](ok_zelezna_lhota)",
+      "\u010Ctvr\u0165": "[\u017Delezn\u00E1 Lhota](ct_zelezna_lhota)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)",
+      "\u00DA\u010Del": "Farma na \u017Eelezo, automatick\u00FD kompost"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "29/06/25: Nov\u00E9 dve\u0159e do rybn\u00EDka [Josef](mi_josef)."
+      }
+    ],
+    "image_id": 0,
+    "area": 62,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "mi_velehumry": {
+    "Title": "Velehumry",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_i_port",
+      "mi_zelezna_lhota",
+      "mi_humry"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Velehumry",
+      "Blok": "[Humry](bl_humry)",
+      "Okrsek": "[\u017Delezn\u00E1 Lhota](ok_zelezna_lhota)",
+      "\u010Ctvr\u0165": "[\u017Delezn\u00E1 Lhota](ct_zelezna_lhota)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 38,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "mi_humry": {
+    "Title": "Humry",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_i_port",
+      "mi_raky",
+      "mi_velehumry"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Humry",
+      "Blok": "[Humry](bl_humry)",
+      "Okrsek": "[\u017Delezn\u00E1 Lhota](ok_zelezna_lhota)",
+      "\u010Ctvr\u0165": "[\u017Delezn\u00E1 Lhota](ct_zelezna_lhota)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 27,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "mi_raky": {
+    "Title": "Raky",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_humry"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Raky",
+      "Blok": "[Humry](bl_humry)",
+      "Okrsek": "[\u017Delezn\u00E1 Lhota](ok_zelezna_lhota)",
+      "\u010Ctvr\u0165": "[\u017Delezn\u00E1 Lhota](ct_zelezna_lhota)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 32,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "mi_dlouhy": {
+    "Title": "Dlouh\u00FD",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_mrkev",
+      "mi_zavodni_okruh"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Dlouh\u00FD",
+      "Blok": "[Cimrman](bl_cimrman)",
+      "Okrsek": "[Mrkev](ok_mrkev)",
+      "\u010Ctvr\u0165": "[Mrkev](ct_mrkev)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 37,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "mi_siroky": {
+    "Title": "\u0160irok\u00FD",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_mrkev",
+      "mi_zavodni_okruh"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "\u0160irok\u00FD",
+      "Blok": "[Cimrman](bl_cimrman)",
+      "Okrsek": "[Mrkev](ok_mrkev)",
+      "\u010Ctvr\u0165": "[Mrkev](ct_mrkev)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 44,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "mi_hluchonemy": {
+    "Title": "Hluchon\u011Bm\u00FD",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_mrkev",
+      "mi_zavodni_okruh"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Hluchon\u011Bm\u00FD",
+      "Blok": "[Cimrman](bl_cimrman)",
+      "Okrsek": "[Mrkev](ok_mrkev)",
+      "\u010Ctvr\u0165": "[Mrkev](ct_mrkev)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 22,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "mi_bystrozraky": {
+    "Title": "Bystrozrak\u00FD",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_mrkev",
+      "mi_zavodni_okruh"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Bystrozrak\u00FD",
+      "Blok": "[Cimrman](bl_cimrman)",
+      "Okrsek": "[Mrkev](ok_mrkev)",
+      "\u010Ctvr\u0165": "[Mrkev](ct_mrkev)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 22,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "mi_amfora": {
+    "Title": "Amfora",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_hotel_gi_floor_ga",
+      "mi_baby_chef_office"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Amfora",
+      "Blok": "[Byty Ga](bl_byty_ga)",
+      "Okrsek": "[Ga](ok_ga)",
+      "\u010Ctvr\u0165": "[Gi](ct_gi)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 41,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "mi_baby_chef_office": {
+    "Title": "Baby Chef Office",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_amfora",
+      "mi_emfora"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Baby Chef Office",
+      "Blok": "[Byty Ga](bl_byty_ga)",
+      "Okrsek": "[Ga](ok_ga)",
+      "\u010Ctvr\u0165": "[Gi](ct_gi)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 24,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "mi_emfora": {
+    "Title": "Emfora",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_hotel_gi_floor_ga",
+      "mi_baby_chef_office"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Emfora",
+      "Blok": "[Byty Ga](bl_byty_ga)",
+      "Okrsek": "[Ga](ok_ga)",
+      "\u010Ctvr\u0165": "[Gi](ct_gi)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 72,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "mi_tucik": {
+    "Title": "Tu\u010D\u00EDk",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_hotel_gi_floor_ge",
+      "mi_sadlo",
+      "mi_kanc"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Tu\u010D\u00EDk",
+      "Blok": "[Byty Ge](bl_byty_ge)",
+      "Okrsek": "[Ge](ok_ga)",
+      "\u010Ctvr\u0165": "[Gi](ct_gi)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 24,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "mi_kanc": {
+    "Title": "Kanc",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_tucik"
+    ],
+    "Alternate_names": [
+      "Kancel\u00E1\u0159"
+    ],
+    "Metadata": {
+      "N\u00E1zev": "Kanc",
+      "Blok": "[Byty Ge](bl_byty_ge)",
+      "Okrsek": "[Ge](ok_ga)",
+      "\u010Ctvr\u0165": "[Gi](ct_gi)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 36,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "mi_sadlo": {
+    "Title": "S\u00E1dlo",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_tucik"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "S\u00E1dlo",
+      "Blok": "[Byty Ge](bl_byty_ge)",
+      "Okrsek": "[Ge](ok_ga)",
+      "\u010Ctvr\u0165": "[Gi](ct_gi)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 20,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "mi_tuk": {
+    "Title": "Tuk",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_tucik"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Tuk",
+      "Blok": "[Byty Ge](bl_byty_ge)",
+      "Okrsek": "[Ge](ok_ga)",
+      "\u010Ctvr\u0165": "[Gi](ct_gi)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 18,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "mi_police": {
+    "Title": "Police",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_hotel_gi_floor_gi",
+      "mi_levo"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Police",
+      "Blok": "[Byty Gi](bl_byty_gi)",
+      "Okrsek": "[Gi](ok_gi)",
+      "\u010Ctvr\u0165": "[Gi](ct_gi)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 14,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "mi_levo": {
+    "Title": "Levo",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_police",
+      "mi_hotel_gi_floor_gi"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Levo",
+      "Blok": "[Byty Gi](bl_byty_gi)",
+      "Okrsek": "[Gi](ok_gi)",
+      "\u010Ctvr\u0165": "[Gi](ct_gi)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 42,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "mi_pravo": {
+    "Title": "Pravo",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_hotel_gi_floor_gi",
+      "mi_lejno"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Pravo",
+      "Blok": "[Byty Gi](bl_byty_gi)",
+      "Okrsek": "[Gi](ok_gi)",
+      "\u010Ctvr\u0165": "[Gi](ct_gi)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 49,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "mi_lejno": {
+    "Title": "Lejno",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_pravo"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Lejno",
+      "Blok": "[Byty Gi](bl_byty_gi)",
+      "Okrsek": "[Gi](ok_gi)",
+      "\u010Ctvr\u0165": "[Gi](ct_gi)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 18,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "mi_cervi_dira": {
+    "Title": "\u010Cerv\u00ED D\u00EDra",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "\u010CERV\u00CD D\u00CDRA",
+      "\u010CERV\u00CD D\u00CDRA"
+    ],
+    "Bordering_rooms": [
+      "mi_hotel_gi_floor_ga",
+      "mi_dira_do_pekel"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "\u010Cerv\u00ED D\u00EDra",
+      "Blok": "[Aula Ga](bl_aula_ga)",
+      "Okrsek": "[Ga](ok_ga)",
+      "\u010Ctvr\u0165": "[Gi](ct_gi)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "\u010Cerv\u00ED D\u00EDra je \u00FAzk\u00E1 chodba spojuj\u00EDc\u00ED [patro Ga hotelu Gi](mi_hotel_floor_ga) s [J\u00E1mou Pekelnou](mi_jama_pekelna). Chodba je \u010D\u00E1ste\u010Dn\u011B zahraban\u00E1 p\u00EDskem a jej\u00ED podlaha je p\u016Fl bloku pod hladinou mo\u0159e. Nad chodbou je velk\u00FD pr\u00E1zdn\u00FD prostor, kter\u00FD je p\u0159eru\u0161en a\u017E [D\u00E1lnic\u00ED](mi_dalnice) a je t\u00E9m\u011B\u0159 ze v\u0161ech stran uzav\u0159en."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "N\u00E1zev se vztahuje na stejnojmennou hypotetickou strukturu, kter\u00E1 spojuje dva body v \u010Dasoprostoru. V tomto p\u0159\u00EDpad\u011B spojuje \u010Cerv\u00ED D\u00EDra [Hotel Gi](ct_gi) a [Pa\u0159ez](ca_parez). Chodba dok\u00E1\u017Ee u\u0161et\u0159it dost \u010Dasu."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "V chodb\u011B se nach\u00E1z\u00ED dv\u011B okna, jedno na lev\u00E9 a druh\u00E9 na prav\u00E9 stran\u011B, a oran\u017Eov\u00E1 postel. Jedn\u00E1 se o rovnou chodbu orientovanou ve sm\u011Bru sever-jih zakon\u010Denou dve\u0159mi na obou stran\u00E1ch. Je 1 blok \u0161irok\u00E1 a 2.5 bloku vysok\u00E1. "
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Men\u0161\u00ED ze dvou oken v chodb\u011B by neexistovalo kdyby se na pl\u00E1\u017Ei, skrz kterou chodba proch\u00E1z\u00ED, net\u011B\u017Eil p\u00EDsek."
+      }
+    ],
+    "image_id": 0,
+    "area": 13,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "mi_dira_do_pekel": {
+    "Title": "D\u00EDra do Pekel",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "HALA - POHLED NA V\u00DDCHOD",
+      "HALA - POHLED NA Z\u00C1PAD",
+      "TO\u010CIT\u00C9 SCHODI\u0160T\u011A",
+      "CHODBA"
+    ],
+    "Bordering_rooms": [
+      "mi_silo",
+      "mi_komurka",
+      "mi_hlavni_trida",
+      "mi_okruh",
+      "mi_veranda",
+      "mi_cervi_dira",
+      "mi_skryta_mistnost"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "D\u00EDra do Pekel",
+      "Blok": "[Veranda](bl_veranda)",
+      "Okrsek": "[Dub](ok_dub)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
+      "\u00DA\u010Del": "Sklad p\u0159edm\u011Bt\u016F z Netheru"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "D\u00EDra do Pekel je m\u00EDstnost nach\u00E1zej\u00EDc\u00ED se mezi [Silem](mi_silo) a [Verandou](mi_veranda). Jedn\u00E1 se o u\u017Eite\u010Dnou m\u00EDstnost s mnoha vchody. Na z\u00E1padn\u00ED stran\u011B se nach\u00E1z\u00ED trojice dve\u0159\u00ED do [Hlavn\u00ED T\u0159\u00EDdy](mi_hlavni_trida), [Kom\u016Frky](mi_komurka) a [Sila](mi_silo). Na jiho jsou dve\u0159e na [Okruh](mi_okruh) a na v\u00FDchod\u011B dvojit\u00E9 dve\u0159e do sestersk\u00E9 m\u00EDstnosti, [Verandy](mi_veranda).\r\nOkrem t\u011Bchto dve\u0159\u00ED je uprost\u0159ed m\u00EDstnosti to\u010Dit\u00E9 schodi\u0161t\u011B s chodbou na konci. Ze schodi\u0161t\u011B vedou dve\u0159e do [\u010Cerv\u00ED D\u00EDry](mi_cervi_dira) a na konci chodby se d\u00E1 dve\u0159mi vstoupit do [Skryt\u00E9 M\u00EDstnosti](mi_skryta_mistnost)."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "N\u00E1zev m\u00EDstnost z\u00EDskala podle to\u010Dit\u00E9 schodi\u0161t\u011B uprost\u0159ed. \u00DA\u010Del m\u00EDstnosti byl inspirov\u00E1n n\u00E1zvem a ne naopak."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Interi\u00E9r m\u00EDstnosti se skl\u00E1d\u00E1 ze t\u0159\u00ED \u010D\u00E1st\u00ED: haly, chodby a to\u010Dit\u00E9ho schodi\u0161t\u011B, kter\u00E9 je spojuje.\r\nHala je hlavn\u00ED \u010D\u00E1st\u00ED prostoru, m\u00E1 rozm\u011Bry p\u0159ibli\u017En\u011B 10\u00D75 blok\u016F a jej\u00ED podlaha je \u010Dlenit\u00E1 \u2013 nach\u00E1z\u00ED se na n\u011Bkolika v\u00FD\u0161kov\u00FDch \u00FArovn\u00EDch. Naopak strop je v\u00EDcem\u00E9n\u011B rovn\u00FD a podep\u00EDraj\u00ED ho t\u0159i sloupky, z nich\u017E jeden tvo\u0159\u00ED st\u0159edovou osu to\u010Dit\u00E9ho schodi\u0161t\u011B. Na severn\u00ED a ji\u017En\u00ED stran\u011B haly se nach\u00E1z\u00ED v\u011Bt\u0161ina oken, zat\u00EDmco dve\u0159e vedou na z\u00E1pad a jih \u2013 ke v\u0161em vstup\u016Fm vedou schody, a\u0165 u\u017E sm\u011Brem dol\u016F, nebo nahoru. V hale je tak\u00E9 b\u00EDl\u00E1 postel a \u010Dtve\u0159ice barel\u016F ur\u010Den\u00E1 pro skladov\u00E1n\u00ED v\u011Bc\u00ED z netheru. Crafting table zde \u017E\u00E1dn\u00FD nen\u00ED, p\u0159esto jde o pom\u011Brn\u011B velk\u00FD prostor.\r\nTo\u010Dit\u00E9 schodi\u0161t\u011B se nach\u00E1z\u00ED v deset blok\u016F hlubok\u00E9 \u0161acht\u011B o rozm\u011Brech 3\u00D73 bloky. Schodi\u0161t\u011B ob\u00EDh\u00E1 kolem plotov\u00E9ho sloupku a vede z haly dol\u016F do chodby. Na schodi\u0161ti se tak\u00E9 nach\u00E1z\u00ED dve\u0159e do [\u010Cerv\u00ED D\u00EDry](mi_cervi_dira).\r\nChodba navazuje na doln\u00ED konec schodi\u0161t\u011B a sm\u011B\u0159uje na z\u00E1pad k [Skryt\u00E9 M\u00EDstnosti](mi_skryta_mistnost). Je to \u00FAzk\u00FD, jeden blok \u0161irok\u00FD pr\u016Fchod, dlouh\u00FD 13 blok\u016F. Nenajdeme v n\u00ED postel ani crafting table."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Ka\u017Ed\u00E9 ze t\u0159\u00ED dve\u0159\u00ED na z\u00E1padn\u00ED stran\u011B m\u00EDstnosti jsou na jin\u00E9 v\u00FD\u0161kov\u00E9 \u00FArovni.\r\nU dve\u0159\u00ED do [Skryt\u00E9 M\u00EDstnosti](mi_skryta_mistnost) se d\u00E1 otev\u0159\u00EDt dvojice barel\u016F s kameny, lapisem, p\u00EDskem, soul sandem a chaluhami."
+      }
+    ],
+    "image_id": 0,
+    "area": 95,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "redirect": "",
     "tobeedited": false
   }
 }
