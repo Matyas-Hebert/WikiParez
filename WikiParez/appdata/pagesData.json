@@ -14757,7 +14757,7 @@
     ],
     "image_id": 0,
     "area": 58,
-    "Empty": true,
+    "Empty": false,
     "numberOfRooms": 0,
     "redirect": null,
     "tobeedited": false
