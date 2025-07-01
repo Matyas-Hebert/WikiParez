@@ -6,6 +6,7 @@ using System.IO;
 using System.Text.Json;
 using System.Text.RegularExpressions;
 using Microsoft.Extensions.Hosting;
+using System.Collections.Specialized;
 using System.Runtime.InteropServices;
 
 public class WikiService
@@ -88,13 +89,12 @@ public class WikiService
     public Dictionary<string, string> Last10pages(){
         int pageCount = _pages.Count;
         var dict = new Dictionary<string, string>();
-        for(int i=pageCount-1; i>=pageCount-10; i--){
+        Console.WriteLine("list:");
+        for (int i = pageCount - 1; i >= pageCount - 10; i--)
+        {
             var key = _pages.Keys.ElementAt(i);
-            if (key.StartsWith("mm") || _pages[key].Empty)
+            if (_pages[key].Empty)
             {
-                pageCount--;
-            }
-            else if (_pages[key].redirect != null && _pages[key].redirect != ""){
                 pageCount--;
             }
             else
@@ -248,7 +248,6 @@ public class WikiService
             if (dictionary[key].image_count() == 0)
             {
                 dictionary[key].Images.Add("missing.jpg");
-                dictionary[key].Empty = true;
                 dictionary[key].Image_titles.Add("");
             }
             else if (!IsSubdivision(dictionary[key].Type))

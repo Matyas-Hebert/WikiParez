@@ -879,7 +879,7 @@
     "area": 128,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_dalnicni_prechod": {
@@ -1317,7 +1317,7 @@
     "area": 285,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_lodzie": {
@@ -1601,7 +1601,7 @@
     "area": 89,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "bl_ropna_plosina": {
@@ -1796,7 +1796,7 @@
     "area": 0,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mm_spojnice_1": {
@@ -2966,7 +2966,7 @@
     "area": 127,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_na_ochozu": {
@@ -4585,7 +4585,7 @@
     "area": 213,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_schwarzenegger_house": {
@@ -4635,7 +4635,7 @@
     "area": 47,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_balkon_ctvrtka": {
@@ -4771,7 +4771,7 @@
     "area": 41,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_double_decker_house": {
@@ -4824,7 +4824,7 @@
     "area": 153,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_balkon_svate_nedele": {
@@ -4871,7 +4871,7 @@
     "area": 11,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_vytahovy_mustek": {
@@ -8714,7 +8714,7 @@
     "area": 184,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_tunel": {
@@ -9923,7 +9923,7 @@
     "area": 455,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_chajda_pani_hlinene": {
@@ -11689,7 +11689,7 @@
     "area": 92,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_v_vez_1_podlazi": {
@@ -13574,7 +13574,7 @@
     "area": 108,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_hotel_gi_floor_ge": {
@@ -13617,7 +13617,7 @@
     "area": 83,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_hotel_gi_floor_gi": {
@@ -13663,7 +13663,7 @@
     "area": 100,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_balonky": {
@@ -13710,7 +13710,7 @@
     "area": 354,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_jizni_blok": {
@@ -13757,7 +13757,7 @@
     "area": 138,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_le_pont": {
@@ -13804,7 +13804,7 @@
     "area": 257,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_vystavni": {
@@ -13847,7 +13847,7 @@
     "area": 28,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_hlava_statu": {
@@ -13888,7 +13888,7 @@
     "area": 29,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_kral": {
@@ -13930,7 +13930,7 @@
     "area": 109,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_lusk": {
@@ -13972,7 +13972,7 @@
     "area": 27,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_kazeta": {
@@ -14015,7 +14015,7 @@
     "area": 10,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_hnizdo": {
@@ -14062,7 +14062,7 @@
     "area": 53,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_unikove_schodiste": {
@@ -14117,7 +14117,7 @@
     "area": 65,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_letove_pole": {
@@ -14159,7 +14159,7 @@
     "area": 75,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_parapet": {
@@ -14201,7 +14201,7 @@
     "area": 46,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_draci_rotunda": {
@@ -14246,7 +14246,7 @@
     "area": 69,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_gauntlet": {
@@ -14287,7 +14287,7 @@
     "area": 121,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_mosta": {
@@ -14329,7 +14329,7 @@
     "area": 13,
     "Empty": true,
     "numberOfRooms": 0,
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_weaver_house": {
@@ -14377,6 +14377,387 @@
     "image_id": 0,
     "area": 69,
     "Empty": false,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "te_preusporadani_troji": {
+    "Title": "P\u0159euspo\u0159\u00E1d\u00E1n\u00ED Tr\u00F3ji",
+    "Type": "ud\u00E1lost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "P\u0159euspo\u0159\u00E1d\u00E1n\u00ED Tr\u00F3ji",
+      "Datum": "01/07/25"
+    },
+    "Sections": [
+      {
+        "Title": "Uspo\u0159\u00E1d\u00E1n\u00ED p\u0159ed",
+        "Content": "[Tr\u00F3ja](ca_troja) byla rozd\u011Blena na 6 \u010Dtvrt\u00ED [Labyrint](ct_labyrint), [Loosova Vila](ct_loosova_vila), [Nekone\u010Dno](ct_nekonecno),[Triangl](ct_triangl), [Tr\u00F3ja](ct_troja), [Vietnamsk\u00E1 \u010Ctvr\u0165](ct_vietnamska_ctvrt).\r\n\u010Ctvrti se d\u00E1le d\u011Blily na tyto okrsky:\r\n[Labyrint](ct_labyrint): [Labyrint](ok_labyrint) a [\u0160ne\u010D\u00ED R\u00E1j](ok_sneci_raj).\r\n[Loosova Vila](ct_loosova_vila): [Loosova Vila](ok_loosova_vila) a [Nexus](ok_nexus)\r\n[Nekone\u010Dno](ct_nekonecno): [Nekone\u010Dno](ok_nekonecno) a [Slun\u00ED\u010Dko](ok_slunicko)\r\n[Triangl](ct_triangl): pouze [Triangl](ok_triangl)\r\n[Tr\u00F3ja](ct_troja): [Bubene\u010D](ok_bubenec) a [Tr\u00F3ja](ok_troja)\r\n[Vietnamsk\u00E1 \u010Ctvr\u0165](ct_vietnamska_ctvrt): [Atom](ok_atom), [Preatrium](ok_atrium) a [Vietnamsk\u00E1 \u010Ctvr\u0165](ok_vietnamska_ctvrt)"
+      },
+      {
+        "Title": "Nov\u00E9 \u010Dtvrti",
+        "Content": "Z \u0161esti p\u016Fvodn\u00EDch \u010Dtvrt\u00ED zbyly jen \u010Dty\u0159i. \u010Ctvrti [Loosova Vila](ct_loosova_vila), [Labyrint](ct_labyrint) a [Tr\u00F3ja](ct_troja) byly spojeny do jedn\u00E9 \u010Dtvrti zvan\u00E9 [Tr\u00F3ja](ct_troja)."
+      },
+      {
+        "Title": "Nov\u00E1 Tr\u00F3ja",
+        "Content": "[Tr\u00F3ja](ct_troja) bude nov\u011B rozd\u011Blena na t\u0159i okrsky. Jedin\u00FDm nezm\u011Bn\u011Bn\u00FDm je stejnojmenn\u00FD okrsek [Tr\u00F3ja](ok_troja). Druh\u00FDm je okrsek [Loosova Vila](ok_loosova_vila), je\u017E je spojen\u00EDm p\u016Fvodn\u00EDch okrsk\u016F [Loosova Vila](ok_loosova_vila) a [Nexus](ok_nexus). T\u0159et\u00EDm a nejv\u011Bt\u0161\u00EDm okrskem je [Gul\u00E1\u0161](ok_gulas), kter\u00FD vznikl z okrsk\u016F [Labyrint](ok_labyrint), [\u0160ne\u010D\u00ED R\u00E1j](ok_sneci_raj) a [Bubene\u010D](ok_bubenec).\r\nBloky z\u016Fstali nezm\u011Bn\u011Bny a\u017E na spojen\u00ED blok\u016F [Jez\u00EDrko](bl_jezirko) a [Vila](bl_vila) na blok [Vila](bl_vila)."
+      },
+      {
+        "Title": "Nov\u00E1 Vietnamsk\u00E1 \u010Ctvr\u0165",
+        "Content": "Ve [Vietnamsk\u00E9 \u010Ctvrti](ct_vietnamska_ctvrt) je zm\u011Bna minim\u00E1ln\u00ED. Okrsek [Preatrium](ok_preatrium) byl slou\u010Den s okrskem [Atom](ok_atom) v nov\u00FD [Atom](ok_atom). Okrsek [Atom](ok_atom) je slo\u017Een ze dvou blok\u016F [Atomu](bl_atom) a [Preatria](bl_preatrium)."
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "ct_loosova_vila": {
+    "Title": "Loosova Vila",
+    "Type": "p\u016Fvodn\u00ED \u010Dtvr\u0165",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Loosova Vila",
+      "\u010C\u00E1st": "[Tr\u00F3ja](ca_troja)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Loosova Vila byla \u010Dtvr\u0165 v [Tr\u00F3ji](ca_troja). Pot\u00E9 byla slou\u010Dena se \u010Dtvrtmi [Labyrint](ct_labyrint) a [Tr\u00F3ja](ct_troja).\r\nZru\u0161en\u00ED \u010Dtvrti bylo sou\u010D\u00E1st\u00ED velk\u00E9ho [p\u0159erozd\u011Blen\u00ED tr\u00F3ji](te_preusporadani_troji)."
+      },
+      {
+        "Title": "P\u016Fvodn\u00ED D\u011Blen\u00ED",
+        "Content": "\u010Ctvr\u0165 byla rozd\u011Blena na dva okrsky: [Loosovu Vilu](ok_loosova_vila) (d\u00E1le rozd\u011Blena na [Jez\u00EDrko](bl_jezirko) a [Vila](bl_vila)) a [Nexus](ok_nexus) (d\u00E1le rozd\u011Blen na [Nexus](ok_nexus) a [P\u016Flkruh](ok_pulkruh)).\r\nVe \u010Dtvrti bylo 11 m\u00EDstnost\u00ED."
+      },
+      {
+        "Title": "Aktu\u00E1ln\u00ED D\u011Blen\u00ED",
+        "Content": "Ve\u0161ker\u00E9 m\u00EDstnosti p\u016Fvodn\u00ED \u010Dtvrti jsou sou\u010D\u00E1st\u00ED okrsku [Loosova Vila](ok_loosova_vila).\r\nD\u011Blen\u00ED na bloky z\u016Fstalo stejn\u00E9 a\u017E na spojen\u00ED blok\u016F [Vila](bl_vila) a [Jez\u00EDrko](bl_jezirko)."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "01/07/25: \u010Ctvr\u0165 zru\u0161ena, nov\u011B sou\u010D\u00E1st\u00ED [Tr\u00F3ji](ct_troja)."
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "ct_labyrint": {
+    "Title": "Labyrint",
+    "Type": "p\u016Fvodn\u00ED \u010Dtvr\u0165",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Labyrint",
+      "\u010C\u00E1st": "[Tr\u00F3ja](ca_troja)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Labyrint byla \u010Dtvr\u0165 v [Tr\u00F3ji](ca_troja). Pot\u00E9 byla slou\u010Dena se \u010Dtvrtmi [Loosova Vila](ct_loosova_vila) a [Tr\u00F3ja](ct_troja).\r\nZru\u0161en\u00ED \u010Dtvrti bylo sou\u010D\u00E1st\u00ED velk\u00E9ho [p\u0159erozd\u011Blen\u00ED tr\u00F3ji](te_preusporadani_troji)."
+      },
+      {
+        "Title": "P\u016Fvodn\u00ED D\u011Blen\u00ED",
+        "Content": "\u010Ctvr\u0165 byla rozd\u011Blena na okrsky [Labyrint](ok_labyrint) a [\u0160ne\u010D\u00ED R\u00E1j](ok_sneci_raj). Okrsek [Labyrint](ok_labyrint) byl d\u00E1le rozd\u011Blen na bloky [Ark\u00E1da](bl_arkada) a [Labyrint](bl_labyrint).\r\nVe \u010Dtvrti bylo 12 m\u00EDstnost\u00ED."
+      },
+      {
+        "Title": "Aktu\u00E1ln\u00ED D\u011Blen\u00ED",
+        "Content": "Ve\u0161ker\u00E9 m\u00EDstnosti p\u016Fvodn\u00ED \u010Dtvrti jsou spolu s m\u00EDstnostmi v okrsku [Bubene\u010D](ok_bubenec) sou\u010D\u00E1st\u00ED [Gul\u00E1\u0161e](ok_gulas). \r\nTento okrsek se d\u00E1le d\u011Bl\u00ED na \u0161est blok\u016F z nich\u017E t\u0159i jsou p\u016Fvodn\u00EDmi bloky \u010Dtvrti Labyrint a t\u0159i zbyl\u00E9 bloky okrsku [Bubene\u010D](ok_bubenec)."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "01/07/25: \u010Ctvr\u0165 zru\u0161ena, nov\u011B sou\u010D\u00E1st\u00ED [Tr\u00F3ji](ct_troja)."
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "ok_bubenec": {
+    "Title": "Bubene\u010D",
+    "Type": "p\u016Fvodn\u00ED okrsek",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Bubene\u010D",
+      "\u010Ctvr\u0165": "[Tr\u00F3ja](ct_troja)",
+      "\u010C\u00E1st": "[Tr\u00F3ja](ca_troja)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Bubene\u010D je b\u00FDval\u00FD okrsek ve \u010Dtvrti [Tr\u00F3ja](ct_troja). Pot\u00E9 byl spojen s [Labyrintem](ok_labyrint) a [\u0160ne\u010D\u00EDm R\u00E1jem](ok_sneci_raj) za vzniku nov\u00E9ho okrsku [Gul\u00E1\u0161](ok_gulas).\r\nZru\u0161en\u00ED okrsku bylo sou\u010D\u00E1st\u00ED velk\u00E9ho [p\u0159erozd\u011Blen\u00ED tr\u00F3ji](te_preusporadani_troji)."
+      },
+      {
+        "Title": "P\u016Fvodn\u00ED D\u011Blen\u00ED",
+        "Content": "Bubene\u010D byl rozd\u011Blen na t\u0159i bloky: [Bubene\u010D](bl_bubenec), [Fujara](bl_fujara) a [S\u00ED\u0148](bl_sin).\r\nV okrsku bylo 10 m\u00EDstnost\u00ED. Jmenovit\u011B se jednalo o [Bubene\u010D](mi_bubenec), [Pracovnu](mi_pracovna), [Skytrail](mi_skytrail), [Spojku](mi_spojka), [Halu\u0161ky](mi_halusky), [Hol\u00ED\u010D](mi_holic), [Tamtam](mi_tamtam), [J\u00E1ma](mi_jama), [M\u00E1ja](mi_maja) a [S\u00ED\u0148](mi_sin)."
+      },
+      {
+        "Title": "Aktu\u00E1ln\u00ED D\u011Blen\u00ED",
+        "Content": "V\u0161echny m\u00EDstnosti p\u016Fvodn\u00EDho okrsku jsou sou\u010D\u00E1st\u00ED okrsku [Gul\u00E1\u0161](ok_gulas) a jsou za\u0159azeny do stejn\u00FDch blok\u016F."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "01/07/25: Okrsek zru\u0161en, nov\u011B sou\u010D\u00E1st\u00ED [Gul\u00E1\u0161e](ok_gulas)."
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "ok_sneci_raj": {
+    "Title": "\u0160ne\u010D\u00ED R\u00E1j",
+    "Type": "p\u016Fvodn\u00ED okrsek",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "\u0160ne\u010D\u00ED R\u00E1j",
+      "\u010Ctvr\u0165": "[Labyrint](ct_labyrint)",
+      "\u010C\u00E1st": "[Tr\u00F3ja](ca_troja)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "\u0160ne\u010D\u00ED R\u00E1j byl okrsek v [Labyrintu](ct_labyrint). Pot\u00E9 byl slou\u010Den s okrsky: [Labyrint](ok_labyrint) a [Bubene\u010D](ok_bubenec) za vzniku nov\u00E9ho okrsku [Gul\u00E1\u0161](ok_gulas).\r\nZru\u0161en\u00ED okrsku bylo sou\u010D\u00E1st\u00ED velk\u00E9ho [p\u0159erozd\u011Blen\u00ED tr\u00F3ji](te_preusporadani_troji)."
+      },
+      {
+        "Title": "P\u016Fvodn\u00ED D\u011Blen\u00ED",
+        "Content": "Okrsek m\u011Bl pouze jedin\u00FD blok, kter\u00FD sd\u00EDlel jm\u00E9no s okrskem sam\u00FDm."
+      },
+      {
+        "Title": "Aktu\u00E1ln\u00ED D\u011Blen\u00ED",
+        "Content": "V\u0161echny m\u00EDstnosti p\u016Fvodn\u00EDho okrsku jsou sou\u010D\u00E1st\u00ED okrsku [Gul\u00E1\u0161](ok_gulas) a jsou za\u0159azeny do bloku [\u0160ne\u010D\u00ED R\u00E1j](bl_sneci_raj)."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "01/07/25: Okrsek zru\u0161en, nov\u011B sou\u010D\u00E1st\u00ED [Gul\u00E1\u0161e](ok_gulas)."
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "ok_labyrint": {
+    "Title": "Labyrint",
+    "Type": "p\u016Fvodn\u00ED okrsek",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Labyrint",
+      "\u010Ctvr\u0165": "[Labyrint](ct_labyrint)",
+      "\u010C\u00E1st": "[Tr\u00F3ja](ca_troja)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Labyrint byl okrsek v \u010Dtvrti [Labyrint](ct_labyrint). Pot\u00E9 byl slou\u010Den s okrsky [\u0160ne\u010D\u00ED R\u00E1j](ok_sneci_raj) a [Bubene\u010D](ok_bubenec), co\u017E dalo vzniku okrsku [Gul\u00E1\u0161](ok_gulas).\r\nZru\u0161en\u00ED okrsku bylo sou\u010D\u00E1st\u00ED velk\u00E9ho [p\u0159erozd\u011Blen\u00ED tr\u00F3ji](te_preusporadani_troji)."
+      },
+      {
+        "Title": "P\u016Fvodn\u00ED D\u011Blen\u00ED",
+        "Content": "Okrsek byl rozd\u011Blen na dva bloky [Ark\u00E1da](bl_arkada) a [Labyrint](bl_labyrint).\r\nV okrsku bylo 7 m\u00EDstnost\u00ED. Jmenovit\u011B se jednalo o [Ark\u00E1du](mi_arkada), [Nacleh\u00E1rnu](mi_nacleharna), [Ba L Cony](mi_ba_l_cony), [Exit](mi_exit), [Labyrint](mi_labyrint) a [Nocleh\u00E1rnu A](mi_nocleharna_a) a [B](mi_nocleharna_b)."
+      },
+      {
+        "Title": "Aktu\u00E1ln\u00ED D\u011Blen\u00ED",
+        "Content": "V\u0161echny m\u00EDstnosti p\u016Fvodn\u00EDho okrsku jsou sou\u010D\u00E1st\u00ED okrsku [Gul\u00E1\u0161](ok_gulas) a jsou za\u0159azeny do stejn\u00FDch blok\u016F."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "01/07/25: Okrsek zru\u0161en, nov\u011B sou\u010D\u00E1st\u00ED [Gul\u00E1\u0161e](ok_gulas)."
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "ok_nexus": {
+    "Title": "Nexus",
+    "Type": "p\u016Fvodn\u00ED \u010Dtvr\u0165",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Nexus",
+      "\u010Ctvr\u0165": "[Loosova Vila](ct_loosova_vila)",
+      "\u010C\u00E1st": "[Tr\u00F3ja](ca_troja)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Nexus je b\u00FDval\u00FD okrsek v b\u00FDval\u00E9 \u010Dtvrti [Loosova Vila](ct_loosova_vila). Spolu s okrskem [Loosova Vila](ok_loosova_vila) byl za\u0159azen do \u010Dtvrti [Tr\u00F3ja](ct_troja). Okrsky se spojily v novou v\u011Bt\u0161\u00ED [Loosovu Vilu](ok_loosova_vila).\r\nZru\u0161en\u00ED okrsku bylo sou\u010D\u00E1st\u00ED velk\u00E9ho [p\u0159erozd\u011Blen\u00ED tr\u00F3ji](te_preusporadani_troji)."
+      },
+      {
+        "Title": "P\u016Fvodn\u00ED D\u011Blen\u00ED",
+        "Content": "Okrsek byl rozd\u011Blen na bloky [Nexus](bl_nexus) a [P\u016Flkruh](bl_pulkruh).\r\nBylo v n\u011Bm \u0161est m\u00EDstnost\u00ED. Jmenovit\u011B se jednalo o [Atrium](mi_atrium), [L\u00F3\u017Ee](mi_loze), [Na M\u016Fstku](mi_na_mustku), [Nexus](mi_nexus), [Lava Show](mi_lava_show) a [Urampa](mi_urampa)."
+      },
+      {
+        "Title": "Aktu\u00E1ln\u00ED D\u011Blen\u00ED",
+        "Content": "V\u0161echny m\u00EDstnosti b\u00FDval\u00E9ho okrsku se nov\u011B nach\u00E1zej\u00ED v okrsku [Loosova Vila](ok_loosova_vila). D\u011Blen\u00ED do blok\u016F z\u016Fstalo nezm\u011Bn\u011Bno."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "01/07/25: Okrsek zru\u0161en, nov\u011B sou\u010D\u00E1st\u00ED [Loosovy Vily](ok_loosova_vila)."
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "ok_preatrium": {
+    "Title": "Preatrium",
+    "Type": "p\u016Fvodn\u00ED okrsek",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Preatrium",
+      "\u010Ctvr\u0165": "[Vietnamsk\u00E1 \u010Ctvr\u0165](ct_vietnamska_ctvrt)",
+      "\u010C\u00E1st": "[Tr\u00F3ja](ca_troja)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Preatrium je b\u00FDval\u00FD okrsek ve [Vietnamsk\u00E9 \u010Ctvrti](ct_vietnamska_ctvrt). Jedin\u00E1 m\u00EDstnost v okrsky byla pot\u00E9 p\u0159esunuta do okrsku [Atom](ok_atom).\r\nZru\u0161en\u00ED okrsku bylo sou\u010D\u00E1st\u00ED velk\u00E9ho [p\u0159erozd\u011Blen\u00ED tr\u00F3ji](te_preusporadani_troji)."
+      },
+      {
+        "Title": "P\u016Fvodn\u00ED D\u011Blen\u00ED",
+        "Content": "Okrsek byl tvo\u0159en jedinou m\u00EDstnosti. M\u00EDstnost [Preatrium](mi_preatrium) se nach\u00E1zela ve [stejnojmenn\u00E9m bloku](bl_preatrium)."
+      },
+      {
+        "Title": "Aktu\u00E1ln\u00ED D\u011Blen\u00ED",
+        "Content": "M\u00EDstnost [Preatrium](mi_preatrium) byla p\u0159esunuta do okrsku [Atom](ok_atom). St\u00E1le se ale nach\u00E1z\u00ED ve [stejnojmenn\u00E9m bloku](bl_preatrium)."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "01/07/25: Okrsek zru\u0161en, nov\u011B sou\u010D\u00E1st\u00ED [Atomu](ok_atom)."
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "bl_jezirko": {
+    "Title": "Jez\u00EDrko",
+    "Type": "p\u016Fvodn\u00ED blok",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Jez\u00EDrko",
+      "Okrsek": "[Loosova Vila](ok_loosova_vila)",
+      "\u010Ctvr\u0165": "[Loosova Vila](ct_loosova_vila)",
+      "\u010C\u00E1st": "[Tr\u00F3ja](ca_troja)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Jez\u00EDrko je b\u00FDval\u00FDm blokem v [Loosov\u011B Vile](ok_loosova_vila). Blok byl spojen se sousedn\u00ED blokem, [Vilou](bl_vila).\r\nZru\u0161en\u00ED bloku bylo sou\u010D\u00E1st\u00ED velk\u00E9ho [p\u0159erozd\u011Blen\u00ED tr\u00F3ji](te_preusporadani_troji)."
+      },
+      {
+        "Title": "P\u016Fvodn\u00ED D\u011Blen\u00ED",
+        "Content": "V bloku byly t\u0159i m\u00EDstnosti. Jmenovit\u011B se jednalo o [Jez\u00EDrko](mi_jezirko), [Pl\u00E1\u017E](mi_plaz) a [Skokansk\u00FD Stav](mi_skokansky_stav)."
+      },
+      {
+        "Title": "Aktu\u00E1ln\u00ED D\u011Blen\u00ED",
+        "Content": "V\u0161echny m\u00EDstnosti p\u016Fvodn\u00EDho bloku jsou dnes sou\u010D\u00E1st\u00ED bloku [Vila](bl_vila)."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "01/07/25: Blok zru\u0161en, nov\u011B sou\u010D\u00E1st\u00ED [Vily](bl_vila)."
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "redirect": "",
+    "tobeedited": false
+  },
+  "mi_holic": {
+    "Title": "Hol\u00ED\u010D",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "SEVERN\u00CD \u010C\u00C1ST",
+      "OKNO S UFEM",
+      "JI\u017DN\u00CD \u010C\u00C1ST",
+      "SCHODY"
+    ],
+    "Bordering_rooms": [
+      "mi_tamtam",
+      "mi_paradox",
+      "mi_hraz",
+      "mi_plac",
+      "mi_ufo"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Hol\u00ED\u010D",
+      "Blok": "[Fujara](bl_fujara)",
+      "Okrsek": "[Gul\u00E1\u0161](ok_gulas)",
+      "\u010Ctvr\u0165": "[Tr\u00F3ja](ct_troja)",
+      "\u010C\u00E1st": "[Tr\u00F3ja](ca_troja)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Hol\u00ED\u010D je podlouhl\u00E1 m\u00EDstnost na [Fuja\u0159e](bl_fujara) spojuj\u00EDc\u00ED [Paradox](mi_paradox) s [Ufem](mi_ufo). Na stran\u00E1ch m\u00EDstnosti jsou tak\u00E9 dve\u0159e ke [Hr\u00E1zi](mi_hraz), na [Plac](mi_plac) a schody do [Tamtamu](mi_tamtam)."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "M\u00EDstnost sd\u00EDl\u00ED n\u00E1zev s m\u011Bstem v Trnavsk\u00E9m kraji. Pro\u010D zrovna tento n\u00E1zev je nejist\u00E9. Jist\u00E9 je v\u0161ak to, \u017Ee spolu s [Tamtamem](mi_tamtam) a [Halu\u0161kami](mi_haluska) dala m\u00EDstnost n\u00E1zev bloku. [Fujara](bl_fujara) je slovensk\u00FD lidov\u00FD dechov\u00FD n\u00E1stroj. V jehom n\u00E1zvem se prom\u00EDt\u00E1 slovensk\u00E1 a hudebn\u00ED t\u00E9matika."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "M\u00EDstnost je dlouh\u00E1, velmi \u00FAzk\u00E1 (1-3 bloky) a je postavena na dvou v\u00FD\u0161kov\u00FDch \u00FArovn\u00EDch. N\u00ED\u017E\u0161\u00ED \u00FArove\u0148 je na severn\u00ED stran\u011B a jedn\u00E1 se o nej\u0161ir\u0161\u00ED \u010D\u00E1st m\u00EDstnosti. Z n\u00ED vede trojice dve\u0159\u00ED a mal\u00E9 schodi\u0161t\u011B na v\u00FD\u0161e polo\u017Eenou ji\u017En\u00ED \u010D\u00E1st m\u00EDstnosti. Tak\u00E9 je zde relativn\u011B vysok\u00FD strop (4.5 bloku) a mal\u00E9 mno\u017Estv\u00ED oken. U schodi\u0161t\u011B na ji\u017En\u00ED \u010D\u00E1st je \u010D\u00E1st st\u011Bny postavena z trapdoor\u016F.\r\nJi\u017En\u00ED \u010D\u00E1st Hol\u00ED\u010De je polo\u017Eena o dva bloky v\u00FD\u0161e. Je charakteristick\u00E1 je\u0161t\u011B vy\u0161\u0161\u00EDmi stropy ne\u017E \u010D\u00E1st severn\u00ED, a to a\u017E 8 blok\u016F, a \u0161\u00ED\u0159kou jen jeden a\u017E dva bloky, p\u0159ipom\u00EDn\u00E1 tedy uli\u010Dku. Uprost\u0159ed uli\u010Dky je m\u00EDstnost roz\u0161\u00ED\u0159ena na neuv\u011B\u0159itel\u00E9 \u010Dty\u0159i bloky, nalevo je zde toti\u017E v\u00FDklenek s oknem a napravo schodi\u0161t\u011B do [Tamtamu](mi_tamtam)."
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": "Okna s [Ufem](mi_ufo) jsou postavena z cel\u00FDch sklen\u011Bn\u00FDch blok\u016F.\r\nNalevo od schodi\u0161t\u011B do [Tamtamu](mi_tamtam) je druh\u00E9 schodi\u0161t\u011B, kter\u00E9 ale nikam nevede."
+      }
+    ],
+    "image_id": 0,
+    "area": 58,
+    "Empty": true,
     "numberOfRooms": 0,
     "redirect": null,
     "tobeedited": false
