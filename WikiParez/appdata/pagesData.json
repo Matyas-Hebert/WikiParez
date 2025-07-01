@@ -14385,7 +14385,9 @@
     "Title": "P\u0159euspo\u0159\u00E1d\u00E1n\u00ED Tr\u00F3ji",
     "Type": "ud\u00E1lost",
     "Images": [],
-    "Image_titles": [],
+    "Image_titles": [
+      "USPO\u0158\u00C1D\u00C1N\u00CD TR\u00D3JI P\u0158ED A PO"
+    ],
     "Bordering_rooms": [],
     "Alternate_names": [],
     "Metadata": {
@@ -14393,6 +14395,10 @@
       "Datum": "01/07/25"
     },
     "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Rozd\u011Blen\u00ED \u010D\u00E1sti [Tr\u00F3ja](ca_troja) \u010D\u00EDm d\u00E1l v\u00EDce nevyhovovalo. Hlavn\u00EDm probl\u00E9mem uspo\u0159\u00E1d\u00E1n\u00ED m\u00EDstnost\u00ED do blok\u016F, okrsk\u016F a \u010D\u00E1st\u00ED byli p\u0159edev\u0161\u00EDm p\u0159\u00EDli\u0161 velk\u00E9 mno\u017Estv\u00ED okrsk\u016F a \u010Dtvrt\u00ED. Proto do\u0161lo k z\u00E1sadn\u00EDmu p\u0159euspo\u0159\u00E1d\u00E1n\u00ED cel\u00E9ho syst\u00E9mu. \r\nPo\u010Det \u010Dtvrt\u00ED klesl z \u0161esti na \u010Dty\u0159i a po\u010Det okrsk\u016F ze dvan\u00E1cti na osm."
+      },
       {
         "Title": "Uspo\u0159\u00E1d\u00E1n\u00ED p\u0159ed",
         "Content": "[Tr\u00F3ja](ca_troja) byla rozd\u011Blena na 6 \u010Dtvrt\u00ED [Labyrint](ct_labyrint), [Loosova Vila](ct_loosova_vila), [Nekone\u010Dno](ct_nekonecno),[Triangl](ct_triangl), [Tr\u00F3ja](ct_troja), [Vietnamsk\u00E1 \u010Ctvr\u0165](ct_vietnamska_ctvrt).\r\n\u010Ctvrti se d\u00E1le d\u011Blily na tyto okrsky:\r\n[Labyrint](ct_labyrint): [Labyrint](ok_labyrint) a [\u0160ne\u010D\u00ED R\u00E1j](ok_sneci_raj).\r\n[Loosova Vila](ct_loosova_vila): [Loosova Vila](ok_loosova_vila) a [Nexus](ok_nexus)\r\n[Nekone\u010Dno](ct_nekonecno): [Nekone\u010Dno](ok_nekonecno) a [Slun\u00ED\u010Dko](ok_slunicko)\r\n[Triangl](ct_triangl): pouze [Triangl](ok_triangl)\r\n[Tr\u00F3ja](ct_troja): [Bubene\u010D](ok_bubenec) a [Tr\u00F3ja](ok_troja)\r\n[Vietnamsk\u00E1 \u010Ctvr\u0165](ct_vietnamska_ctvrt): [Atom](ok_atom), [Preatrium](ok_atrium) a [Vietnamsk\u00E1 \u010Ctvr\u0165](ok_vietnamska_ctvrt)"
@@ -14408,13 +14414,17 @@
       {
         "Title": "Nov\u00E1 Vietnamsk\u00E1 \u010Ctvr\u0165",
         "Content": "Ve [Vietnamsk\u00E9 \u010Ctvrti](ct_vietnamska_ctvrt) je zm\u011Bna minim\u00E1ln\u00ED. Okrsek [Preatrium](ok_preatrium) byl slou\u010Den s okrskem [Atom](ok_atom) v nov\u00FD [Atom](ok_atom). Okrsek [Atom](ok_atom) je slo\u017Een ze dvou blok\u016F [Atomu](bl_atom) a [Preatria](bl_preatrium)."
+      },
+      {
+        "Title": "Fin\u00E1ln\u00ED Verze?",
+        "Content": "Hlavn\u00EDm c\u00EDlem t\u011Bchto zm\u011Bn bylo zaji\u0161t\u011Bn\u00ED vhodn\u011Bj\u0161\u00EDho po\u010Dtu m\u00EDstnost\u00ED v bloc\u00EDch, blok\u016F v okrsc\u00EDch atd.. Toto bylo mo\u017En\u00E9 jen u v\u011Bt\u0161\u00EDch \u010Dtvrt\u00ED \u010D\u00E1sti. Proto u nov\u00E9 \u010Dtvrti [Tr\u00F3ja](ct_troja) bude toto rozd\u011Blen\u00ED pravd\u011Bpodobn\u011B fin\u00E1ln\u00ED. U ostatn\u00EDch, v\u00FDznamn\u011B men\u0161\u00EDch, \u010Dtvrt\u00ED se zcela jist\u011B nejedn\u00E1 o fin\u00E1ln\u00ED rozvr\u017Een\u00ED. P\u0159i p\u0159istav\u011Bn\u00ED po\u010Dtu m\u00EDstnost\u00ED do t\u011Bchto \u010D\u00E1st\u00ED domu bude t\u0159eba znovu p\u0159euspo\u0159\u00E1dat syst\u00E9m okrsk\u016F a blok\u016F."
       }
     ],
     "image_id": 0,
     "area": 0,
     "Empty": false,
     "numberOfRooms": 0,
-    "redirect": "",
+    "redirect": null,
     "tobeedited": false
   },
   "ct_loosova_vila": {
@@ -14753,6 +14763,10 @@
       {
         "Title": "Zaj\u00EDmavosti",
         "Content": "Okna s [Ufem](mi_ufo) jsou postavena z cel\u00FDch sklen\u011Bn\u00FDch blok\u016F.\r\nNalevo od schodi\u0161t\u011B do [Tamtamu](mi_tamtam) je druh\u00E9 schodi\u0161t\u011B, kter\u00E9 ale nikam nevede."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "30/06/25: Nov\u00E9 dve\u0159e a schodi\u0161t\u011B za nimi ke [Hr\u00E1zi](mi_hraz)."
       }
     ],
     "image_id": 0,
