@@ -21,6 +21,10 @@ public class HomeController : Controller
         return View(_wikiService.Last10pages());
     }
 
+    public IActionResult New(){
+        return View("New");
+    }
+
     public IActionResult Privacy()
     {
         return View();

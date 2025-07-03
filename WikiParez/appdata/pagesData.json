@@ -3280,7 +3280,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "19/07/25: P\u0159esunuta ze [St\u0159edu](bl_stred) do [Mezipatra](bl_mezipatro)."
+        "Content": "19/06/25: P\u0159esunuta ze [St\u0159edu](bl_stred) do [Mezipatra](bl_mezipatro)."
       }
     ],
     "image_id": 0,
@@ -10375,6 +10375,10 @@
       {
         "Title": "Zaj\u00EDmavost",
         "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "19/06/25: Od The Bridge byla odd\u011Blena m\u00EDstnost [V\u00FDloha](mi_vyloha)."
       }
     ],
     "image_id": 0,
@@ -14707,7 +14711,7 @@
       },
       {
         "Title": "N\u00E1zev",
-        "Content": "M\u00EDstnost sd\u00EDl\u00ED n\u00E1zev s m\u011Bstem v Trnavsk\u00E9m kraji. Pro\u010D zrovna tento n\u00E1zev je nejist\u00E9. Jist\u00E9 je v\u0161ak to, \u017Ee spolu s [Tamtamem](mi_tamtam) a [Halu\u0161kami](mi_haluska) dala m\u00EDstnost n\u00E1zev bloku. [Fujara](bl_fujara) je slovensk\u00FD lidov\u00FD dechov\u00FD n\u00E1stroj. V jehom n\u00E1zvem se prom\u00EDt\u00E1 slovensk\u00E1 a hudebn\u00ED t\u00E9matika."
+        "Content": "M\u00EDstnost sd\u00EDl\u00ED n\u00E1zev s m\u011Bstem v Trnavsk\u00E9m kraji. Pro\u010D zrovna tento n\u00E1zev je nejist\u00E9. Jist\u00E9 je v\u0161ak to, \u017Ee spolu s [Tamtamem](mi_tamtam) a [Halu\u0161kami](mi_halusky) dala m\u00EDstnost n\u00E1zev bloku. [Fujara](bl_fujara) je slovensk\u00FD lidov\u00FD dechov\u00FD n\u00E1stroj. V jehom n\u00E1zvem se prom\u00EDt\u00E1 slovensk\u00E1 a hudebn\u00ED t\u00E9matika."
       },
       {
         "Title": "Interi\u00E9r",
@@ -15869,6 +15873,97 @@
     "image_id": 0,
     "area": 22,
     "Empty": true,
+    "numberOfRooms": 0,
+    "redirect": null,
+    "tobeedited": false
+  },
+  "ka_mistnosti_s_nazvy_podle_skutecnych_mist": {
+    "Title": "M\u00EDstnosti s n\u00E1zvy podle skute\u010Dn\u00FDch m\u00EDst",
+    "Type": "seznam",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "M\u00EDstnosti s n\u00E1zvy podle skute\u010Dn\u00FDch m\u00EDst"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Abecedn\u00ED seznam m\u00EDstnost\u00ED, kter\u00E9 sd\u00EDl\u00ED n\u00E1zev se skute\u010Dn\u00FDm m\u00EDstem. V tomto seznamu jsou jen m\u00EDstnosti, kter\u00E9 byly pojmenovan\u00E9 podle dan\u00E9ho m\u00EDsta. Ne ty, kter\u00E9 tak byly pojmenov\u00E1n\u00E9 n\u00E1hodn\u011B."
+      },
+      {
+        "Title": "A",
+        "Content": "[A Lucca](mi_a_lucca) je z\u00E1rove\u0148 \u003Ca href=\u0022https://cs.wikipedia.org/wiki/Lucca\u0022\u003Eitalsk\u00E9 m\u011Bsto v Tosk\u00E1nsku.\u003C/a\u003E."
+      },
+      {
+        "Title": "B",
+        "Content": "[Barka](mi_barka) je z\u00E1rove\u0148 i \u003Ca href=\u0022https://cs.wikipedia.org/wiki/Divadlo_Barka\u0022\u003Edivadlo v Kr\u00E1lov\u011B Poli.\u003C/a\u003E\r\n[Bubene\u010D](mi_bubenec) je z\u00E1rove\u0148 i \u003Ca href=\u0022https://cs.wikipedia.org/wiki/Bubene%C4%8D\u0022\u003E\u010D\u00E1st hlavn\u00EDho m\u011Bsta Prahy.\u003C/a\u003E"
+      },
+      {
+        "Title": "C",
+        "Content": "[Coltano](mi_coltano) je z\u00E1rove\u0148 i \u003Ca href=\u0022https://en.wikipedia.org/wiki/Coltano\u0022\u003ETosk\u00E1nsk\u00E1 vesnice.\u003C/a\u003E"
+      },
+      {
+        "Title": "D",
+        "Content": "[Dobr\u00E1 Voda](mi_dobra_voda) je z\u00E1rove\u0148 i \u003Ca href=\u0022https://cs.wikipedia.org/wiki/Dobr%C3%A1_Voda_(okres_%C5%BD%C4%8F%C3%A1r_nad_S%C3%A1zavou)\u0022\u003Eobec na Vyso\u010Din\u011B.\u003C/a\u003E\r\n[Doln\u00ED N\u00E1dra\u017E\u00ED](mi_dolni_nadrazi\u00FA je z\u00E1rove\u0148 i \u003Ca href=\u0022https://cs.wikipedia.org/wiki/Brno_doln%C3%AD_n%C3%A1dra%C5%BE%C3%AD\u0022\u003Ebrn\u011Bnsk\u00E9 n\u00E1dra\u017E\u00ED.\u003C/a\u003E"
+      },
+      {
+        "Title": "F",
+        "Content": "[Formosa](mi_formosa) je z\u00E1rove\u0148 i \u003Ca href=\u0022https://cs.wikipedia.org/wiki/Formosa_(Goi%C3%A1s)\u0022\u003Ebrazilsk\u00E9 m\u011Bsto ve st\u00E1t\u011B Goias.\u003C/a\u003E"
+      },
+      {
+        "Title": "G",
+        "Content": "[Goiania](mi_goiania) je z\u00E1rove\u0148 i \u003Ca href=\u0022https://cs.wikipedia.org/wiki/Goi%C3%A2nia\u0022\u003Ebrazilsk\u00E9 velkom\u011Bsto.\u003C/a\u003E\r\n[Goiatuba](mi_goiatuba) je z\u00E1rove\u0148 i \u003Ca href=\u0022https://en.wikipedia.org/wiki/Goiatuba\u0022\u003Ebrazilsk\u00E1 obec.\u003C/a\u003E"
+      },
+      {
+        "Title": "H",
+        "Content": "[Hol\u00ED\u010D](mi_holic) je z\u00E1rove\u0148 i \u003Ca href=\u0022https://cs.wikipedia.org/wiki/Hol%C3%AD%C4%8D\u0022\u003Em\u011Bsto v Trnavsk\u00E9m kraji.\u003C/a\u003E\r\n[Horn\u00ED N\u00E1dra\u017E\u00ED](mi_horni_nadrazi) je z\u00E1rove\u0148 i \u003Ca href=\u0022https://cs.wikipedia.org/wiki/K%C5%99enovice_(okres_Vy%C5%A1kov)\u0022\u003En\u00E1dra\u017E\u00ED v K\u0159enovic\u00EDch.\u003C/a\u003E\r\n\u003Ca href=\u0022https://cs.wikipedia.org/wiki/Kino_Scala\u0022\u003E\u003C/a\u003E\r\n\u003Ca href=\u0022https://en.wikipedia.org/wiki/Ner%C3%B3polis\u0022\u003E\u003C/a\u003E"
+      },
+      {
+        "Title": "K",
+        "Content": "[Kapit\u00E1na Jaro\u0161e](mi_kapitana_jarose) je z\u00E1rove\u0148 i \u003Ca href=\u0022https://cs.wikipedia.org/wiki/Gymn%C3%A1zium_Brno,_t%C5%99%C3%ADda_Kapit%C3%A1na_Jaro%C5%A1e\u0022\u003EGymn\u00E1zium a T\u0159\u00EDda v Brn\u011B.\u003C/a\u003E\r\n[Kino Scala](mi_kino_scala) je z\u00E1rove\u0148 i \u003Ca href=\u0022https://cs.wikipedia.org/wiki/Kino_Scala\u0022\u003Ebrn\u011Bnsk\u00E9 kino.\u003C/a\u003E"
+      },
+      {
+        "Title": "L",
+        "Content": "[La Vettola](mi_la_vettola) je z\u00E1rove\u0148 i italsk\u00E1 obec.\r\n[Loosova Vila](mi_loosova_vila) m\u016F\u017Ee odkazovat na \u003Ca href=\u0022https://cs.wikipedia.org/wiki/Vila_Viktora_Bauera\u0022\u003EBauerovu Vilu postavenou architektem Loosem.\u003C/a\u003E\r\n"
+      },
+      {
+        "Title": "M",
+        "Content": "[Mosti\u0161t\u011B](mi_mostiste) je z\u00E1rove\u0148 i \u003Ca href=\u0022https://cs.wikipedia.org/wiki/Mosti%C5%A1t%C4%9B_(Velk%C3%A9_Mezi%C5%99%C3%AD%C4%8D%C3%AD)\u0022\u003Eobec na Vyso\u010Din\u011B.\u003C/a\u003E"
+      },
+      {
+        "Title": "N",
+        "Content": "[Neropolis](mi_neropolis) je z\u00E1rove\u0148 i \u003Ca href=\u0022https://en.wikipedia.org/wiki/Ner%C3%B3polis\u0022\u003Ebrazilsk\u00E9 m\u011Bsto.\u003C/a\u003E"
+      },
+      {
+        "Title": "O",
+        "Content": "[Oranjestad](mi_oranjestad) je z\u00E1rove\u0148 i \u003Ca href=\u0022https://cs.wikipedia.org/wiki/Oranjestad\u0022\u003Ehlavn\u00ED m\u011Bsto Aruby.\u003C/a\u003E\r\n[Orizona](mi_orizona) je z\u00E1rove\u0148 i \u003Ca href=\u0022https://en.wikipedia.org/wiki/Orizona\u0022\u003Ebrazilsk\u00E1 obec.\u003C/a\u003E"
+      },
+      {
+        "Title": "P",
+        "Content": "[Pirenopolis](mi_pirenopolis) je z\u00E1rove\u0148 i \u003Ca href=\u0022https://en.wikipedia.org/wiki/Piren%C3%B3polis\u0022\u003Em\u011Bsto v brazilsk\u00E9m st\u00E1t\u011B Goias.\u003C/a\u003E\r\n[Posse](mi_posse) je z\u00E1rove\u0148 i \u003Ca href=\u0022https://en.wikipedia.org/wiki/Posse,_Goi%C3%A1s\u0022\u003Ebrazilsk\u00E1 obec.\u003C/a\u003E\r\n[Preddvor](mi_preddvor) je z\u00E1rove\u0148 i \u003Ca href=\u0022https://cs.wikipedia.org/wiki/Ob%C4%8Dina_Preddvor\u0022\u003Eslovinsk\u00E1 ob\u010Dina.\u003C/a\u003E"
+      },
+      {
+        "Title": "S",
+        "Content": "[Svat\u00FD V\u00FDt](mi_svaty_vyt) odkazuje na \u003Ca href=\u0022https://cs.wikipedia.org/wiki/Katedr%C3%A1la_svat%C3%A9ho_V%C3%ADta,_V%C3%A1clava_a_Vojt%C4%9Bcha\u0022\u003Ekatedr\u00E1lu na Pra\u017Esk\u00E9m Hrad\u011B.\u003C/a\u003E"
+      },
+      {
+        "Title": "T",
+        "Content": "[Tirrenia](mi_tirrenia) je z\u00E1rove\u0148 \u003Ca href=\u0022https://en.wikipedia.org/wiki/Tirrenia\u0022\u003Eobec na pob\u0159e\u017E\u00ED Ligursk\u00E9ho mo\u0159e.\u003C/a\u003E\r\n[Trója](mi_troja) je zároveň i <a href=\u0022https://cs.wikipedia.org/wiki/Tr%C3%B3ja\u0022\u003Ebájně město.\u003C/a\u003E"
+      },
+      {
+        "Title": "U",
+        "Content": "[Ulice Schodov\u00E1](mi_ulice_schodova) je z\u00E1rove\u0148 i \u003Ca href=\u0022https://encyklopedie.brna.cz/home-mmb/?acc=profil-ulice\u0026load=4943\u0022\u003Ebrn\u011Bnsk\u00E1 ulice.\u003C/a\u003E"
+      },
+      {
+        "Title": "V",
+        "Content": "[V\u00EDde\u0148](mi_viden) je z\u00E1rove\u0148 \u003Ca href=\u0022https://cs.wikipedia.org/wiki/V%C3%ADde%C5%88\u0022\u003Ehlavn\u00ED m\u011Bsto Rakouska\u003C/a\u003E a \u003Ca href=\u0022https://cs.wikipedia.org/wiki/V%C3%ADde%C5%88_(okres_%C5%BD%C4%8F%C3%A1r_nad_S%C3%A1zavou)\u0022\u003Eobec na Vyso\u010Din\u011B.\u003C/a\u003E"
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": false,
     "numberOfRooms": 0,
     "redirect": null,
     "tobeedited": false
