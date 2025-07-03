@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=http://127.0.0.1:5252/351
+HostUrl=http://127.0.0.1:5252/Home/Export

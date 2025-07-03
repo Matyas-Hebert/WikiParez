@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "oyJ/Wt8+zAWr5IaYX0OrKIVNz3O4M/UG8Ns6Wbm2fRU=",
+  "Hash": "EDf7B+KiVFp+2i+BDrxpUfKjkBx0H1OG+TIUFnfo7c8=",
   "Source": "WikiParez",
   "BasePath": "_content/WikiParez",
   "Mode": "Default",
@@ -1003,6 +1003,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/Images/mi_klub2.png"
+    },
+    {
+      "Identity": "/root/wikiparez/WikiParez/wwwroot/Images/mi_la1.png",
+      "SourceId": "WikiParez",
+      "SourceType": "Discovered",
+      "ContentRoot": "/root/wikiparez/WikiParez/wwwroot/",
+      "BasePath": "_content/WikiParez",
+      "RelativePath": "Images/mi_la1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Images/mi_la1.png"
     },
     {
       "Identity": "/root/wikiparez/WikiParez/wwwroot/Images/mi_lavicka1.png",

@@ -193,6 +193,10 @@
       "PackagePath": "staticwebassets/Images/mi_klub2.png"
     },
     {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_la1.png",
+      "PackagePath": "staticwebassets/Images/mi_la1.png"
+    },
+    {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_lavicka1.png",
       "PackagePath": "staticwebassets/Images/mi_lavicka1.png"
     },
