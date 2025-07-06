@@ -170,10 +170,12 @@ public class WikiService
         var lengths = new Dictionary<string, int>();
         int total = 0;
         int articles = 0;
+        int area = 0;
         foreach (var key in dictionary.Keys)
         {
             if (!key.StartsWith("mm"))
             {
+                area += dictionary[key].area;
                 articles++;
                 foreach (var section in dictionary[key].Sections)
                 {
@@ -214,6 +216,7 @@ public class WikiService
                 }
             }
         }
+        Console.WriteLine("area:" + area);
 
         List<string> dictKeys = dictionary.Keys.ToList();
 
