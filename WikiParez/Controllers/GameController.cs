@@ -85,6 +85,7 @@ namespace WikiParez.Controllers
             ViewBag.Start = room1;
             ViewBag.End = room2;
             ViewBag.ShortestPath = _wikiService.FindPath(room1, room2);
+            Console.WriteLine(_wikiService.FindPath(room1, room2));
 
             return View("Parezle", _wikiService.GetParezlePages());
         }

@@ -180,8 +180,10 @@
     var hints = 0;
     var undos = 0;
     var hintenabled = false;
+    var path = @Html.Raw(Json.Serialize(ViewBag.ShortestPath));
     
     function undo() {
+        console.log(path);
         var board = document.getElementById('guessed');
         if (board.children.length > 1) {
             board.removeChild(board.lastElementChild);
@@ -225,8 +227,8 @@
             filterRooms();
             updateSubdivs(arg);
             if (rooms[arg].bordering_rooms.includes(goal)){
-                console.log("WIN!!!!");
                 document.getElementById("middle-rectangle")?.remove();
+                win();
             }
         }
         else{
@@ -236,6 +238,102 @@
             var mistakescount = document.getElementById("mistake-counter");
             mistakescount.innerText = mistakes;
         }
+    }
+    
+    function win(){
+        console.log("WIN!!!!");
+        var floatingDiv = document.createElement('div');
+        floatingDiv.style.position = 'fixed';
+        floatingDiv.style.top = '50%';
+        floatingDiv.style.left = '50%';
+        floatingDiv.style.transform = 'translate(-50%, -50%)';
+        floatingDiv.style.background = 'rgba(255,255,255,0.98)';
+        floatingDiv.style.border = '4px solid #1976d2';
+        floatingDiv.style.borderRadius = '24px';
+        floatingDiv.style.boxShadow = '0 8px 32px rgba(0,0,0,0.25)';
+        floatingDiv.style.zIndex = '2000';
+        floatingDiv.style.padding = '60px 80px';
+        floatingDiv.style.fontSize = '2.5rem';
+        floatingDiv.style.fontWeight = 'bold';
+        floatingDiv.style.textAlign = 'center';
+        floatingDiv.innerText = 'Výhra';
+
+        var guessesLabel = document.createElement('div');
+        guessesLabel.style.fontSize = '1.3rem';
+        guessesLabel.style.marginTop = '30px';
+        guessesLabel.innerText = '📝' + guesses.length;
+        floatingDiv.appendChild(guessesLabel);
+
+        var mistakesLabel = document.createElement('div');
+        mistakesLabel.style.fontSize = '1.1rem';
+        mistakesLabel.innerText = '❌' + mistakes;
+        floatingDiv.appendChild(mistakesLabel);
+
+        var hintsLabel = document.createElement('div');
+        hintsLabel.style.fontSize = '1.1rem';
+        hintsLabel.innerText = '❓' + hints;
+        floatingDiv.appendChild(hintsLabel);
+
+        var undosLabel = document.createElement('div');
+        undosLabel.style.fontSize = '1.1rem';
+        undosLabel.innerText = '↩️' + undos;
+        floatingDiv.appendChild(undosLabel);
+
+        floatingDiv.appendChild(document.createElement('br'));
+
+        var yourguesses = "";
+        for(let room in guesses){
+            yourguesses += rooms[guesses[room]].title + " > ";
+        }
+        yourguesses += rooms[goal].title;
+
+        var bestguesses = "";
+        for (let i = 0; i < path.length; i++) {
+            bestguesses += rooms[path[i]].title + " > ";
+        }
+        bestguesses += rooms[goal].title;
+
+        var guessesLabel = document.createElement('div');
+        guessesLabel.style.fontSize = '1.1rem';
+        guessesLabel.style.background = 'linear-gradient(90deg, #ff5858 0%, #f857a6 100%)';
+        guessesLabel.style.color = 'white';
+        guessesLabel.style.borderRadius = '8px';
+        guessesLabel.style.padding = '8px 16px';
+        guessesLabel.innerText = "TVOJE ŘEŠENÍ" + "\n" + yourguesses + "\n" + "\n" + "SPRÁVNÉ ŘEŠENÍ" + "\n" + bestguesses;
+        floatingDiv.appendChild(guessesLabel);
+
+        var copyBtn = document.createElement('button');
+        copyBtn.innerText = 'Kopírovat';
+        copyBtn.style.marginTop = '20px';
+        copyBtn.style.fontSize = '1.2rem';
+        copyBtn.style.padding = '8px 24px';
+        copyBtn.style.background = '#43a047';
+        copyBtn.style.color = 'white';
+        copyBtn.style.border = 'none';
+        copyBtn.style.borderRadius = '8px';
+        copyBtn.style.cursor = 'pointer';
+        copyBtn.onclick = function() {
+            navigator.clipboard.writeText("testing");
+        };
+        floatingDiv.appendChild(document.createElement('br'));
+        floatingDiv.appendChild(copyBtn);
+
+        var closeBtn = document.createElement('button');
+        closeBtn.innerText = 'Zavřít';
+        closeBtn.style.marginTop = '40px';
+        closeBtn.style.fontSize = '1.5rem';
+        closeBtn.style.padding = '10px 30px';
+        closeBtn.style.background = '#1976d2';
+        closeBtn.style.color = 'white';
+        closeBtn.style.border = 'none';
+        closeBtn.style.borderRadius = '8px';
+        closeBtn.style.cursor = 'pointer';
+        closeBtn.onclick = function() {
+            floatingDiv.remove();
+        };
+        floatingDiv.appendChild(document.createElement('br'));
+        floatingDiv.appendChild(closeBtn);
+        document.getElementById('game-board').appendChild(floatingDiv);
     }
 
     function updateSubdivs(last) {
