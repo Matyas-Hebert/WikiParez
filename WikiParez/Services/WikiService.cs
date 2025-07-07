@@ -17,7 +17,6 @@ public class WikiService
     private Dictionary<string, WikiPage> _pages;
     private Dictionary<string, WikiPage> _onlyroomspages;
     private Dictionary<string, SimplifiedWikiPage> _simplifiedPages;
-    private Dictionary<string, ParezlePage> _parezlePages;
 
     public WikiService(IHostEnvironment env)
     {
@@ -25,7 +24,6 @@ public class WikiService
         _pages = LoadPages();
         _onlyroomspages = LoadOnlyRoomPages();
         _simplifiedPages = GetSimplifiedDict();
-        _parezlePages = GetParezlePages();
     }
 
     public Dictionary<string, ParezlePage> GetParezlePages()
@@ -71,7 +69,9 @@ public class WikiService
 
     public int GetParezleSeed()
     {
-        return DateTime.Today.Date.Year * 366 + DateTime.Today.Date.Day;
+        var seed = DateTime.Today.Date.Year * 366 + DateTime.Today.Date.Day;
+        Console.WriteLine(seed);
+        return seed;
     }
 
     private List<string> GetBordering(string slug)
