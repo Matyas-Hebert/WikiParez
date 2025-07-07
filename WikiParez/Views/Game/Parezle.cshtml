@@ -78,17 +78,37 @@
         font-size: clamp(1rem, 4vw, 2rem);
         line-height: 1;
     }
-    .wrongsubdiv {
-        background-color: rgb(242, 80, 80); 
+    .subdiv-container {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        margin-top: 20px;
     }
+
+    .wrongsubdiv, .correctsubdiv {
+        flex: 1 1 120px; /* Flexible, shrinks to 120px */
+        color: white;
+        border-radius: 8px;
+        height: 40px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: large;
+        word-break: break-word; /* Helps if the text is too long */
+    }
+
+    .wrongsubdiv {
+        background-color: rgb(242, 80, 80);
+    }
+
     .correctsubdiv {
-        background-color: rgb(17, 233, 17); 
+        background-color: rgb(17, 233, 17);
     }
 </style>
 
 <div class="game-board" id="game-board">
     <div style="display: flex; height: 100%; padding: 20px;">
-        <div style="padding: 50px ; flex: 3; display: flex; flex-direction: column; justify-content: flex-start; gap: 10px;">
+        <div style="padding-top: 50px; padding-right: 30px; flex: 1; display: flex; flex-direction: column; justify-content: flex-start; gap: 10px;">
             <div id="guessed">
                 <div class="room-rectangle">
                     @Model[@ViewBag.Start].Title
@@ -109,8 +129,8 @@
                 <div id="room-dropdown" class="dropdown-menu"></div>
             </div>
         </div>
-        <div>
-            <div style="flex: 1; display: flex; align-items: flex-start; justify-content: flex-end; padding: 50px;">
+        <div style="padding-top: 50px;">
+            <div style="flex: 1; display: flex; align-items: flex-start; justify-content: flex-end;">
                 <div class="counter-container">
                     <span class="icon">❌</span>
                     <span class="number" id="mistake-counter">0</span>
@@ -124,25 +144,25 @@
                     <span class="number" id="undo-counter">0</span>
                 </div>
             </div>
-            <div style="display: gap: 10px; margin-top: 20px; margin: 0 auto;">
-                <div id="blok" class="wrongsubdiv" style="color: white; border-radius: 8px; height: 40px; display: flex; align-items: center; justify-content: center; font-size: large;">
+            <div class="subdiv-container">
+                <div id="blok" class="wrongsubdiv">
                     @Model["mi_kroky"].Blok
                 </div>
-                <div id="okrsek" class="wrongsubdiv" style="color: white; border-radius: 8px; height: 40px; display: flex; align-items: center; justify-content: center; font-size: large;">
+                <div id="okrsek" class="wrongsubdiv">
                     @Model["mi_kroky"].Okrsek
                 </div>
-                <div id="ctvrt" class="wrongsubdiv" style="color: white; border-radius: 8px; height: 40px; display: flex; align-items: center; justify-content: center; font-size: large;">
+                <div id="ctvrt" class="wrongsubdiv">
                     @Model["mi_kroky"].Ctvrt
                 </div>
-                <div id="cast" class="wrongsubdiv" style="color: white; border-radius: 8px; height: 40px; display: flex; align-items: center; justify-content: center; font-size: large;">
+                <div id="cast" class="wrongsubdiv">
                     @Model["mi_kroky"].Cast
                 </div>
             </div>
-            <div style="display: gap: 10px; margin-top: 20px; margin: 0 auto;">
-                <button style="height: 50px; width: 50%; padding: 0 20px; margin-right: 10px; background-color: #1976d2; color: white; border: none; border-radius: 8px; font-size: large; font-weight: 500; cursor: pointer;">
+            <div style="display: gap: 10px; margin-top: 20px;">
+                <button style="height: 50px; min-width: 150px; padding: 0 20px; margin-right: 10px; background-color: #1976d2; color: white; border: none; border-radius: 8px; font-size: large; font-weight: 500; cursor: pointer;">
                     ZPĚT
                 </button>
-                <button style="height: 50px; width: 50%; padding: 0 20px; background-color: #43a047; color: white; border: none; border-radius: 8px; font-size: large; font-weight: 500; cursor: pointer;">
+                <button style="height: 50px; min-width: 150px; padding: 0 20px; background-color: #43a047; color: white; border: none; border-radius: 8px; font-size: large; font-weight: 500; cursor: pointer;">
                     NÁPOVĚDA
                 </button>
             </div>
