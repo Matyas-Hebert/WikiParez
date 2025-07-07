@@ -159,10 +159,10 @@
                 </div>
             </div>
             <div style="display: gap: 10px; margin-top: 20px;">
-                <button style="height: 50px; min-width: 150px; padding: 0 20px; margin-right: 10px; background-color: #1976d2; color: white; border: none; border-radius: 8px; font-size: large; font-weight: 500; cursor: pointer;">
+                <button onclick="undo()" style="height: 50px; min-width: 150px; padding: 0 20px; margin-right: 10px; background-color: #1976d2; color: white; border: none; border-radius: 8px; font-size: large; font-weight: 500; cursor: pointer;">
                     ZPĚT
                 </button>
-                <button style="height: 50px; min-width: 150px; padding: 0 20px; background-color: #43a047; color: white; border: none; border-radius: 8px; font-size: large; font-weight: 500; cursor: pointer;">
+                <button onclick="hint()" style="height: 50px; min-width: 150px; padding: 0 20px; background-color: #43a047; color: white; border: none; border-radius: 8px; font-size: large; font-weight: 500; cursor: pointer;">
                     NÁPOVĚDA
                 </button>
             </div>
@@ -177,7 +177,34 @@
     var goal = "@ViewBag.End";
     var selectedKey = "";
     var mistakes = 0;
+    var hints = 0;
+    var undos = 0;
+    var hintenabled = false;
     
+    function undo() {
+        var board = document.getElementById('guessed');
+        if (board.children.length > 1) {
+            board.removeChild(board.lastElementChild);
+            guesses.pop();
+            alreadyguessed = [guesses[guesses.length - 1]];
+            updateSubdivs(guesses[guesses.length - 1]);
+            undos++;
+            document.getElementById("undo-counter").innerText = undos;
+            hintenabled = false;
+            filterRooms();
+        }
+    }
+
+    function hint() {
+        if (hintenabled == true){
+            return;
+        }
+        hintenabled = true;
+        hints++;
+        var hintcount = document.getElementById("hint-counter");
+        hintcount.innerText = hints;
+    }
+
     function guess() {
         var arg = selectedKey;
         if (!(arg in rooms)) {
@@ -194,6 +221,7 @@
             alreadyguessed = [arg];
             var input = document.getElementById("guess-input");
             input.value = "";
+            hintenabled = false;
             filterRooms();
             updateSubdivs(arg);
             if (rooms[arg].bordering_rooms.includes(goal)){
@@ -243,8 +271,9 @@
             .replace(/[\s\-\,\.]/g, '')
             .normalize('NFD').replace(/[\u0300-\u036f]/g, '');
         var dropdown = document.getElementById('room-dropdown');
+        var lastGuess = guesses[guesses.length - 1];
         dropdown.innerHTML = '';
-        if (normalized.length === 0) {
+        if (normalized.length === 0 && !hintenabled) {
             return;
         }
         for (let key in rooms) {
@@ -253,12 +282,14 @@
                 .replace(/[\s\-\,\.]/g, '')
                 .normalize('NFD').replace(/[\u0300-\u036f]/g, '');
             if (normalizedTitle.startsWith(normalized) && !alreadyguessed.includes(key)) { 
-                var newDiv = document.createElement('div');
-                newDiv.onclick = function() { choose(key); };
-                newDiv.textContent = title;
-                newDiv.value = key;
-                newDiv.className = 'dropdown-item';
-                dropdown.appendChild(newDiv);
+                if(!hintenabled || hintenabled && rooms[lastGuess].bordering_rooms.includes(key)){
+                    var newDiv = document.createElement('div');
+                    newDiv.onclick = function() { choose(key); };
+                    newDiv.textContent = title;
+                    newDiv.value = key;
+                    newDiv.className = 'dropdown-item';
+                    dropdown.appendChild(newDiv);
+                }
             }
         }
     }
