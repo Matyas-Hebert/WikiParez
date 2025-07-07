@@ -69,8 +69,10 @@ public class WikiService
 
     public int GetParezleSeed()
     {
-        var seed = DateTime.Today.Date.Year * 366 + DateTime.Today.Date.Day;
-        Console.WriteLine(seed);
+        var utcNow = DateTime.UtcNow;
+        var pragueTimeZone = TimeZoneInfo.FindSystemTimeZoneById("Europe/Prague");
+        var pragueTime = TimeZoneInfo.ConvertTimeFromUtc(utcNow, pragueTimeZone);
+        var seed = pragueTime.Year * 366 + pragueTime.DayOfYear;
         return seed;
     }
 
