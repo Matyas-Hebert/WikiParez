@@ -30,10 +30,6 @@ public class WikiService
 
     public Dictionary<string, ParezlePage> GetParezlePages()
     {
-        if (_parezlePages != null)
-        {
-            return _parezlePages;
-        }
         var pages = new Dictionary<string, ParezlePage>();
         foreach (var key in _onlyroomspages.Keys)
         {

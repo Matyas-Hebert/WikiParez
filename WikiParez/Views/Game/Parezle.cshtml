@@ -146,16 +146,16 @@
             </div>
             <div class="subdiv-container">
                 <div id="blok" class="wrongsubdiv">
-                    @Model["mi_kroky"].Blok
+                    @Model[@ViewBag.Start].Blok
                 </div>
                 <div id="okrsek" class="wrongsubdiv">
-                    @Model["mi_kroky"].Okrsek
+                    @Model[@ViewBag.Start].Okrsek
                 </div>
                 <div id="ctvrt" class="wrongsubdiv">
-                    @Model["mi_kroky"].Ctvrt
+                    @Model[@ViewBag.Start].Ctvrt
                 </div>
                 <div id="cast" class="wrongsubdiv">
-                    @Model["mi_kroky"].Cast
+                    @Model[@ViewBag.Start].Cast
                 </div>
             </div>
             <div style="display: gap: 10px; margin-top: 20px;">
@@ -205,6 +205,7 @@
         hints++;
         var hintcount = document.getElementById("hint-counter");
         hintcount.innerText = hints;
+        filterRooms();
     }
 
     function guess() {
@@ -241,7 +242,6 @@
     }
     
     function win(){
-        console.log("WIN!!!!");
         var floatingDiv = document.createElement('div');
         floatingDiv.style.position = 'fixed';
         floatingDiv.style.top = '50%';
@@ -288,10 +288,9 @@
         yourguesses += rooms[goal].title;
 
         var bestguesses = "";
-        for (let i = 0; i < path.length; i++) {
+        for (let i = path.length-1; i >= 0; i--) {
             bestguesses += rooms[path[i]].title + " > ";
         }
-        bestguesses += rooms[goal].title;
 
         var guessesLabel = document.createElement('div');
         guessesLabel.style.fontSize = '1.1rem';
@@ -301,6 +300,8 @@
         guessesLabel.style.padding = '8px 16px';
         guessesLabel.innerText = "TVOJE ŘEŠENÍ" + "\n" + yourguesses + "\n" + "\n" + "SPRÁVNÉ ŘEŠENÍ" + "\n" + bestguesses;
         floatingDiv.appendChild(guessesLabel);
+
+        var score = (path.length/(guesses.length+1+mistakes*0.5+hints*2.5+undos*0.5))*100;
 
         var copyBtn = document.createElement('button');
         copyBtn.innerText = 'Kopírovat';
@@ -313,7 +314,7 @@
         copyBtn.style.borderRadius = '8px';
         copyBtn.style.cursor = 'pointer';
         copyBtn.onclick = function() {
-            navigator.clipboard.writeText("testing");
+            navigator.clipboard.writeText("Kroky: ||" + guesses.length + "||\nChyby: ||" + mistakes + "||\nNápovědy: ||" + hints + "||\nZpět: ||" + undos + "||\nCesta: ||" + yourguesses + "||\nScore: ||" + score + "||\nPlay on: https://parezwiki.onrender.com/Game/Parezle");
         };
         floatingDiv.appendChild(document.createElement('br'));
         floatingDiv.appendChild(copyBtn);
@@ -362,6 +363,10 @@
             cast.className = "correctsubdiv";
         }
     }
+
+    document.addEventListener("DOMContentLoaded", function() {
+        updateSubdivs("@ViewBag.Start");
+    });
 
     function filterRooms() {
         arg = document.getElementById('guess-input').value;
