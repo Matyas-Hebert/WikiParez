@@ -70,6 +70,25 @@ namespace WikiParez.Controllers
             return View("HigherLower", pages);
         }
 
+        public IActionResult Parezle()
+        {
+            var seed = _wikiService.GetParezleSeed();
+            var random = new Random(seed);
+
+            var room1 = _wikiService.GetRoomSlugByID(random.Next(0, _wikiService.GetNumberOfRooms()-1));
+            var room2 = _wikiService.GetRoomSlugByID(random.Next(0, _wikiService.GetNumberOfRooms()-1));
+            while (room1 == room2)
+            {
+                room2 = _wikiService.GetRoomSlugByID(random.Next(0, _wikiService.GetNumberOfRooms()-1));
+            }
+
+            ViewBag.Start = room1;
+            ViewBag.End = room2;
+            ViewBag.ShortestPath = _wikiService.FindPath(room1, room2);
+
+            return View("Parezle", _wikiService.GetParezlePages());
+        }
+
         [HttpPost]
         public IActionResult ChooseHigherLower(string slug1, string slug2, int highScore, int score, int roomToChange, int action){
             var area1 = _wikiService.GetPageBySlug(slug1).area;

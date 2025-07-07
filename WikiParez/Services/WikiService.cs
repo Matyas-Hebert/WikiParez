@@ -8,20 +8,138 @@ using System.Text.RegularExpressions;
 using Microsoft.Extensions.Hosting;
 using System.Collections.Specialized;
 using System.Runtime.InteropServices;
+using Microsoft.AspNetCore.Components.Endpoints;
+using Microsoft.AspNetCore.Mvc.Filters;
 
 public class WikiService
 {
     private readonly string _path;
     private Dictionary<string, WikiPage> _pages;
+    private Dictionary<string, WikiPage> _onlyroomspages;
+    private Dictionary<string, SimplifiedWikiPage> _simplifiedPages;
+    private Dictionary<string, ParezlePage> _parezlePages;
 
     public WikiService(IHostEnvironment env)
     {
         _path = Path.Combine(env.ContentRootPath, "appdata", "pagesData.json");
         _pages = LoadPages();
+        _onlyroomspages = LoadOnlyRoomPages();
+        _simplifiedPages = GetSimplifiedDict();
+        _parezlePages = GetParezlePages();
+    }
+
+    public Dictionary<string, ParezlePage> GetParezlePages()
+    {
+        if (_parezlePages != null)
+        {
+            return _parezlePages;
+        }
+        var pages = new Dictionary<string, ParezlePage>();
+        foreach (var key in _onlyroomspages.Keys)
+        {
+            pages.Add(key, new ParezlePage
+            {
+                Title = _onlyroomspages[key].Title,
+                Bordering_rooms = _onlyroomspages[key].Bordering_rooms,
+                Blok = GetNameFromLink(_onlyroomspages[key].Metadata["Blok"]),
+                Okrsek = GetNameFromLink(_onlyroomspages[key].Metadata["Okrsek"]),
+                Ctvrt = GetNameFromLink(_onlyroomspages[key].Metadata["Čtvrť"]),
+                Cast = GetNameFromLink(_onlyroomspages[key].Metadata["Část"])
+            });
+        }
+        return pages;
+    }
+
+    private string GetNameFromLink(string link)
+    {
+        var match = Regex.Match(link, @"\[(.*?)\]\((.*?)\)");
+        if (match.Success)
+        {
+            return match.Groups[1].Value;
+        }
+        return link;
+    }
+
+    public Dictionary<string, WikiPage> LoadOnlyRoomPages()
+    {
+        Dictionary<string, WikiPage> onlyroompages = new Dictionary<string, WikiPage>();
+        foreach (var key in _pages.Keys)
+        {
+            if (_pages[key].Type == "místnost" && key.StartsWith("mi"))
+            {
+                onlyroompages.Add(key, _pages[key]);
+            }
+        }
+        return onlyroompages;
+    }
+
+    public int GetParezleSeed()
+    {
+        return DateTime.Today.Date.Year * 366 + DateTime.Today.Date.Day;
+    }
+
+    private List<string> GetBordering(string slug)
+    {
+        if (_pages == null || !_pages.ContainsKey(slug))
+            return new List<string>();
+
+        var page = _pages[slug];
+        return page.Bordering_rooms;
+    }
+
+    public List<string> FindPath(string from, string to)
+    {
+        if (from == "mi_listy" || to == "mi_listy" || to == "mi_svatyne")
+        {
+            return new List<string>();
+        }
+
+        Queue<string> toexplore = new Queue<string>();
+        HashSet<string> visited = new HashSet<string>();
+        Dictionary<string, string?> previous = new Dictionary<string, string?>();
+
+        previous.Add(from, null);
+        toexplore.Enqueue(from);
+
+        while (toexplore.Count > 0)
+        {
+            string room = toexplore.Dequeue();
+            if (!visited.Contains(room))
+            {
+                if (room == to)
+                {
+                    List<string> path = new List<string>();
+                    path.Add(to);
+                    var backtrack = room;
+                    while (previous[backtrack] != null)
+                    {
+                        backtrack = previous[backtrack];
+                        path.Add(backtrack);
+                    }
+                    return path;
+                }
+                var bordering = GetBordering(room);
+                foreach (var borderingroom in bordering)
+                {
+                    if (!previous.ContainsKey(borderingroom))
+                    {
+                        toexplore.Enqueue(borderingroom);
+                        previous.Add(borderingroom, room);
+                    }
+                }
+                visited.Add(room);
+            }
+        }
+
+        return new List<string>();
     }
 
     public Dictionary<string, SimplifiedWikiPage> GetSimplifiedDict()
     {
+        if (_simplifiedPages != null)
+        {
+            return _simplifiedPages;
+        }
         var dict = new Dictionary<string, SimplifiedWikiPage>();
         foreach (var key in _pages.Keys)
         {
@@ -120,17 +238,24 @@ public class WikiService
         return randomKey;
     }
 
-    public string? GetRandomRoomSlug(bool canBeEmpty){
-        if (_pages == null || _pages.Count == 0)
-            return null;
-
-        var keys = new List<string>(_pages.Keys);
+    public string GetRandomRoomSlug(bool canBeEmpty){
+        var keys = new List<string>(_onlyroomspages.Keys);
         var random = new Random();
         var randomKey = keys[random.Next(keys.Count)];
-        while (!randomKey.StartsWith("mi") || (_pages[randomKey].Empty && !canBeEmpty) || (_pages[randomKey].redirect != "" && _pages[randomKey].redirect != null)){
+        while (!randomKey.StartsWith("mi") || (_onlyroomspages[randomKey].Empty && !canBeEmpty) || (_onlyroomspages[randomKey].redirect != "" && _onlyroomspages[randomKey].redirect != null)){
             randomKey = keys[random.Next(keys.Count)];
         }
         return randomKey;
+    }
+
+    public int GetNumberOfRooms()
+    {
+        return _onlyroomspages.Count;
+    }
+
+    public string GetRoomSlugByID(int id)
+    {
+        return _onlyroomspages.Keys.ElementAt(id);
     }
 
     private bool IsSubdivision(string type)
@@ -245,7 +370,8 @@ public class WikiService
             PropertyNameCaseInsensitive = true,
         };
         var dictionary = JsonSerializer.Deserialize<Dictionary<string, WikiPage>>(json, options) ?? new Dictionary<string, WikiPage>();
-        Analyze(dictionary);
+        //Analyze(dictionary);
+
         foreach (var key in dictionary.Keys)
         {
             if (dictionary[key].image_count() == 0)
@@ -290,6 +416,7 @@ public class WikiService
                 }
             }
         }
+
         return dictionary;
     }
 

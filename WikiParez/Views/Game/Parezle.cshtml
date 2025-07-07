@@ -1,0 +1,250 @@
+<style>
+    * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+    }
+    html, body {
+        margin: 0;
+        padding: 0;
+        height: 100%;
+        width: 100%;
+    }
+    .game-board { width: 100%; height: 100vh; background-color: white;}
+    .room-rectangle {
+        background-color: lightblue;
+        width: 100%;
+        height: 40px;
+        font-size: x-large;
+        text-align: center;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 8px;
+        margin-bottom: 10px;
+    }
+    .room-rectangle2 {
+        background-color: rgb(93, 223, 235);
+        width: 100%;
+        height: 40px;
+        font-size: x-large;
+        text-align: center;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 8px;
+        margin-bottom: 10px;
+    }
+    .dropdown-item {
+        padding: 10px;
+        background-color: lightgray;
+        cursor: pointer;
+        border-bottom: 1px solid black;
+    }
+    .dropdown-item:hover {
+        background-color: gray;
+        color: white;
+    }
+    .dropdown-menu {
+        display: block;
+        position: absolute;
+        top: 150%;
+        height: 800%;
+        left: 0;
+        background-color: white;
+        border: 1px solid #ccc;
+        width: 100%;
+        max-height: 200px;
+        overflow-y: auto;
+        z-index: 1000;
+    }
+    .counter-container {
+        font-size: x-large;
+        background: #eee;
+        padding: 10px 20px;
+        border-radius: 10px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        max-width: 100px;
+        width: 100%;
+    }
+    .icon {
+        font-size: clamp(1.5rem, 5vw, 3rem);
+        line-height: 1;
+    }
+    .number {
+        font-size: clamp(1rem, 4vw, 2rem);
+        line-height: 1;
+    }
+    .wrongsubdiv {
+        background-color: rgb(242, 80, 80); 
+    }
+    .correctsubdiv {
+        background-color: rgb(17, 233, 17); 
+    }
+</style>
+
+<div class="game-board" id="game-board">
+    <div style="display: flex; height: 100%; padding: 20px;">
+        <div style="padding: 50px ; flex: 3; display: flex; flex-direction: column; justify-content: flex-start; gap: 10px;">
+            <div id="guessed">
+                <div class="room-rectangle">
+                    @Model[@ViewBag.Start].Title
+                </div>
+            </div>
+            <div class="room-rectangle2" id="middle-rectangle">
+                ...
+            </div>
+            <div class="room-rectangle">
+                @Model[@ViewBag.End].Title
+            </div>
+            <div style="position: relative; width: 80%; margin: 0 auto;">
+                <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+                    <input id="guess-input" oninput="filterRooms()" style="flex: 1; height: 50px; padding: 5px;">
+                    <button onclick="guess()" style="height: 50px; background-color: green; color: white; border: none; border-radius: 5px; padding: 0 10px;">HÁDEJ</button>
+                </div>
+
+                <div id="room-dropdown" class="dropdown-menu"></div>
+            </div>
+        </div>
+        <div>
+            <div style="flex: 1; display: flex; align-items: flex-start; justify-content: flex-end; padding: 50px;">
+                <div class="counter-container">
+                    <span class="icon">❌</span>
+                    <span class="number" id="mistake-counter">0</span>
+                </div>
+                <div class="counter-container">
+                    <span class="icon">❓</span>
+                    <span class="number" id="hint-counter">0</span>
+                </div>
+                <div class="counter-container">
+                    <span class="icon">↩️</span>
+                    <span class="number" id="undo-counter">0</span>
+                </div>
+            </div>
+            <div style="display: gap: 10px; margin-top: 20px; margin: 0 auto;">
+                <div id="blok" class="wrongsubdiv" style="color: white; border-radius: 8px; height: 40px; display: flex; align-items: center; justify-content: center; font-size: large;">
+                    @Model["mi_kroky"].Blok
+                </div>
+                <div id="okrsek" class="wrongsubdiv" style="color: white; border-radius: 8px; height: 40px; display: flex; align-items: center; justify-content: center; font-size: large;">
+                    @Model["mi_kroky"].Okrsek
+                </div>
+                <div id="ctvrt" class="wrongsubdiv" style="color: white; border-radius: 8px; height: 40px; display: flex; align-items: center; justify-content: center; font-size: large;">
+                    @Model["mi_kroky"].Ctvrt
+                </div>
+                <div id="cast" class="wrongsubdiv" style="color: white; border-radius: 8px; height: 40px; display: flex; align-items: center; justify-content: center; font-size: large;">
+                    @Model["mi_kroky"].Cast
+                </div>
+            </div>
+            <div style="display: gap: 10px; margin-top: 20px; margin: 0 auto;">
+                <button style="height: 50px; width: 50%; padding: 0 20px; margin-right: 10px; background-color: #1976d2; color: white; border: none; border-radius: 8px; font-size: large; font-weight: 500; cursor: pointer;">
+                    ZPĚT
+                </button>
+                <button style="height: 50px; width: 50%; padding: 0 20px; background-color: #43a047; color: white; border: none; border-radius: 8px; font-size: large; font-weight: 500; cursor: pointer;">
+                    NÁPOVĚDA
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    var rooms = @Html.Raw(Json.Serialize(Model));
+    var alreadyguessed = ["@ViewBag.Start"];
+    var guesses = ["@ViewBag.Start"];
+    var goal = "@ViewBag.End";
+    var selectedKey = "";
+    var mistakes = 0;
+    
+    function guess() {
+        var arg = selectedKey;
+        if (!(arg in rooms)) {
+            return;
+        }
+        var lastGuess = guesses[guesses.length - 1];
+        if (rooms[lastGuess].bordering_rooms && rooms[lastGuess].bordering_rooms.includes(arg)) {
+            guesses.push(arg);
+            var board = document.getElementById('guessed');
+            var newDiv = document.createElement('div');
+            newDiv.className = 'room-rectangle';
+            newDiv.textContent = rooms[arg].title || '';
+            board.appendChild(newDiv);
+            alreadyguessed = [arg];
+            var input = document.getElementById("guess-input");
+            input.value = "";
+            filterRooms();
+            updateSubdivs(arg);
+            if (rooms[arg].bordering_rooms.includes(goal)){
+                console.log("WIN!!!!");
+                document.getElementById("middle-rectangle")?.remove();
+            }
+        }
+        else{
+            mistakes += 1;
+            alreadyguessed.push(arg);
+            filterRooms();
+            var mistakescount = document.getElementById("mistake-counter");
+            mistakescount.innerText = mistakes;
+        }
+    }
+
+    function updateSubdivs(last) {
+        var blok = document.getElementById("blok");
+        var okrsek = document.getElementById("okrsek");
+        var ctvrt = document.getElementById("ctvrt");
+        var cast = document.getElementById("cast");
+        blok.textContent = rooms[last].blok;
+        blok.className = "wrongsubdiv";
+        okrsek.textContent = rooms[last].okrsek;
+        okrsek.className = "wrongsubdiv";
+        ctvrt.textContent = rooms[last].ctvrt;
+        ctvrt.className = "wrongsubdiv";
+        cast.textContent = rooms[last].cast;
+        cast.className = "wrongsubdiv";
+        if (rooms[last].blok == rooms[goal].blok){
+            blok.className = "correctsubdiv";
+        }
+        if (rooms[last].okrsek == rooms[goal].okrsek){
+            okrsek.className = "correctsubdiv";
+        }
+        if (rooms[last].ctvrt == rooms[goal].ctvrt){
+            ctvrt.className = "correctsubdiv";
+        }
+        if (rooms[last].cast == rooms[goal].cast){
+            cast.className = "correctsubdiv";
+        }
+    }
+
+    function filterRooms() {
+        arg = document.getElementById('guess-input').value;
+        let normalized = arg.toLowerCase()
+            .replace(/[\s\-\,\.]/g, '')
+            .normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+        var dropdown = document.getElementById('room-dropdown');
+        dropdown.innerHTML = '';
+        if (normalized.length === 0) {
+            return;
+        }
+        for (let key in rooms) {
+            let title = rooms[key].title || '';
+            let normalizedTitle = title.toLowerCase()
+                .replace(/[\s\-\,\.]/g, '')
+                .normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+            if (normalizedTitle.startsWith(normalized) && !alreadyguessed.includes(key)) { 
+                var newDiv = document.createElement('div');
+                newDiv.onclick = function() { choose(key); };
+                newDiv.textContent = title;
+                newDiv.value = key;
+                newDiv.className = 'dropdown-item';
+                dropdown.appendChild(newDiv);
+            }
+        }
+    }
+    function choose(key){
+        var input = document.getElementById("guess-input");
+        selectedKey = key;
+        input.value = rooms[key].title;
+    }
+</script>
