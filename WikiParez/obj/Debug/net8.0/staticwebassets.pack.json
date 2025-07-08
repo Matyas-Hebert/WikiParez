@@ -45,10 +45,6 @@
       "PackagePath": "staticwebassets/Images/mi_cervi_dira2.png"
     },
     {
-      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_cervi_dira2.png:Zone.Identifier",
-      "PackagePath": "staticwebassets/Images/mi_cervi_dira2.png:Zone.Identifier"
-    },
-    {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_chajda_pani_hlinene1.png",
       "PackagePath": "staticwebassets/Images/mi_chajda_pani_hlinene1.png"
     },
@@ -193,12 +189,28 @@
       "PackagePath": "staticwebassets/Images/mi_klub2.png"
     },
     {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_kroky1.png",
+      "PackagePath": "staticwebassets/Images/mi_kroky1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_kroky2.png",
+      "PackagePath": "staticwebassets/Images/mi_kroky2.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_kroky3.png",
+      "PackagePath": "staticwebassets/Images/mi_kroky3.png"
+    },
+    {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_la1.png",
       "PackagePath": "staticwebassets/Images/mi_la1.png"
     },
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_lavicka1.png",
       "PackagePath": "staticwebassets/Images/mi_lavicka1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_lavka1.png",
+      "PackagePath": "staticwebassets/Images/mi_lavka1.png"
     },
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_lodzie1.png",
@@ -275,6 +287,14 @@
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_paluba2.png",
       "PackagePath": "staticwebassets/Images/mi_paluba2.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_paradox1.png",
+      "PackagePath": "staticwebassets/Images/mi_paradox1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_paradox2.png",
+      "PackagePath": "staticwebassets/Images/mi_paradox2.png"
     },
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_parsley_attic1.png",
@@ -393,6 +413,14 @@
       "PackagePath": "staticwebassets/Images/mi_sloup2.png"
     },
     {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_sneci_raj1.png",
+      "PackagePath": "staticwebassets/Images/mi_sneci_raj1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_sneci_raj2.png",
+      "PackagePath": "staticwebassets/Images/mi_sneci_raj2.png"
+    },
+    {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_spojnice1.png",
       "PackagePath": "staticwebassets/Images/mi_spojnice1.png"
     },
@@ -461,6 +489,10 @@
       "PackagePath": "staticwebassets/Images/mi_ulice_schodova2.png"
     },
     {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_ulita1.png",
+      "PackagePath": "staticwebassets/Images/mi_ulita1.png"
+    },
+    {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_v_vez_1_podlazi1.png",
       "PackagePath": "staticwebassets/Images/mi_v_vez_1_podlazi1.png"
     },
@@ -507,10 +539,6 @@
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/missing.jpg",
       "PackagePath": "staticwebassets/Images/missing.jpg"
-    },
-    {
-      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/os_marcela_hebertova.png:Zone.Identifier",
-      "PackagePath": "staticwebassets/Images/os_marcela_hebertova.png:Zone.Identifier"
     },
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/os_marcela_hebertova1.png",

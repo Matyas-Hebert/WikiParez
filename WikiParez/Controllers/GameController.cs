@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using WikiParez.Services;
 using WikiParez.Models;
+using Microsoft.AspNetCore.Components.Endpoints;
 
 namespace WikiParez.Controllers
 {
@@ -70,24 +71,67 @@ namespace WikiParez.Controllers
             return View("HigherLower", pages);
         }
 
-        public IActionResult Parezle()
+        public IActionResult ParezleMenu()
+        {
+            return View("Parezle/Menu");
+        }
+
+        [HttpGet]
+        [Route("Game/Parezle/Daily")]
+        public IActionResult DailyParezle()
         {
             var seed = _wikiService.GetParezleSeed();
-            var random = new Random(seed);
+            Console.WriteLine(seed);
 
-            var room1 = _wikiService.GetRoomSlugByID(random.Next(0, _wikiService.GetNumberOfRooms()-1));
-            var room2 = _wikiService.GetRoomSlugByID(random.Next(0, _wikiService.GetNumberOfRooms()-1));
-            while (room1 == room2)
+            var room1 = "";
+            var room2 = "";
+            if (seed == 741339)
             {
-                room2 = _wikiService.GetRoomSlugByID(random.Next(0, _wikiService.GetNumberOfRooms()-1));
+                room1 = "mi_expresionismus";
+                room2 = "mi_blok_b";
+            }
+            else
+            {
+                var random = new Random(seed);
+
+                room1 = _wikiService.GetRoomSlugByID(random.Next(0, _wikiService.GetNumberOfRooms() - 1));
+                room2 = _wikiService.GetRoomSlugByID(random.Next(0, _wikiService.GetNumberOfRooms() - 1));
+                while (room1 == room2 && _wikiService.DoesBorder(room1, room2))
+                {
+                    room2 = _wikiService.GetRoomSlugByID(random.Next(0, _wikiService.GetNumberOfRooms() - 1));
+                }
             }
 
             ViewBag.Start = room1;
             ViewBag.End = room2;
             ViewBag.ShortestPath = _wikiService.FindPath(room1, room2);
+            ViewBag.Text = "DNEŠNÍ PAŘEZLE";
 
-            return View("Parezle", _wikiService.GetParezlePages());
+            return View("Parezle/Parezle", _wikiService.GetParezlePages());
         }
+
+        [HttpGet]
+        [Route("Game/Parezle/Random")]
+        public IActionResult RandomParezle()
+        {
+            var random = new Random();
+
+            var room1 = _wikiService.GetRoomSlugByID(random.Next(0, _wikiService.GetNumberOfRooms() - 1));
+            var room2 = _wikiService.GetRoomSlugByID(random.Next(0, _wikiService.GetNumberOfRooms() - 1));
+            while (room1 == room2 && _wikiService.DoesBorder(room1, room2))
+            {
+                room2 = _wikiService.GetRoomSlugByID(random.Next(0, _wikiService.GetNumberOfRooms() - 1));
+            }
+
+            ViewBag.Start = room1;
+            ViewBag.End = room2;
+            ViewBag.ShortestPath = _wikiService.FindPath(room1, room2);
+            ViewBag.Text = "NÁHODNÝ PAŘEZLE";
+
+
+            return View("Parezle/Parezle", _wikiService.GetParezlePages());
+        }
+
 
         [HttpPost]
         public IActionResult ChooseHigherLower(string slug1, string slug2, int highScore, int score, int roomToChange, int action){

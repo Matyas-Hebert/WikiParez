@@ -85,6 +85,12 @@ public class WikiService
         return page.Bordering_rooms;
     }
 
+    public bool DoesBorder(string room1, string room2)
+    {
+        if (_pages[room1].Bordering_rooms.Contains(room2)) return true;
+        return false;
+    }
+
     public List<string> FindPath(string from, string to)
     {
         if (from == "mi_listy" || to == "mi_listy" || to == "mi_svatyne")
