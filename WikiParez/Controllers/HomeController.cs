@@ -25,6 +25,12 @@ public class HomeController : Controller
         return View("New");
     }
 
+    public IActionResult Ideas(){
+        var a = new List<string>();
+        a.AddRange(["ŽIVÁ VODA", "TÁBOR", "ZÁMEK", "KAMENNÁ POUŠŤ", "ČEKÁRNA", "KNIHOVNA", "HÁJE", "LÁVKA", "STAN", "HALA", "PAVILON", "PARK", "KOŠUMBERK", "BLATA", "FAKULTA", "BROD", "MENZA", "STAVBA", "FONTÁNA", "ŠŤASTNÝ ASFALT", "KANCELÁŘ", "BAZAR", "HOUBY", "BAMBULE", "PUMPA", "VÝJEZD", "POŽÁR", "SLUNEČNÍK", "HABR", "HYDRANT", "ČLUN", "SERVIS", "OKOLÍ", "JETEL", "BISTRO", "ROZTOKY", "ZNAČKA", "ZÁVORA", "GUMA", "ČERVENÝ TRAKTŮREK", "KROUŽEK", "OBJEVITEL", "ZBÍJEČKA", "ŠIŠKA", "POTRUBÍ", "AKORDEON", "CENA", "KONTEXT", "VARIANTA", "CENA", "ŽEBRÁK", "ZÁVIST", "PATNÍK", "TLAČÍTKO", "HADICE", "BRIKETA", "LEKLA", "ZÁKAZ", "DÁVKOVAČ", "FOBIE", "ÚZKOST"]);
+        return View("Ideas", a);
+    }
+
     public IActionResult Privacy()
     {
         return View();

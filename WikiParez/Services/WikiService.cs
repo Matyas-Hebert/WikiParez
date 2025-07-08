@@ -182,6 +182,22 @@ public class WikiService
                 bestString = key;
             }
 
+            string subdivname = _pages[key].Type + _pages[key].Title;
+            string namesubdiv = _pages[key].Title + _pages[key].Type;
+
+            result = SearchService.GetSimilarityValue(subdivname, searchValue);
+            if (result > best)
+            {
+                best = result;
+                bestString = key;
+            }
+            result = SearchService.GetSimilarityValue(namesubdiv, searchValue);
+            if (result > best)
+            {
+                best = result;
+                bestString = key;
+            }
+
             foreach (var alt in _pages[key].Alternate_names)
             {
                 result = SearchService.GetSimilarityValue(alt, searchValue);

@@ -34,6 +34,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvR2FtZS9QYXJlemxlL1BhcmV6bGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[/root/wikiparez/WikiParez/Views/Home/Ideas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JZGVhcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/root/wikiparez/WikiParez/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -58,8 +62,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[/root/wikiparez/WikiParez/Views/Wiki/Games.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvV2lraS9HYW1lcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/root/wikiparez/WikiParez/Views/Wiki/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvV2lraS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/root/wikiparez/WikiParez/Views/Wiki/Other.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvV2lraS9PdGhlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/root/wikiparez/WikiParez/Views/_ViewImports.cshtml]

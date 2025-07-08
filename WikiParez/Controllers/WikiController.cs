@@ -48,6 +48,16 @@ namespace WikiParez.Controllers
             return View("Index", _wikiService.GetPageBySlug(slug));
         }
 
+        public IActionResult Other()
+        {
+            return View("Other");
+        }
+
+        public IActionResult Games()
+        {
+            return View("Games");
+        }
+
         [HttpPost]
         public IActionResult SendEmail(string message, string slug)
         {
