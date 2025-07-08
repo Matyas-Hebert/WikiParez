@@ -96,7 +96,7 @@ namespace WikiParez.Controllers
 
                 room1 = _wikiService.GetRoomSlugByID(random.Next(0, _wikiService.GetNumberOfRooms() - 1));
                 room2 = _wikiService.GetRoomSlugByID(random.Next(0, _wikiService.GetNumberOfRooms() - 1));
-                while (room1 == room2 && _wikiService.DoesBorder(room1, room2))
+                while (room1 == room2 || _wikiService.DoesBorder(room1, room2))
                 {
                     room2 = _wikiService.GetRoomSlugByID(random.Next(0, _wikiService.GetNumberOfRooms() - 1));
                 }
@@ -118,7 +118,7 @@ namespace WikiParez.Controllers
 
             var room1 = _wikiService.GetRoomSlugByID(random.Next(0, _wikiService.GetNumberOfRooms() - 1));
             var room2 = _wikiService.GetRoomSlugByID(random.Next(0, _wikiService.GetNumberOfRooms() - 1));
-            while (room1 == room2 && _wikiService.DoesBorder(room1, room2))
+            while (room1 == room2 || _wikiService.DoesBorder(room1, room2))
             {
                 room2 = _wikiService.GetRoomSlugByID(random.Next(0, _wikiService.GetNumberOfRooms() - 1));
             }

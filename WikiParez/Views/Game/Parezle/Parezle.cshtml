@@ -116,8 +116,10 @@
             <div class="room-rectangle2" id="middle-rectangle">
                 ...
             </div>
-            <div class="room-rectangle">
-                @Model[@ViewBag.End].Title
+            <div id="guessedend">
+                <div class="room-rectangle">
+                    @Model[@ViewBag.End].Title
+                </div>
             </div>
             <div style="position: relative; width: 80%; margin: 0 auto;">
                 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
@@ -128,8 +130,8 @@
                 <div id="room-dropdown" class="dropdown-menu"></div>
             </div>
         </div>
-        <div style="padding-top: 50px;">
-            <div style="flex: 1; display: flex; align-items: flex-start; justify-content: flex-end;">
+        <div style="padding-top: 50px; flex: 1; position: sticky; top: 0;">
+            <div style="display: flex; justify-content: flex-end;">
                 <div class="counter-container">
                     <span class="icon">❌</span>
                     <span class="number" id="mistake-counter">0</span>
@@ -141,6 +143,10 @@
                 <div class="counter-container">
                     <span class="icon">↩️</span>
                     <span class="number" id="undo-counter">0</span>
+                </div>
+                <div class="counter-container">
+                    <span class="icon">🔄</span>
+                    <span class="number" id="turn-counter">0</span>
                 </div>
             </div>
             <div class="subdiv-container">
@@ -164,6 +170,9 @@
                 <button onclick="hint()" style="height: 50px; min-width: 150px; padding: 0 20px; background-color: #43a047; color: white; border: none; border-radius: 8px; font-size: large; font-weight: 500; cursor: pointer;">
                     NÁPOVĚDA
                 </button>
+                <button onclick="turn()" style="height: 50px; min-width: 150px; padding: 0 20px; background-color: #db5f2e; color: white; border: none; border-radius: 8px; font-size: large; font-weight: 500; cursor: pointer;">
+                    OTOČIT
+                </button>
             </div>
         </div>
     </div>
@@ -173,27 +182,78 @@
     var rooms = @Html.Raw(Json.Serialize(Model));
     var alreadyguessed = ["@ViewBag.Start"];
     var guesses = ["@ViewBag.Start"];
-    var goal = "@ViewBag.End";
+    var guessesfromend = ["@ViewBag.End"];
     var selectedKey = "";
     var mistakes = 0;
     var hints = 0;
     var undos = 0;
+    var turns = 0;
+    var turned = false;
     var hintenabled = false;
     var path = @Html.Raw(Json.Serialize(ViewBag.ShortestPath));
     
     function undo() {
-        console.log(path);
         var board = document.getElementById('guessed');
+        if (turned) board = document.getElementById('guessedend');
         if (board.children.length > 1) {
             board.removeChild(board.lastElementChild);
-            guesses.pop();
-            alreadyguessed = [guesses[guesses.length - 1]];
-            updateSubdivs(guesses[guesses.length - 1]);
+            if (!turned) guesses.pop();
+            if (turned) guessesfromend.pop();
+            if (!turned) alreadyguessed = [guesses[guesses.length - 1]];
+            if (turned) alreadyguessed = [guessesfromend[guessesfromend.length - 1]];
+
+            var lastGuess = guesses[guesses.length - 1];
+            if (turned) lastGuess = guessesfromend[guessesfromend.length - 1];
+            var goal = guessesfromend[guessesfromend.length - 1];
+            if (turned) goal = guesses[guesses.length - 1];
+
+            updateSubdivs(lastGuess, goal);
             undos++;
             document.getElementById("undo-counter").innerText = undos;
             hintenabled = false;
             filterRooms();
         }
+    }
+
+    function turn() {
+        turned = !turned;
+        if (!turned) alreadyguessed = [guesses[guesses.length - 1]];
+        if (turned) alreadyguessed = [guessesfromend[guessesfromend.length - 1]];
+
+        var guessed = document.getElementById('guessed');
+        var guessedfromtheend = document.getElementById('guessedend');
+        guessed.innerHTML = '';
+        guessedfromtheend.innerHTML = '';
+
+        var startguesses = guesses;
+        if (turned) startguesses = guessesfromend;
+        var endguesses = guessesfromend;
+        if (turned) endguesses = guesses;
+
+        for (let i = 0; i < startguesses.length; i++) {
+            var newDiv = document.createElement('div');
+            newDiv.className = 'room-rectangle';
+            newDiv.textContent = rooms[startguesses[i]].title || '';
+            guessed.appendChild(newDiv);
+        }
+        for (let i = endguesses.length - 1; i >= 0; i--){
+            var newDiv = document.createElement('div');
+            newDiv.className = 'room-rectangle';
+            newDiv.textContent = rooms[endguesses[i]].title || '';
+            guessedfromtheend.appendChild(newDiv);
+        }
+
+        var lastGuess = guesses[guesses.length - 1];
+        if (turned) lastGuess = guessesfromend[guessesfromend.length - 1];
+        var goal = guessesfromend[guessesfromend.length - 1];
+        if (turned) goal = guesses[guesses.length - 1];
+
+        updateSubdivs(lastGuess, goal);
+
+        turns++;
+        document.getElementById("turn-counter").innerText = turns;
+
+        filterRooms();
     }
 
     function hint() {
@@ -213,19 +273,27 @@
             return;
         }
         var lastGuess = guesses[guesses.length - 1];
+        if (turned) lastGuess = guessesfromend[guessesfromend.length - 1];
+        var goal = guessesfromend[guessesfromend.length - 1];
+        if (turned) goal = guesses[guesses.length - 1];
         if (rooms[lastGuess].bordering_rooms && rooms[lastGuess].bordering_rooms.includes(arg)) {
-            guesses.push(arg);
+            if (!turned) guesses.push(arg);
+            if (turned) guessesfromend.push(arg);
+
             var board = document.getElementById('guessed');
+
             var newDiv = document.createElement('div');
             newDiv.className = 'room-rectangle';
             newDiv.textContent = rooms[arg].title || '';
             board.appendChild(newDiv);
+
             alreadyguessed = [arg];
-            var input = document.getElementById("guess-input");
-            input.value = "";
+
             hintenabled = false;
             filterRooms();
-            updateSubdivs(arg);
+            var goal = guessesfromend[guessesfromend.length - 1];
+            if (turned) goal = guesses[guesses.length - 1];
+            updateSubdivs(arg, goal);
             if (rooms[arg].bordering_rooms.includes(goal)){
                 document.getElementById("middle-rectangle")?.remove();
                 win();
@@ -238,9 +306,15 @@
             var mistakescount = document.getElementById("mistake-counter");
             mistakescount.innerText = mistakes;
         }
+
+        var input = document.getElementById("guess-input");
+        input.value = "";
     }
     
     function win(){
+        var score = Math.round(path.length/(guesses.length+1+mistakes*0.5+hints*2.5+undos*0.5+turns*4)*100);
+        var correctsolutionlen = path.length - 1;
+
         var floatingDiv = document.createElement('div');
         floatingDiv.style.position = 'fixed';
         floatingDiv.style.top = '50%';
@@ -251,44 +325,50 @@
         floatingDiv.style.borderRadius = '24px';
         floatingDiv.style.boxShadow = '0 8px 32px rgba(0,0,0,0.25)';
         floatingDiv.style.zIndex = '2000';
-        floatingDiv.style.padding = '60px 80px';
+        floatingDiv.style.padding = '60px 20px';
         floatingDiv.style.fontSize = '2.5rem';
         floatingDiv.style.fontWeight = 'bold';
         floatingDiv.style.textAlign = 'center';
         floatingDiv.innerText = 'Výhra';
+        floatingDiv.style.width = '80%';
+
+        var scoreLabel = document.createElement('div');
+        scoreLabel.style.fontSize = '3rem';
+        scoreLabel.style.marginTop = '30px';
+        if (score == 100) scoreLabel.innerText = '⭐⭐⭐⭐⭐';
+        if (score < 100) scoreLabel.innerText = '⭐⭐⭐⭐';
+        if (score < 75) scoreLabel.innerText = '⭐⭐⭐';
+        if (score < 50) scoreLabel.innerText = '⭐⭐';
+        if (score < 25) scoreLabel.innerText = '⭐';
+        floatingDiv.appendChild(scoreLabel);
+
+        var scoreLabel = document.createElement('div');
+        scoreLabel.style.fontSize = '2rem';
+        scoreLabel.style.marginTop = '30px';
+        scoreLabel.innerText = score;
+        floatingDiv.appendChild(scoreLabel);
 
         var guessesLabel = document.createElement('div');
-        guessesLabel.style.fontSize = '1.3rem';
+        guessesLabel.style.fontSize = '2rem';
         guessesLabel.style.marginTop = '30px';
-        guessesLabel.innerText = '📝' + guesses.length;
+        guessesLabel.innerText = '📝' + guesses.length + '/' + correctsolutionlen + "\t" + '❌' + mistakes + "\t" + '❓' + hints + "\t" + '↩️' + undos + "\t" + '🔄' + turns;
         floatingDiv.appendChild(guessesLabel);
-
-        var mistakesLabel = document.createElement('div');
-        mistakesLabel.style.fontSize = '1.1rem';
-        mistakesLabel.innerText = '❌' + mistakes;
-        floatingDiv.appendChild(mistakesLabel);
-
-        var hintsLabel = document.createElement('div');
-        hintsLabel.style.fontSize = '1.1rem';
-        hintsLabel.innerText = '❓' + hints;
-        floatingDiv.appendChild(hintsLabel);
-
-        var undosLabel = document.createElement('div');
-        undosLabel.style.fontSize = '1.1rem';
-        undosLabel.innerText = '↩️' + undos;
-        floatingDiv.appendChild(undosLabel);
 
         floatingDiv.appendChild(document.createElement('br'));
 
         var yourguesses = "";
-        for(let room in guesses){
-            yourguesses += rooms[guesses[room]].title + " > ";
+        for(let i = 0; i < guesses.length; i++){
+            yourguesses += rooms[guesses[i]].title + " > ";
         }
-        yourguesses += rooms[goal].title;
+        for(let i = guessesfromend.length - 1; i >= 0; i--){
+            yourguesses += rooms[guessesfromend[i]].title;
+            if (i >= 1) yourguesses += " > ";
+        }
 
         var bestguesses = "";
         for (let i = path.length-1; i >= 0; i--) {
-            bestguesses += rooms[path[i]].title + " > ";
+            bestguesses += rooms[path[i]].title;
+            if(i >= 1) bestguesses += " > ";
         }
 
         var guessesLabel = document.createElement('div');
@@ -299,8 +379,6 @@
         guessesLabel.style.padding = '8px 16px';
         guessesLabel.innerText = "TVOJE ŘEŠENÍ" + "\n" + yourguesses + "\n" + "\n" + "SPRÁVNÉ ŘEŠENÍ" + "\n" + bestguesses;
         floatingDiv.appendChild(guessesLabel);
-
-        var score = (path.length/(guesses.length+1+mistakes*0.5+hints*2.5+undos*0.5))*100;
 
         var copyBtn = document.createElement('button');
         copyBtn.innerText = 'Kopírovat';
@@ -313,7 +391,7 @@
         copyBtn.style.borderRadius = '8px';
         copyBtn.style.cursor = 'pointer';
         copyBtn.onclick = function() {
-            navigator.clipboard.writeText("Kroky: ||" + guesses.length + "||\nChyby: ||" + mistakes + "||\nNápovědy: ||" + hints + "||\nZpět: ||" + undos + "||\nCesta: ||" + yourguesses + "||\nScore: ||" + score + "||\nPlay on: https://parezwiki.onrender.com/Game/Parezle");
+            navigator.clipboard.writeText("Kroky: ||" + guesses.length + "||\nChyby: ||" + mistakes + "||\nNápovědy: ||" + hints + "||\nZpět: ||" + undos + "||\nOtočení: ||" + turns + "||\nCesta: ||" + yourguesses + "||\nSkóre: ||" + score + "||\nPlay on: https://parezwiki.onrender.com/Game/Parezle");
         };
         floatingDiv.appendChild(document.createElement('br'));
         floatingDiv.appendChild(copyBtn);
@@ -336,7 +414,7 @@
         document.getElementById('game-board').appendChild(floatingDiv);
     }
 
-    function updateSubdivs(last) {
+    function updateSubdivs(last, goal) {
         var blok = document.getElementById("blok");
         var okrsek = document.getElementById("okrsek");
         var ctvrt = document.getElementById("ctvrt");
@@ -364,7 +442,7 @@
     }
 
     document.addEventListener("DOMContentLoaded", function() {
-        updateSubdivs("@ViewBag.Start");
+        updateSubdivs("@ViewBag.Start", "@ViewBag.End");
     });
 
     function filterRooms() {
@@ -374,6 +452,7 @@
             .normalize('NFD').replace(/[\u0300-\u036f]/g, '');
         var dropdown = document.getElementById('room-dropdown');
         var lastGuess = guesses[guesses.length - 1];
+        if (turned) lastGuess = guessesfromend[guessesfromend.length - 1];
         dropdown.innerHTML = '';
         if (normalized.length === 0 && !hintenabled) {
             return;
