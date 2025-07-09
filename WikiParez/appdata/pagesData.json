@@ -2248,7 +2248,7 @@
       },
       {
         "Title": "Zaj\u00EDmavost",
-        "Content": "V barelu s jablky jsou uskladn\u011Bny jedin\u00E1 dv\u011B en\u010Dantovan\u00E1 jablka.\r\nT\u0159etinu plochy m\u00EDstnosti zab\u00EDraj\u00ED postele."
+        "Content": "V barelu s jablky jsou uskladn\u011Bny jedin\u00E1 dv\u011B en\u010Dantovan\u00E1 jablka.\r\nT\u0159etinu plochy m\u00EDstnosti zab\u00EDraj\u00ED postele.\nOrdinace Pink Lady byla c\u00EDlov\u00E1 destinace 1. dne PA\u0158EZLE."
       }
     ],
     "image_id": 0,
@@ -9897,51 +9897,6 @@
     ],
     "image_id": 0,
     "area": 35,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "redirect": "",
-    "tobeedited": false
-  },
-  "mi_tajna_chodba": {
-    "Title": "Tajn\u00E1 Chodba",
-    "Type": "m\u00EDstnost",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [
-      "mi_suteren",
-      "mi_down_the_rabbit_hole",
-      "mi_tajna_mistnost",
-      "mi_gideon_tunel",
-      "mi_plantazove_kralovstvi"
-    ],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "Tajn\u00E1 Chodba",
-      "Blok": "[Suter\u00E9n](bl_suteren)",
-      "Okrsek": "[D\u016Fl](ok_dul)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
-      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": "Jak vznikl n\u00E1zev?"
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": "N\u011Bco o interi\u00E9ru."
-      },
-      {
-        "Title": "Zaj\u00EDmavost",
-        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
-      }
-    ],
-    "image_id": 0,
-    "area": 51,
     "Empty": true,
     "numberOfRooms": 0,
     "redirect": "",
@@ -30313,6 +30268,55 @@
     ],
     "image_id": 0,
     "area": 82,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "redirect": null,
+    "tobeedited": false
+  },
+  "mi_tajna_chodba": {
+    "Title": "Tajn\u00E1 Chodba",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "TAJN\u00C1 CHODBA A BEACON",
+      "VSTUP DO TAJN\u00C9 CHODBY",
+      "NEJ\u0160IR\u0160\u00CD \u010C\u00C1ST"
+    ],
+    "Bordering_rooms": [
+      "mi_suteren",
+      "mi_down_the_rabbit_hole",
+      "mi_tajna_mistnost",
+      "mi_gideon_tunel",
+      "mi_plantazove_kralovstvi"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Tajn\u00E1 Chodba",
+      "Blok": "[Suter\u00E9n](bl_suteren)",
+      "Okrsek": "[D\u016Fl](ok_dul)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Tajn\u00E1 Chodba je chodba spojuj\u00EDc\u00ED [Plant\u00E1\u017Eov\u00E9 Kr\u00E1lovstv\u00ED](mi_plantazove_kralovstvi) s [Tajnou M\u00EDstnost\u00ED](mi_tajna_mistnost). Chodba za\u010D\u00EDn\u00E1 schodi\u0161t\u011B sm\u011Brem dol\u016F z n\u011Bj\u017E se d\u00E1 dve\u0159mi dostat do [Gideon Tunelu](mi_gideon_tunel) a p\u0159ej\u00EDt do [Suter\u00E9nu](mi_suteren). Pod schodi\u0161t\u011Bm se chodba roz\u0161i\u0159uje a nach\u00E1z\u00ED se zde odbo\u010Dka do [Down the Rabbit Hole](mi_down_the_rabbit_hole)."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Vstup do chodby z [Plant\u00E1\u017Eov\u00E9ho Kr\u00E1lovstv\u00ED](mi_plantazova_kralovstvi) je skryt za vyrostlou cukrovou t\u0159tinou."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Chodba za\u010D\u00EDn\u00E1 jako jeden blok \u0161irok\u00E9 schodi\u0161t\u011B. Schodi\u0161t\u011B vede sedm blok\u016F dol\u016F, kde se chodba roz\u0161i\u0159uje na dvojn\u00E1sobek. Takto pokra\u010Duje skrz paprsky beaconu a\u017E k odbo\u010Dce do [Down the Rabbit Hole](mi_down_the_rabbit_hole), kde se chodba znovu roz\u0161i\u0159uje o blok a nav\u00EDc kles\u00E1 o dal\u0161\u00ED dva bloky. V t\u00E9to posledn\u00ED \u010D\u00E1sti je chodba perfektn\u011B \u010Dtvercov\u00E1. V\u00FD\u0161ka stropu se pohybuje mezi 2.5 a 5 bloky."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Ve st\u0159edn\u00ED, dva bloky \u0161irok\u00E9, \u010D\u00E1sti vede chodba p\u0159\u00EDmo p\u0159es [\u010Ctve\u0159ici beaconu](beacon_parez), kter\u00E1 z\u00E1sobuje cel\u00FD [Pa\u0159ez](ca_parez) efekty."
+      }
+    ],
+    "image_id": 0,
+    "area": 51,
     "Empty": false,
     "numberOfRooms": 0,
     "redirect": null,

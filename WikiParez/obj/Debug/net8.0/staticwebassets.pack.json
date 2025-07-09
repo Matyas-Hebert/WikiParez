@@ -509,6 +509,18 @@
       "PackagePath": "staticwebassets/Images/mi_strecha3.png"
     },
     {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_tajna_chodba1.png",
+      "PackagePath": "staticwebassets/Images/mi_tajna_chodba1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_tajna_chodba2.png",
+      "PackagePath": "staticwebassets/Images/mi_tajna_chodba2.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_tajna_chodba3.png",
+      "PackagePath": "staticwebassets/Images/mi_tajna_chodba3.png"
+    },
+    {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_tajna_mistnost1.png",
       "PackagePath": "staticwebassets/Images/mi_tajna_mistnost1.png"
     },
