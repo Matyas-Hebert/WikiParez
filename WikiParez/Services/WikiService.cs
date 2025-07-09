@@ -398,7 +398,7 @@ public class WikiService
             PropertyNameCaseInsensitive = true,
         };
         var dictionary = JsonSerializer.Deserialize<Dictionary<string, WikiPage>>(json, options) ?? new Dictionary<string, WikiPage>();
-        //Analyze(dictionary);
+        Analyze(dictionary);
 
         foreach (var key in dictionary.Keys)
         {
