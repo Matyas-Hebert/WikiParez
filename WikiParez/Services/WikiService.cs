@@ -10,6 +10,7 @@ using System.Collections.Specialized;
 using System.Runtime.InteropServices;
 using Microsoft.AspNetCore.Components.Endpoints;
 using Microsoft.AspNetCore.Mvc.Filters;
+using System.Globalization;
 
 public class WikiService
 {
@@ -148,7 +149,7 @@ public class WikiService
         foreach (var key in _pages.Keys)
         {
             var page = _pages[key];
-            if (page.redirect == "" || page.redirect == null)
+            if ((page.redirect == "" || page.redirect == null) && page.Type != "secret")
             {
                 dict[key] = new SimplifiedWikiPage
                 {
@@ -174,37 +175,40 @@ public class WikiService
         string bestString = "";
         foreach (var key in _pages.Keys)
         {
-            string name = _pages[key].Title;
-            double result = SearchService.GetSimilarityValue(name, searchValue);
-            if (result > best)
+            if (_pages[key].Type != "secret")
             {
-                best = result;
-                bestString = key;
-            }
-
-            string subdivname = _pages[key].Type + _pages[key].Title;
-            string namesubdiv = _pages[key].Title + _pages[key].Type;
-
-            result = SearchService.GetSimilarityValue(subdivname, searchValue);
-            if (result > best)
-            {
-                best = result;
-                bestString = key;
-            }
-            result = SearchService.GetSimilarityValue(namesubdiv, searchValue);
-            if (result > best)
-            {
-                best = result;
-                bestString = key;
-            }
-
-            foreach (var alt in _pages[key].Alternate_names)
-            {
-                result = SearchService.GetSimilarityValue(alt, searchValue);
+                string name = _pages[key].Title;
+                double result = SearchService.GetSimilarityValue(name, searchValue);
                 if (result > best)
                 {
                     best = result;
                     bestString = key;
+                }
+
+                string subdivname = _pages[key].Type + _pages[key].Title;
+                string namesubdiv = _pages[key].Title + _pages[key].Type;
+
+                result = SearchService.GetSimilarityValue(subdivname, searchValue);
+                if (result > best)
+                {
+                    best = result;
+                    bestString = key;
+                }
+                result = SearchService.GetSimilarityValue(subdivname, searchValue);
+                if (result > best)
+                {
+                    best = result;
+                    bestString = key;
+                }
+
+                foreach (var alt in _pages[key].Alternate_names)
+                {
+                    result = SearchService.GetSimilarityValue(alt, searchValue);
+                    if (result > best)
+                    {
+                        best = result;
+                        bestString = key;
+                    }
                 }
             }
         }
@@ -231,7 +235,7 @@ public class WikiService
         for (int i = pageCount - 1; i >= pageCount - 10; i--)
         {
             var key = _pages.Keys.ElementAt(i);
-            if (_pages[key].Empty)
+            if (_pages[key].Empty || _pages[key].Type == "secret")
             {
                 pageCount--;
             }
@@ -251,7 +255,7 @@ public class WikiService
         var keys = new List<string>(_pages.Keys);
         var random = new Random();
         var randomKey = keys[random.Next(keys.Count)];
-        while ((_pages[randomKey].Empty && !canBeEmpty) || (_pages[randomKey].redirect != "" && _pages[randomKey].redirect != null))
+        while ((_pages[randomKey].Empty && !canBeEmpty) || (_pages[randomKey].redirect != "" && _pages[randomKey].redirect != null) || _pages[randomKey].Type == "secret")
         {
             randomKey = keys[random.Next(keys.Count)];
         }
@@ -450,7 +454,7 @@ public class WikiService
                 });
     }
 
-    private void AddLinks(WikiPage page)
+    private WikiPage? AddLinks(WikiPage page)
     {
         if (page?.Sections != null)
         {
@@ -466,13 +470,14 @@ public class WikiService
                 page.Metadata[key] = UseRegex(page.Metadata[key]);
             }
         }
+        return page;
     }
 
     public WikiPage? GetPageBySlug(string slug)
     {
         if (_pages != null && _pages.TryGetValue(slug, out var page))
         {
-            AddLinks(page);
+            page = AddLinks(page);
             return page;
         }
         // Implementation to retrieve the WikiPage by slug

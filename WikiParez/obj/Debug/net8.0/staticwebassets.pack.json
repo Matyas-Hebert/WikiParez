@@ -17,6 +17,38 @@
       "PackagePath": "staticwebassets/Images/beacon_parez3.png"
     },
     {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/di_schodov1.png",
+      "PackagePath": "staticwebassets/Images/di_schodov1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/di_schodov1.png:Zone.Identifier",
+      "PackagePath": "staticwebassets/Images/di_schodov1.png:Zone.Identifier"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/di_schodov2.png",
+      "PackagePath": "staticwebassets/Images/di_schodov2.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_armory1.png",
+      "PackagePath": "staticwebassets/Images/mi_armory1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_armory2.png",
+      "PackagePath": "staticwebassets/Images/mi_armory2.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_balkon_ctvrtka1.png",
+      "PackagePath": "staticwebassets/Images/mi_balkon_ctvrtka1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_balkon_ctvrtka2.png",
+      "PackagePath": "staticwebassets/Images/mi_balkon_ctvrtka2.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_balkon_ctvrtka3.png",
+      "PackagePath": "staticwebassets/Images/mi_balkon_ctvrtka3.png"
+    },
+    {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_beetroot_farma1.png",
       "PackagePath": "staticwebassets/Images/mi_beetroot_farma1.png"
     },
@@ -133,6 +165,10 @@
       "PackagePath": "staticwebassets/Images/mi_dobra_voda2.png"
     },
     {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_dum_hloupeho_honzy1.png",
+      "PackagePath": "staticwebassets/Images/mi_dum_hloupeho_honzy1.png"
+    },
+    {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_hlidkovaci_kos1.png",
       "PackagePath": "staticwebassets/Images/mi_hlidkovaci_kos1.png"
     },
@@ -211,6 +247,18 @@
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_lavka1.png",
       "PackagePath": "staticwebassets/Images/mi_lavka1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_lazne_panoraama1.png",
+      "PackagePath": "staticwebassets/Images/mi_lazne_panoraama1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_lazne_panoraama2.png",
+      "PackagePath": "staticwebassets/Images/mi_lazne_panoraama2.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_lazne_panoraama3.png",
+      "PackagePath": "staticwebassets/Images/mi_lazne_panoraama3.png"
     },
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_lodzie1.png",
@@ -567,6 +615,14 @@
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/te_stehovani_narodu5.png",
       "PackagePath": "staticwebassets/Images/te_stehovani_narodu5.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/turtleeasteregg.png",
+      "PackagePath": "staticwebassets/Images/turtleeasteregg.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/villagereasteregg.png",
+      "PackagePath": "staticwebassets/Images/villagereasteregg.png"
     },
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/css/site.css",

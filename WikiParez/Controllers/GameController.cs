@@ -85,10 +85,10 @@ namespace WikiParez.Controllers
 
             var room1 = "";
             var room2 = "";
-            if (seed == 741339)
+            if (seed == 741340)
             {
-                room1 = "mi_expresionismus";
-                room2 = "mi_blok_b";
+                room1 = "mi_kaplicka";
+                room2 = "mi_ah_fuck";
             }
             else
             {

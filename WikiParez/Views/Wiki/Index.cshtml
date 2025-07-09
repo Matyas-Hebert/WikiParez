@@ -1,6 +1,34 @@
+<style>
+    body.pink-background {
+        background-color: pink;
+    }
+    body.orange-background {
+        background-color: rgb(233, 196, 128);
+    }
+    body.green-background {
+        background-color: rgb(165, 241, 165);
+    }
+    aside.pink-background {
+        background-color: rgb(228, 109, 149);
+    }
+    aside.orange-background {
+        background-color: rgb(247, 183, 66);
+    }
+    aside.green-background {
+        background-color: rgb(104, 236, 104);
+    }
+    aside.standart-background {
+        background-color: #f5f5f5; 
+    }
+</style>
+
 @using System.Text.Json
 @{
     ViewData["Title"] = "WIKI Pařez";
+    var random = new Random();
+    bool isPink = random.NextDouble() < 0.2 && @ViewBag.Slug == "mi_ordinace_pink_lady";
+    bool isGreen = random.NextDouble() < 0.2 && @ViewBag.Slug == "mi_vert_ville";
+    bool isOrange = random.NextDouble() < 0.2 && @ViewBag.Slug == "mi_oranjestad";
 }
 
 <style>
@@ -11,17 +39,45 @@
         position: relative;
     }
 
+    .zoomedbottomright {
+        transform: scale(2);
+        cursor: zoom-out;
+        transform-origin: bottom right;
+        z-index: 1000;
+        position: relative;
+    }
+
     img.wikiimage {
         transition: transform 0.3s ease;
         cursor: zoom-in;
     }
 </style>
 
+
 @if (Model != null){
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Pařez Wiki</title>
+</head>
+<body class="@(isPink ? "pink-background" : isGreen ? "green-background" : isOrange ? "orange-background" : "")">
     <div class="text-center">
         <h1 class="display-4">Vítej na Pařez Wiki</h1>
         <p>Stránka o @Model.Type @Model.Title.</p>
     </div>
+
+    @if (ViewBag.Slug == "mi_villager_house" && random.NextDouble() < 0.30){
+        <div style="position: fixed; bottom: 0; right: 0; z-index: 2000;">
+            <img id="eastereggimage" onclick="this.classList.toggle('zoomedbottomright')" style="width: 100%; max-width: 100%;" src="/Images/villagereasteregg.png" alt="image"/>
+        </div>
+    }
+
+    @if (ViewBag.Slug == "mi_lazne_panoraama" && random.NextDouble() < 0.15){
+        <div style="position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; object-fit: contain; z-index: -2000">
+            <img id="eastereggimage" style="width: 100%; max-width: 100%;" src="/Images/turtleeasteregg.png" alt="image"/>
+        </div>
+    }
 
     <div style="display: flex; gap: 2rem;">
         <main style="flex-grow: 1;">
@@ -33,7 +89,7 @@
                 </div>
             }
         </main>
-        <aside style="min-width: 200px; padding: 1rem; background-color: #f5f5f5; border-radius: 8px; max-width: 300px;">
+        <aside class="@(isPink ? "pink-background" : isGreen ? "green-background" : isOrange ? "orange-background" : "standart-background")" style="min-width: 200px; padding: 1rem; border-radius: 8px; max-width: 300px;">
             <figure style="margin: 0; text-align: center; position: relative;">
                 <img id="wikiimage" onclick="this.classList.toggle('zoomed')" style="width: 100%; max-width: 100%;" src="/Images/@Model.Images[Model.image_id]" alt="image"/>
                 <figcaption id="imagetitle" style="margin-top: 0.5rem; font-weight:bold;">@Html.Raw(@Model.Image_titles[Model.image_id])</figcaption>
@@ -76,9 +132,20 @@
             }
         </aside>
     </div>
+</body>
+</html>
 
     @section Scripts {
         <script>
+            var slug = "@ViewBag.Slug";
+            document.addEventListener("DOMContentLoaded", function() {
+                console.log("hi");
+                let rn = Math.random();
+                if (rn < 0.2 && slug == "mi_dum_margity_stehlikove"){
+                    window.location.href = "https://www.youtube.com/watch?v=NdqHolSeIfs";
+                }
+            });
+
             const imageCount = @Model.image_count();
             console.log("Image count: " + imageCount);
             let currentImageID = @Model.image_id;
@@ -87,6 +154,7 @@
                 document.getElementById("wikiimage").src = "/Images/" + images[currentImageID];
                 document.getElementById("imagetitle").innerHTML = titles[currentImageID];
             }
+
             const images = @Html.Raw(JsonSerializer.Serialize(Model.Images));
             const titles = @Html.Raw(JsonSerializer.Serialize(Model.Image_titles));
         </script>
