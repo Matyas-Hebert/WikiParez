@@ -9947,93 +9947,6 @@
     "redirect": "",
     "tobeedited": false
   },
-  "mi_tajna_mistnost": {
-    "Title": "Tajn\u00E1 M\u00EDsnost",
-    "Type": "m\u00EDstnost",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [
-      "mi_tajna_chodba",
-      "mi_arboretum",
-      "mi_skryta_mistnost"
-    ],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "Tajn\u00E1 M\u00EDsnost",
-      "Blok": "[Suter\u00E9n](bl_suteren)",
-      "Okrsek": "[D\u016Fl](ok_dul)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
-      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": "Jak vznikl n\u00E1zev?"
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": "N\u011Bco o interi\u00E9ru."
-      },
-      {
-        "Title": "Zaj\u00EDmavost",
-        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
-      }
-    ],
-    "image_id": 0,
-    "area": 69,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "redirect": "",
-    "tobeedited": false
-  },
-  "mi_skryta_mistnost": {
-    "Title": "Skryt\u00E1 M\u00EDsnost",
-    "Type": "m\u00EDstnost",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [
-      "mi_dira_do_pekel",
-      "mi_blok_a",
-      "mi_blok_b",
-      "mi_tajna_mistnost"
-    ],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "Skryt\u00E1 M\u00EDsnost",
-      "Blok": "[Suter\u00E9n](bl_suteren)",
-      "Okrsek": "[D\u016Fl](ok_dul)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
-      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": "Jak vznikl n\u00E1zev?"
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": "N\u011Bco o interi\u00E9ru."
-      },
-      {
-        "Title": "Zaj\u00EDmavost",
-        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
-      }
-    ],
-    "image_id": 0,
-    "area": 82,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "redirect": "",
-    "tobeedited": false
-  },
   "mi_blok_a": {
     "Title": "Blok A",
     "Type": "m\u00EDstnost",
@@ -30270,6 +30183,136 @@
     ],
     "image_id": 0,
     "area": 213,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "redirect": null,
+    "tobeedited": false
+  },
+  "mi_tajna_mistnost": {
+    "Title": "Tajn\u00E1 M\u00EDstnost",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "TAJN\u00C1 M\u00CDSTNOST",
+      "SKLAD"
+    ],
+    "Bordering_rooms": [
+      "mi_tajna_chodba",
+      "mi_arboretum",
+      "mi_skryta_mistnost"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Tajn\u00E1 M\u00EDsnost",
+      "Blok": "[Suter\u00E9n](bl_suteren)",
+      "Okrsek": "[D\u016Fl](ok_dul)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Tajn\u00E1 M\u00EDstnost je m\u00EDstnost v [Suter\u00E9nu](bl_suteren). Je postavena hned pod [P\u0159\u00EDstavn\u00EDm Molem](mi_pristavni_molo) a [Domem zvon\u00EDka Glassimoda](mi_dum_zvonika_glassimoda). Samotn\u00E1 m\u00EDstnost m\u00E1 tvar obd\u00E9ln\u00EDku a vedou do n\u00ED t\u0159i vchody: dve\u0159e ze [Skryt\u00E9 M\u00EDstnosti](mi_skryta_mistnost) a voln\u00E9 vchody z [Tajn\u00E9 Chodby](mi_tajna_chodba) a [Arboreta](mi_arboretum)."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "M\u00EDstnost je napojena na [Tajnou Chodbu](mi_tajna_chodba) od kter\u00E9 z\u00EDskala n\u00E1zev."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Prvn\u00EDho \u010Deho si v m\u00EDstnosti v\u0161imneme je skl\u011Bn\u011Bn\u00FD strop nad n\u00EDm\u017E je voda [P\u0159\u00EDstavn\u00EDho Mola](mi_pristavni_molo) a [D\u016Fm Zvon\u00EDka Glassimoda](mi_dum_zvonika_glassimoda). Hned naproti vstupu z [Tajn\u00E9 Chodby](mi_tajna_chodba) jsou schody dol\u016F k [Arboretu](mi_arboretum). Na prav\u00E9 stran\u011B je pec a v koutku b\u00EDl\u00E1 postel (koutek s postel\u00ED je zast\u011Bn\u011Bn trapdoory). Na lev\u00E9 stran\u011B je v rohu crafting table a za d\u0159ev\u011Bnou z\u00E1st\u011Bnou osm barel\u016F. Barely nemaj\u00ED sv\u016Fj \u00FA\u010Del, ale jeden z nich je aktivn\u011B vyu\u017E\u00EDv\u00E1n jako \u0022[bordel chestka](te_bordel_chestka)\u0022.\r\nNa v\u0161ech st\u011Bn\u00E1ch krom\u011B jedn\u00E9 jsou okna. V\u011Bt\u0161ina z nich m\u00E1 za sebou vodu z \u0159eky. V\u00FD\u0161ka m\u00EDstnosti je ve v\u0161ech m\u00EDstech stejn\u00E1 a to \u010Dty\u0159i bloky."
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": "Strop Tajn\u00E9 M\u00EDstnosti dal jm\u00E9no [Domu Zvon\u00EDka Glassimoda](mi_dum_zvonika_glassimoda).\r\nDvojice oken u schodi\u0161t\u011B do [Arboreta](mi_arboretum) m\u00E1 troj\u00FAheln\u00EDkov\u00FD tvar."
+      }
+    ],
+    "image_id": 0,
+    "area": 69,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "redirect": null,
+    "tobeedited": false
+  },
+  "te_bordel_chestka": {
+    "Title": "Bordel chestka",
+    "Type": "druh \u00FAlo\u017Ei\u0161t\u011B",
+    "Images": [],
+    "Image_titles": [
+      "BORDEL CHESTKA V TAJN\u00C9 M\u00CDSTNOSTI"
+    ],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Bordel Chestka"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Bordel chestka je neform\u00E1ln\u00ED, av\u0161ak vysoce roz\u0161\u00ED\u0159en\u00FD fenom\u00E9n v hern\u00EDch prost\u0159ed\u00EDch se spr\u00E1vou invent\u00E1\u0159e. P\u0159edstavuje konternej (obvykle truhlu), do n\u011Bj\u017E hr\u00E1\u010D ukl\u00E1d\u00E1 neset\u0159\u00EDd\u011Bn\u00E9, moment\u00E1ln\u011B nepot\u0159ebn\u00E9 nebo nadbyte\u010Dn\u00E9 p\u0159edm\u011Bty s c\u00EDlem rychl\u00E9ho uvoln\u011Bn\u00ED invent\u00E1\u0159e bez nutnosti okam\u017Eit\u00E9 organizace."
+      },
+      {
+        "Title": "Funkce",
+        "Content": "Z hlediska hern\u00EDho designu bordel chestka pln\u00ED funkci do\u010Dasn\u00E9ho \u00FAlo\u017Ei\u0161t\u011B s vysokou entropi\u00ED, \u010Dasto slou\u017E\u00EDc\u00ED jako behavior\u00E1ln\u00ED stopa hr\u00E1\u010Dova stylu spr\u00E1vy zdroj\u016F. P\u0159esto\u017Ee m\u016F\u017Ee b\u00FDt vn\u00EDm\u00E1na jako \u0022nepo\u0159\u00E1dek\u0022, jej\u00ED existence nazna\u010Duje p\u0159irozenou lidskou tendenci oddalovat rozhodov\u00E1n\u00ED v situaci informa\u010Dn\u00EDho p\u0159et\u00ED\u017Een\u00ED."
+      },
+      {
+        "Title": "D\u016Fsledek",
+        "Content": "Zaj\u00EDmav\u00FDm jevem je postupn\u00E9 p\u0159er\u016Fst\u00E1n\u00ED bordel chestek v komplexn\u00ED syst\u00E9my polot\u0159\u00EDd\u011Bn\u00E9ho nepo\u0159\u00E1dku \u2013 tzv. chaotickou s\u00ED\u0165 \u00FAlo\u017Ei\u0161\u0165, kde se u\u017E samotn\u00FD pokus o orientaci st\u00E1v\u00E1 hrou v h\u0159e. Zaznamen\u00E1ny byly p\u0159\u00EDpady, kdy hr\u00E1\u010D objevil v bordel chestce p\u0159edm\u011Bt, kter\u00FD pova\u017Eoval za ztracen\u00FD n\u011Bkolik hern\u00EDch dn\u00ED a\u017E t\u00FDdn\u016F."
+      },
+      {
+        "Title": "Z\u00E1v\u011Br",
+        "Content": "V\u011Bdeck\u00E9 studium bordel chestek m\u016F\u017Ee nab\u00EDdnout vhled do kognitivn\u00EDch a organiza\u010Dn\u00EDch strategi\u00ED hr\u00E1\u010D\u016F, stejn\u011B jako inspiraci pro n\u00E1vrh hern\u00EDch n\u00E1stroj\u016F podporuj\u00EDc\u00EDch inteligentn\u00ED spr\u00E1vu p\u0159edm\u011Bt\u016F."
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "redirect": null,
+    "tobeedited": false
+  },
+  "mi_skryta_mistnost": {
+    "Title": "Skryt\u00E1 M\u00EDsnost",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "SKRYT\u00C1 M\u00CDSTNOST",
+      "V\u00DDKLENEK"
+    ],
+    "Bordering_rooms": [
+      "mi_dira_do_pekel",
+      "mi_blok_a",
+      "mi_blok_b",
+      "mi_tajna_mistnost"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Skryt\u00E1 M\u00EDsnost",
+      "Blok": "[Suter\u00E9n](bl_suteren)",
+      "Okrsek": "[D\u016Fl](ok_dul)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Skryt\u00E1 M\u00EDstnost je sestersk\u00E1 m\u00EDstnost sousedn\u00ED [Tajn\u00E9 M\u00EDstnosti](mi_tajna_mistnost). Nach\u00E1z\u00ED se v [Suter\u00E9nu(bl_suteren) a vedou do n\u00ED \u010Dty\u0159i dve\u0159e. Mezi n\u011B pat\u0159\u00ED ji\u017E zm\u00EDn\u011Bn\u00E1 [Tajn\u00E1 M\u00EDstnost](mi_tajna_mistnost) a dal\u0161\u00ED t\u0159i, kter\u00E9 jsou na stejn\u00E9 st\u011Bn\u011B. Zleva se jedn\u00E1 o [D\u00EDru do Pekel](mi_dira_do_pekel), [Blok A](mi_blok_a) a [Blok B](mi_blok_b). V\u0161echny \u010Dty\u0159i dve\u0159e jsou jeden blok nad podlahou m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "N\u00E1zev byl inspirov\u00E1n n\u00E1zvem [Sousedn\u00ED m\u00EDstnosti](mi_tajna_mistnost)."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Narozd\u00EDl od [Tajn\u00E9 M\u00EDstnosti](mi_tajna_mistnost) p\u016Fsob\u00ED Skryt\u00E1 M\u00EDstnost relativn\u011B pr\u00E1zdn\u011B. P\u0159i pohledu od dve\u0159\u00ED z [Tajnou M\u00EDstnost\u00ED](mi_tajna_mistnost) jsou na lev\u00E9 stran\u011B dvoje dve\u0159e do blok\u016F [A](mi_blok_a) a [B](mi_blok_b) a na prav\u00E9 \u010Dtvercov\u00E1 okna s vodou za nimi. V rohu u okna je jedin\u00FD crafting table v m\u00EDstnosti. Ke v\u0161em t\u011Bmto dve\u0159\u00EDm vede sch\u016Fdek \u010Di slab, nebo\u0165 jsou v\u00FD\u0161e ne\u017E podlaha. Na konci m\u00EDstnosti je mal\u00FD v\u00FDklenek za d\u0159ev\u011Bnou z\u00E1st\u011Bnou s postel\u00ED a trojic\u00ED barel\u016F. Mezi barely jsou dve\u0159e a barely samotn\u00E9 slou\u017E\u00ED jako schodi\u0161t\u011B k vstupu do zat\u00EDm nepojmenovan\u00E9 m\u00EDstnosti."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "V ka\u017Ed\u00E9m barelu je n\u011Bco ulo\u017Eeno. V ni\u017E\u0161\u00EDch dvou je to dev\u011Bt cobbleston\u016F ve specifick\u00E9m tvaru. V nejvy\u0161\u0161\u00EDm je to kombinace mnoha r\u016Fzn\u00FDch p\u0159edm\u011Bt\u016F (lapis\u016F, soul sand\u016F, p\u00EDsku, p\u00EDskovce, cobblestonu a bambusu), kter\u00E9 jsou symetricky uspo\u0159\u00E1d\u00E1ny."
+      }
+    ],
+    "image_id": 0,
+    "area": 82,
     "Empty": false,
     "numberOfRooms": 0,
     "redirect": null,

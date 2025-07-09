@@ -18,6 +18,8 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
+        ViewBag.FinishedPages = _wikiService.getFinishedPages();
+        ViewBag.TotalPages = _wikiService.getTotalPages();
         return View(_wikiService.Last10pages());
     }
 

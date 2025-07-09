@@ -4,6 +4,7 @@
 
 <div class="text-center">
     <h1 class="display-4">Vítejte na Pařez Wiki!</h1>
+    <h1>Více než @(ViewBag.finishedPages-1) článků!</h1>
     <h3>Nejnovější články: </h3>
     @foreach (var key in Model.Keys){
         <p>Více o <a href=@key>@Model[@key]</a>.</p>

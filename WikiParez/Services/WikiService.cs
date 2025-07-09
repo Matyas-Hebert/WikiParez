@@ -11,6 +11,7 @@ using System.Runtime.InteropServices;
 using Microsoft.AspNetCore.Components.Endpoints;
 using Microsoft.AspNetCore.Mvc.Filters;
 using System.Globalization;
+using Microsoft.AspNetCore.SignalR;
 
 public class WikiService
 {
@@ -18,6 +19,9 @@ public class WikiService
     private Dictionary<string, WikiPage> _pages;
     private Dictionary<string, WikiPage> _onlyroomspages;
     private Dictionary<string, SimplifiedWikiPage> _simplifiedPages;
+
+    private int finishedPages = 0;
+    private int totalpages = 0;
 
     public WikiService(IHostEnvironment env)
     {
@@ -398,6 +402,8 @@ public class WikiService
 
         foreach (var key in dictionary.Keys)
         {
+            totalpages++;
+            if (dictionary[key].Empty == false) finishedPages++;
             if (dictionary[key].image_count() == 0)
             {
                 dictionary[key].Images.Add("missing.jpg");
@@ -442,6 +448,16 @@ public class WikiService
         }
 
         return dictionary;
+    }
+
+    public int getFinishedPages()
+    {
+        return finishedPages;
+    }
+
+    public int getTotalPages()
+    {
+        return totalpages;
     }
 
     private string UseRegex(string content)
