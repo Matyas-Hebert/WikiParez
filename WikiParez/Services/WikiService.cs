@@ -56,6 +56,11 @@ public class WikiService
         {
             return match.Groups[1].Value;
         }
+        match = Regex.Match(link, @"<a[^>]*>(.*?)</a>");
+        if (match.Success)
+        {
+            return match.Groups[1].Value;
+        }
         return link;
     }
 

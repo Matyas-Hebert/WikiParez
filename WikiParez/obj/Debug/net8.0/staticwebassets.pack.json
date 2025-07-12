@@ -361,6 +361,18 @@
       "PackagePath": "staticwebassets/Images/mi_prechod1.png"
     },
     {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_prvni_dum1.png",
+      "PackagePath": "staticwebassets/Images/mi_prvni_dum1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_prvni_dum2.png",
+      "PackagePath": "staticwebassets/Images/mi_prvni_dum2.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_prvni_dum3.png",
+      "PackagePath": "staticwebassets/Images/mi_prvni_dum3.png"
+    },
+    {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_pucmeloun_farma1.png",
       "PackagePath": "staticwebassets/Images/mi_pucmeloun_farma1.png"
     },
@@ -647,6 +659,14 @@
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/te_stehovani_narodu5.png",
       "PackagePath": "staticwebassets/Images/te_stehovani_narodu5.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/te_vesnicani_na_uteku1.png",
+      "PackagePath": "staticwebassets/Images/te_vesnicani_na_uteku1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/te_vesnicani_na_uteku2.png",
+      "PackagePath": "staticwebassets/Images/te_vesnicani_na_uteku2.png"
     },
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/turtleeasteregg.png",
