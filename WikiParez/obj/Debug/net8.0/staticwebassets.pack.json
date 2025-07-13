@@ -309,6 +309,22 @@
       "PackagePath": "staticwebassets/Images/mi_nether2.png"
     },
     {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_okruh1.png",
+      "PackagePath": "staticwebassets/Images/mi_okruh1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_okruh2.png",
+      "PackagePath": "staticwebassets/Images/mi_okruh2.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_okruh3.png",
+      "PackagePath": "staticwebassets/Images/mi_okruh3.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_okruh4.png",
+      "PackagePath": "staticwebassets/Images/mi_okruh4.png"
+    },
+    {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_oranjestad1.png",
       "PackagePath": "staticwebassets/Images/mi_oranjestad1.png"
     },

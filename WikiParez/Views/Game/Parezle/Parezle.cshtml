@@ -196,7 +196,6 @@
     function undo() {
         if (finished) return;
         var board = document.getElementById('guessed');
-        if (turned) board = document.getElementById('guessedend');
         if (board.children.length > 1) {
             board.removeChild(board.lastElementChild);
             if (!turned) guesses.pop();
@@ -317,8 +316,9 @@
     
     function win(){
         finished = true;
-        var score = Math.round(path.length/(guesses.length+guessesfromend.length-1+mistakes*0.5+hints*2.5+undos*0.5+turns*4)*100);
         var correctsolutionlen = path.length - 1;
+        var yoursolutionlen = guesses.length+guessesfromend.length-1;
+        var score = Math.round(correctsolutionlen/(yoursolutionlen+mistakes*0.25+Math.min(1,mistakes)+hints*2.5+undos*0.5+Math.max(turns*4-2,0))*100);
 
         var floatingDiv = document.createElement('div');
         floatingDiv.style.position = 'fixed';
@@ -340,11 +340,17 @@
         var scoreLabel = document.createElement('div');
         scoreLabel.style.fontSize = '3rem';
         scoreLabel.style.marginTop = '30px';
-        if (score == 100) scoreLabel.innerText = '⭐⭐⭐⭐⭐';
-        if (score < 100) scoreLabel.innerText = '⭐⭐⭐⭐';
-        if (score < 75) scoreLabel.innerText = '⭐⭐⭐';
-        if (score < 50) scoreLabel.innerText = '⭐⭐';
-        if (score < 25) scoreLabel.innerText = '⭐';
+        var stars = 0;
+        if (score == 100) stars = 5;
+        if (score < 100) stars = 4;
+        if (score < 75) stars = 3;
+        if (score < 50) stars = 2;
+        if (score < 25) stars = 1;
+        var div = yoursolutionlen - correctsolutionlen;
+        if (div < 2 && stars < 4-div){
+            stars = 4-div;
+        }
+        scoreLabel.innerText = '⭐'.repeat(stars);
         floatingDiv.appendChild(scoreLabel);
 
         var scoreLabel = document.createElement('div');

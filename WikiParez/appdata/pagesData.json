@@ -8701,64 +8701,6 @@
     "redirect": "",
     "tobeedited": false
   },
-  "mi_okruh": {
-    "Title": "Okruh",
-    "Type": "m\u00EDstnost",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [
-      "mi_plantazove_kralovstvi",
-      "mi_pristav",
-      "mi_hlavni_koridor_i",
-      "mi_pod_schody",
-      "mi_na_samote_u_vody",
-      "mi_hlavni_koridor_ii",
-      "mi_trucovna",
-      "mi_pristavni_molo",
-      "mi_hlavni_trida",
-      "mi_podchod",
-      "mi_blok_a",
-      "mi_dira_do_pekel",
-      "mi_veranda",
-      "mi_down_the_rabbit_hole",
-      "mi_potato_farma",
-      "mi_prvni_dum",
-      "mi_preddvor",
-      "mi_kanal"
-    ],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "Okruh",
-      "Blok": "[Okruh](bl_okruh)",
-      "Okrsek": "[Dub](ok_dub)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
-      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": "Okruh je nejstar\u0161\u00ED chodbou v dom\u011B a pravd\u011Bpodobn\u011B druhou nejstar\u0161\u00ED m\u00EDstnost\u00ED. Okruh p\u016Fvodn\u011B vedl okolo [Prvn\u00EDho Domu](mi_prvni_dum), [Potato farmy](mi_potato_farma) a [Down the Rabbit Hole](mi_down_the_rabbit_hole), "
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": "Jak vznikl n\u00E1zev?"
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": "N\u011Bco o interi\u00E9ru."
-      },
-      {
-        "Title": "Zaj\u00EDmavost",
-        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
-      }
-    ],
-    "image_id": 0,
-    "area": 343,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "redirect": null,
-    "tobeedited": false
-  },
   "mi_potato_farma": {
     "Title": "Potato Farma",
     "Type": "m\u00EDstnost",
@@ -10679,58 +10621,6 @@
     ],
     "image_id": 0,
     "area": 2,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "redirect": "",
-    "tobeedited": false
-  },
-  "mi_ustredni_stredisko_alfa": {
-    "Title": "\u00DAst\u0159edn\u00ED st\u0159edisko Alfa",
-    "Type": "m\u00EDstnost",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [
-      "mi_vault",
-      "mi_vypikarna",
-      "mi_dum_margity_stehlikove",
-      "mi_hlavni_koridor_ii",
-      "mi_rozhrani",
-      "mi_wheat_farma",
-      "mi_chlev"
-    ],
-    "Alternate_names": [
-      "Alfa",
-      "Alpha",
-      "\u00DAst\u0159edn\u00ED st\u0159edisko Alpha"
-    ],
-    "Metadata": {
-      "N\u00E1zev": "\u00DAst\u0159edn\u00ED st\u0159edisko Alfa",
-      "Blok": "[Alfa](bl_alfa)",
-      "Okrsek": "[Dub](ok_dub)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
-      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
-      "new5": "Sklad skla, masa a sponge blok\u016F"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": "Jak vznikl n\u00E1zev?"
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": "N\u011Bco o interi\u00E9ru."
-      },
-      {
-        "Title": "Zaj\u00EDmavost",
-        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
-      }
-    ],
-    "image_id": 0,
-    "area": 45,
     "Empty": true,
     "numberOfRooms": 0,
     "redirect": "",
@@ -30725,6 +30615,121 @@
     ],
     "image_id": 0,
     "area": 6,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "redirect": null,
+    "tobeedited": false
+  },
+  "mi_okruh": {
+    "Title": "Okruh",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "OKRUH",
+      "POD SCHODY A SCHODY NA HLAVN\u00CD KORIDOR",
+      "OKRUH U RYB\u00C1\u0158SK\u00C9 KOLONIE",
+      "DOWN THE RABBIT HOLE A POTATO FARMA"
+    ],
+    "Bordering_rooms": [
+      "mi_plantazove_kralovstvi",
+      "mi_pristav",
+      "mi_hlavni_koridor_i",
+      "mi_pod_schody",
+      "mi_na_samote_u_vody",
+      "mi_hlavni_koridor_ii",
+      "mi_trucovna",
+      "mi_pristavni_molo",
+      "mi_hlavni_trida",
+      "mi_podchod",
+      "mi_blok_a",
+      "mi_dira_do_pekel",
+      "mi_veranda",
+      "mi_down_the_rabbit_hole",
+      "mi_potato_farma",
+      "mi_prvni_dum",
+      "mi_preddvor",
+      "mi_kanal"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Okruh",
+      "Blok": "[Okruh](bl_okruh)",
+      "Okrsek": "[Dub](ok_dub)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Okruh je nejstar\u0161\u00ED chodbou v dom\u011B a pravd\u011Bpodobn\u011B druhou nejstar\u0161\u00ED m\u00EDstnost\u00ED. Okruh p\u016Fvodn\u011B vedl okolo [Prvn\u00EDho Domu](mi_prvni_dum), [Potato farmy](mi_potato_farma) a [Down the Rabbit Hole](mi_down_the_rabbit_hole), ale postupem \u010Dasu kolem n\u011Bj vyrostlo nespo\u010Det nov\u00FDch m\u00EDstnost\u00ED. Asi nejstar\u0161\u00ED je \u0161irok\u00E9 to\u010Dit\u00E9 schodi\u0161t\u011B vedouc\u00ED na [Hlavn\u00ED Koridor II](mi_hlavni_koridor_ii) a \u0159ada m\u00EDstnost\u00ED u n\u011Bj. Jedn\u00E1 se o [Trucovnu](mi_trucovna), [Na Samot\u011B u Vody](mi_na_samote_u_vody) a [Pod Schody](mi_pod_schody). Hned u dve\u0159\u00ED [Pod Schody](mi_pod_schody) je d\u00EDra do [Kan\u00E1lu](mi_kanal) a schody na [prvn\u00ED Hlavn\u00ED Koridor](mi_hlavni_koridor_i). \r\nD\u00E1le se d\u00E1 z okruhu dostat na [Plant\u00E1\u017Eov\u00E9 Kr\u00E1lovstv\u00ED](mi_plantazove_kralovstvi), schody k [P\u0159\u00EDstavu](mi_pristav), dve\u0159mi do [Preddvoru](mi_preddvor), na [Verandu](mi_veranda), do [D\u00EDry do Pekel](mi_dira_do_pekel), dv\u011Bma vchody na [Hlavn\u00ED T\u0159\u00EDdu](mi_hlavni_trida), k [P\u0159\u00EDstavn\u00EDmu Molu](mi_pristavni_molo), do [Vr\u00E1tnice](mi_vratnice) a schody dol\u016F do [Bloku A](mi_blok_a) a [Podchodu](mi_podchod)."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jedn\u00E1 se o okruh kolem [Prvn\u00EDho Domu](mi_prvni_dum), [Potato Farmy](mi_potato_farma) a [Down the Rabbit Hole](mi_down_the_rabbit_hole)."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Nejstar\u0161\u00ED \u010D\u00E1st Okruhu je postavena z dubov\u00E9ho d\u0159eva. Na n\u011Bkolika m\u00EDstech byl ale Okruh roz\u0161\u00ED\u0159en o smrkovou podlahu. To je vid\u011Bt nap\u0159\u00EDklad na z\u00E1padn\u00ED stran\u011B u [Ryb\u00E1\u0159sk\u00E9 Kolonie](ca_rybarska_kolonie) nebo u dve\u0159\u00ED [Pod Schody](mi_pod_schody). V\u011Bt\u0161ina okoln\u00EDch m\u00EDstnost\u00ED je tak\u00E9 postavena ze smrkov\u00E9ho d\u0159eva a tak je t\u00E9m\u011B\u0159 cel\u00FD okruh smrkem obehn\u00E1n. Vyj\u00EDmkou je v\u00FDchodn\u00ED st\u011Bna za n\u00ED\u017E je [Plant\u00E1\u017Eov\u00E9 Kr\u00E1lovstv\u00ED](mi_plantazove_kralovstvi) a [Preddvor](mi_preddvor) postaven\u00E1 z dubov\u00E9ho list\u00ED. Dubov\u00E9 list\u00ED je tak\u00E9 pou\u017Eito u st\u011Bn s [Prvn\u00EDm Domem](mi_prvni_dum)\r\nSpecifick\u00FD je tak\u00E9 vchod do [Down the Rabbit Hole](mi_down_the_rabbit_hole) postaven z p\u00EDskovce. Schodi\u0161t\u011B dol\u016F je obehn\u00E1no dubov\u00FDm a z \u010D\u00E1sti smrkov\u00FDm plotem a hned za n\u00EDm se nach\u00E1z\u00ED schodi\u0161t\u011B nahoru na [Hlavn\u00ED Koridor II](mi_hlavni_koridor_ii) a dol\u016F k [Bloku B](mi_blok_b) a [Podchodu](mi_podchod). Ploty a sloupky z n\u011Bj jsou zde pou\u017Eity pro podep\u0159en\u00ED m\u00EDstnost\u00ED nad Okruhem.\r\nV\u00FD\u0161ka stropu na Okruhu se pohybuje v\u017Edy kolem t\u0159\u00ED blok\u016F, jsou zde t\u0159i crafting tably a chyb\u00ED zde postel."
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": "P\u0159i pohledu p\u0159\u00EDmo nad schodi\u0161t\u011B do [Down the Rabbit Hole](mi_down_the_rabbit_hole) je zcela z\u0159ejm\u00E1 hranice mezi p\u016Fvodn\u00ED dubovou \u010D\u00E1st\u00ED a novou smrkovou \u010D\u00E1st\u00ED.\r\nBarel [Potato Farmy](mi_potato_farma) je polo\u017Een na hranici s [Okruhem](mi_okruh)."
+      }
+    ],
+    "image_id": 0,
+    "area": 343,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "redirect": null,
+    "tobeedited": false
+  },
+  "mi_ustredni_stredisko_alfa": {
+    "Title": "\u00DAst\u0159edn\u00ED st\u0159edisko Alfa",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_vault",
+      "mi_vypikarna",
+      "mi_dum_margity_stehlikove",
+      "mi_hlavni_koridor_ii",
+      "mi_rozhrani",
+      "mi_wheat_farma",
+      "mi_chlev"
+    ],
+    "Alternate_names": [
+      "Alfa",
+      "Alpha",
+      "\u00DAst\u0159edn\u00ED st\u0159edisko Alpha"
+    ],
+    "Metadata": {
+      "N\u00E1zev": "\u00DAst\u0159edn\u00ED st\u0159edisko Alfa",
+      "Blok": "[Alfa](bl_alfa)",
+      "Okrsek": "[Dub](ok_dub)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
+      "\u00DA\u010Del": "Sklad skla, masa a sponge blok\u016F"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "\u00DAst\u0159edn\u00ED St\u0159edisko Alfa nebo tak\u00E9 Alfa je u\u017Eite\u010Dn\u00E1 m\u00EDstnost na [Rozhran\u00ED](mi_rozhrani). Slou\u017E\u00ED jako sklad sponge blok\u016F, masa a skla, ale tak\u00E9 soused\u00ED s [Chl\u00E9vem](mi_chlev), kde jsou chov\u00E1ny kr\u00E1vy, a s [Wheat Farmu](mi_wheat_farma), kde je p\u011Bstov\u00E1no obil\u00ED. D\u00E1le z n\u00ED vedou dve\u0159e do [Vyp\u00EDk\u00E1rny](mi_vypikarna) a do [Domu Margity Stehl\u00EDkov\u00E9](mi_dum_margity_stehlikove), \u017Eeb\u0159\u00EDk na [Hlavn\u00ED Koridor II](mi_hlavni_koridor_ii) a do [Vaultu](mi_vault).\r\nJe nutno dodat, \u017Ee \u010Dty\u0159i ze sedmi m\u00EDstnost\u00ED, jen\u017E soused\u00ED s Alfou maj\u00ED sv\u016Fj vlastn\u00ED \u00FA\u010Del. To je d\u00E1no faktem, \u017Ee se Alfa nach\u00E1z\u00ED ve st\u0159edu [zem\u011Bd\u011Blsk\u00E9 \u010D\u00E1sti domu](te_zemedelska_cast)."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jedn\u00E1 se prvn\u00ED ze dvou \u00DAst\u0159edn\u00EDch St\u0159edisek v dom\u011B. M\u00EDstnost dala tak\u00E9 n\u00E1zev bloku [Alfa](bl_alfa) ve kter\u00E9m se nach\u00E1z\u00ED."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "M\u00EDstnost je na svoji d\u016Fle\u017Eitost relativn\u011B mal\u00E1, ale za to pln\u011B vyu\u017Eita. P\u0159i vstupu z [Rozhran\u00ED](mi_rozhrani) je po lev\u00E9 stran\u011B sv\u011Btle modr\u00E1 postel a crafting table a p\u0159\u00EDmo p\u0159ed nosem nejv\u011Bt\u0161\u00ED okno v m\u00EDstnosti za n\u00EDm\u017E jdou vid\u011Bt \u00FAly v [Dom\u011B Margity Stehl\u00EDkov\u00E9](mi_dum_margity_stehlikove), ten je jako jedin\u00FD ze sousedn\u00EDch m\u00EDstnost\u00ED postaven z \u010D\u00E1sti z dubov\u00E9ho d\u0159eva.\r\nPo obou stran\u00E1ch m\u00EDstnosti jsou polo\u017Eeny bal\u00EDky sena a na jednom z nich i bambus v kv\u011Btin\u00E1\u010Di. V rohu se nach\u00E1z\u00ED sloupek z p\u011Bti barel\u016F. Z nich\u017E \u010Dty\u0159i z nich maj\u00ED sv\u016Fj vlastn\u00ED \u00FA\u010Del (sponge bloky, pe\u010Den\u00E9 maso, syrov\u00E9 maso a sklo). Barely ur\u010Den\u00E9 na uskladn\u011Bn\u00ED skla a sponge blok\u016F jsou ji\u017E n\u011Bjakou dobu pr\u00E1zdn\u00E9. Hned vedle vchodu z [Rozhran\u00ED](mi_rozhrani) je plot a za n\u00EDm v\u00FDb\u011Bh s kr\u00E1vami v [Chl\u00E9v\u011B](mi_chlev). \r\nCel\u00E1 m\u00EDstnost je velmi \u00FAtuln\u00E1, ale p\u0159ekvapuje sv\u00FDmi vysok\u00FDmi stropy. Je zde tak\u00E9 velk\u00E9 mno\u017Estv\u00ED oken a prostor je skv\u011Ble osv\u011Btlen."
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": "M\u00EDstnost\u00ED p\u0159\u00EDmo proch\u00E1zej\u00ED v\u0161echny \u010Dty\u0159i paprsky [beaconu](beacon_parez).\r\nAlfa je jedna z m\u00E1la m\u00EDstnosti s bloky sena.\r\nV\u011Bt\u0161ina sousedn\u00EDch m\u00EDstnost\u00ED Alfy m\u00E1 sv\u016Fj vlastn\u00ED \u00FA\u010Del.\r\n\u017Deb\u0159\u00EDk do [Vaultu](mi_vault) m\u016F\u017Ee b\u00FDt ozna\u010Dov\u00E1n za nejstar\u0161\u00ED tajn\u00FD vchod v dom\u011B."
+      }
+    ],
+    "image_id": 0,
+    "area": 45,
     "Empty": false,
     "numberOfRooms": 0,
     "redirect": null,
