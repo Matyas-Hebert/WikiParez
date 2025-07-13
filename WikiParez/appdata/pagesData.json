@@ -2409,7 +2409,7 @@
       },
       {
         "Title": "Zaj\u00EDmavosti",
-        "Content": "Silo je nejstar\u0161\u00ED [Stromovou v\u011B\u017E\u00ED](ka_stromove_veze) v dom\u011B.\r\nOchoz se dve\u0159mi z [Klubu](mi_klub) je jedin\u00FDm ochozem, kter\u00FD nem\u00E1 p\u0159\u00EDstup k \u017Eeb\u0159\u00EDku.\r\nJedin\u00FDm oknem mimo \u010Dty\u0159ech hlavn\u00EDch je mal\u00E9 2x1 okno s [Oranjestadem](mi_oranjestad).\r\nCelkov\u00FD objem Sila je odhadov\u00E1n na v\u00EDce ne\u017E 2600 blok\u016F krychlov\u00FDch.\r\nSilo je jednou z nejv\u011Bt\u0161\u00EDch m\u00EDstnost\u00ED jen v jednom bloku."
+        "Content": "Silo je nejstar\u0161\u00ED [Stromovou v\u011B\u017E\u00ED](ka_stromove_veze) v dom\u011B.\r\nOchoz se dve\u0159mi z [Klubu](mi_klub) je jedin\u00FDm ochozem, kter\u00FD nem\u00E1 p\u0159\u00EDstup k \u017Eeb\u0159\u00EDku.\r\nJedin\u00FDm oknem mimo \u010Dty\u0159ech hlavn\u00EDch je mal\u00E9 2x1 okno s [Oranjestadem](mi_oranjestad).\r\nCelkov\u00FD objem Sila je odhadov\u00E1n na v\u00EDce ne\u017E 2600 blok\u016F krychlov\u00FDch.\r\nSilo je jednou z nejv\u011Bt\u0161\u00EDch m\u00EDstnost\u00ED jen v jednom bloku.\r\nSilo bylo n\u011Bkolikr\u00E1t zasa\u017Eeno bleskem, ale [te_nepostizeny_ohnem](nikdy nevypukl po\u017E\u00E1r)."
       },
       {
         "Title": "Aktuality",
@@ -9016,51 +9016,6 @@
     "redirect": null,
     "tobeedited": false
   },
-  "mi_nkp": {
-    "Title": "NKP",
-    "Type": "m\u00EDstnost",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [
-      "mi_koreny",
-      "mi_pod_schodama",
-      "mi_w_vez_1_podlazi"
-    ],
-    "Alternate_names": [
-      "N\u00E1rodn\u00ED kulturn\u00ED pam\u00E1tka"
-    ],
-    "Metadata": {
-      "N\u00E1zev": "NKP",
-      "Blok": "[Mezipatro](bl_mezipatro)",
-      "Okrsek": "[Dub](ok_dub)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
-      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": "Jak vznikl n\u00E1zev?"
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": "N\u011Bco o interi\u00E9ru."
-      },
-      {
-        "Title": "Zaj\u00EDmavost",
-        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
-      }
-    ],
-    "image_id": 0,
-    "area": 20,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "redirect": "",
-    "tobeedited": false
-  },
   "mi_mezipatro": {
     "Title": "Mezipatro",
     "Type": "m\u00EDstnost",
@@ -10666,91 +10621,6 @@
     ],
     "image_id": 0,
     "area": 48,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "redirect": "",
-    "tobeedited": false
-  },
-  "mi_vypikarna": {
-    "Title": "Vyp\u00EDk\u00E1rna",
-    "Type": "m\u00EDstnost",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [
-      "mi_ustredni_stredisko_alfa",
-      "mi_the_bridge",
-      "mi_mestsky_okruh"
-    ],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "Vyp\u00EDk\u00E1rna",
-      "Blok": "[Alfa](bl_alfa)",
-      "Okrsek": "[Dub](ok_dub)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
-      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
-      "\u00DA\u010Del": "Pece, sklad uhl\u00ED"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": "Jak vznikl n\u00E1zev?"
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": "N\u011Bco o interi\u00E9ru."
-      },
-      {
-        "Title": "Zaj\u00EDmavost",
-        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
-      }
-    ],
-    "image_id": 0,
-    "area": 25,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "redirect": "",
-    "tobeedited": false
-  },
-  "mi_vault": {
-    "Title": "Vault",
-    "Type": "m\u00EDstnost",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [
-      "mi_ustredni_stredisko_alfa"
-    ],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "Vault",
-      "Blok": "[Alfa](bl_alfa)",
-      "Okrsek": "[Dub](ok_dub)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
-      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": "Jak vznikl n\u00E1zev?"
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": "N\u011Bco o interi\u00E9ru."
-      },
-      {
-        "Title": "Zaj\u00EDmavost",
-        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
-      }
-    ],
-    "image_id": 0,
-    "area": 29,
     "Empty": true,
     "numberOfRooms": 0,
     "redirect": "",
@@ -30687,7 +30557,10 @@
     "Title": "\u00DAst\u0159edn\u00ED st\u0159edisko Alfa",
     "Type": "m\u00EDstnost",
     "Images": [],
-    "Image_titles": [],
+    "Image_titles": [
+      "ALFA",
+      "POSTEL, DVE\u0158E Z ROZHRAN\u00CD A DO DOMU MARGITY STEHL\u00CDKOV\u00C9"
+    ],
     "Bordering_rooms": [
       "mi_vault",
       "mi_vypikarna",
@@ -30730,6 +30603,184 @@
     ],
     "image_id": 0,
     "area": 45,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "redirect": null,
+    "tobeedited": false
+  },
+  "mi_vypikarna": {
+    "Title": "Vyp\u00EDk\u00E1rna",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "PECE A DVE\u0158E NA THE BRIDGE",
+      "DRUH\u00C9 PODLA\u017D\u00CD"
+    ],
+    "Bordering_rooms": [
+      "mi_ustredni_stredisko_alfa",
+      "mi_the_bridge",
+      "mi_mestsky_okruh"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Vyp\u00EDk\u00E1rna",
+      "Blok": "[Alfa](bl_alfa)",
+      "Okrsek": "[Dub](ok_dub)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
+      "\u00DA\u010Del": "Pece, sklad uhl\u00ED"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Vyp\u00EDk\u00E1rna je mal\u00E1 dvojpatrov\u00E1 m\u00EDstnost v [Alf\u011B](bl_alfa) slou\u017E\u00EDc\u00ED jako prostor pro tepelnou \u00FApravu p\u0159edm\u011Bt\u016F. Spodn\u00ED podla\u017E\u00ED propojuje [Alfu](mi_ustredni_stredisko_alfa) s [Bridgem](mi_the_bridge) a na horn\u00ED podla\u017E\u00ED vedou jedin\u00E9 dve\u0159e a to z [M\u011Bstsk\u00E9ho Okruhu](mi_mestsky_okruh). Ob\u011B patra spojuje \u017Eeb\u0159\u00EDk."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "N\u00E1zev m\u00EDstnosti byl odvozen od slova \u0022Vyp\u00EDkat\u0022."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "M\u00EDstnost m\u00E1 rozm\u011Bry jen 4x3 bloky, av\u0161ak vynik\u00E1 do v\u00FD\u0161ky, kter\u00E1 dvojn\u00E1sobn\u011B p\u0159ekon\u00E1v\u00E1 jak\u00FDkoliv jin\u00FD rozm\u011Br. Hned vedle vstupu z [\u00DAst\u0159edn\u00EDho St\u0159ediska Alfy](mi_ustredni_stredisko_alfa) se nach\u00E1z\u00ED jedin\u00FD barel v m\u00EDstnosti, ur\u010Den\u00FD na uskladn\u011Bn\u00ED uhl\u00ED a r\u016Fzn\u00FDch druh\u016F paliv. Naproti tomu je v rohu postaven \u017Eeb\u0159\u00EDk propojuj\u00EDc\u00ED ob\u011B podla\u017E\u00ED Vyp\u00EDk\u00E1rny.\r\nDominantn\u00EDm prvkem je severn\u00ED st\u011Bna, na kter\u00E9 je rozm\u00EDst\u011Bno celkem 17 pec\u00ED - z toho 6 jsou smokery. Pod pecemi je trojice trapdoor\u016F, umo\u017E\u0148uj\u00EDc\u00ED pohodln\u00FD p\u0159\u00EDstup i k v\u00FD\u0161e polo\u017Een\u00FDm pec\u00EDm bez nutnosti \u0161plhat nahoru. Druh\u00E9 patro je p\u011Bt blok\u016F nad prvn\u00EDm, nab\u00EDz\u00ED nejen snadn\u011Bj\u0161\u00ED obsluhu horn\u00EDch pec\u00ED, ale tak\u00E9 sv\u011Btle \u0161edou postel pro odpo\u010Dinek.\r\nA\u010Dkoliv Vyp\u00EDk\u00E1rna b\u00FDvala kdysi kl\u00ED\u010Dov\u00FDm uzlem pro tepeln\u00E9 zpracov\u00E1n\u00ED materi\u00E1l\u016F, dnes jej\u00ED funkci t\u00E9m\u011B\u0159 zcela p\u0159evzala modern\u011Bj\u0161\u00ED m\u00EDstnost [Nev\u00EDm a Pece](mi_nevim_a_pece)."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Barel s uhl\u00EDm nejde otev\u0159\u00EDt ze sousedn\u00ED [Alfy](mi_ustredni_stredisko_alfa), nebo\u0165 je na n\u011Bm postaven \u017Eeb\u0159\u00EDk."
+      }
+    ],
+    "image_id": 0,
+    "area": 25,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "redirect": null,
+    "tobeedited": false
+  },
+  "mi_vault": {
+    "Title": "Vault",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "VAULT",
+      "ZADN\u00CD \u010C\u00C1ST"
+    ],
+    "Bordering_rooms": [
+      "mi_ustredni_stredisko_alfa"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Vault",
+      "Blok": "[Alfa](bl_alfa)",
+      "Okrsek": "[Dub](ok_dub)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Vault je mal\u00E1, nen\u00E1padn\u00E1 m\u00EDstnost um\u00EDst\u011Bn\u00E1 p\u0159\u00EDmo nad [\u00DAst\u0159edn\u00EDm St\u0159ediskem Alfa](mi_ustredni_stredisko_alfa). P\u0159\u00EDstupn\u00E1 je pouze \u017Eeb\u0159\u00EDkem vedouc\u00EDm z [Alfy](mi_ustredni_stredisko_alfa) a se sv\u00FDm n\u00EDzk\u00FDm stropem p\u016Fsob\u00ED kompaktn\u00EDm, a\u017E skoro st\u00EDsn\u011Bn\u00FDm dojmem, kter\u00FD v\u0161ak podtrhuje jej\u00ED funk\u010Dn\u00ED a \u00FAkrytov\u00FD charakter."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Vault v p\u0159ekladu znamen\u00E1 \u0022trezor\u0022. M\u00EDstnost z\u00EDskala sv\u016Fj n\u00E1zev d\u00EDky faktu, \u017Ee je skryta a vede do n\u00ED jedin\u00E1 cesta."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Vnit\u0159n\u00ED prostor je rozd\u011Blen na dv\u011B \u010D\u00E1sti. V prvn\u00ED \u010D\u00E1sti, do kter\u00E9 vede i v\u00FD\u0161e zm\u00EDn\u011Bn\u00FD \u017Eeb\u0159\u00EDk, se nach\u00E1z\u00ED b\u00EDl\u00E1 postel, crafting table a p\u011Bt barel\u016F. Dva z t\u011Bchto barel\u016F jsou napojeny na vertik\u00E1ln\u00ED sloup barel\u016F t\u00E1hnouc\u00ED se z [\u00DAst\u0159edn\u00EDho St\u0159ediska Alfa](mi_ustredni_stredisko_alfa). Touto sekc\u00ED z\u00E1rove\u0148 proch\u00E1zej\u00ED paprsky [beaconu](beacon_parez), kter\u00E9 jsou v\u00FDrazn\u00FDm prvkem m\u00EDstnosti. Ve druh\u00E9 \u010D\u00E1sti Vaultu se nach\u00E1z\u00ED dal\u0161\u00ED dvojice barel\u016F jako dopl\u0148kov\u00FD \u00FAlo\u017En\u00FD prostor.\r\nTypick\u00FDm rysem m\u00EDstnosti jsou okna - \u010Dasto se nach\u00E1zej\u00ED t\u011Bsn\u011B u podlah jin\u00FDch m\u00EDstnost\u00ED, \u010D\u00EDm\u017E vznikaj\u00ED ne\u010Dekan\u00E9 v\u00FDhledy do okoln\u00ED struktury."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zadn\u00ED \u010D\u00E1st prvn\u00ED \u010D\u00E1sti Vaultu se t\u0159emi barely je p\u0159\u00EDstupn\u00E1 pouze po skr\u010Den\u00ED."
+      }
+    ],
+    "image_id": 0,
+    "area": 29,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "redirect": null,
+    "tobeedited": false
+  },
+  "mi_nkp": {
+    "Title": "NKP",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "NKP",
+      "V\u00DDHLED NA LOM A \u0158EKU"
+    ],
+    "Bordering_rooms": [
+      "mi_koreny",
+      "mi_pod_schodama",
+      "mi_w_vez_1_podlazi"
+    ],
+    "Alternate_names": [
+      "N\u00E1rodn\u00ED kulturn\u00ED pam\u00E1tka"
+    ],
+    "Metadata": {
+      "N\u00E1zev": "NKP",
+      "Blok": "[Mezipatro](bl_mezipatro)",
+      "Okrsek": "[Dub](ok_dub)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "NKP neboli N\u00E1rodn\u00ED kulturn\u00ED pam\u00E1tka je m\u00EDstnost pod [Ko\u0159eny](mi_koreny). Shora vede d\u00EDra z [Ko\u0159en\u016F](mi_koreny), do kter\u00FDch se lze dostat v\u00FDtahem. D\u00E1le jsou zde dve\u0159e z [Pod Schodama](mi_pod_schodama) a z [1. podla\u017E\u00ED W-V\u011B\u017Ee](mi_w_vez_1_podlazi)."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "M\u00EDstnost nese n\u00E1zev N\u00E1rodn\u00ED kulturn\u00ED pam\u00E1tka, a\u010Dkoliv nespl\u0148uje \u017E\u00E1dn\u00E9 form\u00E1ln\u00ED pam\u00E1tkov\u00E9 podm\u00EDnky. Tento n\u00E1zev je pou\u017E\u00EDv\u00E1n ironicky \u010Di s men\u0161\u00ED nads\u00E1zkou."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Interi\u00E9r NKP p\u016Fsob\u00ED prostorn\u011B a otev\u0159en\u011B, zejm\u00E9na d\u00EDky sv\u00E9 nezvykle vysok\u00E9 stropn\u00ED v\u00FD\u0161ce dosahuj\u00EDc\u00EDch 6.5 bloku. Dominantou m\u00EDstnosti je z\u00E1padn\u00ED st\u011Bna, kde je masivn\u00ED okno s v\u00FDhledem na lom a \u0159eku, kter\u00E9 do m\u00EDstnosti p\u0159iv\u00E1d\u00ED p\u0159irozen\u00E9 sv\u011Btlo. Vlevo od okna je um\u00EDst\u011Bn v\u00FDtah vzh\u016Fru do [Ko\u0159en\u016F](mi_koreny) a v jeho bl\u00EDzkost\u00ED se nach\u00E1z\u00ED i praktick\u00FD crafting table a barel.\r\nUprost\u0159ed podlahy je jedin\u00FD blok vody, kter\u00FD slou\u017E\u00ED jako ochrann\u00FD prvek p\u0159i p\u00E1du d\u00EDrou z [Ko\u0159en\u016F](mi_koreny). Naproti velk\u00E9mu oknu jsou dv\u011B men\u0161\u00ED, ale zato vysok\u00E1 okna, kter\u00E1 elegantn\u011B dopl\u0148uj\u00ED interi\u00E9r."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "V\u00FD\u0161ka od podlahu na vrch d\u00EDry je 11.5 bloku."
+      }
+    ],
+    "image_id": 0,
+    "area": 20,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "redirect": null,
+    "tobeedited": false
+  },
+  "te_nepostizeny_ohnem": {
+    "Title": "Neposti\u017Een\u00FD ohn\u011Bm",
+    "Type": "secret",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Neposti\u017Een\u00FD ohn\u011Bm"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Na prvn\u00ED pohled jde o neoby\u010Dejn\u00FD d\u016Fm: konstrukce v\u00FDhradn\u011B ze d\u0159eva, ale \u017E\u00E1dn\u00E9 bleskosvody. A p\u0159ece - tento d\u016Fm navzdory v\u0161em meteorologick\u00FDm statistik\u00FDm, bezpe\u010Dnostn\u00EDm standart\u016Fm i fyzik\u00E1ln\u00EDm o\u010Dek\u00E1v\u00E1n\u00EDm nikdy nesho\u0159el, a\u010Dkoliv byl n\u011Bkolikr\u00E1t zasa\u017Een bleskem. Tento jev vyvolal z\u00E1jem jak m\u00EDstn\u00EDch obyvatel, tak v\u00FDzkumn\u00EDk\u016F zab\u00FDvaj\u00EDc\u00EDch se elektrick\u00FDmi v\u00FDboji, energetikou i anom\u00E1ln\u00EDmi jevy."
+      },
+      {
+        "Title": "Historie",
+        "Content": "Podle dostupn\u00FDch z\u00E1znam\u016F se d\u016Fm nach\u00E1z\u00ED v oblasti n\u00E1chyln\u00E9 k \u010Dast\u00FDm bou\u0159k\u00E1m. Sv\u011Bdectv\u00ED sahaj\u00ED des\u00EDtky let zp\u011Bt a potvrzuj\u00ED n\u011Bkolik p\u0159\u00EDm\u00FDch z\u00E1sah\u016F bleskem \u2013 nejv\u00FDrazn\u011Bj\u0161\u00ED b\u011Bhem letn\u00ED bou\u0159e roku 2022, kdy byly v jeden ve\u010Der zaznamen\u00E1ny t\u0159i z\u00E1sahy do st\u0159e\u0161n\u00ED \u010D\u00E1sti budovy, jmenovit\u011B do dne\u0161n\u00EDho [Sila](mi_silo). Ani tehdy, ani nikdy jindy nedo\u0161lo k vzn\u011Btu.\r\nV dob\u00E1ch, kdy nebylo b\u011B\u017En\u00E9 pou\u017E\u00EDvat m\u011Bd\u011Bn\u00E9 bleskosvody nebo kamenn\u00E9 kom\u00EDny, byly po\u017E\u00E1ry b\u011B\u017Enou sou\u010D\u00E1st\u00ED \u017Eivota. Tento d\u016Fm je ale v\u00FDjimkou, co\u017E vede k cel\u00E9 \u0159ad\u011B hypot\u00E9z, spekulac\u00ED i nevysv\u011Btliteln\u00FDch mo\u017Enost\u00ED."
+      },
+      {
+        "Title": "Hypot\u00E9za 1",
+        "Content": "N\u011Bkte\u0159\u00ED se domn\u00EDvaj\u00ED, \u017Ee pod domem m\u016F\u017Ee b\u00FDt p\u0159irozen\u011B vodiv\u00E1 \u017Eelezn\u00E1 hornina, kter\u00E1 ne\u00FAmysln\u011B funguje jako uzemn\u011Bn\u00ED. To by zp\u016Fsobilo, \u017Ee elektrick\u00FD v\u00FDboj projde d\u0159ev\u011Bnou strukturou bez nutn\u00E9ho zap\u00E1len\u00ED \u2013 podobn\u011B jako proud projde bleskosvodem. Hypot\u00E9ze napov\u00EDd\u00E1 i bl\u00EDzk\u00E1 Iron Golem farma v [\u017Delezn\u00E9 Lhot\u011B](mi_zelezna_lhota), kter\u00E1 dle n\u011Bkter\u00FDch \u017Eeleznou rudu odeb\u00EDr\u00E1 ze zem\u011B a t\u00EDm naru\u0161uje p\u0159irozenou ochranu domu."
+      },
+      {
+        "Title": "Hypot\u00E9za 2",
+        "Content": "Jedna z nejpravd\u011Bpodobn\u011Bj\u0161\u00EDch hypot\u00E9z p\u0159edpokl\u00E1d\u00E1, \u017Ee struktura domu se d\u00EDky p\u0159\u00EDtomnosti vodn\u00EDch prvk\u016F nikdy nep\u0159eh\u0159eje natolik, aby do\u0161lo ke vzn\u00EDcen\u00ED. Uvnit\u0159 domu se toti\u017E nach\u00E1z\u00ED n\u011Bkolik mal\u00FDch jez\u00EDrek, baz\u00E9nk\u016F (nejv\u011Bt\u0161\u00EDm z nich je baz\u00E9n v [L\u00E1zn\u00EDch Panoraama](mi_lazne_panoraama) a vodn\u00EDch v\u00FDtah\u016F, kter\u00E9 mohou zvy\u0161ovat relativn\u00ED vlhkost vzduchu i samotn\u00E9ho d\u0159eva.\r\nVoda odpa\u0159uj\u00EDc\u00ED se z t\u011Bchto prvk\u016F m\u016F\u017Ee pronikat do por\u00E9zn\u00ED struktury d\u0159eva, \u010D\u00EDm\u017E se v\u00FDrazn\u011B sni\u017Euje jeho ho\u0159lavost. Nav\u00EDc je mo\u017En\u00E9, \u017Ee p\u0159i z\u00E1sahu bleskem dojde k okam\u017Eit\u00E9mu odvodu tepla do t\u011Bchto vodn\u00EDch t\u011Bles nebo k vytvo\u0159en\u00ED lok\u00E1ln\u00ED p\u00E1ry, kter\u00E1 p\u016Fsob\u00ED jako kr\u00E1tkodob\u00FD izola\u010Dn\u00ED \u0161t\u00EDt proti vzn\u00EDcen\u00ED.\r\nD\u016Fm tak mo\u017En\u00E1 nev\u011Bdomky vyu\u017E\u00EDv\u00E1 p\u0159irozen\u00E9ho syst\u00E9mu pasivn\u00EDho chlazen\u00ED a zvlh\u010Dov\u00E1n\u00ED, kter\u00FD jej \u010Din\u00ED odoln\u011Bj\u0161\u00EDm v\u016F\u010Di tepeln\u00FDm \u00FA\u010Dink\u016Fm blesk\u016F ne\u017E by odpov\u00EDdalo jeho d\u0159ev\u011Bn\u00E9 konstrukci."
+      },
+      {
+        "Title": "Sou\u010Dasnost",
+        "Content": "D\u016Fm je dnes pova\u017Eov\u00E1n za anom\u00E1lii. N\u011Bkte\u0159\u00ED m\u00EDstn\u00ED tvrd\u00ED, \u017Ee jde o prostou n\u00E1hodu, jin\u00ED o projev \u201Eochrany vy\u0161\u0161\u00ED moci\u201C. P\u0159esto\u017Ee by dnes bylo jednoduch\u00E9 instalovat modern\u00ED ochrann\u00FD syst\u00E9m, majitel\u00E9 tak dosud neu\u010Dinili \u2013 snad z pov\u011Bry, snad ze zv\u011Bdavosti, snad ze z\u00E1m\u011Brn\u00E9 \u00FActy k z\u00E1hadn\u00E9mu jevu."
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
     "Empty": false,
     "numberOfRooms": 0,
     "redirect": null,
