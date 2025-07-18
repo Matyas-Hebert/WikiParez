@@ -45,8 +45,6 @@ bram = [
     "Room Loosova Vila is not in the bordering rooms of Jezírko",
     "Room Skokanský Stav is not in the bordering rooms of Jezírko",
     "Room Dálnice is not in the bordering rooms of Dálniční Pilíř",
-    "Room Dálnice is not in the bordering rooms of Pod Vrbou",
-    "Room Dálnice is not in the bordering rooms of Po Hlavě Dolů",
     "Room Na Můstku is not in the bordering rooms of Vstup",
     "Room Svatyně is not in the bordering rooms of Garáž",
     "Room Východní Blok is not in the bordering rooms of Hráz",

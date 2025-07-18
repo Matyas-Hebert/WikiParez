@@ -408,7 +408,7 @@ public class WikiService
         foreach (var key in dictionary.Keys)
         {
             totalpages++;
-            if (dictionary[key].Empty == false) finishedPages++;
+            if (dictionary[key].Empty == false && dictionary[key].Type != "redirect") finishedPages++;
             if (dictionary[key].image_count() == 0)
             {
                 dictionary[key].Images.Add("missing.jpg");
