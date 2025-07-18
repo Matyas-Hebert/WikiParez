@@ -15180,7 +15180,6 @@
       "mi_pramice",
       "mi_karotka",
       "mi_sobota",
-      "mi_pod_vrbou",
       "mi_rybarna",
       "mi_po_hlave_dolu",
       "mi_dvojcata"
@@ -30143,15 +30142,16 @@
       "mi_koreny",
       "mi_svaty_vyt",
       "mi_koreny",
-      "mi_parket"
+      "mi_parket",
+      "mi_zazemi"
     ],
     "Alternate_names": [],
     "Metadata": {
       "N\u00E1zev": "P\u016Flm\u011Bs\u00EDc",
-      "\u010Ctvr\u0165": "[T\u0159e\u0161e\u0148](bl_tresen)",
-      "\u010C\u00E1st": "[Most](ok_most)",
-      "new3": "[Expresionismus](ct_expresionismus)",
-      "new4": "[Sibi\u0159](ca_sibir)"
+      "Blok": "[T\u0159e\u0161e\u0148](bl_tresen)",
+      "Okrsek": "[Most](ok_most)",
+      "Čtvrť": "[Expresionismus](ct_expresionismus)",
+      "Část": "[Sibi\u0159](ca_sibir)"
     },
     "Sections": [
       {
