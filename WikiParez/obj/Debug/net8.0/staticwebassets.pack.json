@@ -97,6 +97,18 @@
       "PackagePath": "staticwebassets/Images/mi_chodba3.png"
     },
     {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_chodba_ii1.png",
+      "PackagePath": "staticwebassets/Images/mi_chodba_ii1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_chodba_ii2.png",
+      "PackagePath": "staticwebassets/Images/mi_chodba_ii2.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_chodba_ii3.png",
+      "PackagePath": "staticwebassets/Images/mi_chodba_ii3.png"
+    },
+    {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_dalnicni_pilir1.png",
       "PackagePath": "staticwebassets/Images/mi_dalnicni_pilir1.png"
     },
@@ -167,6 +179,14 @@
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_dum_hloupeho_honzy1.png",
       "PackagePath": "staticwebassets/Images/mi_dum_hloupeho_honzy1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_galerie1.png",
+      "PackagePath": "staticwebassets/Images/mi_galerie1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_galerie2.png",
+      "PackagePath": "staticwebassets/Images/mi_galerie2.png"
     },
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_hlidkovaci_kos1.png",
@@ -381,6 +401,10 @@
       "PackagePath": "staticwebassets/Images/mi_parsley_attic3.png"
     },
     {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_podkrovi1.png",
+      "PackagePath": "staticwebassets/Images/mi_podkrovi1.png"
+    },
+    {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_prechod1.png",
       "PackagePath": "staticwebassets/Images/mi_prechod1.png"
     },
@@ -475,10 +499,6 @@
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_silo3.png",
       "PackagePath": "staticwebassets/Images/mi_silo3.png"
-    },
-    {
-      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_silo4.png",
-      "PackagePath": "staticwebassets/Images/mi_silo4.png"
     },
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_skokanske_mustky1.png",
@@ -603,6 +623,30 @@
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_ulita1.png",
       "PackagePath": "staticwebassets/Images/mi_ulita1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_unikove_schodiste1.png",
+      "PackagePath": "staticwebassets/Images/mi_unikove_schodiste1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_unikove_schodiste2.png",
+      "PackagePath": "staticwebassets/Images/mi_unikove_schodiste2.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_unikove_schodiste3.png",
+      "PackagePath": "staticwebassets/Images/mi_unikove_schodiste3.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_unikove_schodiste4.png",
+      "PackagePath": "staticwebassets/Images/mi_unikove_schodiste4.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_unikove_schodiste5.png",
+      "PackagePath": "staticwebassets/Images/mi_unikove_schodiste5.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_unikove_schodiste6.png",
+      "PackagePath": "staticwebassets/Images/mi_unikove_schodiste6.png"
     },
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_ustredni_stredisko_alfa1.png",
