@@ -392,6 +392,11 @@ public class WikiService
         Console.ResetColor();
     }
 
+    public Dictionary<string, WikiPage> GetPages()
+    {
+        return _pages;
+    }
+
     public Dictionary<string, WikiPage> LoadPages()
     {
         if (!File.Exists(_path))

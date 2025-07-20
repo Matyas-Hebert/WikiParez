@@ -1,5 +1,6 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.RazorPages;
 using WikiParez.Models;
 using WikiParez.Services;
 
@@ -27,7 +28,60 @@ public class HomeController : Controller
         return View("New");
     }
 
-    public IActionResult Ideas(){
+    [Route("List/Rooms")]
+    public IActionResult Listrooms()
+    {
+        var list = new List<string>();
+        var pages = _wikiService.GetParezlePages();
+        foreach (var page in pages.Keys)
+        {
+            list.Add(pages[page].Title);
+        }
+        list.Sort();
+        return View("List", list);
+    }
+
+    [Route("List/Blocks")]
+    public IActionResult Listblocks()
+    {
+        var list = new List<string>();
+        var pages = _wikiService.GetPages();
+        foreach (var page in pages.Keys)
+        {
+            if (pages[page].Type == "blok") list.Add(pages[page].Title);
+        }
+        list.Sort();
+        return View("List", list);
+    }
+
+    [Route("List/Okrseks")]
+    public IActionResult Listokrseks()
+    {
+        var list = new List<string>();
+        var pages = _wikiService.GetPages();
+        foreach (var page in pages.Keys)
+        {
+            if (pages[page].Type == "okrsek") list.Add(pages[page].Title);
+        }
+        list.Sort();
+        return View("List", list);
+    }
+
+    [Route("List/Ctvrts")]
+    public IActionResult Listctvrts()
+    {
+        var list = new List<string>();
+        var pages = _wikiService.GetPages();
+        foreach (var page in pages.Keys)
+        {
+            if (pages[page].Type == "čtvrť") list.Add(pages[page].Title);
+        }
+        list.Sort();
+        return View("List", list);
+    }
+
+    public IActionResult Ideas()
+    {
         var a = new List<string>();
         a.AddRange(["ŽIVÁ VODA", "TÁBOR", "ZÁMEK", "KAMENNÁ POUŠŤ", "ČEKÁRNA", "KNIHOVNA", "HÁJE", "LÁVKA", "STAN", "HALA", "PAVILON", "PARK", "KOŠUMBERK", "BLATA", "FAKULTA", "BROD", "MENZA", "STAVBA", "FONTÁNA", "ŠŤASTNÝ ASFALT", "KANCELÁŘ", "BAZAR", "HOUBY", "BAMBULE", "PUMPA", "VÝJEZD", "POŽÁR", "SLUNEČNÍK", "HABR", "HYDRANT", "ČLUN", "SERVIS", "OKOLÍ", "JETEL", "BISTRO", "ROZTOKY", "ZNAČKA", "ZÁVORA", "GUMA", "ČERVENÝ TRAKTŮREK", "KROUŽEK", "OBJEVITEL", "ZBÍJEČKA", "ŠIŠKA", "POTRUBÍ", "AKORDEON", "CENA", "KONTEXT", "VARIANTA", "CENA", "ŽEBRÁK", "ZÁVIST", "PATNÍK", "TLAČÍTKO", "HADICE", "BRIKETA", "LEKLA", "ZÁKAZ", "DÁVKOVAČ", "FOBIE", "ÚZKOST"]);
         return View("Ideas", a);
