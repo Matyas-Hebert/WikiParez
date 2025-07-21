@@ -314,7 +314,7 @@ public class WikiService
                 Console.ForegroundColor = ConsoleColor.Red;
             }
             total += pair.Value;
-            Console.WriteLine($"{pair.Key}: {pair.Value}");
+            if (pair.Value != 0) Console.WriteLine($"{pair.Key}: {pair.Value}");
             Console.ResetColor();
         }
         done = total - done;
@@ -352,8 +352,11 @@ public class WikiService
                     {
                         lengths[key] = 0;
                     }
-                    lengths[key] += result.Length;
-                    total += result.Length;
+                    if (dictionary[key].Empty == false && dictionary[key].Type != "redirect")
+                    {
+                        lengths[key] += result.Length;
+                        total += result.Length;
+                    }
                 }
                 foreach (var mkey in dictionary[key].Metadata.Keys)
                 {
