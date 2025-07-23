@@ -785,6 +785,18 @@
       "PackagePath": "staticwebassets/Images/mi_weaver_house2.png"
     },
     {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_zmatek1.png",
+      "PackagePath": "staticwebassets/Images/mi_zmatek1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_zmatek2.png",
+      "PackagePath": "staticwebassets/Images/mi_zmatek2.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_zmatek3.png",
+      "PackagePath": "staticwebassets/Images/mi_zmatek3.png"
+    },
+    {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/missing.jpg",
       "PackagePath": "staticwebassets/Images/missing.jpg"
     },

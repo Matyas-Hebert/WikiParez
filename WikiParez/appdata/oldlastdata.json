@@ -42,11 +42,6 @@
     "area": 33,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -94,11 +89,6 @@
     "area": 20,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -147,11 +137,6 @@
     "area": 64,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -205,11 +190,6 @@
     "area": 104,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -258,11 +238,6 @@
     "area": 54,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -316,11 +291,6 @@
     "area": 52,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -374,11 +344,6 @@
     "area": 78,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -428,11 +393,6 @@
     "area": 36,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -479,11 +439,6 @@
     "area": 33,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -529,11 +484,6 @@
     "area": 14,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -575,11 +525,6 @@
     "area": 4,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -617,11 +562,6 @@
     "area": 0,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -664,11 +604,6 @@
     "area": 0,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -707,11 +642,6 @@
     "area": 0,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -747,11 +677,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -802,11 +727,6 @@
     "area": 38,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -857,11 +777,6 @@
     "area": 143,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -909,11 +824,6 @@
     "area": 93,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -972,11 +882,6 @@
     "area": 128,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -1022,11 +927,6 @@
     "area": 15,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -1076,11 +976,6 @@
     "area": 26,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -1126,11 +1021,6 @@
     "area": 81,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -1175,11 +1065,6 @@
     "area": 56,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -1225,11 +1110,6 @@
     "area": 99,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -1277,11 +1157,6 @@
     "area": 53,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -1330,11 +1205,6 @@
     "area": 69,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -1386,11 +1256,6 @@
     "area": 82,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -1455,11 +1320,6 @@
     "area": 285,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -1506,11 +1366,6 @@
     "area": 31,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -1555,11 +1410,6 @@
     "area": 13,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -1598,11 +1448,6 @@
     "area": 0,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -1658,11 +1503,6 @@
     "area": 124,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -1713,11 +1553,6 @@
     "area": 60,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -1770,11 +1605,6 @@
     "area": 89,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -1813,11 +1643,6 @@
     "area": 0,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -1869,11 +1694,6 @@
     "area": 32,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -1923,11 +1743,6 @@
     "area": 38,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -1985,11 +1800,6 @@
     "area": 0,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -2030,11 +1840,6 @@
     "area": 38,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "mi_spojnice",
     "tobeedited": false
   },
@@ -2075,11 +1880,6 @@
     "area": 133,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "mi_spojnice",
     "tobeedited": false
   },
@@ -2121,11 +1921,6 @@
     "area": 0,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -2198,11 +1993,6 @@
     "area": 0,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -2243,11 +2033,6 @@
     "area": 86,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "mi_dalnicni_pilir",
     "tobeedited": false
   },
@@ -2288,11 +2073,6 @@
     "area": 170,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "mi_dalnicni_pilir",
     "tobeedited": false
   },
@@ -2333,11 +2113,6 @@
     "area": 332,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "mi_dalnicni_pilir",
     "tobeedited": false
   },
@@ -2383,11 +2158,6 @@
     "area": 6,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -2438,11 +2208,6 @@
     "area": 44,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -2493,11 +2258,6 @@
     "area": 32,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -2544,11 +2304,6 @@
     "area": 2,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -2597,11 +2352,6 @@
     "area": 28,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -2667,11 +2417,6 @@
     "area": 249,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -2708,11 +2453,6 @@
     "area": 0,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -2757,11 +2497,6 @@
     "area": 0,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -2793,11 +2528,6 @@
     "area": 0,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -2823,11 +2553,6 @@
     "area": 0,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "mi_vecere",
     "tobeedited": false
   },
@@ -2874,11 +2599,6 @@
     "area": 38,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -2930,11 +2650,6 @@
     "area": 62,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -2981,11 +2696,6 @@
     "area": 49,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -3029,11 +2739,6 @@
     "area": 2,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -3081,11 +2786,6 @@
     "area": 50,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -3128,11 +2828,6 @@
     "area": 40,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -3177,11 +2872,6 @@
     "area": 20,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -3241,11 +2931,6 @@
     "area": 127,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -3292,11 +2977,6 @@
     "area": 69,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -3339,11 +3019,6 @@
     "area": 29,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -3385,11 +3060,6 @@
     "area": 18,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -3439,11 +3109,6 @@
     "area": 115,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -3491,11 +3156,6 @@
     "area": 59,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -3538,11 +3198,6 @@
     "area": 46,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -3599,11 +3254,6 @@
     "area": 92,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -3647,11 +3297,6 @@
     "area": 18,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -3694,11 +3339,6 @@
     "area": 115,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -3742,11 +3382,6 @@
     "area": 13,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -3801,11 +3436,6 @@
     "area": 176,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -3848,11 +3478,6 @@
     "area": 49,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -3897,11 +3522,6 @@
     "area": 45,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -3947,11 +3567,6 @@
     "area": 22,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -3996,11 +3611,6 @@
     "area": 10,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -4049,11 +3659,6 @@
     "area": 57,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -4097,11 +3702,6 @@
     "area": 21,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -4143,11 +3743,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -4190,11 +3785,6 @@
     "area": 1,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -4237,11 +3827,6 @@
     "area": 24,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -4286,11 +3871,6 @@
     "area": 13,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -4334,11 +3914,6 @@
     "area": 49,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -4386,11 +3961,6 @@
     "area": 56,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -4434,11 +4004,6 @@
     "area": 45,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -4484,12 +4049,7 @@
     "area": 17,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 323,
-      "y": 80,
-      "z": 1125
-    },
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_vez_3_podlazi": {
@@ -4535,12 +4095,7 @@
     "area": 18,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 323,
-      "y": 76,
-      "z": 1125
-    },
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_vez_2_podlazi": {
@@ -4585,12 +4140,7 @@
     "area": 20,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 323,
-      "y": 72,
-      "z": 1125
-    },
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_sloupek": {
@@ -4632,11 +4182,6 @@
     "area": 1,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -4680,12 +4225,7 @@
     "area": 17,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 323,
-      "y": 68,
-      "z": 1125
-    },
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_vez_5_podlazi": {
@@ -4729,12 +4269,7 @@
     "area": 17,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 323,
-      "y": 84,
-      "z": 1125
-    },
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_sauron": {
@@ -4779,11 +4314,6 @@
     "area": 47,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -4839,11 +4369,6 @@
     "area": 213,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -4894,11 +4419,6 @@
     "area": 47,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -4942,11 +4462,6 @@
     "area": 33,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -4996,11 +4511,6 @@
     "area": 41,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -5056,11 +4566,6 @@
     "area": 153,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -5108,11 +4613,6 @@
     "area": 11,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -5155,11 +4655,6 @@
     "area": 14,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -5202,11 +4697,6 @@
     "area": 17,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -5250,11 +4740,6 @@
     "area": 57,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -5306,11 +4791,6 @@
     "area": 237,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -5352,11 +4832,6 @@
     "area": 9,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -5402,11 +4877,6 @@
     "area": 38,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -5449,11 +4919,6 @@
     "area": 104,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -5508,11 +4973,6 @@
     "area": 293,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -5559,11 +5019,6 @@
     "area": 121,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -5609,11 +5064,6 @@
     "area": 129,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -5655,11 +5105,6 @@
     "area": 17,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -5701,11 +5146,6 @@
     "area": 17,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -5747,11 +5187,6 @@
     "area": 17,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -5800,11 +5235,6 @@
     "area": 435,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -5847,11 +5277,6 @@
     "area": 84,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -5899,11 +5324,6 @@
     "area": 463,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -5949,11 +5369,6 @@
     "area": 317,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -5998,11 +5413,6 @@
     "area": 188,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -6048,11 +5458,6 @@
     "area": 86,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -6096,11 +5501,6 @@
     "area": 31,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -6145,11 +5545,6 @@
     "area": 103,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -6194,11 +5589,6 @@
     "area": 101,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -6250,11 +5640,6 @@
     "area": 156,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -6297,11 +5682,6 @@
     "area": 36,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -6349,11 +5729,6 @@
     "area": 31,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -6397,11 +5772,6 @@
     "area": 18,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -6449,11 +5819,6 @@
     "area": 38,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -6503,11 +5868,6 @@
     "area": 142,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -6552,11 +5912,6 @@
     "area": 25,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -6600,11 +5955,6 @@
     "area": 38,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -6628,11 +5978,6 @@
     "area": 0,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "mi_juka",
     "tobeedited": false
   },
@@ -6678,11 +6023,6 @@
     "area": 25,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -6725,11 +6065,6 @@
     "area": 9,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -6771,11 +6106,6 @@
     "area": 9,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -6819,11 +6149,6 @@
     "area": 14,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -6868,11 +6193,6 @@
     "area": 37,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -6914,11 +6234,6 @@
     "area": 9,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -6963,11 +6278,6 @@
     "area": 36,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -7012,11 +6322,6 @@
     "area": 10,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -7059,11 +6364,6 @@
     "area": 12,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -7109,11 +6409,6 @@
     "area": 19,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -7155,11 +6450,6 @@
     "area": 4,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -7201,11 +6491,6 @@
     "area": 17,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -7251,11 +6536,6 @@
     "area": 24,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -7300,11 +6580,6 @@
     "area": 41,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -7348,11 +6623,6 @@
     "area": 14,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -7396,11 +6666,6 @@
     "area": 14,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -7445,11 +6710,6 @@
     "area": 19,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -7492,11 +6752,6 @@
     "area": 18,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -7541,11 +6796,6 @@
     "area": 17,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -7590,11 +6840,6 @@
     "area": 15,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -7636,11 +6881,6 @@
     "area": 9,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -7664,11 +6904,6 @@
     "area": 0,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "mi_obalovna",
     "tobeedited": false
   },
@@ -7714,11 +6949,6 @@
     "area": 24,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -7764,11 +6994,6 @@
     "area": 25,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -7792,11 +7017,6 @@
     "area": 0,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "mi_pata",
     "tobeedited": false
   },
@@ -7820,11 +7040,6 @@
     "area": 0,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "mi_tkanicka",
     "tobeedited": false
   },
@@ -7870,11 +7085,6 @@
     "area": 15,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -7918,11 +7128,6 @@
     "area": 18,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -7966,11 +7171,6 @@
     "area": 17,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -8014,11 +7214,6 @@
     "area": 13,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -8060,11 +7255,6 @@
     "area": 5,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -8109,11 +7299,6 @@
     "area": 64,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -8160,11 +7345,6 @@
     "area": 21,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -8219,11 +7399,6 @@
     "area": 362,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -8266,11 +7441,6 @@
     "area": 14,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -8314,11 +7484,6 @@
     "area": 19,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -8361,11 +7526,6 @@
     "area": 48,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -8412,11 +7572,6 @@
     "area": 176,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -8463,11 +7618,6 @@
     "area": 215,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -8514,11 +7664,6 @@
     "area": 164,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -8563,11 +7708,6 @@
     "area": 39,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -8614,11 +7754,6 @@
     "area": 112,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -8663,11 +7798,6 @@
     "area": 78,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -8711,11 +7841,6 @@
     "area": 63,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -8760,11 +7885,6 @@
     "area": 165,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -8808,11 +7928,6 @@
     "area": 157,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -8854,11 +7969,6 @@
     "area": 25,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -8903,11 +8013,6 @@
     "area": 57,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -8960,11 +8065,6 @@
     "area": 197,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -9024,11 +8124,6 @@
     "area": 184,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -9071,11 +8166,6 @@
     "area": 14,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -9119,11 +8209,6 @@
     "area": 22,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -9169,11 +8254,6 @@
     "area": 37,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -9217,11 +8297,6 @@
     "area": 30,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -9264,11 +8339,6 @@
     "area": 12,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -9312,11 +8382,6 @@
     "area": 41,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -9363,11 +8428,6 @@
     "area": 34,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -9414,11 +8474,6 @@
     "area": 65,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -9462,11 +8517,6 @@
     "area": 54,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -9521,11 +8571,6 @@
     "area": 100,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -9569,11 +8614,51 @@
     "area": 30,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
+    "redirect": "",
+    "tobeedited": false
+  },
+  "mi_zmatek": {
+    "Title": "Zmatek",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_pavlac",
+      "mi_koreny",
+      "mi_venkovni_schodiste",
+      "mi_mezipatro",
+      "mi_os"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Zmatek",
+      "Blok": "[Mezipatro](bl_mezipatro)",
+      "Okrsek": "[Dub](ok_dub)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
     },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 89,
+    "Empty": true,
+    "numberOfRooms": 0,
     "redirect": "",
     "tobeedited": false
   },
@@ -9617,11 +8702,6 @@
     "area": 45,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -9663,11 +8743,6 @@
     "area": 16,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -9711,11 +8786,6 @@
     "area": 27,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -9759,11 +8829,6 @@
     "area": 11,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -9808,11 +8873,6 @@
     "area": 53,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -9855,11 +8915,6 @@
     "area": 5,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -9908,11 +8963,6 @@
     "area": 125,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -9956,11 +9006,6 @@
     "area": 34,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -10006,11 +9051,6 @@
     "area": 48,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -10058,11 +9098,6 @@
     "area": 127,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -10109,11 +9144,6 @@
     "area": 14,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -10166,11 +9196,6 @@
     "area": 455,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -10220,11 +9245,6 @@
     "area": 33,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -10267,11 +9287,6 @@
     "area": 33,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -10315,11 +9330,6 @@
     "area": 35,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -10363,11 +9373,6 @@
     "area": 42,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -10410,11 +9415,6 @@
     "area": 19,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -10460,11 +9460,6 @@
     "area": 156,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -10539,11 +9534,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -10584,11 +9574,6 @@
     "area": 152,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "mi_the_bridge",
     "tobeedited": false
   },
@@ -10629,11 +9614,6 @@
     "area": 45,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "mi_the_bridge",
     "tobeedited": false
   },
@@ -10674,11 +9654,6 @@
     "area": 73,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "mi_the_bridge",
     "tobeedited": false
   },
@@ -10719,11 +9694,6 @@
     "area": 60,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "mi_the_bridge",
     "tobeedited": false
   },
@@ -10783,11 +9753,6 @@
     "area": 171,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -10849,11 +9814,6 @@
     "area": 175,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -10913,11 +9873,6 @@
     "area": 272,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -10962,11 +9917,6 @@
     "area": 58,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -11012,11 +9962,6 @@
     "area": 41,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -11060,11 +10005,6 @@
     "area": 64,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -11114,11 +10054,6 @@
     "area": 46,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -11166,11 +10101,6 @@
     "area": 21,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -11217,11 +10147,6 @@
     "area": 2,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -11267,11 +10192,6 @@
     "area": 48,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -11315,11 +10235,6 @@
     "area": 21,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -11363,11 +10278,6 @@
     "area": 73,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -11416,11 +10326,6 @@
     "area": 88,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -11467,11 +10372,6 @@
     "area": 81,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -11518,11 +10418,6 @@
     "area": 66,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -11564,11 +10459,6 @@
     "area": 10,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -11614,11 +10504,6 @@
     "area": 50,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -11660,11 +10545,6 @@
     "area": 7,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -11710,11 +10590,6 @@
     "area": 43,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -11759,11 +10634,6 @@
     "area": 40,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -11805,11 +10675,6 @@
     "area": 4,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -11862,11 +10727,6 @@
     "area": 92,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -11915,11 +10775,6 @@
     "area": 48,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -11967,11 +10822,6 @@
     "area": 55,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -12019,11 +10869,6 @@
     "area": 42,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -12072,11 +10917,6 @@
     "area": 79,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -12121,11 +10961,6 @@
     "area": 8,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -12173,11 +11008,6 @@
     "area": 69,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -12221,11 +11051,6 @@
     "area": 26,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -12268,11 +11093,6 @@
     "area": 0,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -12296,11 +11116,6 @@
     "area": 0,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "mi_kolt",
     "tobeedited": false
   },
@@ -12324,11 +11139,6 @@
     "area": 0,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "mi_luka",
     "tobeedited": false
   },
@@ -12377,11 +11187,6 @@
     "area": 6,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -12405,11 +11210,6 @@
     "area": 0,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "mi_veta",
     "tobeedited": false
   },
@@ -12433,11 +11233,6 @@
     "area": 0,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "mi_tyran",
     "tobeedited": false
   },
@@ -12480,11 +11275,6 @@
     "area": 8,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -12532,11 +11322,6 @@
     "area": 32,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -12585,11 +11370,6 @@
     "area": 32,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -12638,11 +11418,6 @@
     "area": 27,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -12689,11 +11464,6 @@
     "area": 2,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -12737,11 +11507,6 @@
     "area": 68,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 335,
-      "y": 72,
-      "z": 1068
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -12784,11 +11549,6 @@
     "area": 43,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -12840,11 +11600,6 @@
     "area": 62,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -12888,11 +11643,6 @@
     "area": 38,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -12936,11 +11686,6 @@
     "area": 27,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -12982,11 +11727,6 @@
     "area": 32,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -13029,11 +11769,6 @@
     "area": 37,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -13076,11 +11811,6 @@
     "area": 44,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -13123,11 +11853,6 @@
     "area": 22,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -13170,11 +11895,6 @@
     "area": 22,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -13217,11 +11937,6 @@
     "area": 41,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -13264,11 +11979,6 @@
     "area": 24,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -13311,11 +12021,6 @@
     "area": 72,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -13360,12 +12065,7 @@
     "area": 24,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 296,
-      "y": 66,
-      "z": 1088
-    },
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_kanc": {
@@ -13408,12 +12108,7 @@
     "area": 36,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 294,
-      "y": 66,
-      "z": 1082
-    },
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_sadlo": {
@@ -13454,12 +12149,7 @@
     "area": 20,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 292,
-      "y": 66,
-      "z": 1089
-    },
-    "redirect": null,
+    "redirect": "",
     "tobeedited": false
   },
   "mi_tuk": {
@@ -13500,11 +12190,6 @@
     "area": 18,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -13547,11 +12232,6 @@
     "area": 14,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -13594,11 +12274,6 @@
     "area": 42,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -13641,11 +12316,6 @@
     "area": 49,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -13687,11 +12357,6 @@
     "area": 18,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -13737,11 +12402,6 @@
     "area": 13,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -13800,11 +12460,6 @@
     "area": 95,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -13856,11 +12511,6 @@
     "area": 108,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -13904,11 +12554,6 @@
     "area": 83,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -13956,11 +12601,6 @@
     "area": 100,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -14008,11 +12648,6 @@
     "area": 354,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -14062,11 +12697,6 @@
     "area": 138,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -14117,11 +12747,6 @@
     "area": 257,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -14165,11 +12790,6 @@
     "area": 28,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -14211,11 +12831,6 @@
     "area": 29,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -14258,11 +12873,6 @@
     "area": 109,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -14305,11 +12915,6 @@
     "area": 27,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -14353,11 +12958,6 @@
     "area": 10,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -14406,11 +13006,6 @@
     "area": 53,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -14453,11 +13048,6 @@
     "area": 75,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -14500,11 +13090,6 @@
     "area": 46,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -14551,11 +13136,6 @@
     "area": 69,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -14597,11 +13177,6 @@
     "area": 121,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -14644,11 +13219,6 @@
     "area": 13,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -14698,11 +13268,6 @@
     "area": 69,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -14749,11 +13314,6 @@
     "area": 0,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -14790,11 +13350,6 @@
     "area": 0,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -14831,11 +13386,6 @@
     "area": 0,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -14873,11 +13423,6 @@
     "area": 0,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -14915,11 +13460,6 @@
     "area": 0,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -14957,11 +13497,6 @@
     "area": 0,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -14999,11 +13534,6 @@
     "area": 0,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -15041,11 +13571,6 @@
     "area": 0,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -15084,11 +13609,6 @@
     "area": 0,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "",
     "tobeedited": false
   },
@@ -15143,11 +13663,6 @@
     "area": 58,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -15192,11 +13707,6 @@
     "area": 50,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -15240,11 +13750,6 @@
     "area": 23,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -15289,11 +13794,6 @@
     "area": 18,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -15342,11 +13842,6 @@
     "area": 51,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -15389,11 +13884,6 @@
     "area": 14,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -15436,11 +13926,6 @@
     "area": 32,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -15482,11 +13967,6 @@
     "area": 7,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -15528,11 +14008,6 @@
     "area": 5,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -15576,11 +14051,6 @@
     "area": 103,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -15633,11 +14103,6 @@
     "area": 176,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -15680,11 +14145,6 @@
     "area": 94,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -15727,11 +14187,6 @@
     "area": 11,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -15774,11 +14229,6 @@
     "area": 36,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -15820,11 +14270,6 @@
     "area": 7,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -15875,11 +14320,6 @@
     "area": 135,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -15922,11 +14362,6 @@
     "area": 21,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -15970,11 +14405,6 @@
     "area": 25,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -16017,11 +14447,6 @@
     "area": 17,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -16064,11 +14489,6 @@
     "area": 2,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -16113,11 +14533,6 @@
     "area": 22,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -16167,11 +14582,6 @@
     "area": 27,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -16241,11 +14651,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -16286,11 +14691,6 @@
     "area": 215,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "mi_dalnice",
     "tobeedited": false
   },
@@ -16331,11 +14731,6 @@
     "area": 104,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "mi_dalnice",
     "tobeedited": false
   },
@@ -16376,11 +14771,6 @@
     "area": 331,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "mi_dalnice",
     "tobeedited": false
   },
@@ -16424,11 +14814,6 @@
     "area": 22,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 326,
-      "y": 71,
-      "z": 1110
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -16520,11 +14905,6 @@
     "area": 0,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -16570,11 +14950,6 @@
     "area": 40,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -16617,11 +14992,6 @@
     "area": 27,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -16663,11 +15033,6 @@
     "area": 241,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -16709,11 +15074,6 @@
     "area": 3,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -16755,11 +15115,6 @@
     "area": 4,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -16801,11 +15156,6 @@
     "area": 4,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -16857,11 +15207,6 @@
     "area": 348,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -16904,11 +15249,6 @@
     "area": 111,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -16951,11 +15291,6 @@
     "area": 267,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -17001,11 +15336,6 @@
     "area": 233,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -17049,11 +15379,6 @@
     "area": 227,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -17096,11 +15421,6 @@
     "area": 192,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -17143,11 +15463,6 @@
     "area": 36,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -17198,11 +15513,6 @@
     "area": 103,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -17248,11 +15558,6 @@
     "area": 53,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -17299,11 +15604,6 @@
     "area": 66,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -17346,11 +15646,6 @@
     "area": 1,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -17401,11 +15696,6 @@
     "area": 156,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -17449,11 +15739,6 @@
     "area": 33,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -17495,11 +15780,6 @@
     "area": 73,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -17544,11 +15824,6 @@
     "area": 79,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -17592,11 +15867,6 @@
     "area": 21,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -17643,11 +15913,6 @@
     "area": 134,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -17692,11 +15957,6 @@
     "area": 158,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -17741,11 +16001,6 @@
     "area": 157,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -17792,11 +16047,6 @@
     "area": 94,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -17841,11 +16091,6 @@
     "area": 33,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -17890,11 +16135,6 @@
     "area": 3,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -17918,11 +16158,6 @@
     "area": 0,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "mi_cary",
     "tobeedited": false
   },
@@ -17946,11 +16181,6 @@
     "area": 0,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "mi_atlas",
     "tobeedited": false
   },
@@ -17995,11 +16225,6 @@
     "area": 33,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -18045,11 +16270,6 @@
     "area": 80,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 339,
-      "y": 67,
-      "z": 1087
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -18073,11 +16293,6 @@
     "area": 0,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "mi_mestecko",
     "tobeedited": false
   },
@@ -18101,11 +16316,6 @@
     "area": 0,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "mi_amulet",
     "tobeedited": false
   },
@@ -18153,11 +16363,6 @@
     "area": 33,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -18202,11 +16407,6 @@
     "area": 28,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -18249,11 +16449,6 @@
     "area": 1,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -18301,11 +16496,6 @@
     "area": 131,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -18350,11 +16540,6 @@
     "area": 61,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -18398,11 +16583,6 @@
     "area": 69,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 351,
-      "y": 69,
-      "z": 1064
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -18445,11 +16625,6 @@
     "area": 34,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 338,
-      "y": 69,
-      "z": 1062
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -18493,11 +16668,6 @@
     "area": 6,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -18540,11 +16710,6 @@
     "area": 8,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -18587,11 +16752,6 @@
     "area": 176,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -18638,11 +16798,6 @@
     "area": 124,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -18687,11 +16842,6 @@
     "area": 49,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -18739,11 +16889,6 @@
     "area": 60,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -18802,11 +16947,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -18847,11 +16987,6 @@
     "area": 75,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "mi_hraz",
     "tobeedited": false
   },
@@ -18892,11 +17027,6 @@
     "area": 162,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "mi_hraz",
     "tobeedited": false
   },
@@ -18937,11 +17067,6 @@
     "area": 71,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "mi_hraz",
     "tobeedited": false
   },
@@ -18982,11 +17107,6 @@
     "area": 112,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "mi_hraz",
     "tobeedited": false
   },
@@ -19027,11 +17147,6 @@
     "area": 109,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "mi_hraz",
     "tobeedited": false
   },
@@ -19074,11 +17189,6 @@
     "area": 224,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -19129,11 +17239,6 @@
     "area": 185,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -19177,11 +17282,6 @@
     "area": 349,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -19223,11 +17323,6 @@
     "area": 90,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -19269,11 +17364,6 @@
     "area": 90,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -19315,11 +17405,6 @@
     "area": 43,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -19362,11 +17447,6 @@
     "area": 31,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -19410,11 +17490,6 @@
     "area": 20,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -19456,11 +17531,6 @@
     "area": 28,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -19502,11 +17572,6 @@
     "area": 43,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -19556,11 +17621,6 @@
     "area": 139,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -19609,11 +17669,6 @@
     "area": 98,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -19658,11 +17713,6 @@
     "area": 53,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -19712,11 +17762,6 @@
     "area": 124,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -19766,11 +17811,6 @@
     "area": 92,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -19832,11 +17872,6 @@
     "area": 313,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -19878,11 +17913,6 @@
     "area": 62,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -19926,11 +17956,6 @@
     "area": 12,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -19981,11 +18006,6 @@
     "area": 100,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -20032,11 +18052,6 @@
     "area": 26,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -20084,11 +18099,6 @@
     "area": 282,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -20137,11 +18147,6 @@
     "area": 99,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -20184,11 +18189,6 @@
     "area": 50,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -20234,11 +18234,6 @@
     "area": 183,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -20285,11 +18280,6 @@
     "area": 97,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -20335,11 +18325,6 @@
     "area": 50,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -20382,11 +18367,6 @@
     "area": 11,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -20439,11 +18419,6 @@
     "area": 56,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -20467,11 +18442,6 @@
     "area": 0,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "mi_vyhlidka",
     "tobeedited": false
   },
@@ -20513,11 +18483,6 @@
     "area": 9,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -20559,11 +18524,6 @@
     "area": 9,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -20609,11 +18569,6 @@
     "area": 55,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -20663,11 +18618,6 @@
     "area": 52,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -20712,11 +18662,6 @@
     "area": 32,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -20761,11 +18706,6 @@
     "area": 16,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -20813,11 +18753,6 @@
     "area": 154,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -20841,11 +18776,6 @@
     "area": 0,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": "mi_kolinko",
     "tobeedited": false
   },
@@ -20891,11 +18821,6 @@
     "area": 122,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -20939,11 +18864,6 @@
     "area": 144,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -20987,11 +18907,6 @@
     "area": 4196,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -21034,11 +18949,6 @@
     "area": 81,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -21083,11 +18993,6 @@
     "area": 253,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -21133,11 +19038,6 @@
     "area": 139,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -21183,11 +19083,6 @@
     "area": 291,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -21238,11 +19133,6 @@
     "area": 223,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -21286,11 +19176,6 @@
     "area": 223,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -21342,11 +19227,6 @@
     "area": 1159,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -21389,11 +19269,6 @@
     "area": 40,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -21439,11 +19314,6 @@
     "area": 364,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -21486,11 +19356,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -21536,11 +19401,6 @@
     "area": 1318,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -21583,11 +19443,6 @@
     "area": 41,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -21629,11 +19484,6 @@
     "area": 128,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -21676,11 +19526,6 @@
     "area": 64,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -21722,11 +19567,6 @@
     "area": 173,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -21774,11 +19614,6 @@
     "area": 406,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -21820,11 +19655,6 @@
     "area": 131,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -21873,11 +19703,6 @@
     "area": 29,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -21926,11 +19751,6 @@
     "area": 222,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -21990,11 +19810,6 @@
     "area": 226,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -22050,11 +19865,6 @@
     "area": 90,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -22100,11 +19910,6 @@
     "area": 145,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -22149,11 +19954,6 @@
     "area": 43,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -22204,11 +20004,6 @@
     "area": 26,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -22251,11 +20046,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -22298,11 +20088,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -22345,11 +20130,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -22392,11 +20172,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -22439,11 +20214,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -22486,11 +20256,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -22533,11 +20298,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -22580,11 +20340,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -22627,11 +20382,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -22674,11 +20424,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -22721,11 +20466,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -22768,11 +20508,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -22815,11 +20550,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -22862,11 +20592,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -22909,11 +20634,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -22956,11 +20676,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -23003,11 +20718,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -23050,11 +20760,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -23097,11 +20802,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -23144,11 +20844,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -23191,11 +20886,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -23238,11 +20928,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -23285,11 +20970,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -23332,11 +21012,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -23379,11 +21054,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -23426,11 +21096,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -23473,11 +21138,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -23520,11 +21180,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -23567,11 +21222,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -23614,11 +21264,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -23661,11 +21306,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -23708,11 +21348,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -23755,11 +21390,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -23802,11 +21432,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -23849,11 +21474,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -23896,11 +21516,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -23943,11 +21558,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -23990,11 +21600,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -24037,11 +21642,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -24084,11 +21684,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -24131,11 +21726,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -24178,11 +21768,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -24225,11 +21810,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -24272,11 +21852,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -24319,11 +21894,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -24366,11 +21936,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -24413,11 +21978,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -24460,11 +22020,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -24507,11 +22062,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -24554,11 +22104,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -24601,11 +22146,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -24648,11 +22188,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -24695,11 +22230,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -24742,11 +22272,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -24789,11 +22314,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -24836,11 +22356,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -24883,11 +22398,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -24930,11 +22440,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -24977,11 +22482,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -25024,11 +22524,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -25071,11 +22566,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -25118,11 +22608,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -25165,11 +22650,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -25212,11 +22692,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -25259,11 +22734,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -25306,11 +22776,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -25353,11 +22818,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -25400,11 +22860,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -25447,11 +22902,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -25494,11 +22944,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -25541,11 +22986,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -25588,11 +23028,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -25635,11 +23070,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -25682,11 +23112,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -25729,11 +23154,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -25776,11 +23196,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -25823,11 +23238,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -25870,11 +23280,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -25917,11 +23322,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -25964,11 +23364,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -26011,11 +23406,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -26058,11 +23448,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -26105,11 +23490,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -26152,11 +23532,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -26199,11 +23574,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -26246,11 +23616,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -26293,11 +23658,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -26340,11 +23700,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -26387,11 +23742,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -26434,11 +23784,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -26481,11 +23826,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -26528,11 +23868,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -26575,11 +23910,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -26622,11 +23952,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -26669,11 +23994,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -26716,11 +24036,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -26763,11 +24078,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -26810,11 +24120,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -26857,11 +24162,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -26904,11 +24204,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -26951,11 +24246,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -26998,11 +24288,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -27045,11 +24330,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -27092,11 +24372,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -27139,11 +24414,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -27186,11 +24456,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -27233,11 +24498,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -27280,11 +24540,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -27327,11 +24582,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -27374,11 +24624,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -27421,11 +24666,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -27468,11 +24708,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -27515,11 +24750,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -27562,11 +24792,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -27609,11 +24834,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -27656,11 +24876,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -27703,11 +24918,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -27750,11 +24960,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -27797,11 +25002,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -27844,11 +25044,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -27891,11 +25086,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -27938,11 +25128,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -27985,11 +25170,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -28031,11 +25211,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -28077,11 +25252,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -28123,11 +25293,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -28169,11 +25334,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -28215,11 +25375,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -28261,11 +25416,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -28307,11 +25457,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -28353,11 +25498,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -28399,11 +25539,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -28445,11 +25580,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -28491,11 +25621,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -28537,11 +25662,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -28583,11 +25703,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -28629,11 +25744,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -28675,11 +25785,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -28721,11 +25826,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -28767,11 +25867,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -28813,11 +25908,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -28859,11 +25949,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -28905,11 +25990,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -28951,11 +26031,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -28997,11 +26072,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -29043,11 +26113,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -29089,11 +26154,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -29135,11 +26195,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -29181,11 +26236,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -29227,11 +26277,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -29273,11 +26318,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -29319,11 +26359,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -29365,11 +26400,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -29411,11 +26441,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -29457,11 +26482,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -29503,11 +26523,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -29549,11 +26564,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -29595,11 +26605,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -29641,11 +26646,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -29687,11 +26687,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -29733,11 +26728,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -29779,11 +26769,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -29825,11 +26810,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -29871,11 +26851,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -29916,11 +26891,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -29961,11 +26931,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -30006,11 +26971,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -30051,11 +27011,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -30096,11 +27051,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -30141,11 +27091,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -30186,11 +27131,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -30231,11 +27171,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -30276,11 +27211,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -30321,11 +27251,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -30366,11 +27291,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -30411,11 +27331,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -30456,11 +27371,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -30501,11 +27411,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -30546,11 +27451,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -30591,11 +27491,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -30636,11 +27531,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -30681,11 +27571,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -30725,11 +27610,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -30769,11 +27649,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -30813,11 +27688,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -30862,11 +27732,6 @@
     "area": 5,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -30916,11 +27781,6 @@
     "area": 23,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -30964,11 +27824,6 @@
     "area": 3,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -31016,11 +27871,6 @@
     "area": 21,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -31066,11 +27916,6 @@
     "area": 14,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -31113,11 +27958,6 @@
     "area": 0,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -31161,11 +28001,6 @@
     "area": 18,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -31210,11 +28045,6 @@
     "area": 23,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -31257,11 +28087,6 @@
     "area": 9,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -31305,11 +28130,6 @@
     "area": 28,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -31354,11 +28174,6 @@
     "area": 97,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -31400,11 +28215,6 @@
     "area": 6,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -31447,11 +28257,6 @@
     "area": 10,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -31490,11 +28295,6 @@
     "area": 0,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -31537,11 +28337,6 @@
     "area": 5,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -31589,11 +28384,6 @@
     "area": 88,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -31636,11 +28426,6 @@
     "area": 10,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -31685,11 +28470,6 @@
     "area": 8,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -31735,11 +28515,6 @@
     "area": 11,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -31783,11 +28558,6 @@
     "area": 25,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -31832,11 +28602,6 @@
     "area": 31,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -31881,11 +28646,6 @@
     "area": 23,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -31927,11 +28687,6 @@
     "area": 16,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -31975,11 +28730,6 @@
     "area": 25,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -32021,11 +28771,6 @@
     "area": 4,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -32069,11 +28814,6 @@
     "area": 23,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -32115,11 +28855,6 @@
     "area": 4,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -32163,11 +28898,6 @@
     "area": 86,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -32210,11 +28940,6 @@
     "area": 13,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -32256,11 +28981,6 @@
     "area": 10,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -32308,11 +29028,6 @@
     "area": 19,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -32361,11 +29076,6 @@
     "area": 84,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -32411,11 +29121,6 @@
     "area": 28,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -32462,11 +29167,6 @@
     "area": 27,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -32508,11 +29208,6 @@
     "area": 213,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -32559,11 +29254,6 @@
     "area": 69,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -32601,11 +29291,6 @@
     "area": 0,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -32653,11 +29338,6 @@
     "area": 82,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -32707,11 +29387,6 @@
     "area": 51,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -32751,11 +29426,6 @@
     "area": 0,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -32801,11 +29471,6 @@
     "area": 28,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -32849,11 +29514,6 @@
     "area": 16,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -32901,11 +29561,6 @@
     "area": 71,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -32953,11 +29608,6 @@
     "area": 63,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -32999,11 +29649,6 @@
     "area": 63,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -33045,11 +29690,6 @@
     "area": 14,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -33103,11 +29743,6 @@
     "area": 139,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -33158,11 +29793,6 @@
     "area": 6,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -33226,11 +29856,6 @@
     "area": 343,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -33286,11 +29911,6 @@
     "area": 45,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -33338,11 +29958,6 @@
     "area": 25,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -33387,11 +30002,6 @@
     "area": 29,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -33440,11 +30050,6 @@
     "area": 20,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -33484,11 +30089,6 @@
     "area": 0,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -33530,11 +30130,6 @@
     "area": 5,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -33579,11 +30174,6 @@
     "area": 79,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -33632,11 +30222,6 @@
     "area": 82,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -33688,11 +30273,6 @@
     "area": 116,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -33742,11 +30322,6 @@
     "area": 93,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -33796,11 +30371,6 @@
     "area": 84,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -33850,11 +30420,6 @@
     "area": 117,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -33902,11 +30467,6 @@
     "area": 12,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -33957,11 +30517,6 @@
     "area": 38,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -34011,11 +30566,6 @@
     "area": 78,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -34063,11 +30613,6 @@
     "area": 32,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -34118,11 +30663,6 @@
     "area": 69,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -34170,11 +30710,6 @@
     "area": 32,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 326,
-      "y": 67,
-      "z": 1101
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -34219,11 +30754,6 @@
     "area": 50,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -34275,11 +30805,6 @@
     "area": 62,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -34330,11 +30855,6 @@
     "area": 6,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -34384,11 +30904,6 @@
     "area": 15,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -34431,11 +30946,6 @@
     "area": 30,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -34486,11 +30996,6 @@
     "area": 76,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -34543,11 +31048,6 @@
     "area": 88,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -34603,11 +31103,6 @@
     "area": 91,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -34670,11 +31165,6 @@
     "area": 65,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -34722,11 +31212,6 @@
     "area": 49,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -34783,11 +31268,6 @@
     "area": 418,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -34831,11 +31311,6 @@
     "area": 65,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -34877,11 +31352,6 @@
     "area": 38,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -34924,11 +31394,6 @@
     "area": 10,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -34973,11 +31438,6 @@
     "area": 25,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -35025,11 +31485,6 @@
     "area": 30,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -35074,11 +31529,6 @@
     "area": 14,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -35121,11 +31571,6 @@
     "area": 22,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -35170,11 +31615,6 @@
     "area": 11,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -35216,11 +31656,6 @@
     "area": 13,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -35263,11 +31698,6 @@
     "area": 33,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -35312,11 +31742,6 @@
     "area": 10,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -35360,11 +31785,6 @@
     "area": 10,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -35408,11 +31828,6 @@
     "area": 8,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -35456,11 +31871,6 @@
     "area": 2,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -35504,11 +31914,6 @@
     "area": 26,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -35552,11 +31957,6 @@
     "area": 13,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -35599,11 +31999,6 @@
     "area": 7,
     "Empty": true,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -35656,11 +32051,6 @@
     "area": 63,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -35706,11 +32096,6 @@
     "area": 50,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -35758,11 +32143,6 @@
     "area": 74,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -35827,11 +32207,6 @@
     "area": 286,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   },
@@ -35885,67 +32260,6 @@
     "area": 170,
     "Empty": false,
     "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "redirect": null,
-    "tobeedited": false
-  },
-  "mi_zmatek": {
-    "Title": "Zmatek",
-    "Type": "m\u00EDstnost",
-    "Images": [],
-    "Image_titles": [
-      "ZMATEK",
-      "\u0160IROK\u00C9 SCHODI\u0160T\u011A NA PAVLA\u010C",
-      "V\u00DDHLED NA MOST"
-    ],
-    "Bordering_rooms": [
-      "mi_pavlac",
-      "mi_koreny",
-      "mi_venkovni_schodiste",
-      "mi_mezipatro",
-      "mi_os"
-    ],
-    "Alternate_names": [
-      "Chaos"
-    ],
-    "Metadata": {
-      "N\u00E1zev": "Zmatek",
-      "Blok": "[Mezipatro](bl_mezipatro)",
-      "Okrsek": "[Dub](ok_dub)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
-      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": "Zmatek je relativn\u011B komplikovan\u00E1 m\u00EDstnost, kter\u00E1 nem\u00E1 nikde rovnou podlahu, nebo\u0165 kop\u00EDruje sklon stropu m\u00EDstnost\u00ED pod n\u00EDm (zejm\u00E9na [V\u00FDlohy](mi_vyloha). Vede z n\u00ED \u010Dtve\u0159ice dve\u0159\u00ED, z nich\u017E dv\u011B jsou napojeny na v\u00FDtah dol\u016F do [Ko\u0159en\u016F](mi_koreny) a nahoru do [Venkovn\u00EDho Schodi\u0161t\u011B](mi_venkovni_schodiste). Zbyl\u00E9 dv\u011B vedou do m\u00EDstnost\u00ED [Os](mi_os) a [Mezipatro](mi_mezipatro). Tak\u00E9 odsud vede branka na [Pavla\u010D](mi_pavlac), ale nejvyu\u017E\u00EDvan\u011Bj\u0161\u00EDm vchodem jsou schody z [Ko\u0159en\u016F](mi_koreny)."
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": "I p\u0159es malou plochu m\u00EDstnosti se v n\u00ED d\u00E1 lehce ztratit. Toto mo\u017En\u00E1 nen\u00ED tak \u00FApln\u011B pravda, ale kdyby byl Zmatek v\u011Bt\u0161\u00ED m\u00EDstnost\u00ED tak by se v n\u00ED lidi ztr\u00E1celi neust\u00E1le."
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": "P\u0159i vyu\u017Eit\u00ED vstupu z [Ko\u0159en\u016F](mi_koreny), kter\u00FD se nach\u00E1z\u00ED 2.5 bloku nad jejich podlahou, se dostanete do prvn\u00ED \u010D\u00E1sti m\u00EDstnosti. Tato \u010D\u00E1st m\u00E1 \u010Dtvercov\u00E1 p\u016Fdorys o rozm\u011Brech 5x5 blok\u016F a o n\u011Bco vy\u0161\u0161\u00ED strop. Na jeho dvou st\u011Bn\u00E1ch jde vid\u011Bt dv\u011B velk\u00E1 \u0161ikm\u00E1 okna, kter\u00E1 se setk\u00E1vaj\u00ED v rohu m\u00EDstnosti a do podlahy je vstav\u011Bna b\u00EDl\u00E1 postel. Z \u010D\u00E1sti vedou dva, jeden z nich p\u0159es polo\u017Een\u00FD crafting table, do druh\u00E9 \u010D\u00E1sti. Druh\u00E1 \u010D\u00E1st je jedin\u00E1 \u010D\u00E1st s relativn\u011B rovnou podlahou. Vedou odsud nejen v\u0161echny \u010Dty\u0159i dve\u0159e, ale za\u010D\u00EDnaj\u00ED zde v\u00FD\u0161e zm\u00EDn\u011Bn\u00E9 \u0161irok\u00E9 schody na [Pavla\u010D](mi_pavlac). Sou\u010D\u00E1st\u00ED m\u00EDstnosti je i \u00FAzk\u00E1 uli\u010Dka, kter\u00E1 propojuje [Zmatek](mi_zmatek) s [Os](mi_os). V n\u00ED se nach\u00E1z\u00ED okno s perfektn\u00EDm v\u00FDhledem na [Most](mi_most).\r\nZmatek je zna\u010Dn\u011B prostorn\u00FD s vysok\u00FDmi stropy a\u017E osm blok\u016F. V m\u00EDstnosti je nemal\u00FD po\u010Det schodi\u0161\u0165 a oken, kter\u00E9 ji dod\u00E1vaj\u00ED typick\u00FD vzhled. "
-      },
-      {
-        "Title": "Zaj\u00EDmavost",
-        "Content": "D\u0159\u00EDve byl i zmatek v cedulk\u00E1ch, sm\u011Brovk\u00E1ch na m\u00EDstnost. N\u011Bkter\u00E9 m\u00EDstnost ozna\u010Dovali jako \u0022Zmatek\u0022 jin\u00E9 jako \u0022Chaos\u0022. Zmatek je tak jedinou m\u00EDstnost\u00ED, kter\u00E1 m\u011Bla v\u00EDce ne\u017E jeden n\u00E1zev."
-      }
-    ],
-    "image_id": 0,
-    "area": 89,
-    "Empty": false,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
     "redirect": null,
     "tobeedited": false
   }

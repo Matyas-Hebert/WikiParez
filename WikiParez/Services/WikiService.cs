@@ -12,6 +12,7 @@ using Microsoft.AspNetCore.Components.Endpoints;
 using Microsoft.AspNetCore.Mvc.Filters;
 using System.Globalization;
 using Microsoft.AspNetCore.SignalR;
+using System.Numerics;
 
 public class WikiService
 {
@@ -19,6 +20,7 @@ public class WikiService
     private Dictionary<string, WikiPage> _pages;
     private Dictionary<string, WikiPage> _onlyroomspages;
     private Dictionary<string, SimplifiedWikiPage> _simplifiedPages;
+    private Dictionary<string, Coordinates> _patternlepages;
 
     private int finishedPages = 0;
     private int totalpages = 0;
@@ -29,6 +31,7 @@ public class WikiService
         _pages = LoadPages();
         _onlyroomspages = LoadOnlyRoomPages();
         _simplifiedPages = GetSimplifiedDict();
+        _patternlepages = LoadCoordinatesPages();
     }
 
     public Dictionary<string, ParezlePage> GetParezlePages()
@@ -47,6 +50,34 @@ public class WikiService
             });
         }
         return pages;
+    }
+
+    private Dictionary<string, Coordinates> LoadCoordinatesPages()
+    {
+        var coords = new Dictionary<string, Coordinates>();
+        foreach (var page in _pages.Keys)
+        {
+            if (_pages[page].coordinates.x != 0 && _pages[page].coordinates.y !=0  && _pages[page].coordinates.z != 0)
+            {
+                Console.WriteLine(page);
+                coords[page] = _pages[page].coordinates;
+            }
+        }
+        return coords;
+    }
+
+    public Dictionary<string, Coordinates> GetNCoordinates(int n)
+    {
+        var availableKeys = _patternlepages.Keys.ToList();
+        var dict = new Dictionary<string, Coordinates>();
+        for (int i = 0; i < n; i++)
+        {
+            var random = new Random();
+            var randomkey = availableKeys[random.Next(availableKeys.Count)];
+            dict[randomkey] = _patternlepages[randomkey];
+            availableKeys.Remove(randomkey);
+        }
+        return dict;
     }
 
     private string GetNameFromLink(string link)
@@ -75,6 +106,26 @@ public class WikiService
             }
         }
         return onlyroompages;
+    }
+
+    public Quaternion RandomQuaternion()
+    {
+        double x, y, z, u, v, w, s;
+        var random = new Random();
+        do
+        {
+            x = random.NextDouble() * 2 - 1;
+            y = random.NextDouble() * 2 - 1;
+            z = Math.Pow(x, 2) + Math.Pow(y, 2);
+        } while (z > 1);
+        do
+        {
+            u = random.NextDouble() * 2 - 1;
+            v = random.NextDouble() * 2 - 1;
+            w = Math.Pow(u, 2) + Math.Pow(v, 2);
+        } while (w > 1);
+        s = Math.Sqrt((1 - z) / w);
+        return new Quaternion((float)x, (float)y, (float)(s * u), (float)(s * w));
     }
 
     public int GetParezleSeed()

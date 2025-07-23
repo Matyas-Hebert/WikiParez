@@ -34,6 +34,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvR2FtZS9QYXJlemxlL1BhcmV6bGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[/root/wikiparez/WikiParez/Views/Game/Patternle/Patternle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvR2FtZS9QYXR0ZXJubGUvUGF0dGVybmxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/root/wikiparez/WikiParez/Views/Home/Ideas.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JZGVhcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

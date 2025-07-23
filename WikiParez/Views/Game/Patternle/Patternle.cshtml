@@ -1,0 +1,212 @@
+@if (Model != null){
+    <canvas id="viewCanvas" width="500" height="500" style="border: 1px solid black;">
+
+    </canvas>
+}
+
+<script>
+    var points = @Html.Raw(Json.Serialize(Model));
+    var quaternion = @Html.Raw(Json.Serialize(ViewBag.quaternion));
+    var distance = "@ViewBag.cameradistance";
+    var radius = "@ViewBag.sphereradius";
+    var center = @Html.Raw(Json.Serialize(ViewBag.center));
+    var count = "@ViewBag.count";
+    var isDragging = false;
+    var lastX, lastY;
+    const canvas = document.getElementById("viewCanvas");
+    const sensitivity = 200;
+
+    //console.log("Camera quaternion:", quaternion);
+    //quaternion = rotateQuaternion(quaternion, Math.PI/2, 0);
+    //console.log("Camera quaternion:", quaternion);
+
+    canvas.addEventListener("mousedown", function(event) {
+        lastX = event.clientX;
+        lastY = event.clientY;
+        isDragging = true;
+    });
+    canvas.addEventListener("touchstart", function(event) {
+        event.preventDefault();
+        lastX = event.touches[0].clientX;
+        lastY = event.touches[0].clientY;
+        isDragging = true;
+        console.log("down");
+    }, {passive: false});
+    canvas.addEventListener("mousemove", function(event) {
+        if (isDragging){
+            const width = canvas.width;
+            const height = canvas.height;
+            const x = event.clientX;
+            const y = event.clientY;
+            const dx = (x - lastX)/width*sensitivity;
+            const dy = -((y - lastY)/height*sensitivity);
+            //console.log(dx, dy);
+            quaternion = rotateQuaternion(quaternion, dx, dy);
+            drawPoints(quaternion);
+            lastX = x;
+            lastY = y;
+        }
+    });
+    canvas.addEventListener("touchmove", function(event) {
+        event.preventDefault();
+        if (isDragging){
+            console.log("dragging");
+            const width = canvas.width;
+            const height = canvas.height;
+            const x = event.touches[0].clientX;
+            const y = event.touches[0].clientY;
+            const dx = (x - lastX)/width*sensitivity;
+            const dy = -((y - lastY)/height*sensitivity);
+            //console.log(dx, dy);
+            quaternion = rotateQuaternion(quaternion, dx, dy);
+            drawPoints(quaternion);
+            lastX = x;
+            lastY = y;
+        }
+    }, {passive: false});
+    document.addEventListener("mouseup", function(event) {
+        console.log("up");
+        isDragging = false;
+    });
+    document.addEventListener("mouseup", function(event) {
+        isDragging = false;
+    })
+
+    function onMouseDown(){
+        console.log("mouse down");
+    }
+
+    function animate() {
+        quaternion = rotateQuaternion(quaternion, 0, 0.4);
+        drawPoints(quaternion);
+        requestAnimationFrame(animate);
+    }
+    //document.addEventListener("DOMContentLoaded", animate);
+
+    function drawPoints(q){
+        let rotatedpoints = [];
+        for(let key in points){
+            let v = {
+                x: (points[key].x - center.x)/radius,
+                y: (points[key].y - center.y)/radius,
+                z: (points[key].z - center.z)/radius
+            };
+            var rotatedpoint = rotateVector(q, v);
+            //rotatedpoint.x *= (canvas.width/4);
+            //rotatedpoint.y *= (canvas.height/4);
+            //console.log(rotatedpoint);
+            rotatedpoints.push({key, rotatedpoint});
+        }
+        rotatedpoints.sort((a, b) => a.rotatedpoint.z - b.rotatedpoint.z);
+
+        const scale = 200;
+        const minRadius = 3;
+        const maxRadius = 10;
+        ctx = canvas.getContext("2d");
+        ctx.clearRect(0, 0, canvas.width, canvas.height);
+        
+        for (let point in rotatedpoints){
+            //console.log(point);
+            const p = rotatedpoints[point].rotatedpoint;
+            //console.log(p);
+            const distancefromcamera = (distance - p.z*radius)/distance;
+            //console.log("distance from camera", distancefromcamera);
+            //console.log((p.x/(distancefromcamera))*scale, (p.y/(distancefromcamera))*scale);
+            const screenX = canvas.width/2 + (p.x/(distancefromcamera))*scale;
+            const screenY = canvas.height/2 + (p.y/(distancefromcamera))*scale;
+            const t = (p.z + 1)/2;
+            const circleradius = minRadius + t*(maxRadius - minRadius);
+            //console.log(screenX, screenY, rotatedpoints[point].key);
+            ctx.beginPath();
+            ctx.arc(screenX, screenY, circleradius, 0, Math.PI * 2);
+            ctx.fillStyle = "red";
+            ctx.fill();
+        }
+    }
+
+    function rotateQuaternion(quaternion, angleX, angleY) {
+        let sensitivity = 0.01;
+
+        angleX *= sensitivity;
+        angleY *= sensitivity;
+
+        // First apply yaw around global Y
+        var qYaw = CreateFromAxisAngle({x: 0, y: 1, z: 0}, angleX);
+
+        // Rotate the camera orientation with yaw only
+        var afterYaw = normalizeQuaternion(multiplyQuaternions(qYaw, quaternion));
+
+        // Now calculate the right vector from the orientation *after* yaw
+        var right = rotateVector(afterYaw, {x: 1, y: 0, z: 0});
+
+        // Pitch around the new right axis
+        var qPitch = CreateFromAxisAngle(right, angleY);
+
+        // Final orientation: apply pitch after yaw
+        var newOrientation = normalizeQuaternion(multiplyQuaternions(qPitch, afterYaw));
+
+        return newOrientation;
+    }
+
+    function rotateVector(q, v){
+        const qConjugate = {
+            x: -q.x,
+            y: -q.y,
+            z: -q.z,
+            w:  q.w
+        };
+
+        const vQuat = {
+            x: v.x,
+            y: v.y,
+            z: v.z,
+            w: 0
+        };
+
+        const temp = multiplyQuaternions(q, vQuat);
+        const result = multiplyQuaternions(temp, qConjugate);
+
+        return {
+            x: result.x,
+            y: result.y,
+            z: result.z
+        };
+    }
+
+    function multiplyQuaternions(a, b){
+        return {
+            w: a.w * b.w - a.x * b.x - a.y * b.y - a.z * b.z,
+            x: a.w * b.x + a.x * b.w + a.y * b.z - a.z * b.y,
+            y: a.w * b.y - a.x * b.z + a.y * b.w + a.z * b.x,
+            z: a.w * b.z + a.x * b.y - a.y * b.x + a.z * b.w
+        }
+    }
+
+    function normalizeQuaternion(q){
+        const length = Math.hypot(q.x, q.y, q.z, q.w);
+        return {
+            x: q.x / length,
+            y: q.y / length,
+            z: q.z / length,
+            w: q.w / length
+        }
+    }
+
+    function CreateFromAxisAngle(axis, angle){
+        const length = Math.hypot(axis.x, axis.y, axis.z);
+        const normalized = {
+            x: axis.x / length,
+            y: axis.y / length,
+            z: axis.z / length
+        };
+        const halfAngle = angle / 2;
+        const sinHalf = Math.sin(halfAngle);
+        const cosHalf = Math.cos(halfAngle);
+        return {
+            x: normalized.x * sinHalf,
+            y: normalized.y * sinHalf,
+            z: normalized.z * sinHalf,
+            w: cosHalf
+        };
+    }
+</script>

@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Mvc;
 using WikiParez.Services;
 using WikiParez.Models;
 using Microsoft.AspNetCore.Components.Endpoints;
+using System.Numerics;
 
 namespace WikiParez.Controllers
 {
@@ -74,6 +75,51 @@ namespace WikiParez.Controllers
         public IActionResult ParezleMenu()
         {
             return View("Parezle/Menu");
+        }
+
+        [HttpGet]
+        [Route("Game/Patternle")]
+        public IActionResult Patternle()
+        {
+            var numberofcoords = 10;
+            var coords = _wikiService.GetNCoordinates(numberofcoords);
+            var center = new Coordinates();
+            double cameradistance = 0.0f;
+            foreach (var coord in coords.Values)
+            {
+                center.x += coord.x;
+                center.y += coord.y;
+                center.z += coord.z;
+            }
+            center.x /= numberofcoords;
+            center.y /= numberofcoords;
+            center.z /= numberofcoords;
+
+            foreach (var coord in coords.Values)
+            {
+                var distance = center.distanceFrom(coord);
+                if (distance > cameradistance)
+                {
+                    cameradistance = distance;
+                }
+            }
+
+            ViewBag.sphereradius = cameradistance;
+            cameradistance *= 2;
+            
+            ViewBag.cameradistance = cameradistance;
+            ViewBag.center = center;
+            ViewBag.count = numberofcoords;
+            var quaternion = _wikiService.RandomQuaternion();
+            ViewBag.quaternion = new
+            {
+                x = quaternion.X,
+                y = quaternion.Y,
+                z = quaternion.Z,
+                w = quaternion.W
+            };
+
+            return View("Patternle/Patternle", coords);
         }
 
         [HttpGet]

@@ -14,11 +14,23 @@ public class WikiPage
     public int area { get; set; } = 0;
     public bool Empty { get; set; } = false;
     public int numberOfRooms { get; set; } = 0;
+    public Coordinates coordinates {get; set;} = new Coordinates();
     public int image_count()
     {
         return Image_titles.Count;
     }
     public string redirect { get; set; } = string.Empty;
+}
+
+public class Coordinates
+{
+    public int x { get; set; } = 0;
+    public int y { get; set; } = 0;
+    public int z { get; set; } = 0;
+    
+    public double distanceFrom(Coordinates a) {
+        return Math.Sqrt(Math.Pow(a.x - x, 2) + Math.Pow(a.y - y, 2) + Math.Pow(a.z - z, 2));
+    }
 }
 
 public class Section
