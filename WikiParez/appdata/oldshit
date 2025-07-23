@@ -1,18 +1,6 @@
-@if (Model != null){
-    <canvas id="viewCanvas" width="500" height="500" style="border: 1px solid black;">
-
-    </canvas>
-}
-
 <script>
-    function getRandomColor() {
-        const r = Math.floor(Math.random() * 256); // 0–255
-        const g = Math.floor(Math.random() * 256);
-        const b = Math.floor(Math.random() * 256);
-        return `rgb(${r}, ${g}, ${b})`;
-    }
-    
     var points = @Html.Raw(Json.Serialize(Model));
+    var quaternion = @Html.Raw(Json.Serialize(ViewBag.quaternion));
     var distance = "@ViewBag.cameradistance";
     var radius = "@ViewBag.sphereradius";
     var center = @Html.Raw(Json.Serialize(ViewBag.center));
@@ -20,51 +8,68 @@
     var isDragging = false;
     var startX, startY;
     var currQ = {x:0,y:0,z:0,w:1};
-    var lastQ = @Html.Raw(Json.Serialize(ViewBag.quaternion));
+    var lastQ = {x:0,y:0,z:0,w:1};
     const canvas = document.getElementById("viewCanvas");
     const sensitivity = 200;
-    let colors = {};
-    for (let key in points) {
-        colors[key] = getRandomColor();
-    }
+
+    //console.log("Camera quaternion:", quaternion);
+    //quaternion = rotateQuaternion(quaternion, Math.PI/2, 0);
+    //console.log("Camera quaternion:", quaternion);
 
     canvas.addEventListener("mousedown", function(event) {
         startX = event.clientX;
         startY = event.clientY;
         isDragging = true;
-        console.log(lastQ);
     });
     canvas.addEventListener("touchstart", function(event) {
         event.preventDefault();
-        startX = event.touches[0].clientX;
-        startY = event.touches[0].clientY;
+        lastX = event.touches[0].clientX;
+        lastY = event.touches[0].clientY;
         isDragging = true;
+        console.log("down");
     }, {passive: false});
     canvas.addEventListener("mousemove", function(event) {
         if (isDragging){
-            let a = project(startX, startY);
+            let a = project(start.x, start.y);
             let b = project(event.clientX, event.clientY);
-            currQ = quaternionFromVectors(a, b);
+            let currQ = quaternionFromVectors(a, b);
+            /**const width = canvas.width;
+            const height = canvas.height;
+            const x = event.clientX;
+            const y = event.clientY;
+            const dx = (x - lastX)/width*sensitivity;
+            const dy = -((y - lastY)/height*sensitivity);
+            //console.log(dx, dy);
+            quaternion = rotateQuaternion(quaternion, dx, dy);**/
             drawPoints();
+            //lastX = x;
+            //lastY = y;
         }
     });
     canvas.addEventListener("touchmove", function(event) {
         event.preventDefault();
         if (isDragging){
-            let a = project(startX, startY);
-            let b = project(event.touches[0].clientX, event.touches[0].clientY);
-            currQ = quaternionFromVectors(a, b);
-            drawPoints();
+            console.log("dragging");
+            const width = canvas.width;
+            const height = canvas.height;
+            const x = event.touches[0].clientX;
+            const y = event.touches[0].clientY;
+            const dx = (x - lastX)/width*sensitivity;
+            const dy = -((y - lastY)/height*sensitivity);
+            //console.log(dx, dy);
+            quaternion = rotateQuaternion(quaternion, dx, dy);
+            drawPoints(quaternion);
+            lastX = x;
+            lastY = y;
         }
     }, {passive: false});
     document.addEventListener("mouseup", function(event) {
+        console.log("up");
         lastQ = multiplyQuaternions(currQ, lastQ);
         currQ = {x:0,y:0,z:0,w:1};
         isDragging = false;
     });
-    document.addEventListener("touchend", function(event) {
-        lastQ = multiplyQuaternions(currQ, lastQ);
-        currQ = {x:0,y:0,z:0,w:1};
+    document.addEventListener("mouseup", function(event) {
         isDragging = false;
     })
 
@@ -83,28 +88,14 @@
         });
     }
 
-    function quaternionFromVectors(a, b) {
+    function quaternionFromVectors(a, b){
         const axis = cross(a, b);
-        const w = 1 + dot(a, b);
-
-        if (w < 1e-6) {
-            // Vectors are nearly opposite
-            let ortho = {x: 1, y: 0, z: 0};
-            if (Math.abs(a.x) > 0.9) ortho = {x: 0, y: 1, z: 0};
-            const crossAxis = cross(a, ortho);
-            return normalizeQuaternion({
-                x: crossAxis.x,
-                y: crossAxis.y,
-                z: crossAxis.z,
-                w: 0
-            });
-        }
-
+        const dotProd = dot(a, b);
         return normalizeQuaternion({
             x: axis.x,
             y: axis.y,
             z: axis.z,
-            w: w
+            w: dotProd
         });
     }
 
@@ -120,9 +111,15 @@
         };
     }
 
-    function drawPoints(){
+    function animate() {
+        quaternion = rotateQuaternion(quaternion, 0, 0.4);
+        drawPoints(quaternion);
+        requestAnimationFrame(animate);
+    }
+    //document.addEventListener("DOMContentLoaded", animate);
+
+    function drawPoints(q){
         let rotatedpoints = [];
-        let q = multiplyQuaternions(currQ, lastQ);
         for(let key in points){
             let v = {
                 x: (points[key].x - center.x)/radius,
@@ -130,6 +127,9 @@
                 z: (points[key].z - center.z)/radius
             };
             var rotatedpoint = rotateVector(q, v);
+            //rotatedpoint.x *= (canvas.width/4);
+            //rotatedpoint.y *= (canvas.height/4);
+            //console.log(rotatedpoint);
             rotatedpoints.push({key, rotatedpoint});
         }
         rotatedpoints.sort((a, b) => a.rotatedpoint.z - b.rotatedpoint.z);
@@ -141,31 +141,37 @@
         ctx.clearRect(0, 0, canvas.width, canvas.height);
         
         for (let point in rotatedpoints){
+            //console.log(point);
             const p = rotatedpoints[point].rotatedpoint;
+            //console.log(p);
             const distancefromcamera = (distance - p.z*radius)/distance;
+            //console.log("distance from camera", distancefromcamera);
+            //console.log((p.x/(distancefromcamera))*scale, (p.y/(distancefromcamera))*scale);
             const screenX = canvas.width/2 + (p.x/(distancefromcamera))*scale;
             const screenY = canvas.height/2 + (p.y/(distancefromcamera))*scale;
             const t = (p.z + 1)/2;
             const circleradius = minRadius + t*(maxRadius - minRadius);
+            //console.log(screenX, screenY, rotatedpoints[point].key);
             ctx.beginPath();
             ctx.arc(screenX, screenY, circleradius, 0, Math.PI * 2);
-            ctx.fillStyle = colors[rotatedpoints[point].key];
+            ctx.fillStyle = "red";
             ctx.fill();
         }
     }
 
-    function rotateQuaternion(q, angleX, angleY) {
+    function rotateQuaternion(quaternion, angleX, angleY) {
         let sensitivity = 0.01;
         angleX *= sensitivity;
         angleY *= sensitivity;
 
-        var up = rotateVector(q, {x:0, y:1, z:0});
-        var right = rotateVector(q, {x:1, y:0, z:0});
+        // Current orientation's up vector (local Y)
+        var up = rotateVector(quaternion, {x:0, y:1, z:0});
+        var right = rotateVector(quaternion, {x:1, y:0, z:0});
 
         var qYaw = CreateFromAxisAngle(up, angleX);
         var qPitch = CreateFromAxisAngle(right, angleY);
 
-        var newOrientation = normalizeQuaternion(multiplyQuaternions(qPitch, multiplyQuaternions(qYaw, q)));
+        var newOrientation = normalizeQuaternion(multiplyQuaternions(qPitch, multiplyQuaternions(qYaw, quaternion)));
 
         return newOrientation;
     }
@@ -215,7 +221,7 @@
     }
 
     function normalizeVector(v){
-        const length = Math.hypot(v.x, v.y, v.z);
+        const length = Math.hypot(q.x, q.y, q.z);
         return {
             x: v.x / length,
             y: v.y / length,

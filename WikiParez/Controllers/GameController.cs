@@ -119,6 +119,11 @@ namespace WikiParez.Controllers
                 w = quaternion.W
             };
 
+            var pitch = Math.Asin(2 * (quaternion.W * quaternion.Y - quaternion.Z * quaternion.X));
+            ViewBag.pitch = pitch;
+            var yaw = Math.Atan2(2 * (quaternion.W * quaternion.Z + quaternion.X * quaternion.Y), 1 - 2 * (quaternion.Y * quaternion.Y + quaternion.Z * quaternion.Z));
+            ViewBag.yaw = yaw;
+
             return View("Patternle/Patternle", coords);
         }
 
