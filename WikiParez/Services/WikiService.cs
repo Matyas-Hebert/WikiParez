@@ -17,6 +17,7 @@ using System.Numerics;
 public class WikiService
 {
     private readonly string _path;
+    private readonly string _pathsplash;
     private Dictionary<string, WikiPage> _pages;
     private Dictionary<string, WikiPage> _onlyroomspages;
     private Dictionary<string, SimplifiedWikiPage> _simplifiedPages;
@@ -28,6 +29,7 @@ public class WikiService
     public WikiService(IHostEnvironment env)
     {
         _path = Path.Combine(env.ContentRootPath, "appdata", "pagesData.json");
+        _pathsplash = Path.Combine(env.ContentRootPath, "appdata", "splashtexts.txt");
         _pages = LoadPages();
         _onlyroomspages = LoadOnlyRoomPages();
         _simplifiedPages = GetSimplifiedDict();
@@ -452,6 +454,11 @@ public class WikiService
     public Dictionary<string, WikiPage> GetPages()
     {
         return _pages;
+    }
+
+    public List<string> getSplashTexts()
+    {
+        return File.ReadLines(_pathsplash).ToList();
     }
 
     public Dictionary<string, WikiPage> LoadPages()
