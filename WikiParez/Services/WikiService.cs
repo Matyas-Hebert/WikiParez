@@ -55,14 +55,17 @@ public class WikiService
     private Dictionary<string, Coordinates> LoadCoordinatesPages()
     {
         var coords = new Dictionary<string, Coordinates>();
+        var i = 0;
         foreach (var page in _pages.Keys)
         {
-            if (_pages[page].coordinates.x != 0 && _pages[page].coordinates.y !=0  && _pages[page].coordinates.z != 0)
+            if (_pages[page].coordinates.x != 0 && _pages[page].coordinates.y != 0 && _pages[page].coordinates.z != 0)
             {
                 Console.WriteLine(page);
+                i++;
                 coords[page] = _pages[page].coordinates;
             }
         }
+        Console.WriteLine(i + "rooms");
         return coords;
     }
 

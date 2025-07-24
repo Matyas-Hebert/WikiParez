@@ -273,6 +273,10 @@
       "PackagePath": "staticwebassets/Images/mi_klub2.png"
     },
     {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_konzole1.png",
+      "PackagePath": "staticwebassets/Images/mi_konzole1.png"
+    },
+    {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_kroky1.png",
       "PackagePath": "staticwebassets/Images/mi_kroky1.png"
     },
@@ -443,6 +447,22 @@
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_parsley_attic3.png",
       "PackagePath": "staticwebassets/Images/mi_parsley_attic3.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_pavlac1.png",
+      "PackagePath": "staticwebassets/Images/mi_pavlac1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_pavlac2.png",
+      "PackagePath": "staticwebassets/Images/mi_pavlac2.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_pavlac3.png",
+      "PackagePath": "staticwebassets/Images/mi_pavlac3.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_pavlac4.png",
+      "PackagePath": "staticwebassets/Images/mi_pavlac4.png"
     },
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_podkrovi1.png",

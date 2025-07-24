@@ -3750,65 +3750,6 @@
     "redirect": "",
     "tobeedited": false
   },
-  "mi_pavlac": {
-    "Title": "Pavla\u010D",
-    "Type": "m\u00EDstnost",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [
-      "mi_kahan",
-      "mi_balkon_ctvrtka",
-      "mi_satna",
-      "mi_vytahova_sachta",
-      "mi_zlate_schodiste",
-      "mi_v_vez_3_podlazi",
-      "mi_papokoi",
-      "mi_olafuv_dum",
-      "mi_mezipatro",
-      "mi_pavlacovy_dum",
-      "mi_zmatek",
-      "mi_namesti_u_vody",
-      "mi_diving_room",
-      "mi_vypln"
-    ],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "Pavla\u010D",
-      "Blok": "[Pavla\u010D](bl_pavlac)",
-      "Okrsek": "[Smrk](ok_smrk)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
-      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": "Jak vznikl n\u00E1zev?"
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": "N\u011Bco o interi\u00E9ru."
-      },
-      {
-        "Title": "Zaj\u00EDmavost",
-        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
-      }
-    ],
-    "image_id": 0,
-    "area": 176,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "redirect": "",
-    "tobeedited": false
-  },
   "mi_pavlacovy_dum": {
     "Title": "Pavla\u010Dov\u00FD D\u016Fm",
     "Type": "m\u00EDstnost",
@@ -4908,7 +4849,7 @@
     "Images": [],
     "Image_titles": [],
     "Bordering_rooms": [
-      "mi_pavlac",
+      "mi_konzole",
       "mi_namesti_u_vody",
       "mi_balkon_ctvrtka"
     ],
@@ -4947,7 +4888,7 @@
       "y": 88,
       "z": 1151
     },
-    "redirect": "",
+    "redirect": null,
     "tobeedited": false
   },
   "mi_carrot_farma": {
@@ -8762,7 +8703,7 @@
     "numberOfRooms": 0,
     "coordinates": {
       "x": 331,
-      "y": 94,
+      "y": 99,
       "z": 1129
     },
     "redirect": "",
@@ -8810,7 +8751,7 @@
     "numberOfRooms": 0,
     "coordinates": {
       "x": 331,
-      "y": 99,
+      "y": 94,
       "z": 1129
     },
     "redirect": "",
@@ -19676,7 +19617,7 @@
       "mi_kanal",
       "mi_the_bridge",
       "mi_vypln",
-      "mi_pavlac",
+      "mi_konzole",
       "mi_spojka",
       "mi_the_overpass",
       "mi_panget",
@@ -21887,7 +21828,7 @@
     "Images": [],
     "Image_titles": [],
     "Bordering_rooms": [
-      "mi_pavlac",
+      "mi_konzole",
       "mi_v_vez_2_podlazi",
       "mi_kolinko",
       "mi_farmus_bambus",
@@ -32326,10 +32267,11 @@
       "V\u00DDHLED NA LOM"
     ],
     "Bordering_rooms": [
-      "mi_pavlac",
+      "mi_konzole",
       "mi_olafuv_dum",
       "mi_satna",
-      "mi_namesti_u_vody"
+      "mi_namesti_u_vody",
+      "mi_pavlac"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -32342,7 +32284,7 @@
     "Sections": [
       {
         "Title": "P\u0159ehled",
-        "Content": "Balk\u00F3n \u010Ctvrtka je oplocen\u00FD prostor v [L\u00E1zn\u00EDch](bl_lazne_panoraama). P\u0159\u00EDmo se na n\u011Bj lze dostat z [N\u00E1m\u011Bst\u00ED u Vody](mi_namesti_u_vody), schody z [Olafova Domu](mi_olafuv_dum) a [Pavla\u010De](mi_pavlac), dve\u0159mi ze [\u0160atny](mi_satna) a brankou z [Pavla\u010De](mi_pavlac). Nad n\u00ED je \u010D\u00E1st m\u00EDstnosti, kter\u00E1 se d\u00E1 nazvat balk\u00F3nem.\r\nP\u0159i p\u0159istaven\u00ED dal\u0161\u00EDho podla\u017E\u00ED nad [Olaf\u016Fv D\u016Fm](mi_olafuv_dum) povedou tam schody z [Balk\u00F3nu \u010Ctvrtka](mi_balkon_ctvrtka)."
+        "Content": "Balk\u00F3n \u010Ctvrtka je oplocen\u00FD prostor v [L\u00E1zn\u00EDch](bl_lazne_panoraama). P\u0159\u00EDmo se na n\u011Bj lze dostat z [N\u00E1m\u011Bst\u00ED u Vody](mi_namesti_u_vody), schody z [Olafova Domu](mi_olafuv_dum) a [Pavla\u010De](mi_pavlac), dve\u0159mi ze [\u0160atny](mi_satna) a brankou z [Konzole](mi_konzole). Nad n\u00ED je \u010D\u00E1st m\u00EDstnosti, kter\u00E1 se d\u00E1 nazvat balk\u00F3nem.\r\nP\u0159i p\u0159istaven\u00ED dal\u0161\u00EDho podla\u017E\u00ED nad [Olaf\u016Fv D\u016Fm](mi_olafuv_dum) povedou tam schody z [Balk\u00F3nu \u010Ctvrtka](mi_balkon_ctvrtka)."
       },
       {
         "Title": "N\u00E1zev",
@@ -35789,7 +35731,8 @@
       "mi_os",
       "mi_laborator",
       "mi_alej",
-      "mi_bazar"
+      "mi_bazar",
+      "mi_konzole"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -35804,7 +35747,7 @@
     "Sections": [
       {
         "Title": "P\u0159ehled",
-        "Content": "Kahan je druh\u00E1 nejstar\u0161\u00ED [Stromov\u00E1 v\u011B\u017E](ka_stromove_veze) a jedna ze dvou stromov\u00FDch v\u011B\u017E\u00ED v [Pa\u0159ezu](ca_parez). V\u011B\u017E je postavena ve stylu podobn\u00E9m [Silu](mi_silo) s rozd\u00EDlem, \u017Ee zde chyb\u00ED nejvy\u0161\u0161\u00ED podla\u017E\u00ED. Je zde celkem p\u011Bt ochoz\u016F a jeden \u010D\u00E1ste\u010Dn\u00FD.\r\nZ nejni\u017E\u0161\u00EDho podla\u017E\u00ED vedou schody na [Pavla\u010D](mi_pavlac), kter\u00E9 se nach\u00E1zej\u00ED hned vedle za\u010D\u00E1tku [Aleje](mi_alej). V prot\u011Bj\u0161\u00EDm rohu je voln\u00FD vchod do [Kapsule](mi_kapsule), ve kter\u00E9 se nach\u00E1z\u00ED v\u00FDtah do [Bazaru](mi_bazar). Ve t\u0159et\u00EDm se nach\u00E1zej\u00ED dve\u0159e do [Os](mi_os) a \u017Eeb\u0159\u00EDk vedouc\u00ED nejen nahoru ale i dol\u016F do [Laborato\u0159e](mi_laborator).\r\nNejni\u017E\u0161\u00ED ochoz je jedin\u00FDm ochozem v Kahanu, ke kter\u00E9mu nevede \u017Eeb\u0159\u00EDk. Vede z n\u011Bj mal\u00E1 chodbi\u010Dka zakon\u010Dena dve\u0159mi do [Preatria](mi_preatrium) a [3. podla\u017E\u00ED V-V\u011B\u017Ee](mi_v_vez_3_podlazi). N\u00E1sleduje p\u011Bt cel\u00FDch ochoz\u016F, odkud vedou dve\u0159e na [Pavla\u010D](mi_pavlac), [Kr\u00E1lovsk\u00E9 Abonm\u00E1](mi_kralovske_abonma), [Zlat\u00E9 Schodi\u0161t\u011B](mi_zlate_schodiste), [Pas\u00E1\u017E](mi_pasaz), [Farmus-Bambus](mi_farmus_bambus) a [Bazar](mi_bazar), kde je kone\u010Dn\u00E1 v\u00FD\u0161e zm\u00EDn\u011Bn\u00E9ho v\u00FDtahu. Nav\u00EDc ve druh\u00E9m ochozu za\u010D\u00EDn\u00E1 [Chodba](mi_chodba)."
+        "Content": "Kahan je druh\u00E1 nejstar\u0161\u00ED [Stromov\u00E1 v\u011B\u017E](ka_stromove_veze) a jedna ze dvou stromov\u00FDch v\u011B\u017E\u00ED v [Pa\u0159ezu](ca_parez). V\u011B\u017E je postavena ve stylu podobn\u00E9m [Silu](mi_silo) s rozd\u00EDlem, \u017Ee zde chyb\u00ED nejvy\u0161\u0161\u00ED podla\u017E\u00ED. Je zde celkem p\u011Bt ochoz\u016F a jeden \u010D\u00E1ste\u010Dn\u00FD.\r\nZ nejni\u017E\u0161\u00EDho podla\u017E\u00ED vedou schody na [Pavla\u010D](mi_pavlac), kter\u00E9 se nach\u00E1zej\u00ED hned vedle za\u010D\u00E1tku [Aleje](mi_alej). V prot\u011Bj\u0161\u00EDm rohu je voln\u00FD vchod do [Kapsule](mi_kapsule), ve kter\u00E9 se nach\u00E1z\u00ED v\u00FDtah do [Bazaru](mi_bazar). Ve t\u0159et\u00EDm se nach\u00E1zej\u00ED dve\u0159e do [Os](mi_os) a \u017Eeb\u0159\u00EDk vedouc\u00ED nejen nahoru ale i dol\u016F do [Laborato\u0159e](mi_laborator).\r\nNejni\u017E\u0161\u00ED ochoz je jedin\u00FDm ochozem v Kahanu, ke kter\u00E9mu nevede \u017Eeb\u0159\u00EDk. Vede z n\u011Bj mal\u00E1 chodbi\u010Dka zakon\u010Dena dve\u0159mi do [Preatria](mi_preatrium) a [3. podla\u017E\u00ED V-V\u011B\u017Ee](mi_v_vez_3_podlazi). N\u00E1sleduje p\u011Bt cel\u00FDch ochoz\u016F, odkud vedou dve\u0159e do [Konzole](mi_konzole), [Kr\u00E1lovsk\u00E9 Abonm\u00E1](mi_kralovske_abonma), [Zlat\u00E9 Schodi\u0161t\u011B](mi_zlate_schodiste), [Pas\u00E1\u017E](mi_pasaz), [Farmus-Bambus](mi_farmus_bambus) a [Bazar](mi_bazar), kde je kone\u010Dn\u00E1 v\u00FD\u0161e zm\u00EDn\u011Bn\u00E9ho v\u00FDtahu. Nav\u00EDc ve druh\u00E9m ochozu za\u010D\u00EDn\u00E1 [Chodba](mi_chodba)."
       },
       {
         "Title": "N\u00E1zev",
@@ -35939,6 +35882,128 @@
     ],
     "image_id": 0,
     "area": 89,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "redirect": null,
+    "tobeedited": false
+  },
+  "mi_konzole": {
+    "Title": "Konzole",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "KONZOLE"
+    ],
+    "Bordering_rooms": [
+      "mi_pavlac",
+      "mi_satna",
+      "mi_vytahova_sachta",
+      "mi_zlate_schodiste",
+      "mi_balkon_ctvrtka"
+    ],
+    "Alternate_names": [
+      "PLAYSTATION",
+      "XBOX"
+    ],
+    "Metadata": {
+      "N\u00E1zev": "Konzole",
+      "Blok": "[Pavla\u010D](bl_pavlac)",
+      "Okrsek": "[Smrk](ok_smrk)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Konzole je mal\u00E1 m\u00EDstnost, kter\u00E1 vznikla odd\u011Blen\u00EDm od [Pavla\u010De](mi_pavlac). Soused\u00ED s p\u011Bti dal\u0161\u00EDmi m\u00EDstnostmi. Vstoupit do n\u00ED lze n\u011Bkolika zp\u016Fsoby: dve\u0159mi z [Kahanu](mi_kahan) a z [V\u00FDtahov\u00E9 \u0160achty](mi_vytahova_sachta), brankou z [Balk\u00F3nu \u010Ctvrtka](mi_balkon_ctvrtka), nebo voln\u011B pr\u016Fchody ze [Zlat\u00E9ho Schodi\u0161t\u011B](mi_zlate_schodiste) a [Pavla\u010De](mi_pavlac). Z [Pavla\u010De](mi_pavlac) sem vede \u017Eeb\u0159\u00EDk."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "N\u00E1zev vznikl d\u00EDky \u0022P\u0159ehledu od AI\u0022 na google po vyhled\u00E1n\u00ED dotazu \u0022co je nad pavla\u010D\u00ED?\u0022. V p\u0159ehledu AI zmi\u0148uje \u0022Krakorce/Konzoly\u0022."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "V interi\u00E9r Konzole je mno\u017Estv\u00ED plot\u016F, kter\u00E9 odd\u011Bluj\u00ED m\u00EDstnost od [Zlat\u00E9ho Schodi\u0161t\u011B](mi_zlate_schodiste) a [Balk\u00F3nu \u010Ctvrtka](mi_balkon_ctvrtka), z\u00E1rove\u0148 slou\u017E\u00ED jako z\u00E1brana proti p\u00E1du na [Pavla\u010D](mi_pavlac). Cel\u00FD prostor je zast\u0159e\u0161en\u00FD, ale d\u00EDky velk\u00FDm otvor\u016Fm a v\u00FDhled\u016Fm si zachov\u00E1v\u00E1 otev\u0159en\u00FD dojem. \u010C\u00E1st stropu tvo\u0159\u00ED trapdoory. \r\nZ m\u00EDstnosti je v\u00FDhled nejen na [Pavla\u010D](mi_pavlac) a [Papokoi](mi_papokoi), ale tak\u00E9 skrze dv\u011B velk\u00E1 okna \u2013 jedno sm\u011B\u0159uje k baz\u00E9nu v [L\u00E1zn\u00EDch Panoraama](mi_lazne_panoraama), druh\u00E9 na strom v [Kahanu](mi_kahan). V m\u00EDstnosti se nach\u00E1z\u00ED tak\u00E9 jeden crafting table."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Trapdoory ve strop\u011B m\u00EDstnosti zakr\u00FDvaj\u00ED hl\u00EDnu z [Pu\u010Dmeloun Farmy](mi_pucmeloun_farma)."
+      }
+    ],
+    "image_id": 0,
+    "area": 32,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 323,
+      "y": 89,
+      "z": 1153
+    },
+    "redirect": null,
+    "tobeedited": false
+  },
+  "mi_pavlac": {
+    "Title": "Pavla\u010D",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "PAVLA\u010C",
+      "ZA\u010C\u00C1TEK PAVLA\u010CE",
+      "DRUH\u00C1 \u010C\u00C1ST",
+      "KONEC PAVLA\u010CE"
+    ],
+    "Bordering_rooms": [
+      "mi_kahan",
+      "mi_balkon_ctvrtka",
+      "mi_vypln",
+      "mi_diving_room",
+      "mi_namesti_u_vody",
+      "mi_v_vez_3_podlazi",
+      "mi_papokoi",
+      "mi_olafuv_dum",
+      "mi_mezipatro",
+      "mi_pavlacovy_dum",
+      "mi_zmatek",
+      "mi_konzole",
+      "mi_vytahova_sachta"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Pavla\u010D",
+      "Blok": "[Pavla\u010D](bl_pavlac)",
+      "Okrsek": "[Smrk](ok_smrk)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Pavla\u010D je rozs\u00E1hl\u00E1 m\u00EDstnost/chodba, kter\u00E1 spojuje [N\u00E1m\u011Bst\u00ED u Vody](mi_namesti_u_vody) a [V\u00FDpl\u0148](mi_vypln), um\u00EDst\u011Bn\u00E9 na jej\u00EDch konc\u00EDch. Mezi nimi z Pavla\u010De vedou n\u00E1sleduj\u00EDc\u00ED vchody: voln\u00E9 pr\u016Fchody do [Diving Room](mi_diving_room) a [Papokoie](mi_papokoi), branky do [Zmatku](mi_zmatek), do [3. podla\u017E\u00ED V-V\u011B\u017Ee](mi_v_vez_3_podlazi), do [Mezipatra](mi_mezipatro) a k [Pavla\u010Dov\u00E9mu domu](mi_pavlacovy_dum) (dve\u0159e do domu jsou a\u017E za brankou). D\u00E1le zde jsou schody na [Balk\u00F3n \u010Ctvrtka](mi_balkon_ctvrtka) a k [Olafovu Domu](mi_olafuv_dum), schodi\u0161t\u011B dol\u016F do [Kahanu](mi_kahan) a [V\u00FDpln\u011B](mi_vypln), \u017Eeb\u0159\u00EDk do [Konzole](mi_konzole) a nakonec dve\u0159e do [V\u00FDtahov\u00E9 \u0160achty](mi_vytahova_sachta)."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "R\u00E1d bych sem napsal, \u017Ee byla m\u00EDstnost d\u0159\u00EDve opravdovou pavla\u010D\u00ED, ale m\u00EDstnost byla pouze ochozem. M\u00EDstnost nemohla b\u00FDt pojmenov\u00E1na ochoz kv\u016Fli m\u00EDstnosti o dv\u011B podla\u017E\u00ED n\u00ED\u017Ee zvan\u00E9 [Na Ochozu](mi_na_ochozu). A tak musel b\u00FDt n\u00E1zev p\u0159izp\u016Fsoben."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Interi\u00E9r Pavla\u010De se z\u0159eteln\u011B d\u011Bl\u00ED na dv\u011B \u010D\u00E1sti. Prvn\u00ED z nich je ta, kter\u00E1 \u010Dlov\u011Bku obvykle vytane na mysli, kdy\u017E se \u0159ekne \u201EPavla\u010D\u201C. Zauj\u00EDm\u00E1 v\u011Bt\u0161inu plochy m\u00EDstnosti a tvo\u0159\u00ED ji t\u0159i bloky \u0161irok\u00E1 chodba \u2013 z jedn\u00E9 strany z\u00E1stavba, z druh\u00E9 strany ploty, za nimi\u017E se nach\u00E1z\u00ED m\u00EDstnosti v\u0161eho druhu. Pavla\u010D je zde \u010D\u00E1ste\u010Dn\u011B zast\u0159e\u0161ena [Balk\u00F3nem \u010Ctvrtka](mi_balkon_ctvrtka) a \u010D\u00E1ste\u010Dn\u011B v\u00FD\u0161e polo\u017Een\u00FDm [The Airshipem](mi_the_airship). Strop v t\u011Bchto m\u00EDstech sah\u00E1 do v\u00FD\u0161ky osmi blok\u016F.\r\nM\u00EDstnosti za ploty jsou otev\u0159en\u00E9 sm\u011Brem do Pavla\u010De a postr\u00E1daj\u00ED celou jednu st\u011Bnu \u2013 p\u0159ipom\u00EDnaj\u00ED tak v\u00FDstavn\u00ED k\u00F3je nebo st\u00E1nky. U st\u011Bny na t\u00E9to stran\u011B vede tak\u00E9 kr\u00E1tk\u00E9 schodi\u0161t\u011B na [Balk\u00F3n \u010Ctvrtka](mi_balkon_ctvrtka). Na konci t\u00E9to \u010D\u00E1sti se nach\u00E1z\u00ED \u017Eeb\u0159\u00EDk na [Konzoli](mi_konzole), kter\u00E1 byla d\u0159\u00EDve sou\u010D\u00E1st\u00ED Pavla\u010De. Vedle \u017Eeb\u0159\u00EDku je okno, za n\u00EDm\u017E je voda z baz\u00E9nu v [L\u00E1zn\u00EDch Panoraama](mi_lazne_panoraama).\r\nDruh\u00E1 \u010D\u00E1st Pavla\u010De je v\u00FDrazn\u011B u\u017E\u0161\u00ED, ale z\u00E1rove\u0148 vy\u0161\u0161\u00ED \u2013 strop se zde toti\u017E nach\u00E1z\u00ED o dv\u011B podla\u017E\u00ED v\u00FD\u0161, nebo\u0165 patro v\u00FD\u0161e v tomto m\u00EDst\u011B kon\u010D\u00ED. I zde plat\u00ED rozvr\u017Een\u00ED: z jedn\u00E9 strany z\u00E1stavba, z druh\u00E9 ploty. Tato \u010D\u00E1st je v\u00FDrazn\u011B men\u0161\u00ED ne\u017E prvn\u00ED a kon\u010D\u00ED dlouh\u00FDm plotem sd\u00EDlen\u00FDm s [Papokoiem](mi_papokoi). Chodba se pot\u00E9 pod\u00E9l tohoto plotu st\u00E1\u010D\u00ED a je zakon\u010Dena schodi\u0161t\u011Bm vedouc\u00EDm dol\u016F k [V\u00FDplni](mi_vypln). Pod\u00E9l st\u011Bny v t\u00E9to \u010D\u00E1sti se nach\u00E1z\u00ED t\u0159i okna, za nimi\u017E je voda z [L\u00E1zn\u00ED Panoraama](mi_lazne_panoraama). Chodba by zde mohla b\u00FDt \u0161ir\u0161\u00ED, ale obch\u00E1z\u00ED oplocen\u00FD otvor sm\u011B\u0159uj\u00EDc\u00ED do ji\u017E zm\u00EDn\u011Bn\u00E9 [V\u00FDpln\u011B](mi_vypln).\r\nV m\u00EDstnost jsou t\u0159i crafting tably a \u017E\u00E1dn\u00E1 postel."
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": "Pavla\u010D m\u00E1 na d\u00E9lku p\u0159ibli\u017En\u011B 45 blok\u016F.\r\nV m\u00EDstnosti jsou celkem \u010Dty\u0159i okna, za nimi\u017E je voda z [L\u00E1zn\u00ED Panoraama](mi_lazne_panoraama). Celkem jich je \u0161est.Pavla\u010D pat\u0159\u00ED mezi m\u00EDstnosti s nejv\u011Bt\u0161\u00EDm mno\u017Estv\u00EDm plot\u016F v\u016Fbec.\r\n"
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "24/07/25: Od m\u00EDstnosti odd\u011Blena m\u00EDstnost [Konzole](mi_konzole)."
+      }
+    ],
+    "image_id": 0,
+    "area": 144,
     "Empty": false,
     "numberOfRooms": 0,
     "coordinates": {
