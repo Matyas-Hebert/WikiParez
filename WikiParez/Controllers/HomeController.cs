@@ -21,6 +21,10 @@ public class HomeController : Controller
     {
         ViewBag.FinishedPages = _wikiService.getFinishedPages();
         ViewBag.TotalPages = _wikiService.getTotalPages();
+        var splashtexts = new List<string>();
+        splashtexts.AddRange(["PAŘEZ", "V BUBENČI STRAŠÍ!!!", "MRAVENČÍ DRÁHA", "SCHODOV EXISTUJE", "SPADL SKRZ CELÝ LE PONT", "HERMAFRODIT GIDEON", "HRÁL JSI DNES PAŘEZLE?", "HOSPODA HRBATÝ HROZEN", "SPRUCE PLANKS", "TEMNÁ STRANA SÍLY"]);
+        var random = new Random();
+        ViewBag.splashtext = splashtexts[random.Next(splashtexts.Count)];
         return View(_wikiService.Last10pages());
     }
 

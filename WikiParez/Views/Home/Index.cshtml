@@ -1,12 +1,71 @@
-﻿@{
+﻿<style>
+    body {
+        background-image: url('/Images/bg.png');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        min-height: 100vh;
+    }
+    .content-panel {
+        background-color: rgba(255, 255, 255, 0.6);
+        padding: 2rem;
+        padding-right: 6rem;
+        padding-left: 6rem;
+        border-radius: 8px;
+        display: inline-block;
+        align-self: center;
+        width: fit-content;
+        position: relative;
+    }
+    .content-panel-2 {
+        background-color: rgba(68, 64, 64, 0.6);
+        padding: 2rem;
+        border-radius: 8px;
+        display: inline-block;
+        align-self: center;
+        width: fit-content;
+    }
+    .content-panel-2 a {
+        color: #66ccff;
+    }
+
+    .topright {
+        position: absolute;
+        top: 8px;
+        right: 10%;
+        font-size: 18px;
+        font-size: xx-large;
+        transform: translateX(50%) rotate(30deg);
+        transform-origin: center;
+        white-space: nowrap;
+        color: rgb(216, 111, 13);
+        animation: splash 2s infinite ease-in-out;
+    }
+
+    @@keyframes splash {
+        0%, 100% {
+            transform: translateX(50%) rotate(30deg) scale(1);
+        }
+        50% {
+            transform: translateX(50%) rotate(30deg) scale(1.2);
+        }
+    }
+</style>
+
+@{
     ViewData["Title"] = "Home Page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Vítejte na Pařez Wiki!</h1>
-    <h1>Více než @(ViewBag.finishedPages-1) článků!</h1>
-    <h3>Nejnovější články: </h3>
-    @foreach (var key in Model.Keys){
-        <p>Více o <a href=@key>@Model[@key]</a>.</p>
-    }
+<div class="text-center" style="display: flex; flex-direction: column; gap: 40px;">
+    <div class="content-panel">
+        <h1 class="display-4">Vítejte na Pařez Wiki!</h1>
+        <h1>Více než @(ViewBag.finishedPages-1) článků!</h1>
+        <div class="topright">@ViewBag.splashtext</div>
+    </div>
+    <div class="content-panel-2">
+        <h3 style="color: white;">Nejnovější články: </h3>
+        @foreach (var key in Model.Keys){
+            <p style="color: white;">Více o <a href=@key>@Model[@key]</a>.</p>
+        }
+    </div>
 </div>

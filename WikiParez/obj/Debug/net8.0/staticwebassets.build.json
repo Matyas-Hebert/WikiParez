@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "yL7LyUq30pGF00fw/AzZ4NHTcvaWckTR07FwaVAIeUY=",
+  "Hash": "0qQooMQ8lT+WiQYxECgej7qNXF+N8mBJAoJxj9NjLww=",
   "Source": "WikiParez",
   "BasePath": "_content/WikiParez",
   "Mode": "Default",
@@ -167,6 +167,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/Images/beacon_parez3.png"
+    },
+    {
+      "Identity": "/root/wikiparez/WikiParez/wwwroot/Images/bg.png",
+      "SourceId": "WikiParez",
+      "SourceType": "Discovered",
+      "ContentRoot": "/root/wikiparez/WikiParez/wwwroot/",
+      "BasePath": "_content/WikiParez",
+      "RelativePath": "Images/bg.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Images/bg.png"
     },
     {
       "Identity": "/root/wikiparez/WikiParez/wwwroot/Images/di_schodov1.png",

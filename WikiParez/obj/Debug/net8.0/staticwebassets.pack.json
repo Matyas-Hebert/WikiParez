@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets/Images/beacon_parez3.png"
     },
     {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/bg.png",
+      "PackagePath": "staticwebassets/Images/bg.png"
+    },
+    {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/di_schodov1.png",
       "PackagePath": "staticwebassets/Images/di_schodov1.png"
     },
