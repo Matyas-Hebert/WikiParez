@@ -74,7 +74,7 @@ public class WikiService
         {
             var random = new Random();
             var randomkey = availableKeys[random.Next(availableKeys.Count)];
-            dict[randomkey] = _patternlepages[randomkey];
+            dict[_pages[randomkey].Title] = _patternlepages[randomkey];
             availableKeys.Remove(randomkey);
         }
         return dict;

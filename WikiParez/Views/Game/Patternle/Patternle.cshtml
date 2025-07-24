@@ -1,38 +1,124 @@
-@if (Model != null){
-    <canvas id="viewCanvas" width="500" height="500" style="border: 1px solid black;">
+@{
+    var radius = (510-ViewBag.count*10)/ViewBag.count;
+    var i = 0;
+    var j = 0;
+}
 
-    </canvas>
+@if (Model != null){
+    <div style="display: flex; flex-wrap: wrap; gap: 30px;">
+        <div style="flex: 1; min-width: 500px;">
+            <canvas id="viewCanvas" width="500" height="500" style="border: 1px solid black;"></canvas>
+        </div>
+
+        <div style="flex: 1; min-width: 500px;">
+            <div style="padding-bottom: 30px; display: flex; gap: 10px;">
+                @foreach (var key in @Model.Keys){
+                    <button id="option-@j" value="@key" onclick="colorclick(this)" style="border-radius: 50%; height: @(radius + "px"); width: @(radius + "px"); background-color: @ViewBag.colors[key]"></button>
+                    j++;
+                }
+            </div>
+
+            <div>
+                @foreach(var key in @ViewBag.sortedKeys){
+                    <div id="div-@i" style="display: flex; gap: 10px; margin-bottom: 10px;">
+                        <button id="correct-@i" value="@key" onclick="colorclick(this, 'answer-@i')" style="width: 245px; height: 30px;">@key</button>
+                        <button id="answer-@i" value="null" onclick="colorclick(this)" style="width: 245px; height: 30px; background-color: white;"></button>
+                    </div>
+                    i++;
+                }
+                <div style="display: flex; gap: 10px;">
+                    <button id="guess" onclick="guess()" style="width:500px; height: 30px;">HÁDAT</button>
+                </div>
+            </div>
+        </div>
+    </div>
 }
 
 <script>
-    function getRandomColor() {
+    function guess(){
+        playing=false;
+        let score=0;
+        for(var i = 0; i < count; i++){
+            let div = document.getElementById("div-" + i);
+            let answer = document.getElementById("answer-" + i);
+            let correct = document.getElementById("correct-" + i);
+            answer.style.width = "160px";
+            correct.style.width = "160px";
+            let solution = document.createElement("button");
+            solution.style.width = "160px";
+            solution.style.height = "30px";
+            solution.style.backgroundColor = colors[correct.value];
+            div.appendChild(solution);
+            if (answer.value == correct.value) score++;
+        }
+        let guesslabel = document.getElementById("guess");
+        guesslabel.innerText = "SKÓRE: " + score + "/" + count;
+        console.log(score);
+    }
+
+    function colorclick(button, id=null){
+        if (!playing) return;
+        if (id != null){
+            console.log(id);
+            button = document.getElementById(id);
+        }
+        if (lastclickedbutton == null){
+            lastclickedbutton = button;
+            previousborderstyle = lastclickedbutton.style.border;
+            lastclickedbutton.style.border = "5px solid black";
+            console.log(lastclickedbutton);
+            return;
+        }
+        let tmpvalue = button.value;
+        let tmpcolor = button.style.backgroundColor;
+        console.log(tmpvalue, tmpcolor);
+
+        button.value = lastclickedbutton.value;
+        lastclickedbutton.value = tmpvalue;
+        button.style.backgroundColor = lastclickedbutton.style.backgroundColor;
+        lastclickedbutton.style.backgroundColor = tmpcolor;
+        lastclickedbutton.style.border = previousborderstyle;
+        lastclickedbutton = null;
+    }
+
+    document.addEventListener("DOMContentLoaded", function() {
+        drawPoints();
+    });
+    /**function getRandomColor() {
         const r = Math.floor(Math.random() * 256); // 0–255
         const g = Math.floor(Math.random() * 256);
         const b = Math.floor(Math.random() * 256);
         return `rgb(${r}, ${g}, ${b})`;
-    }
+    }**/
+
+    var playing=true;
+    var previousborderstyle = null;
+    var lastclickedbutton = null;
     
     var points = @Html.Raw(Json.Serialize(Model));
     var distance = "@ViewBag.cameradistance";
     var radius = "@ViewBag.sphereradius";
     var center = @Html.Raw(Json.Serialize(ViewBag.center));
-    var count = "@ViewBag.count";
+    var count = "@ViewBag.count"; 
     var isDragging = false;
+
     var startX, startY;
     var currQ = {x:0,y:0,z:0,w:1};
     var lastQ = @Html.Raw(Json.Serialize(ViewBag.quaternion));
     const canvas = document.getElementById("viewCanvas");
     const sensitivity = 200;
-    let colors = {};
+    var colors = @Html.Raw(Json.Serialize(ViewBag.colors));
+    console.log(colors);
+    /**let colors = {};
     for (let key in points) {
-        colors[key] = getRandomColor();
-    }
+        colors[key] = {
+            r: randomcolors[];
+    }**/
 
     canvas.addEventListener("mousedown", function(event) {
         startX = event.clientX;
         startY = event.clientY;
         isDragging = true;
-        console.log(lastQ);
     });
     canvas.addEventListener("touchstart", function(event) {
         event.preventDefault();
@@ -66,7 +152,7 @@
         lastQ = multiplyQuaternions(currQ, lastQ);
         currQ = {x:0,y:0,z:0,w:1};
         isDragging = false;
-    })
+    });
 
     function project(x, y){
         const r = 1;
@@ -149,8 +235,12 @@
             const circleradius = minRadius + t*(maxRadius - minRadius);
             ctx.beginPath();
             ctx.arc(screenX, screenY, circleradius, 0, Math.PI * 2);
+            console.log(colors[rotatedpoints[point].key]);
             ctx.fillStyle = colors[rotatedpoints[point].key];
             ctx.fill();
+            ctx.lineWidth = 1;
+            ctx.strokeStyle = "black";
+            ctx.stroke();
         }
     }
 

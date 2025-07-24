@@ -3,6 +3,8 @@ using WikiParez.Services;
 using WikiParez.Models;
 using Microsoft.AspNetCore.Components.Endpoints;
 using System.Numerics;
+using System.Drawing;
+using Microsoft.Extensions.ObjectPool;
 
 namespace WikiParez.Controllers
 {
@@ -77,13 +79,19 @@ namespace WikiParez.Controllers
             return View("Parezle/Menu");
         }
 
+        public IActionResult PatternleMenu()
+        {
+            return View("Patternle/Menu");
+        }
+
         [HttpGet]
         [Route("Game/Patternle")]
-        public IActionResult Patternle()
+        public IActionResult Patternle(int numberofcoords)
         {
-            var numberofcoords = 10;
             var coords = _wikiService.GetNCoordinates(numberofcoords);
             var center = new Coordinates();
+            var colorpalette = new List<string>();
+            colorpalette.AddRange(["rgb(255,0,0)", "rgb(255,255,0)", "rgb(0,0,255)", "rgb(0,128,0)", "rgb(255,165,0)", "rgb(128,0,128)", "rgb(0,255,255)", "rgb(255,0,255)", "rgb(0,255,0)", "rgb(255,192,203)", "rgb(165,42,42)", "rgb(0,128,128)"]);
             double cameradistance = 0.0f;
             foreach (var coord in coords.Values)
             {
@@ -105,7 +113,7 @@ namespace WikiParez.Controllers
             }
 
             ViewBag.sphereradius = cameradistance;
-            cameradistance *= 2;
+            cameradistance *= 3;
             
             ViewBag.cameradistance = cameradistance;
             ViewBag.center = center;
@@ -119,12 +127,62 @@ namespace WikiParez.Controllers
                 w = quaternion.W
             };
 
+            var colors = new Dictionary<string, string>();
+            //Random rnd = new Random();
+            var i = 0;
+            foreach (var key in coords.Keys)
+            {
+                //var color = Color.FromArgb(rnd.Next(256), rnd.Next(256), rnd.Next(256));
+                colors[key] = colorpalette[i];
+                i++;
+            }
+
+            ViewBag.colors = colors;
+            var sortedKeys = coords.Keys.ToList();
+            sortedKeys.Sort();
+            ViewBag.sortedKeys = sortedKeys;
+
             var pitch = Math.Asin(2 * (quaternion.W * quaternion.Y - quaternion.Z * quaternion.X));
             ViewBag.pitch = pitch;
             var yaw = Math.Atan2(2 * (quaternion.W * quaternion.Z + quaternion.X * quaternion.Y), 1 - 2 * (quaternion.Y * quaternion.Y + quaternion.Z * quaternion.Z));
             ViewBag.yaw = yaw;
 
             return View("Patternle/Patternle", coords);
+        }
+
+        [HttpGet]
+        [Route("Game/Patternle/4")]
+        public IActionResult Patternle4()
+        {
+            return Patternle(4);
+        }
+
+        [HttpGet]
+        [Route("Game/Patternle/6")]
+        public IActionResult Patternle6()
+        {
+            return Patternle(6);
+        }
+
+        [HttpGet]
+        [Route("Game/Patternle/8")]
+        public IActionResult Patternle8()
+        {
+            return Patternle(8);
+        }
+
+        [HttpGet]
+        [Route("Game/Patternle/10")]
+        public IActionResult Patternle10()
+        {
+            return Patternle(10);
+        }
+
+        [HttpGet]
+        [Route("Game/Patternle/12")]
+        public IActionResult Patternle12()
+        {
+            return Patternle(12);
         }
 
         [HttpGet]
