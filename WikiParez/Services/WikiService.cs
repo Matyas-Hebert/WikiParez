@@ -30,6 +30,8 @@ public class WikiService
     {
         _path = Path.Combine(env.ContentRootPath, "appdata", "pagesData.json");
         _pathsplash = Path.Combine(env.ContentRootPath, "appdata", "splashtexts.txt");
+        Console.WriteLine(_path);
+        Console.WriteLine(_pathsplash);
         _pages = LoadPages();
         _onlyroomspages = LoadOnlyRoomPages();
         _simplifiedPages = GetSimplifiedDict();
