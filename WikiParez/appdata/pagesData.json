@@ -871,12 +871,14 @@
     "Images": [],
     "Image_titles": [
       "SKOKANSK\u00C9 M\u016ESTKY",
-      "PAPRSKY BEACONU"
+      "PAPRSKY BEACONU",
+      "KOLEJE"
     ],
     "Bordering_rooms": [
       "mi_lazne_panoraama",
       "mi_strecha",
-      "mi_chodba"
+      "mi_chodba",
+      "mi_the_overpass"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -898,11 +900,15 @@
       },
       {
         "Title": "Interi\u00E9r",
-        "Content": "Cel\u00FD prostor m\u00EDstnosti je asi 2x v\u011Bt\u0161\u00ED ne\u017E jej\u00ED plocha. Polovina m\u00EDstnost\u00ED nem\u00E1 podlahu a slou\u017E\u00ED jako prostor ke skoku. Krom\u011B skokansk\u00FD m\u016Fstk\u016F se v m\u00EDstnosti nach\u00E1z\u00ED 2 b\u00EDl\u00E9 postele, jedna na severn\u00ED a druh\u00E1 na ji\u017En\u00ED stran\u011B. A jako dodatek jeden crafting table pro ka\u017Edou postel. Severoz\u00E1padn\u00ED roh m\u00EDstnosti tak\u00E9 protinaj\u00ED paprsky od [beaconu](beacon_parez)."
+        "Content": "Cel\u00FD prostor m\u00EDstnosti je asi 2x v\u011Bt\u0161\u00ED ne\u017E jej\u00ED plocha. Polovina m\u00EDstnost\u00ED nem\u00E1 podlahu a slou\u017E\u00ED jako prostor ke skoku. Krom\u011B skokansk\u00FD m\u016Fstk\u016F se v m\u00EDstnosti nach\u00E1z\u00ED 2 b\u00EDl\u00E9 postele, jedna na severn\u00ED a druh\u00E1 na ji\u017En\u00ED stran\u011B. A jako dodatek jeden crafting table pro ka\u017Edou postel. Severoz\u00E1padn\u00ED roh m\u00EDstnosti tak\u00E9 protinaj\u00ED paprsky od [beaconu](beacon_parez).\r\nNa levo od nejlevn\u011Bj\u0161\u00EDho m\u016Fstku vede \u00FAzk\u00FD most s kolejemi vedouc\u00EDmi z [Doln\u00EDho N\u00E1dra\u017E\u00ED](mi_dolni_nadrazi). Koleje d\u00E1le pokra\u010Duj\u00ED st\u011Bnou na [Chodbu](mi_chodba)."
       },
       {
         "Title": "Zaj\u00EDmavosti",
         "Content": "\u010Cerven\u00FD a modr\u00FD paprsek z [beaconu](beacon_parez) proch\u00E1z\u00ED sklem mezi [Chodbou](mi_chodba) a skokansk\u00FDmi m\u016Fstky.\r\nM\u016Fstky se nach\u00E1zej\u00ED 6.5 bloku nad hladinou vody.\r\nPro zopakov\u00E1n\u00ED skoku je t\u0159eba proj\u00EDt skrz [Schwarzenegger house](mi_schwarzenegger_house), [Airship](mi_the_airship) a [Chodbu](mi_chodba)."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "24/07/25: M\u00EDstnost\u00ED proch\u00E1z\u00ED [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha).\r\n24/07/25: M\u00EDstnost nov\u011B soused\u00ED s [The Overpassem](mi_the_overpass)."
       }
     ],
     "image_id": 0,
@@ -914,7 +920,7 @@
       "y": 0,
       "z": 0
     },
-    "redirect": "",
+    "redirect": null,
     "tobeedited": false
   },
   "mi_chodba": {
@@ -924,7 +930,8 @@
     "Image_titles": [
       "POHLED OD KAHANU",
       "POHLED OD DETOURU",
-      "TROJICE DVE\u0158\u00CD NA THE AIRSHIPU"
+      "TROJICE DVE\u0158\u00CD NA THE AIRSHIPU",
+      "KOLEJE"
     ],
     "Bordering_rooms": [
       "mi_kahan",
@@ -949,7 +956,7 @@
     "Sections": [
       {
         "Title": "P\u0159ehled",
-        "Content": "Chodba je dlouh\u00E1 m\u00EDstnost spojuj\u00EDc\u00ED [The Detour](mi_the_detour) s [Kahanem](mi_kahan). Krom\u011B t\u011Bchto dvou vchod\u016F je v Chodb\u011B 11 dal\u0161\u00EDch a to do t\u011Bchto m\u00EDstnost\u00ED: [Zakin\u00ED](mi_zakini), [Pu\u010Dmeloun farma](mi_pucmeloun_farma), [Skokansk\u00E9 m\u016Fstky](mi_skokanske_mustky), [Chodba II](mi_chodba_ii), [Kazeta](mi_kazeta), [D\u00E1lni\u010Dn\u00ED p\u0159echod](mi_dalnicni_prechod) a 4 dve\u0159e na [Airship](mi_the_airship).\r\nChodba je n\u011Bco m\u00E1le p\u0159es 50 blok\u016F dlouh\u00E1 a ve v\u011Bt\u0161in\u011B m\u00EDst dva bloky \u0161irok\u00E1."
+        "Content": "Chodba je dlouh\u00E1 m\u00EDstnost spojuj\u00EDc\u00ED [The Detour](mi_the_detour) s [Kahanem](mi_kahan). Krom\u011B t\u011Bchto dvou vchod\u016F je v Chodb\u011B 11 dal\u0161\u00EDch a to do t\u011Bchto m\u00EDstnost\u00ED: [Zakin\u00ED](mi_zakini), [Pu\u010Dmeloun farma](mi_pucmeloun_farma), [Skokansk\u00E9 m\u016Fstky](mi_skokanske_mustky), [Chodba II](mi_chodba_ii), [Kazeta](mi_kazeta), [D\u00E1lni\u010Dn\u00ED p\u0159echod](mi_dalnicni_prechod) a t\u0159i dve\u0159e na [Airship](mi_the_airship). Jedny ze dve\u0159\u00ED byly zru\u0161eny a nahrazeny pr\u016Fjezdem [Mraven\u010D\u00ED Dr\u00E1hy](te_mravenci_draha).\r\nChodba je n\u011Bco m\u00E1le p\u0159es 50 blok\u016F dlouh\u00E1 a ve v\u011Bt\u0161in\u011B m\u00EDst dva bloky \u0161irok\u00E1."
       },
       {
         "Title": "N\u00E1zev",
@@ -957,7 +964,7 @@
       },
       {
         "Title": "Interi\u00E9r",
-        "Content": "V interi\u00E9ru chodby se nach\u00E1z\u00ED 5 crafting tabl\u016F a u [Kahanu](mi_kahan) 1 barel.\r\nChodba vede ze severoz\u00E1pad na jihov\u00FDchod a postupn\u011B stoup\u00E1. Od sv\u00E9ho za\u010D\u00E1tku o [Detouru](mi_the_detour) ke [Kahanu](mi_kahan) stoupne o 5 blok\u016F. Nejvy\u0161\u0161\u00EDm bodem chodby je v\u0161ak vchod do [Z\u00E1kin\u00ED](mi_zakini) je\u0161t\u011B o blok v\u00FD\u0161e."
+        "Content": "V interi\u00E9ru chodby se nach\u00E1z\u00ED 5 crafting tabl\u016F a u [Kahanu](mi_kahan) 1 barel.\r\nChodba vede ze severoz\u00E1pad na jihov\u00FDchod a postupn\u011B stoup\u00E1. Od sv\u00E9ho za\u010D\u00E1tku o [Detouru](mi_the_detour) ke [Kahanu](mi_kahan) stoupne o 5 blok\u016F. Nejvy\u0161\u0161\u00EDm bodem chodby je v\u0161ak vchod do [Z\u00E1kin\u00ED](mi_zakini) je\u0161t\u011B o blok v\u00FD\u0161e.\r\nProst\u0159edn\u00ED \u010D\u00E1sti proch\u00E1z\u00ED koleje z [Mraven\u010D\u00ED Dr\u00E1hy](te_mravenci_draha) vedouc\u00ED n\u00EDzk\u00FDm pr\u016Fchodem ze [Skokansk\u00FDch M\u016Fstk\u016F](mi_skokanske_mustky) a p\u016Fvodn\u00EDmi dvojit\u00FDmi dve\u0159mi na [the Airship](mi_the_airship)."
       },
       {
         "Title": "Zaj\u00EDmavosti",
@@ -965,7 +972,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "30/06/25: Dve\u0159e do [\u00DAnikov\u00E9ho Schodi\u0161t\u011B](mi_unikove_schodiste) nov\u011B vedou do [Kazety](mi_kazeta)."
+        "Content": "30/06/25: Dve\u0159e do [\u00DAnikov\u00E9ho Schodi\u0161t\u011B](mi_unikove_schodiste) nov\u011B vedou do [Kazety](mi_kazeta).\r\n24/07/25: M\u00EDstnost\u00ED proch\u00E1z\u00ED [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha)."
       }
     ],
     "image_id": 0,
@@ -977,7 +984,7 @@
       "y": 0,
       "z": 0
     },
-    "redirect": "",
+    "redirect": null,
     "tobeedited": false
   },
   "mi_dalnicni_prechod": {
@@ -1420,7 +1427,8 @@
       "mi_spojnice",
       "mi_chodba",
       "mi_staj",
-      "mi_kralovske_abonma"
+      "mi_kralovske_abonma",
+      "mi_namesti_u_vody"
     ],
     "Alternate_names": [
       "Vzducholo\u010F",
@@ -1436,7 +1444,7 @@
     "Sections": [
       {
         "Title": "P\u0159ehled",
-        "Content": "The Airship je nejv\u011Bt\u0161\u00ED m\u00EDstnost\u00ED ve stejnojmenn\u00E9m bloku a okrsku. Jedn\u00E1 se o \u010D\u00E1ste\u010Dn\u011B otev\u0159enou m\u00EDstnost s velmi vysok\u00FDm stropem. Z\u00E1kladn\u00ED struktura m\u00EDstnosti p\u0159ipom\u00EDn\u00E1 n\u00E1m\u011Bst\u00ED s budovami okolo. Mezi m\u00EDstnosti v t\u011Bchto budov\u00E1ch pat\u0159\u00ED: [St\u00E1je](mi_staj), [Builder \u010Depi\u010Dka](mi_builder_cepicka), [Lokace](mi_lokace), [Spy](mi_spy) nebo [Kabina](mi_kabina). Z n\u00E1m\u011Bst\u00ED tak\u00E9 vede \u010Dtve\u0159ice schodi\u0161\u0165 (3 dol\u016F a 1 nahoru). Mezi n\u011B pat\u0159\u00ED [Schodi\u0161t\u011B TT](mi_schodiste_tt) vedouc\u00ED do [Bytu chud\u00E1ka, kterej nem\u00E1 r\u00E1d klub](mi_byt_chudaka_kterej_nema_rad_kluby), [Schodi\u0161t\u011B AA](mi_schodiste_aa) na [Alej](mi_alej), schody do [Schwarzenegger Housu](mi_schwarzenegger_house) a schody nahoru na [Spojnici](mi_spojnice). Cel\u00E9 n\u00E1m\u011Bst\u00ED je velmi prostorn\u00E9 se stropem o v\u00FD\u0161ce 10 blok\u016F a proch\u00E1z\u00ED jim odno\u017E [D\u00E1lni\u010Dn\u00EDho pil\u00ED\u0159e](mi_dalnicni_pilir). V\u00FD\u0161ka stropu v ostatn\u00EDch \u010D\u00E1stech Airshipu m\u016F\u017Ee klesnout a\u017E na pouh\u00FDch 2.5 bloku.\r\nNa ji\u017En\u00EDm konci Airshipu je men\u0161\u00ED m\u00EDstn\u016Fstka z n\u00ED\u017E vedou dve\u0159e na konec [Chodby](mi_chodba) a schody do [Kr\u00E1lovsk\u00E9ho abonm\u00E1](mi_kralovske_abonma). P\u0159i vstupu do t\u00E9to m\u00EDstn\u016Fstky z n\u00E1m\u011Bst\u00ED se proch\u00E1z\u00ED kolem trojici dvojit\u00FDch dve\u0159\u00ED na [Chodbu](mi_chodba).\r\nNa severn\u00ED stran\u011B Airshipu je krom\u011B [Schodi\u0161t\u011B AA](mi_schodiste_aa) vstup do [Parsley Attic](mi_parsley_attic) a men\u0161\u00ED chodba o \u0161\u00ED\u0159ce 1.8 bloku s dve\u0159mi na [The Terrass](mi_the_terrass) a na [Detour](mi_the_detour)."
+        "Content": "The Airship je nejv\u011Bt\u0161\u00ED m\u00EDstnost\u00ED ve stejnojmenn\u00E9m bloku a okrsku. Jedn\u00E1 se o \u010D\u00E1ste\u010Dn\u011B otev\u0159enou m\u00EDstnost s velmi vysok\u00FDm stropem. Z\u00E1kladn\u00ED struktura m\u00EDstnosti p\u0159ipom\u00EDn\u00E1 n\u00E1m\u011Bst\u00ED s budovami okolo. Mezi m\u00EDstnosti v t\u011Bchto budov\u00E1ch pat\u0159\u00ED: [St\u00E1je](mi_staj), [Builder \u010Depi\u010Dka](mi_builder_cepicka), [Lokace](mi_lokace), [Spy](mi_spy) nebo [Kabina](mi_kabina). Z n\u00E1m\u011Bst\u00ED tak\u00E9 vede \u010Dtve\u0159ice schodi\u0161\u0165 (3 dol\u016F a 1 nahoru). Mezi n\u011B pat\u0159\u00ED [Schodi\u0161t\u011B TT](mi_schodiste_tt) vedouc\u00ED do [Bytu chud\u00E1ka, kterej nem\u00E1 r\u00E1d klub](mi_byt_chudaka_kterej_nema_rad_kluby), [Schodi\u0161t\u011B AA](mi_schodiste_aa) na [Alej](mi_alej), schody do [Schwarzenegger Housu](mi_schwarzenegger_house) a schody nahoru na [Spojnici](mi_spojnice). Cel\u00E9 n\u00E1m\u011Bst\u00ED je velmi prostorn\u00E9 se stropem o v\u00FD\u0161ce 10 blok\u016F a proch\u00E1z\u00ED jim odno\u017E [D\u00E1lni\u010Dn\u00EDho pil\u00ED\u0159e](mi_dalnicni_pilir). V\u00FD\u0161ka stropu v ostatn\u00EDch \u010D\u00E1stech Airshipu m\u016F\u017Ee klesnout a\u017E na pouh\u00FDch 2.5 bloku.\r\nNa ji\u017En\u00EDm konci Airshipu je men\u0161\u00ED m\u00EDstn\u016Fstka z n\u00ED\u017E vedou dve\u0159e na konec [Chodby](mi_chodba) a schody do [Kr\u00E1lovsk\u00E9ho abonm\u00E1](mi_kralovske_abonma). P\u0159i vstupu do t\u00E9to m\u00EDstn\u016Fstky z n\u00E1m\u011Bst\u00ED se proch\u00E1z\u00ED kolem dvojici dvojit\u00FDch dve\u0159\u00ED na [Chodbu](mi_chodba). D\u0159\u00EDve zde byly dve\u0159e t\u0159i, ale jedny byly nahrazeny za pr\u016Fjezd [Mraven\u010D\u00ED Dr\u00E1hy](te_mravenci_draha).\r\nNa severn\u00ED stran\u011B Airshipu je krom\u011B [Schodi\u0161t\u011B AA](mi_schodiste_aa) vstup do [Parsley Attic](mi_parsley_attic) a men\u0161\u00ED chodba o \u0161\u00ED\u0159ce 1.8 bloku s dve\u0159mi na [The Terrass](mi_the_terrass) a na [Detour](mi_the_detour)."
       },
       {
         "Title": "N\u00E1zev",
@@ -1444,11 +1452,15 @@
       },
       {
         "Title": "Interi\u00E9r",
-        "Content": "Interi\u00E9r cel\u00E9ho airshipu je velmi komplikovan\u00FD. V cel\u00E9 m\u00EDstnosti se nach\u00E1z\u00ED jen 3 crafting tably, sv\u011Btle modr\u00E1 postel pod schody na [Spojnici](mi_spojnice) a 1 barel v m\u00EDstn\u016Fstce u schod\u016F do [Kr\u00E1lovsk\u00E9ho Abonm\u00E1](mi_kralovske_abonma). Z t\u00E9to m\u00EDstnustky je tak\u00E9 mo\u017En\u00E9 otev\u0159\u00EDt barely nach\u00E1zej\u00EDc\u00ED se ve [St\u00E1ji](mi_staj).\r\nV cel\u00E9m Airshipu je pou\u017Eit zv\u00FD\u0161en\u00E9ho mno\u017Estv\u00ED plot\u016F a\u0165 u\u017E na ohrazen\u00ED \u010Di na podep\u0159en\u00ED m\u00EDstnost\u00ED v\u00FD\u0161e. Mezi p\u0159\u00EDklady plot\u016F je plot se [St\u00E1j\u00ED](mi_staj) nebo plot u vstupu do [Lokace](mi_lokace) a [Builder \u010Depi\u010Dky](mi_builder_cepicka). Z tohoto plotu vede jeden ze dvou posledn\u00EDch zbyl\u00FDch sloupk\u016F na podep\u0159en\u00ED [Statku](mi_statek), m\u00EDstnosti hned nad Airshipem. Na ji\u017En\u00ED st\u011Bn\u011B n\u00E1m\u011Bst\u00ED lze pozorovat balk\u00F3n [Kr\u00E1lovsk\u00E9ho abonm\u00E1](mi_kralovske_abonma) a cel\u00FD prostor je osv\u011Btlen lou\u010Demi a jednou lanternou."
+        "Content": "Interi\u00E9r cel\u00E9ho airshipu je velmi komplikovan\u00FD. V cel\u00E9 m\u00EDstnosti se nach\u00E1z\u00ED jen 3 crafting tably, sv\u011Btle modr\u00E1 postel pod schody na [Spojnici](mi_spojnice) a 1 barel v m\u00EDstn\u016Fstce u schod\u016F do [Kr\u00E1lovsk\u00E9ho Abonm\u00E1](mi_kralovske_abonma). Z t\u00E9to m\u00EDstnustky je tak\u00E9 mo\u017En\u00E9 otev\u0159\u00EDt barely nach\u00E1zej\u00EDc\u00ED se ve [St\u00E1ji](mi_staj). U v\u00FD\u0161e zm\u00EDn\u011Bn\u00FDch dvou vchod\u016F na [Chodbu](mi_chodba) lze vid\u011Bt koleje [Mraven\u010D\u00ED Dr\u00E1hy](mi_mravenci_draha) d\u00E1le vedouc\u00ED dol\u016F na [N\u00E1m\u011Bst\u00ED u Vody](mi_namesti_u_vody).\r\nV cel\u00E9m Airshipu je pou\u017Eit zv\u00FD\u0161en\u00E9ho mno\u017Estv\u00ED plot\u016F a\u0165 u\u017E na ohrazen\u00ED \u010Di na podep\u0159en\u00ED m\u00EDstnost\u00ED v\u00FD\u0161e. Mezi p\u0159\u00EDklady plot\u016F je plot se [St\u00E1j\u00ED](mi_staj) nebo plot u vstupu do [Lokace](mi_lokace) a [Builder \u010Depi\u010Dky](mi_builder_cepicka). Z tohoto plotu vede jeden ze dvou posledn\u00EDch zbyl\u00FDch sloupk\u016F na podep\u0159en\u00ED [Statku](mi_statek), m\u00EDstnosti hned nad Airshipem. Na ji\u017En\u00ED st\u011Bn\u011B n\u00E1m\u011Bst\u00ED lze pozorovat balk\u00F3n [Kr\u00E1lovsk\u00E9ho abonm\u00E1](mi_kralovske_abonma) a cel\u00FD prostor je osv\u011Btlen lou\u010Demi a jednou lanternou."
       },
       {
         "Title": "Zaj\u00EDmavosti",
         "Content": "P\u0159ed vstupem do [Parsley Attic](mi_parsley_attic) je ve schodu polo\u017Eena voda, kter\u00E1 nem\u00E1 \u017E\u00E1dn\u00FD konkr\u00E9tn\u00ED \u00FA\u010Del.\r\nSe svoji majest\u00E1tn\u00EDm plo\u0161nou m\u00EDrou je Airship nejen nejv\u011Bt\u0161\u00EDm m\u00EDstnost\u00ED v bloku ale i jednou z nejv\u011Bt\u0161\u00EDch v cel\u00E9m dom\u011B.\r\nZ Airshipu vedou hned \u010Dty\u0159i vchody do [Chodby](mi_chodba).\r\nMezi [Kazetou](mi_kazeta) a [D\u00E1lni\u010Dn\u00EDm pil\u00ED\u0159em](mi_dalnicni_pilir) je konec v\u00FDtahu, kter\u00FD za\u010D\u00EDn\u00E1 na [Hlavn\u00EDm koridoru II](mi_hlavni_koridor_ii) o 22 blok\u016F n\u00ED\u017Ee."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "24/07/25: M\u00EDstnost\u00ED proch\u00E1z\u00ED [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha).\r\n24/07/25: M\u00EDstnost soused\u00ED s [N\u00E1m\u011Bst\u00EDm u Vody](mi_namesti_u_vody)."
       }
     ],
     "image_id": 0,
@@ -1460,7 +1472,7 @@
       "y": 0,
       "z": 0
     },
-    "redirect": "",
+    "redirect": null,
     "tobeedited": false
   },
   "mi_lodzie": {
@@ -3407,7 +3419,8 @@
       "mi_prizemi",
       "mi_podpavlacovy_dum",
       "mi_koreny",
-      "mi_vyloha"
+      "mi_vyloha",
+      "mi_pavlac"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -3433,6 +3446,10 @@
       {
         "Title": "Zaj\u00EDmavost",
         "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "24/07/25: M\u00EDstnost\u00ED proch\u00E1z\u00ED [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha).\r\n24/07/25: Alej nov\u011B soused\u00ED s [Pavla\u010D\u00ED](mi_pavlac)."
       }
     ],
     "image_id": 0,
@@ -3444,7 +3461,7 @@
       "y": 0,
       "z": 0
     },
-    "redirect": "",
+    "redirect": null,
     "tobeedited": false
   },
   "mi_laborator": {
@@ -4773,7 +4790,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "30/06/25: Dv\u011B ze t\u0159\u00ED dve\u0159\u00ED do [\u00DAnikov\u00E9ho Schodi\u0161t\u011B](mi_unikove_schodiste) te\u010F vedou do [Hn\u00EDzda](mi_hnizdo)."
+        "Content": "30/06/25: Dv\u011B ze t\u0159\u00ED dve\u0159\u00ED do [\u00DAnikov\u00E9ho Schodi\u0161t\u011B](mi_unikove_schodiste) te\u010F vedou do [Hn\u00EDzda](mi_hnizdo).\r\n24/07/25: M\u00EDstnost\u00ED proch\u00E1z\u00ED [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha).\r\n24/07/25: M\u00EDstnost soused\u00ED s [the Airship](mi_the_airship)."
       }
     ],
     "image_id": 0,
@@ -4785,7 +4802,7 @@
       "y": 0,
       "z": 0
     },
-    "redirect": "",
+    "redirect": null,
     "tobeedited": false
   },
   "mi_schwarzenegger_house": {
@@ -8725,7 +8742,8 @@
       "Blok": "[Autobus\u00E1k](bl_autobusak)",
       "Okrsek": "[Sklen\u00EDk](ok_sklenik)",
       "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
-      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
+      "\u00DA\u010Del": "termin\u00E1l [Mraven\u010D\u00ED Dr\u00E1hy](te_mravenci_draha)."
     },
     "Sections": [
       {
@@ -8743,6 +8761,10 @@
       {
         "Title": "Zaj\u00EDmavost",
         "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "24/07/25: M\u00EDstnost\u00ED proch\u00E1z\u00ED [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha)."
       }
     ],
     "image_id": 0,
@@ -8754,7 +8776,7 @@
       "y": 94,
       "z": 1129
     },
-    "redirect": "",
+    "redirect": null,
     "tobeedited": false
   },
   "mi_policka": {
@@ -10473,7 +10495,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "19/06/25: Od The Bridge byla odd\u011Blena m\u00EDstnost [V\u00FDloha](mi_vyloha).\r\n12/07/25: Nov\u00FD vchod do [Dvoj\u010Dat](mi_dvojcata)."
+        "Content": "19/06/25: Od The Bridge byla odd\u011Blena m\u00EDstnost [V\u00FDloha](mi_vyloha).\r\n12/07/25: Nov\u00FD vchod do [Dvoj\u010Dat](mi_dvojcata).\r\n24/07/25: M\u00EDstnost\u00ED proch\u00E1z\u00ED [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha)."
       }
     ],
     "image_id": 0,
@@ -10818,7 +10840,8 @@
       "mi_pucmeloun_farma",
       "mi_dalnicni_pilir",
       "mi_hospoda",
-      "mi_hriva"
+      "mi_hriva",
+      "mi_skokanske_mustky"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -10847,7 +10870,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "25/06/25: Cel\u00E1 m\u00EDstnost nov\u011B v bloku [Autobus\u00E1k](bl_autobusak). D\u0159\u00EDve byla rozd\u011Blena na bloky [Lanterna](bl_lanterna), [St\u0159echa](bl_strecha), [Beta](bl_beta),[Tr\u00F3ja](bl_troja) a [V\u00FDtahov\u00E1 \u0160achta](bl_vytahova_sachta).\r\n20/07/25: Nov\u00E9 dve\u0159e do [Hospody](mi_hospoda) a nov\u00E1 m\u00EDstnost p\u0159\u00EDmo na Overpassu [H\u0159\u00EDva](mi_hriva)."
+        "Content": "25/06/25: Cel\u00E1 m\u00EDstnost nov\u011B v bloku [Autobus\u00E1k](bl_autobusak). D\u0159\u00EDve byla rozd\u011Blena na bloky [Lanterna](bl_lanterna), [St\u0159echa](bl_strecha), [Beta](bl_beta),[Tr\u00F3ja](bl_troja) a [V\u00FDtahov\u00E1 \u0160achta](bl_vytahova_sachta).\r\n20/07/25: Nov\u00E9 dve\u0159e do [Hospody](mi_hospoda) a nov\u00E1 m\u00EDstnost p\u0159\u00EDmo na Overpassu [H\u0159\u00EDva](mi_hriva).\r\n24/07/25: M\u00EDstnost\u00ED proch\u00E1z\u00ED [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha)."
       }
     ],
     "image_id": 0,
@@ -20072,6 +20095,10 @@
       {
         "Title": "Zaj\u00EDmavost",
         "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "24/07/25: M\u00EDstnost\u00ED proch\u00E1z\u00ED [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha)."
       }
     ],
     "image_id": 0,
@@ -20119,6 +20146,10 @@
       {
         "Title": "Zaj\u00EDmavost",
         "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "24/07/25: M\u00EDstnost\u00ED proch\u00E1z\u00ED [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha)."
       }
     ],
     "image_id": 0,
@@ -20151,7 +20182,8 @@
       "Blok": "[Sklen\u00EDk](bl_sklenik)",
       "Okrsek": "[Sklen\u00EDk](ok_sklenik)",
       "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
-      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
+      "\u00DA\u010Del": "termin\u00E1l [Mraven\u010D\u00ED Dr\u00E1hy](te_mravenci_draha)."
     },
     "Sections": [
       {
@@ -20169,6 +20201,10 @@
       {
         "Title": "Zaj\u00EDmavost",
         "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "24/07/25: M\u00EDstnost\u00ED proch\u00E1z\u00ED [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha)."
       }
     ],
     "image_id": 0,
@@ -32264,7 +32300,8 @@
     "Image_titles": [
       "BALK\u00D3N",
       "DRUH\u00C1 \u010C\u00C1ST",
-      "V\u00DDHLED NA LOM"
+      "V\u00DDHLED NA LOM",
+      "KOLEJE"
     ],
     "Bordering_rooms": [
       "mi_konzole",
@@ -32292,11 +32329,15 @@
       },
       {
         "Title": "Interi\u00E9r",
-        "Content": "M\u00EDstnost je rozd\u011Blena na dv\u011B \u010D\u00E1sti. Prvn\u00ED star\u0161\u00ED je \u010Dtvrtkruhov\u00FD balk\u00F3n oplocen ze dvou stran. Ze severu se sem d\u00E1 vej\u00EDt z [N\u00E1m\u011Bst\u00ED u Vody](mi_namesti_u_vody) a na v\u00FDchod\u011B m\u00EDstnost pokra\u010Duje. \u010Ctvrtkruhov\u00E1 \u010D\u00E1st je nej\u0161ir\u0161\u00EDm a nejvy\u0161\u0161\u00EDm prostorem v m\u00EDstnosti.\r\nP\u0159i vstupu do druh\u00E9 \u010D\u00E1sti jsme p\u0159iv\u00EDtan\u00ED sloupkem podp\u00EDraj\u00EDc\u00EDm [The Airship](mi_the_airship). Strop se zde zvedne o p\u016Fl bloku a podlaha o cel\u00FD blok. V\u00FD\u0161ka je stropu je zde tedy \u010Dty\u0159i bloky. Jedn\u00E1 se o \u010D\u00E1st plnou vchod\u016F a uprost\u0159ed prostoru je \u00FAzk\u00E9 schodi\u0161t\u011B na [Pavla\u010D](mi_pavlac) a po prav\u00E9 stran\u011B je blok [Mezipatro](bl_mezipatro). Nach\u00E1z\u00ED se zde tak\u00E9 jedin\u00FD crafting table m\u00EDstnosti. A\u010D tu postel nen\u00ED je k dispozici v sousedn\u00EDch m\u00EDstnostech."
+        "Content": "M\u00EDstnost je rozd\u011Blena na dv\u011B \u010D\u00E1sti. Prvn\u00ED star\u0161\u00ED je \u010Dtvrtkruhov\u00FD balk\u00F3n oplocen ze dvou stran. Ze severu se sem d\u00E1 vej\u00EDt z [N\u00E1m\u011Bst\u00ED u Vody](mi_namesti_u_vody) a na v\u00FDchod\u011B m\u00EDstnost pokra\u010Duje. \u010Ctvrtkruhov\u00E1 \u010D\u00E1st je nej\u0161ir\u0161\u00EDm a nejvy\u0161\u0161\u00EDm prostorem v m\u00EDstnosti. Touto \u010D\u00E1st\u00ED tak\u00E9 proch\u00E1z\u00ED koleje [Mraven\u010D\u00ED Dr\u00E1hy](te_mravenci_draha), kter\u00E9 d\u00E1le pokra\u010Duji sm\u011Brem dol\u016F na [Pavla\u010D](mi_pavlac).\r\nP\u0159i vstupu do druh\u00E9 \u010D\u00E1sti jsme p\u0159iv\u00EDtan\u00ED sloupkem podp\u00EDraj\u00EDc\u00EDm [The Airship](mi_the_airship). Strop se zde zvedne o p\u016Fl bloku a podlaha o cel\u00FD blok. V\u00FD\u0161ka je stropu je zde tedy \u010Dty\u0159i bloky. Jedn\u00E1 se o \u010D\u00E1st plnou vchod\u016F a uprost\u0159ed prostoru je \u00FAzk\u00E9 schodi\u0161t\u011B na [Pavla\u010D](mi_pavlac) a po prav\u00E9 stran\u011B je blok [Mezipatro](bl_mezipatro). Nach\u00E1z\u00ED se zde tak\u00E9 jedin\u00FD crafting table m\u00EDstnosti. A\u010D tu postel nen\u00ED je k dispozici v sousedn\u00EDch m\u00EDstnostech."
       },
       {
         "Title": "Zaj\u00EDmavost",
         "Content": "\u010Ctvrtkruhov\u00E1 \u010D\u00E1st m\u00EDstnosti nab\u00EDz\u00ED ty nejlep\u0161\u00ED v\u00FDhledy na [Lom](ct_lom)."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "24/07/25: M\u00EDstnost\u00ED proch\u00E1z\u00ED [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha)."
       }
     ],
     "image_id": 0,
@@ -35955,7 +35996,8 @@
       "PAVLA\u010C",
       "ZA\u010C\u00C1TEK PAVLA\u010CE",
       "DRUH\u00C1 \u010C\u00C1ST",
-      "KONEC PAVLA\u010CE"
+      "KONEC PAVLA\u010CE",
+      "KOLEJE"
     ],
     "Bordering_rooms": [
       "mi_kahan",
@@ -35970,7 +36012,8 @@
       "mi_pavlacovy_dum",
       "mi_zmatek",
       "mi_konzole",
-      "mi_vytahova_sachta"
+      "mi_vytahova_sachta",
+      "mi_alej"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -35983,7 +36026,7 @@
     "Sections": [
       {
         "Title": "P\u0159ehled",
-        "Content": "Pavla\u010D je rozs\u00E1hl\u00E1 m\u00EDstnost/chodba, kter\u00E1 spojuje [N\u00E1m\u011Bst\u00ED u Vody](mi_namesti_u_vody) a [V\u00FDpl\u0148](mi_vypln), um\u00EDst\u011Bn\u00E9 na jej\u00EDch konc\u00EDch. Mezi nimi z Pavla\u010De vedou n\u00E1sleduj\u00EDc\u00ED vchody: voln\u00E9 pr\u016Fchody do [Diving Room](mi_diving_room) a [Papokoie](mi_papokoi), branky do [Zmatku](mi_zmatek), do [3. podla\u017E\u00ED V-V\u011B\u017Ee](mi_v_vez_3_podlazi), do [Mezipatra](mi_mezipatro) a k [Pavla\u010Dov\u00E9mu domu](mi_pavlacovy_dum) (dve\u0159e do domu jsou a\u017E za brankou). D\u00E1le zde jsou schody na [Balk\u00F3n \u010Ctvrtka](mi_balkon_ctvrtka) a k [Olafovu Domu](mi_olafuv_dum), schodi\u0161t\u011B dol\u016F do [Kahanu](mi_kahan) a [V\u00FDpln\u011B](mi_vypln), \u017Eeb\u0159\u00EDk do [Konzole](mi_konzole) a nakonec dve\u0159e do [V\u00FDtahov\u00E9 \u0160achty](mi_vytahova_sachta)."
+        "Content": "Pavla\u010D je rozs\u00E1hl\u00E1 m\u00EDstnost/chodba, kter\u00E1 spojuje [N\u00E1m\u011Bst\u00ED u Vody](mi_namesti_u_vody) a [V\u00FDpl\u0148](mi_vypln), um\u00EDst\u011Bn\u00E9 na jej\u00EDch konc\u00EDch. Mezi nimi z Pavla\u010De vedou n\u00E1sleduj\u00EDc\u00ED vchody: voln\u00E9 pr\u016Fchody do [Diving Room](mi_diving_room) a [Papokoie](mi_papokoi), branky do [Zmatku](mi_zmatek), do [3. podla\u017E\u00ED V-V\u011B\u017Ee](mi_v_vez_3_podlazi), do [Mezipatra](mi_mezipatro) a k [Pavla\u010Dov\u00E9mu domu](mi_pavlacovy_dum) (dve\u0159e do domu jsou a\u017E za brankou). D\u00E1le zde jsou schody na [Balk\u00F3n \u010Ctvrtka](mi_balkon_ctvrtka) a k [Olafovu Domu](mi_olafuv_dum), schodi\u0161t\u011B dol\u016F do [Kahanu](mi_kahan) a [V\u00FDpln\u011B](mi_vypln), \u017Eeb\u0159\u00EDk do [Konzole](mi_konzole) a nakonec dve\u0159e do [V\u00FDtahov\u00E9 \u0160achty](mi_vytahova_sachta). Je tak\u00E9 nutn\u00E9 zm\u00EDnit cestu [Mraven\u010D\u00ED Dr\u00E1hou](te_mravenci_draha) o patro v\u00FD\u0161e na [Balk\u00F3n \u010Ctvrtka](mi_balkon_ctvrtka) a o patro n\u00ED\u017Ee na [Alej](mi_alej)."
       },
       {
         "Title": "N\u00E1zev",
@@ -35991,7 +36034,7 @@
       },
       {
         "Title": "Interi\u00E9r",
-        "Content": "Interi\u00E9r Pavla\u010De se z\u0159eteln\u011B d\u011Bl\u00ED na dv\u011B \u010D\u00E1sti. Prvn\u00ED z nich je ta, kter\u00E1 \u010Dlov\u011Bku obvykle vytane na mysli, kdy\u017E se \u0159ekne \u201EPavla\u010D\u201C. Zauj\u00EDm\u00E1 v\u011Bt\u0161inu plochy m\u00EDstnosti a tvo\u0159\u00ED ji t\u0159i bloky \u0161irok\u00E1 chodba \u2013 z jedn\u00E9 strany z\u00E1stavba, z druh\u00E9 strany ploty, za nimi\u017E se nach\u00E1z\u00ED m\u00EDstnosti v\u0161eho druhu. Pavla\u010D je zde \u010D\u00E1ste\u010Dn\u011B zast\u0159e\u0161ena [Balk\u00F3nem \u010Ctvrtka](mi_balkon_ctvrtka) a \u010D\u00E1ste\u010Dn\u011B v\u00FD\u0161e polo\u017Een\u00FDm [The Airshipem](mi_the_airship). Strop v t\u011Bchto m\u00EDstech sah\u00E1 do v\u00FD\u0161ky osmi blok\u016F.\r\nM\u00EDstnosti za ploty jsou otev\u0159en\u00E9 sm\u011Brem do Pavla\u010De a postr\u00E1daj\u00ED celou jednu st\u011Bnu \u2013 p\u0159ipom\u00EDnaj\u00ED tak v\u00FDstavn\u00ED k\u00F3je nebo st\u00E1nky. U st\u011Bny na t\u00E9to stran\u011B vede tak\u00E9 kr\u00E1tk\u00E9 schodi\u0161t\u011B na [Balk\u00F3n \u010Ctvrtka](mi_balkon_ctvrtka). Na konci t\u00E9to \u010D\u00E1sti se nach\u00E1z\u00ED \u017Eeb\u0159\u00EDk na [Konzoli](mi_konzole), kter\u00E1 byla d\u0159\u00EDve sou\u010D\u00E1st\u00ED Pavla\u010De. Vedle \u017Eeb\u0159\u00EDku je okno, za n\u00EDm\u017E je voda z baz\u00E9nu v [L\u00E1zn\u00EDch Panoraama](mi_lazne_panoraama).\r\nDruh\u00E1 \u010D\u00E1st Pavla\u010De je v\u00FDrazn\u011B u\u017E\u0161\u00ED, ale z\u00E1rove\u0148 vy\u0161\u0161\u00ED \u2013 strop se zde toti\u017E nach\u00E1z\u00ED o dv\u011B podla\u017E\u00ED v\u00FD\u0161, nebo\u0165 patro v\u00FD\u0161e v tomto m\u00EDst\u011B kon\u010D\u00ED. I zde plat\u00ED rozvr\u017Een\u00ED: z jedn\u00E9 strany z\u00E1stavba, z druh\u00E9 ploty. Tato \u010D\u00E1st je v\u00FDrazn\u011B men\u0161\u00ED ne\u017E prvn\u00ED a kon\u010D\u00ED dlouh\u00FDm plotem sd\u00EDlen\u00FDm s [Papokoiem](mi_papokoi). Chodba se pot\u00E9 pod\u00E9l tohoto plotu st\u00E1\u010D\u00ED a je zakon\u010Dena schodi\u0161t\u011Bm vedouc\u00EDm dol\u016F k [V\u00FDplni](mi_vypln). Pod\u00E9l st\u011Bny v t\u00E9to \u010D\u00E1sti se nach\u00E1z\u00ED t\u0159i okna, za nimi\u017E je voda z [L\u00E1zn\u00ED Panoraama](mi_lazne_panoraama). Chodba by zde mohla b\u00FDt \u0161ir\u0161\u00ED, ale obch\u00E1z\u00ED oplocen\u00FD otvor sm\u011B\u0159uj\u00EDc\u00ED do ji\u017E zm\u00EDn\u011Bn\u00E9 [V\u00FDpln\u011B](mi_vypln).\r\nV m\u00EDstnost jsou t\u0159i crafting tably a \u017E\u00E1dn\u00E1 postel."
+        "Content": "Interi\u00E9r Pavla\u010De se z\u0159eteln\u011B d\u011Bl\u00ED na dv\u011B \u010D\u00E1sti. Prvn\u00ED z nich je ta, kter\u00E1 \u010Dlov\u011Bku obvykle vytane na mysli, kdy\u017E se \u0159ekne \u201EPavla\u010D\u201C. Zauj\u00EDm\u00E1 v\u011Bt\u0161inu plochy m\u00EDstnosti a tvo\u0159\u00ED ji t\u0159i bloky \u0161irok\u00E1 chodba \u2013 z jedn\u00E9 strany z\u00E1stavba, z druh\u00E9 strany ploty, za nimi\u017E se nach\u00E1z\u00ED m\u00EDstnosti v\u0161eho druhu. Na z\u00E1padn\u00ED stran\u011B, ale m\u00EDstnost nenajdeme, nebo\u0165 se tam nach\u00E1z\u00ED koleje [Mraven\u010D\u00ED Dr\u00E1hy](te_mravenci_draha). Pavla\u010D je zde \u010D\u00E1ste\u010Dn\u011B zast\u0159e\u0161ena [Balk\u00F3nem \u010Ctvrtka](mi_balkon_ctvrtka) a \u010D\u00E1ste\u010Dn\u011B v\u00FD\u0161e polo\u017Een\u00FDm [The Airshipem](mi_the_airship). Strop v t\u011Bchto m\u00EDstech sah\u00E1 do v\u00FD\u0161ky osmi blok\u016F.\r\nM\u00EDstnosti za ploty jsou otev\u0159en\u00E9 sm\u011Brem do Pavla\u010De a postr\u00E1daj\u00ED celou jednu st\u011Bnu \u2013 p\u0159ipom\u00EDnaj\u00ED tak v\u00FDstavn\u00ED k\u00F3je nebo st\u00E1nky. U st\u011Bny na t\u00E9to stran\u011B vede tak\u00E9 kr\u00E1tk\u00E9 schodi\u0161t\u011B na [Balk\u00F3n \u010Ctvrtka](mi_balkon_ctvrtka). Na konci t\u00E9to \u010D\u00E1sti se nach\u00E1z\u00ED \u017Eeb\u0159\u00EDk na [Konzoli](mi_konzole), kter\u00E1 byla d\u0159\u00EDve sou\u010D\u00E1st\u00ED Pavla\u010De. Vedle \u017Eeb\u0159\u00EDku je okno, za n\u00EDm\u017E je voda z baz\u00E9nu v [L\u00E1zn\u00EDch Panoraama](mi_lazne_panoraama).\r\nDruh\u00E1 \u010D\u00E1st Pavla\u010De je v\u00FDrazn\u011B u\u017E\u0161\u00ED, ale z\u00E1rove\u0148 vy\u0161\u0161\u00ED \u2013 strop se zde toti\u017E nach\u00E1z\u00ED o dv\u011B podla\u017E\u00ED v\u00FD\u0161, nebo\u0165 patro v\u00FD\u0161e v tomto m\u00EDst\u011B kon\u010D\u00ED. I zde plat\u00ED rozvr\u017Een\u00ED: z jedn\u00E9 strany z\u00E1stavba, z druh\u00E9 ploty. Tato \u010D\u00E1st je v\u00FDrazn\u011B men\u0161\u00ED ne\u017E prvn\u00ED a kon\u010D\u00ED dlouh\u00FDm plotem sd\u00EDlen\u00FDm s [Papokoiem](mi_papokoi). Chodba se pot\u00E9 pod\u00E9l tohoto plotu st\u00E1\u010D\u00ED a je zakon\u010Dena schodi\u0161t\u011Bm vedouc\u00EDm dol\u016F k [V\u00FDplni](mi_vypln). Pod\u00E9l st\u011Bny v t\u00E9to \u010D\u00E1sti se nach\u00E1z\u00ED t\u0159i okna, za nimi\u017E je voda z [L\u00E1zn\u00ED Panoraama](mi_lazne_panoraama). Chodba by zde mohla b\u00FDt \u0161ir\u0161\u00ED, ale obch\u00E1z\u00ED oplocen\u00FD otvor sm\u011B\u0159uj\u00EDc\u00ED do ji\u017E zm\u00EDn\u011Bn\u00E9 [V\u00FDpln\u011B](mi_vypln).\r\nV m\u00EDstnost jsou t\u0159i crafting tably a \u017E\u00E1dn\u00E1 postel."
       },
       {
         "Title": "Zaj\u00EDmavosti",
@@ -35999,7 +36042,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "24/07/25: Od m\u00EDstnosti odd\u011Blena m\u00EDstnost [Konzole](mi_konzole)."
+        "Content": "24/07/25: Od m\u00EDstnosti odd\u011Blena m\u00EDstnost [Konzole](mi_konzole).\r\n24/07/25: M\u00EDstnost\u00ED proch\u00E1z\u00ED [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha).\r\n24/07/25: Pavla\u010D nov\u011B soused\u00ED s [Alej\u00ED](mi_alej)."
       }
     ],
     "image_id": 0,
