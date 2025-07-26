@@ -591,7 +591,11 @@
       "v Pa\u0159\u00ED\u017Ei"
     ],
     "Bordering_rooms": [],
-    "Alternate_names": [],
+    "Alternate_names": [
+      "MARCELA",
+      "MERCI",
+      "MARCELA JAKLOV\u00C1"
+    ],
     "Metadata": {
       "Jm\u00E9no": "Marcela Hebertov\u00E1",
       "N\u00E1rodnost": "\u010Cesk\u00E1",
@@ -622,7 +626,7 @@
       "y": 0,
       "z": 0
     },
-    "redirect": "",
+    "redirect": null,
     "tobeedited": false
   },
   "bl_barvy": {
@@ -4156,53 +4160,6 @@
     "redirect": "",
     "tobeedited": false
   },
-  "mi_zahradni_domek": {
-    "Title": "Zahradn\u00ED domek",
-    "Type": "m\u00EDstnost",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [
-      "mi_vypln",
-      "mi_zahradkarska_kolonie"
-    ],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "Zahradn\u00ED domek",
-      "Blok": "[Zahr\u00E1dky](bl_zahradky)",
-      "Okrsek": "[Zahr\u00E1dk\u00E1\u0159sk\u00E1 kolonie](ok_zahradkarska_kolonie)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
-      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": "Jak vznikl n\u00E1zev?"
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": "N\u011Bco o interi\u00E9ru."
-      },
-      {
-        "Title": "Zaj\u00EDmavost",
-        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
-      }
-    ],
-    "image_id": 0,
-    "area": 24,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "redirect": "",
-    "tobeedited": false
-  },
   "mi_schodiste_zz": {
     "Title": "Schodi\u0161t\u011B ZZ",
     "Type": "m\u00EDstnost",
@@ -4400,157 +4357,6 @@
     "redirect": "",
     "tobeedited": false
   },
-  "mi_vez_4_podlazi": {
-    "Title": "V\u011B\u017E 4. podla\u017E\u00ED",
-    "Type": "m\u00EDstnost",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [
-      "mi_vez_3_podlazi",
-      "mi_vez_5_podlazi",
-      "mi_the_crossing",
-      "mi_vypln",
-      "mi_na_moste"
-    ],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "V\u011B\u017E 4. podla\u017E\u00ED",
-      "Blok": "[V\u011B\u017E](bl_vez)",
-      "Okrsek": "[Veve\u0159\u00ED](ok_veveri)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
-      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": "Jak vznikl n\u00E1zev?"
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": "N\u011Bco o interi\u00E9ru."
-      },
-      {
-        "Title": "Zaj\u00EDmavost",
-        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
-      }
-    ],
-    "image_id": 0,
-    "area": 17,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 323,
-      "y": 80,
-      "z": 1125
-    },
-    "redirect": null,
-    "tobeedited": false
-  },
-  "mi_vez_3_podlazi": {
-    "Title": "V\u011B\u017E 3. podla\u017E\u00ED",
-    "Type": "m\u00EDstnost",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [
-      "mi_vez_4_podlazi",
-      "mi_vez_2_podlazi",
-      "mi_villager_bridge",
-      "mi_villager_house",
-      "mi_dalnice",
-      "mi_predel"
-    ],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "V\u011B\u017E 3. podla\u017E\u00ED",
-      "Blok": "[V\u011B\u017E](bl_vez)",
-      "Okrsek": "[Veve\u0159\u00ED](ok_veveri)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
-      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": "Jak vznikl n\u00E1zev?"
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": "N\u011Bco o interi\u00E9ru."
-      },
-      {
-        "Title": "Zaj\u00EDmavost",
-        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
-      }
-    ],
-    "image_id": 0,
-    "area": 18,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 323,
-      "y": 76,
-      "z": 1125
-    },
-    "redirect": null,
-    "tobeedited": false
-  },
-  "mi_vez_2_podlazi": {
-    "Title": "V\u011B\u017E 2. podla\u017E\u00ED",
-    "Type": "m\u00EDstnost",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [
-      "mi_vez_1_podlazi",
-      "mi_vez_3_podlazi",
-      "mi_sobota",
-      "mi_dalnice",
-      "mi_the_bridge"
-    ],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "V\u011B\u017E 2. podla\u017E\u00ED",
-      "Blok": "[V\u011B\u017E](bl_vez)",
-      "Okrsek": "[Veve\u0159\u00ED](ok_veveri)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
-      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": "Jak vznikl n\u00E1zev?"
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": "N\u011Bco o interi\u00E9ru."
-      },
-      {
-        "Title": "Zaj\u00EDmavost",
-        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
-      }
-    ],
-    "image_id": 0,
-    "area": 20,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 323,
-      "y": 72,
-      "z": 1125
-    },
-    "redirect": null,
-    "tobeedited": false
-  },
   "mi_sloupek": {
     "Title": "Sloupek",
     "Type": "m\u00EDstnost",
@@ -4588,153 +4394,6 @@
     ],
     "image_id": 0,
     "area": 1,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "redirect": "",
-    "tobeedited": false
-  },
-  "mi_vez_1_podlazi": {
-    "Title": "V\u011B\u017E 1. podla\u017E\u00ED",
-    "Type": "m\u00EDstnost",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [
-      "mi_sobota",
-      "mi_preddvor",
-      "mi_vez_2_podlazi"
-    ],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "V\u011B\u017E 1. podla\u017E\u00ED",
-      "Blok": "[V\u011B\u017E](bl_vez)",
-      "Okrsek": "[Veve\u0159\u00ED](ok_veveri)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
-      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": "Jak vznikl n\u00E1zev?"
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": "N\u011Bco o interi\u00E9ru."
-      },
-      {
-        "Title": "Zaj\u00EDmavost",
-        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
-      }
-    ],
-    "image_id": 0,
-    "area": 17,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 323,
-      "y": 68,
-      "z": 1125
-    },
-    "redirect": null,
-    "tobeedited": false
-  },
-  "mi_vez_5_podlazi": {
-    "Title": "V\u011B\u017E 5. podla\u017E\u00ED",
-    "Type": "m\u00EDstnost",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [
-      "mi_sauron",
-      "mi_vez_4_podlazi",
-      "mi_papokoi",
-      "mi_rozcesti"
-    ],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "V\u011B\u017E 5. podla\u017E\u00ED",
-      "Blok": "[V\u011B\u017E](bl_vez)",
-      "Okrsek": "[Veve\u0159\u00ED](ok_veveri)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
-      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": "Jak vznikl n\u00E1zev?"
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": "N\u011Bco o interi\u00E9ru."
-      },
-      {
-        "Title": "Zaj\u00EDmavost",
-        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
-      }
-    ],
-    "image_id": 0,
-    "area": 17,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 323,
-      "y": 84,
-      "z": 1125
-    },
-    "redirect": null,
-    "tobeedited": false
-  },
-  "mi_sauron": {
-    "Title": "Sauron",
-    "Type": "m\u00EDstnost",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [
-      "mi_vez_5_podlazi",
-      "mi_double_decker_house",
-      "mi_the_detour",
-      "mi_lazne_panoraama",
-      "mi_skytrail"
-    ],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "Sauron",
-      "Blok": "[V\u011B\u017E](bl_vez)",
-      "Okrsek": "[Veve\u0159\u00ED](ok_veveri)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
-      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": "Jak vznikl n\u00E1zev?"
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": "N\u011Bco o interi\u00E9ru."
-      },
-      {
-        "Title": "Zaj\u00EDmavost",
-        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
-      }
-    ],
-    "image_id": 0,
-    "area": 47,
     "Empty": true,
     "numberOfRooms": 0,
     "coordinates": {
@@ -11235,54 +10894,6 @@
       "x": 0,
       "y": 0,
       "z": 0
-    },
-    "redirect": "",
-    "tobeedited": false
-  },
-  "mi_dum_margity_stehlikove": {
-    "Title": "D\u016Fm Margity Stehl\u00EDkov\u00E9",
-    "Type": "m\u00EDstnost",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [
-      "mi_ustredni_stredisko_alfa",
-      "mi_dum_zavisti"
-    ],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "D\u016Fm Margity Stehl\u00EDkov\u00E9",
-      "Blok": "[Alfa](bl_alfa)",
-      "Okrsek": "[Dub](ok_dub)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
-      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
-      "\u00DA\u010Del": "V\u010Dely, sklad medu"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": "Jak vznikl n\u00E1zev?"
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": "N\u011Bco o interi\u00E9ru."
-      },
-      {
-        "Title": "Zaj\u00EDmavost",
-        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
-      }
-    ],
-    "image_id": 0,
-    "area": 21,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 308,
-      "y": 73,
-      "z": 1131
     },
     "redirect": "",
     "tobeedited": false
@@ -22951,53 +22562,6 @@
     "Metadata": {
       "N\u00E1zev": "Rozcest\u00ED",
       "Okrsek": "[Zahr\u00E1dk\u00E1\u0159sk\u00E1 kolonie](ok_zahradkarska_kolonie)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
-      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": ""
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": ""
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": ""
-      },
-      {
-        "Title": "Zaj\u00EDmavosti",
-        "Content": ""
-      },
-      {
-        "Title": "Aktuality",
-        "Content": ""
-      }
-    ],
-    "image_id": 0,
-    "area": 0,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "redirect": null,
-    "tobeedited": false
-  },
-  "bl_vez": {
-    "Title": "V\u011B\u017E",
-    "Type": "blok",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "V\u011B\u017E",
-      "Okrsek": "[Veve\u0159\u00ED](ok_veveri)",
       "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
       "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
     },
@@ -36047,6 +35611,470 @@
     ],
     "image_id": 0,
     "area": 144,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "redirect": null,
+    "tobeedited": false
+  },
+  "mi_dum_margity_stehlikove": {
+    "Title": "D\u016Fm Margity Stehl\u00EDkov\u00E9",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "D\u016EM MARGITY STEHL\u00CDKOV\u00C9"
+    ],
+    "Bordering_rooms": [
+      "mi_ustredni_stredisko_alfa",
+      "mi_dum_zavisti"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "D\u016Fm Margity Stehl\u00EDkov\u00E9",
+      "Blok": "[Alfa](bl_alfa)",
+      "Okrsek": "[Dub](ok_dub)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
+      "\u00DA\u010Del": "V\u010Dely, sklad v\u010Del\u00EDch produkt\u016F"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "D\u016Fm Margity Stehl\u00EDkov\u00E9 je mal\u00E1, ale z\u00E1rove\u0148 prostorn\u011B p\u016Fsob\u00EDc\u00ED m\u00EDstnost, nach\u00E1zej\u00EDc\u00ED se vedle [Alfy](mi_ustredni_stredisko_alfa), odkud do n\u00ED vedou dve\u0159e, a nad [Domem Z\u00E1visti](mi_dum_zavisti), odkud sem vede le\u0161en\u00ED. Z jin\u00FDch m\u00EDstnost\u00ED nen\u00ED p\u0159\u00EDm\u00FD p\u0159\u00EDstup. M\u00EDstnost slou\u017E\u00ED jako mal\u00E1 farma na med \u2013 nach\u00E1z\u00ED se zde \u00FAly a skladi\u0161t\u011B v\u010Del\u00EDch produkt\u016F."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "M\u00EDstnost v\u017Edycky bude p\u0159ipom\u00EDnat geni\u00E1ln\u00ED internetovou hv\u011Bzdu a komediantku Margitu Stehl\u00EDkovou. N\u00E1zev nem\u00E1 s m\u00EDstnost\u00ED ani jej\u00EDm \u00FA\u010Delem nic spole\u010Dn\u00E9ho."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "M\u00EDstnost m\u00E1 p\u016Fdorys 5\u00D74 bloky a v\u00FD\u0161ku \u0161est blok\u016F. Uprost\u0159ed se nach\u00E1z\u00ED le\u0161en\u00ED vedouc\u00ED dol\u016F do [Domu Z\u00E1visti](mi_dum_zavisti). Za n\u00EDm jsou um\u00EDst\u011Bny dva \u00FAly postaven\u00E9 nad dv\u011Bma t\u00E1bor\u00E1ky. V rohu m\u00EDstnosti, vedle \u00FAl\u016F, jsou polo\u017Een\u00E9 dva travnat\u00E9 bloky s pampeli\u0161kami slou\u017E\u00EDc\u00EDmi k opylov\u00E1n\u00ED. Na strop\u011B m\u016F\u017Eeme vid\u011Bt \u010Dty\u0159i bloky dubov\u00E9ho list\u00ED v ka\u017Ed\u00E9m rohu m\u00EDstnosti.\r\nBl\u00EDzko dve\u0159\u00ED z [Alfy](mi_ustredni_stredisko_alfa) se nach\u00E1z\u00ED dva barely na uskladn\u011Bn\u00ED v\u010Del\u00EDch produkt\u016F a tak\u00E9 jeden crafting table.\r\nM\u00EDstnost byla p\u016Fvodn\u011B osv\u011Btlena \u010Dty\u0159mi \u0161estiblokov\u00FDmi gotick\u00FDmi okny \u2013 po jednom na ka\u017Ed\u00E9 stran\u011B. Dnes z\u016Fstala v p\u016Fvodn\u00EDm stavu pouze dv\u011B z nich. Okno na stran\u011B sm\u011B\u0159uj\u00EDc\u00ED k [\u00DAst\u0159edn\u00EDmu St\u0159edisku](mi_ustredni_stredisko_alfa) je rozd\u011Bleno podlahou m\u00EDstnosti [Vault](mi_vault) a z\u00E1rove\u0148 j\u00EDm proch\u00E1zej\u00ED dve\u0159e. Okno na v\u00FDchodn\u00ED stran\u011B je \u010D\u00E1ste\u010Dn\u011B zakryto druh\u00FDm patrem [Vyp\u00EDk\u00E1rny](mi_vypikarna), kter\u00E1 ho rozd\u011Bluje na dv\u011B \u010D\u00E1sti. "
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "D\u016Fm Margity Stehl\u00EDkov\u00E9 je jedna ze dvou m\u00EDstnost\u00ED s le\u0161en\u00EDm uvnit\u0159."
+      }
+    ],
+    "image_id": 0,
+    "area": 21,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 308,
+      "y": 73,
+      "z": 1131
+    },
+    "redirect": null,
+    "tobeedited": false
+  },
+  "mi_zahradni_domek": {
+    "Title": "Zahradn\u00ED domek",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "ZAHRADN\u00CD DOMEK",
+      "SCHODY DO DRUH\u00C9HO PODLA\u017D\u00CD",
+      "SOU\u0158ADNICE FORTRESSU"
+    ],
+    "Bordering_rooms": [
+      "mi_vypln",
+      "mi_zahradkarska_kolonie"
+    ],
+    "Alternate_names": [
+      "MOMA BYT"
+    ],
+    "Metadata": {
+      "N\u00E1zev": "Zahradn\u00ED domek",
+      "Blok": "[Zahr\u00E1dky](bl_zahradky)",
+      "Okrsek": "[Zahr\u00E1dk\u00E1\u0159sk\u00E1 kolonie](ok_zahradkarska_kolonie)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
+      "\u00DA\u010Del": "Pece, smoker, blast furnace"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Zahradn\u00ED domek je mal\u00E1 m\u00EDstnost v [Zahr\u00E1dk\u00E1\u0159sk\u00E9 kolonii](ok_zahradkarska_kolonie) a p\u016Fvodn\u00ED s\u00EDdlo [Marie Hebertov\u00E9](os_marie_hebertova). M\u00EDstnost je specifick\u00E1 sv\u00FDm p\u0159epln\u011Bn\u00FDm interi\u00E9rem \u2013 je zde tolik v\u011Bc\u00ED, \u017Ee se v n\u00ED sotva d\u00E1 hnout. Navzdory sv\u00E9 mal\u00E9 velikosti m\u00E1 dv\u011B podla\u017E\u00ED. Z p\u0159\u00EDzem\u00ED vedou dv\u011B dve\u0159e, ob\u011B zp\u011Bt do [Zahr\u00E1dk\u00E1\u0159sk\u00E9 kolonie](mi_zahradkarska_kolonie), zat\u00EDmco z horn\u00EDho patra se d\u00E1 vstoupit do [V\u00FDpln\u011B](mi_vypln)."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jedn\u00E1 se o m\u00EDstnost/domek uprost\u0159ed [Zahr\u00E1dek](bl_zahradky) v [Zahr\u00E1dk\u00E1\u0159sk\u00E9 kolonii](ok_zahradkarska_kolonie)."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Nejv\u011Bt\u0161\u00ED voln\u00FD prostor v m\u00EDstnosti m\u00E1 rozm\u011Bry pouh\u00FDch 2\u00D73 bloky; zbytek interi\u00E9ru je zapln\u011Bn \u00FA\u010Delov\u00FDmi bloky. V p\u0159\u00EDzem\u00ED se nach\u00E1zej\u00ED dv\u011B pece, smoker, blast furnace, barel, crafting table, dv\u011B double chestky a knihovna. Strop je \u010D\u00E1ste\u010Dn\u011B velmi n\u00EDzk\u00FD \u2013 jen dva bloky \u2013, zat\u00EDmco v m\u00EDstech bez druh\u00E9ho podla\u017E\u00ED dosahuje v\u00FD\u0161ky a\u017E 4,5 bloku.\r\nVe vy\u0161\u0161\u00ED \u010D\u00E1sti p\u0159\u00EDzem\u00ED je na st\u011Bn\u011B \u017Eeb\u0159\u00EDk, kter\u00FD nikam nevede. Naproti n\u011Bmu je mal\u00FD ozdobn\u00FD kout s dvojic\u00ED dubov\u00FDch list\u016F, p\u0159i\u010Dem\u017E na jednom z nich stoj\u00ED kv\u011Btin\u00E1\u010D se sazenic\u00ED. Nalevo pak za\u010D\u00EDn\u00E1 schodi\u0161t\u011B, kter\u00E9 vede p\u0159es jeden z barel\u016F. Na st\u011Bn\u011B pod\u00E9l schodi\u0161t\u011B vis\u00ED dal\u0161\u00ED t\u0159i barely.\r\nSchody \u00FAst\u00ED do v\u00FDrazn\u011B men\u0161\u00EDho horn\u00EDho podla\u017E\u00ED, kde se nach\u00E1z\u00ED b\u00EDl\u00E1 postel a pr\u00E1zdn\u00E1 knihovna. Za postel\u00ED je voln\u00FD vchod do [V\u00FDpln\u011B](mi_vypln)."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "U v\u00FD\u0161e zm\u00EDn\u011Bn\u00E9 knihovny vis\u00ED cedulka s napsan\u00FDmi sou\u0159adnicemi fortressu.\r\nAby se hr\u00E1\u010D mohl dostat do [V\u00FDpln\u011B](mi_vypln) mus\u00ED p\u0159ej\u00EDt b\u00EDlou postel."
+      }
+    ],
+    "image_id": 0,
+    "area": 24,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 322,
+      "y": 79,
+      "z": 1138
+    },
+    "redirect": null,
+    "tobeedited": false
+  },
+  "mi_vez_1_podlazi": {
+    "Title": "V\u011B\u017E 1. podla\u017E\u00ED",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "V\u011A\u017D 1. PODLA\u017D\u00CD"
+    ],
+    "Bordering_rooms": [
+      "mi_sobota",
+      "mi_preddvor",
+      "mi_vez_2_podlazi"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "V\u011B\u017E 1. podla\u017E\u00ED",
+      "Blok": "[V\u011B\u017E](bl_vez)",
+      "Okrsek": "[Veve\u0159\u00ED](ok_veveri)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "V\u011B\u017E 1. podla\u017E\u00ED je 1. podla\u017E\u00EDm [V\u011B\u017Ee](bl_vez). Jedn\u00E1 se o malou m\u00EDstnost o rozm\u011Brech 4\u00D74 bloky. Na dvou prot\u011Bj\u0161\u00EDch st\u011Bn\u00E1ch se nach\u00E1zej\u00ED dva vchody \u2013 dve\u0159e ze [Soboty](mi_sobota) a dvojit\u00E9 dve\u0159e z [Preddvoru](mi_preddvor). V jednom z roh\u016F m\u00EDstnosti je um\u00EDst\u011Bn \u017Eeb\u0159\u00EDk, kter\u00FD spojuje toto podla\u017E\u00ED s ostatn\u00EDmi podla\u017E\u00EDmi [V\u011B\u017Ee](bl_vez)."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jedn\u00E1 se o prvn\u00ED a nejni\u017E\u0161\u00ED p\u0159\u00EDstupn\u00E9 podla\u017E\u00ED [V\u011B\u017Ee](bl_vez), z n\u011Bj\u017E se lze dostat do vy\u0161\u0161\u00EDch pater."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Interi\u00E9r je jednoduch\u00FD krychlov\u00FD prostor, kter\u00FD se v\u00FDrazn\u011B neli\u0161\u00ED od ostatn\u00EDch podla\u017E\u00ED [V\u011B\u017Ee](bl_vez). Po stran\u00E1ch jsou okna r\u016Fzn\u00FDch velikost\u00ED \u2014 pr\u00E1v\u011B toto patro je spolu s [p\u00E1t\u00FDm podla\u017E\u00EDm v\u011B\u017Ee](mi_vez_5_podlazi) jedin\u00E9, kde se dv\u011B z nich zachovala v p\u016Fvodn\u00ED podob\u011B ze stavby [V\u011B\u017Ee](bl_vez). P\u0159ed nejv\u011Bt\u0161\u00EDm z oken je polo\u017Een\u00E1 sv\u011Btle \u0161ed\u00E1 postel. Nad n\u00ED, a z\u00E1rove\u0148 nad dve\u0159mi do [Soboty](mi_sobota), vis\u00ED crafting table. \u017Deb\u0159\u00EDk v rohu m\u00EDstnosti naproti posteli spojuje toto patro se zbyl\u00FDmi p\u011Bti podla\u017E\u00EDmi."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Do ostatn\u00EDch podla\u017E\u00ED vedou v\u00EDce ne\u017E dva vchody a tak p\u016Fvodn\u00ED okna nejsou zachov\u00E1na."
+      }
+    ],
+    "image_id": 0,
+    "area": 17,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 323,
+      "y": 68,
+      "z": 1125
+    },
+    "redirect": null,
+    "tobeedited": false
+  },
+  "mi_vez_2_podlazi": {
+    "Title": "V\u011B\u017E 2. podla\u017E\u00ED",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "V\u011A\u017D 2. PODLA\u017D\u00CD",
+      "BALK\u00D3NEK"
+    ],
+    "Bordering_rooms": [
+      "mi_vez_1_podlazi",
+      "mi_vez_3_podlazi",
+      "mi_sobota",
+      "mi_dalnice",
+      "mi_the_bridge"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "V\u011B\u017E 2. podla\u017E\u00ED",
+      "Blok": "[V\u011B\u017E](bl_vez)",
+      "Okrsek": "[Veve\u0159\u00ED](ok_veveri)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "V\u011B\u017E 2. podla\u017E\u00ED je druh\u00E9 podla\u017E\u00ED [V\u011B\u017Ee](bl_vez). M\u00EDstnost m\u00E1 stejn\u00E9 rozm\u011Bry jako v\u0161ech p\u011Bt spodn\u00EDch pater. Ze t\u0159\u00ED r\u016Fzn\u00FDch st\u011Bn zde vedou dve\u0159e do [Soboty](mi_sobota), k [D\u00E1lnici](mi_dalnice) a na [the Bridge](mi_the_bridge). V rohu m\u00EDstnosti se nach\u00E1z\u00ED \u017Eeb\u0159\u00EDk propojuj\u00EDc\u00ED toto podla\u017E\u00ED s ostatn\u00EDmi \u010D\u00E1stmi [V\u011B\u017Ee](bl_vez)."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jedn\u00E1 se o druh\u00E9 podla\u017E\u00ED [V\u011B\u017Ee](bl_vez)."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Podla\u017E\u00ED si nezachovalo \u017E\u00E1dn\u00E9 p\u016Fvodn\u00ED okno, ale m\u00E1 zaj\u00EDmav\u00FD balk\u00F3nek na st\u011Bn\u011B, kde se nach\u00E1z\u00ED \u017Eeb\u0159\u00EDk. Balk\u00F3nek je oplocen\u00FD, le\u017E\u00ED nad [Preddvorem](mi_preddvor) a stoj\u00ED na n\u011Bm b\u00EDl\u00E1 postel. Nad dve\u0159mi do [Soboty](mi_sobota) je polo\u017Een crafting table, stejn\u011B jako v [1. podla\u017E\u00ED](mi_vez_1_podlazi). Druh\u00FD crafting table je um\u00EDst\u011Bn v rohu m\u00EDstnosti u dve\u0159\u00ED na [the Bridge](mi_the_bridge)."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "D\u00EDky balk\u00F3nku je toto podla\u017E\u00ED druhou nejv\u011Bt\u0161\u00ED m\u00EDstnost\u00ED ve [V\u011B\u017Ei](mi_vez)."
+      }
+    ],
+    "image_id": 0,
+    "area": 20,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 323,
+      "y": 72,
+      "z": 1125
+    },
+    "redirect": null,
+    "tobeedited": false
+  },
+  "mi_vez_3_podlazi": {
+    "Title": "V\u011B\u017E 3. podla\u017E\u00ED",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "V\u011A\u017D 3. PODLA\u017D\u00CD"
+    ],
+    "Bordering_rooms": [
+      "mi_vez_4_podlazi",
+      "mi_vez_2_podlazi",
+      "mi_villager_bridge",
+      "mi_villager_house",
+      "mi_dalnice",
+      "mi_predel"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "V\u011B\u017E 3. podla\u017E\u00ED",
+      "Blok": "[V\u011B\u017E](bl_vez)",
+      "Okrsek": "[Veve\u0159\u00ED](ok_veveri)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "V\u011B\u017E 3. podla\u017E\u00ED je \u010Dasto pova\u017Eov\u00E1no za nejhor\u0161\u00ED, proto\u017Ee se zde nach\u00E1zelo m\u00EDsto, kde \u017Eili vesni\u010Dan\u00E9. To bylo problematick\u00E9, proto\u017Ee vesni\u010Dan\u00E9 \u010Dasto ut\u00EDkali nahoru a dol\u016F po \u017Eeb\u0159\u00EDku, kter\u00FD vede mezi dve\u0159mi do [Villager House](mi_villager_house) a na [Villager Bridge](mi_villager_bridge), \u010D\u00EDm\u017E se pohyb p\u0159es tuto \u010D\u00E1st v\u00FDrazn\u011B komplikoval. Podla\u017E\u00ED m\u00E1 stejn\u00E9 rozm\u011Bry jako p\u0159edchoz\u00ED, ale d\u00EDky \u010Dty\u0159em dve\u0159\u00EDm vedouc\u00EDm k [D\u00E1lnici](mi_dalnice), na [P\u0159ed\u011Bl](mi_predel), do [Villager House](mi_villager_house) a na [Villager Bridge](mi_villager_bridge) zde je v\u00FDrazn\u011B m\u00E9n\u011B oken."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jedn\u00E1 se o t\u0159et\u00ED podla\u017E\u00ED [V\u011B\u017Ee](bl_vez)."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Interi\u00E9r V\u011B\u017Ee 3. podla\u017E\u00ED je velmi stroh\u00FD a pova\u017Eov\u00E1n za jeden z nejm\u00E9n\u011B zaj\u00EDmav\u00FDch v cel\u00E9 [V\u011B\u017Ei](bl_vez). Na st\u011Bn\u011B naproti \u017Eeb\u0159\u00EDku se nach\u00E1z\u00ED v\u011Bt\u0161\u00ED okno, p\u0159ed kter\u00FDm je polo\u017Een\u00E1 sv\u011Btle modr\u00E1 postel, a p\u0159\u00EDmo nad n\u00ED vis\u00ED crafting table. Zbyl\u00E9 dv\u011B mal\u00E1 ok\u00E9nka, ka\u017Ed\u00E9 o velikosti jednoho bloku, jsou na dal\u0161\u00EDch dvou st\u011Bn\u00E1ch, zat\u00EDmco st\u011Bna se \u017Eeb\u0159\u00EDkem je zcela bez oken. Tento jednoduch\u00FD a pon\u011Bkud monot\u00F3nn\u00ED prostor je\u0161t\u011B v\u00EDce podtrhuje, \u017Ee m\u00EDstnost v minulosti slou\u017Eila hlavn\u011B funk\u010Dn\u011B jako sou\u010D\u00E1st prostoru pro vesni\u010Dany."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Ze v\u0161ech pater [V\u011B\u017Ee](bl_vez) je zde nejm\u00E9n\u011B oken."
+      }
+    ],
+    "image_id": 0,
+    "area": 18,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 323,
+      "y": 76,
+      "z": 1125
+    },
+    "redirect": null,
+    "tobeedited": false
+  },
+  "mi_vez_4_podlazi": {
+    "Title": "V\u011B\u017E 4. podla\u017E\u00ED",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "V\u011A\u017D 4. PODLA\u017D\u00CD"
+    ],
+    "Bordering_rooms": [
+      "mi_vez_3_podlazi",
+      "mi_vez_5_podlazi",
+      "mi_the_crossing",
+      "mi_vypln",
+      "mi_na_moste"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "V\u011B\u017E 4. podla\u017E\u00ED",
+      "Blok": "[V\u011B\u017E](bl_vez)",
+      "Okrsek": "[Veve\u0159\u00ED](ok_veveri)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "[V\u011B\u017E 4. podla\u017E\u00ED](mi_vez_4_podlazi) je \u010Dtvrt\u00FDm podla\u017E\u00EDm [V\u011B\u017Ee](bl_vez) a zachov\u00E1v\u00E1 si stejn\u00E9 rozm\u011Bry jako patra p\u0159edchoz\u00ED. Do m\u00EDstnosti vedou t\u0159i vchody: dve\u0159e na [V\u00FDpl\u0148](mi_vypln), na [Na Most\u011B](mi_na_moste) a [the Crossing](mi_the_crossing), ka\u017Ed\u00FD z jin\u00E9 st\u011Bny. V rohu vedle dve\u0159\u00ED na [Na Most\u011B](mi_na_moste) se nach\u00E1z\u00ED \u017Eeb\u0159\u00EDk, kter\u00FD stejn\u011B jako v ostatn\u00EDch patrech propojuje cel\u00E9 t\u011Blo v\u011B\u017Ee. M\u00EDstnost m\u00E1 na rozd\u00EDl od [3. podla\u017E\u00ED](mi_vez_3_podlazi) dostatek oken, co\u017E ji \u010Din\u00ED sv\u011Btlej\u0161\u00ED a m\u00E9n\u011B st\u00EDsn\u011Bnou.  "
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jedn\u00E1 se o \u010Dtvrt\u00E9 podla\u017E\u00ED [V\u011B\u017Ee](bl_vez)."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Interi\u00E9r m\u00EDstnosti je velmi podobn\u00FD interi\u00E9ru ostatn\u00EDch m\u00EDstnost\u00ED [V\u011B\u017Ee](mi_vez). V\u0161echny st\u011Bny krom\u011B t\u00E9 se \u017Eeb\u0159\u00EDkem maj\u00ED okna. Ta jsou v\u011Bt\u0161inou pom\u011Brn\u011B velk\u00E1, \u0161irok\u00E1 2 bloky a vysok\u00E1 2-3. V\u00FDjimkou je jen mal\u00E9 p\u0159\u00EDzemn\u00ED ok\u00E9nko naproti dve\u0159\u00EDm na [Na Most\u011B](mi_na_moste), za n\u00EDm\u017E se nach\u00E1z\u00ED m\u00EDstnost [Stoup\u00E1n\u00ED](mi_stoupani). P\u0159ed t\u00EDmto ok\u00E9nkem stoj\u00ED sv\u011Btle \u0161ed\u00E1 postel a nad n\u00ED, jak je ve [V\u011B\u017Ei](bl_vez) zvykem, vis\u00ED crafting table."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Spolu s [pat\u00FDm podla\u017E\u00ED V\u011B\u017Ee](mi_vez_5_podlazi) je jedinou m\u00EDstnost\u00ED ve [V\u011B\u017Ei](bl_vez) (mimo [Saurona](mi_sauron) se \u010Dty\u0159mi okny."
+      }
+    ],
+    "image_id": 0,
+    "area": 17,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 323,
+      "y": 80,
+      "z": 1125
+    },
+    "redirect": null,
+    "tobeedited": false
+  },
+  "mi_vez_5_podlazi": {
+    "Title": "V\u011B\u017E 5. podla\u017E\u00ED",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "V\u011A\u017D 5. PODLA\u017D\u00CD"
+    ],
+    "Bordering_rooms": [
+      "mi_sauron",
+      "mi_vez_4_podlazi",
+      "mi_papokoi",
+      "mi_rozcesti"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "V\u011B\u017E 5. podla\u017E\u00ED",
+      "Blok": "[V\u011B\u017E](bl_vez)",
+      "Okrsek": "[Veve\u0159\u00ED](ok_veveri)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "V\u011B\u017E 5. podla\u017E\u00ED je 5. podla\u017E\u00ED [V\u011B\u017Ee](bl_vez) a m\u00E1 stejn\u00E9 rozm\u011Bry jako ostatn\u00ED podla\u017E\u00ED [V\u011B\u017Ee](bl_vez). Krom\u011B \u017Eeb\u0159\u00EDku, kter\u00FD se nach\u00E1z\u00ED v rohu m\u00EDstnosti, sem vedou dva vchody: dve\u0159e z [Papokoie](mi_papokoi) a dvojit\u00E9 dve\u0159e z [Rozcest\u00ED](mi_rozcesti). \u017Deb\u0159\u00EDk spojuje podla\u017E\u00ED se [Sauronem](mi_sauron), je\u017E se nach\u00E1z\u00ED o podla\u017E\u00ED v\u00FD\u0161e."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jedn\u00E1 se o p\u00E1t\u00E9 podla\u017E\u00ED [V\u011B\u017Ee](bl_vez)."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "V\u011B\u017E 5. podla\u017E\u00ED m\u00E1 dv\u011B kompletn\u011B zachoval\u00E1 okna a jedno t\u00E9m\u011B\u0159 zachoval\u00E9 u dve\u0159\u00ED do [Papokoie](mi_papokoi). Naproti \u017Eeb\u0159\u00EDku se nach\u00E1z\u00ED nejv\u011Bt\u0161\u00ED z oken, p\u0159ed kter\u00FDm le\u017E\u00ED sv\u011Btle \u0161ed\u00E1 postel a nad n\u00ED vis\u00ED crafting table. V rohu m\u00EDstnosti je \u017Eeb\u0159\u00EDk propojuj\u00EDc\u00ED v\u0161echna podla\u017E\u00ED [V\u011B\u017Ee](bl_vez). Za dve\u0159mi z [Rozcest\u00ED](mi_rozcesti) se nach\u00E1z\u00ED mal\u00FD postaven\u00FD m\u016Fstek."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "V\u011B\u017E 5. podla\u017E\u00ED je jedinou m\u00EDstnost\u00ED ve [V\u011B\u017Ei](bl_vez) (mimo [Saurona](mi_sauron)) s okny na v\u0161ech \u010Dty\u0159ech st\u011Bn\u00E1ch."
+      }
+    ],
+    "image_id": 0,
+    "area": 17,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 323,
+      "y": 84,
+      "z": 1125
+    },
+    "redirect": null,
+    "tobeedited": false
+  },
+  "mi_sauron": {
+    "Title": "Sauron",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "SAURON",
+      "BAZ\u00C9N",
+      "PROSTOR ZA LISTY"
+    ],
+    "Bordering_rooms": [
+      "mi_vez_5_podlazi",
+      "mi_double_decker_house",
+      "mi_the_detour",
+      "mi_lazne_panoraama",
+      "mi_skytrail"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Sauron",
+      "Blok": "[V\u011B\u017E](bl_vez)",
+      "Okrsek": "[Veve\u0159\u00ED](ok_veveri)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Sauron je \u0161est\u00E9 podla\u017E\u00ED [V\u011B\u017Ee](bl_vez) a v\u00FDrazn\u011B se li\u0161\u00ED od ostatn\u00EDch svou velikost\u00ED \u2014 je podstatn\u011B v\u011Bt\u0161\u00ED a del\u0161\u00ED. \u017Deb\u0159\u00EDk z ni\u017E\u0161\u00EDch pater zde kon\u010D\u00ED a je zakryt trapdoorem. U n\u011Bj se nach\u00E1z\u00ED sloupek z dubov\u00E9ho list\u00ED, za kter\u00FDm jsou dve\u0159e do [Double Decker Housu](mi_double_decker_house) a na [the Detour](mi_the_detour). Na opa\u010Dn\u00E9m konci m\u00EDstnosti vedou dve\u0159e p\u0159\u00EDmo do baz\u00E9nu v [L\u00E1zn\u00EDch Panoraama](mi_lazne_panoraama) a dvojit\u00E9 dve\u0159e na [Skytrail](mi_skytrail)."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Sauron, pojmenovan\u00FD podle mocn\u00E9ho temn\u00E9ho p\u00E1na ze zn\u00E1m\u00FDch p\u0159\u00EDb\u011Bh\u016F, stoj\u00ED na vrcholu [V\u011B\u017Ee](bl_vez) jako jej\u00ED nejvy\u0161\u0161\u00ED a nejv\u00FDrazn\u011Bj\u0161\u00ED \u010D\u00E1st."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Interi\u00E9r m\u00EDstnosti je \u010Dty\u0159i bloky \u0161irok\u00FD, stejn\u011B jako ostatn\u00ED podla\u017E\u00ED [V\u011B\u017Ee](bl_vez), ale s v\u00FDrazn\u011B v\u011Bt\u0161\u00ED d\u00E9lkou, cel\u00FDch 11 blok\u016F. V prostoru je zna\u010Dn\u00E9 mno\u017Estv\u00ED oken, kter\u00E1 jsou um\u00EDst\u011Bna v\u0161ude, kde je to mo\u017En\u00E9, aby propou\u0161t\u011Bla co nejv\u00EDce sv\u011Btla. Na za\u010D\u00E1tku m\u00EDstnosti, za sloupkem z dubov\u00E9ho list\u00ED v rohu, se nach\u00E1z\u00ED sloupek barel\u016F, u kter\u00FDch stoj\u00ED b\u00EDl\u00E1 postel a vedle n\u00ED crafting table. P\u0159ed listy je \u017Eeb\u0159\u00EDk vedouc\u00ED z [p\u00E1t\u00E9ho podla\u017E\u00ED V\u011B\u017Ee](mi_vez_5_podlazi). A nad n\u00EDm je trapdoor, kter\u00FD ho zakr\u00FDv\u00E1.\r\nM\u00EDstnost je o blok vy\u0161\u0161\u00ED ne\u017E ostatn\u00ED patra [V\u011B\u017Ee](bl_vez), co\u017E j\u00ED dod\u00E1v\u00E1 vzdu\u0161nost a prostor. Za okny je mo\u017En\u00E9 spat\u0159it [Carrot Farmu](mi_carrot_farma) a baz\u00E9n v [L\u00E1zn\u00EDch Panoraama](mi_lazne_panoraama), kter\u00E9 dopl\u0148uj\u00ED v\u00FDhled z t\u00E9to nejvy\u0161\u0161\u00ED \u010D\u00E1sti v\u011B\u017Ee."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Sauron je nejv\u011Bt\u0161\u00ED m\u00EDstnost ve [V\u011B\u017Ei](bl_vez)."
+      }
+    ],
+    "image_id": 0,
+    "area": 47,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 323,
+      "y": 88,
+      "z": 1128
+    },
+    "redirect": null,
+    "tobeedited": false
+  },
+  "bl_vez": {
+    "Title": "V\u011B\u017E",
+    "Type": "blok",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "V\u011B\u017E",
+      "Okrsek": "[Veve\u0159\u00ED](ok_veveri)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "V\u011B\u017E je blok tvo\u0159en\u00FD \u0161esti m\u00EDstnostmi, kter\u00E9 jsou postaveny nad sebou. Do bloku tak\u00E9 pat\u0159\u00ED \u010D\u00E1st [the Bridge](mi_the_bridge), ale tak\u00E9 [Sloupek](mi_sloupek) na [bridgi](mi_the_bridge) postaven\u00FD. Krom\u011B nejvy\u0161\u0161\u00EDho podla\u017E\u00ED, [Saurona](mi_sauron) maj\u00ED v\u0161echny m\u00EDstnost\u00ED \u0022V\u011B\u017E\u0022 ve sv\u00E9m n\u00E1zvu. Nav\u00EDc se sob\u011B velmi podobaj\u00ED a maj\u00ED sv\u016Fj typick\u00FD styl. V\u0161echny m\u00EDstnosti ve [V\u011B\u017Ei](bl_vez) spojuje dvacet blok\u016F vysok\u00FD \u017Eeb\u0159\u00EDk.\r\nBlok soused\u00ED s velk\u00FDm po\u010Dtem ostatn\u00EDch m\u00EDstnost\u00ED a blok\u016F a v\u00E1\u017En\u011B se mi je sem nechce vypisovat, ale co u\u017E. Jmenovit\u011B jde o n\u00E1sleduj\u00EDc\u00ED bloky: [Preddvor](bl_preddvor), [Vestibul](bl_vestibul), [Koridory](bl_koridory), [Z\u00E1meck\u00E9 Schody](bl_zamecke_schody), [P\u0159ed\u011Bl](bl_predel), [Vesnice](bl_vesnice), [Rozcest\u00ED](bl_rozcesti), [V\u00FDtahov\u00E1 \u0160achta](bl_vytahova_sachta), [Papokoi](bl_papokoi), [L\u00E1zn\u011B Panoraama](bl_lazne_panoraama), [St\u0159echa](bl_strecha), [Katakomby](bl_katakomby) a [Bubene\u010D](bl_bubenec), je\u017E je jedin\u00FDm blokem mimo [Pa\u0159ez](ca_parez), se kter\u00FDm V\u011B\u017E soused\u00ED. "
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "N\u00E1zev \u201EV\u011B\u017E\u201C vych\u00E1z\u00ED z jej\u00EDho architektonick\u00E9ho charakteru \u2013 jde o vertik\u00E1ln\u00ED stavbu, kter\u00E1 dominuje okol\u00ED a nab\u00EDz\u00ED \u0161irok\u00FD rozhled."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "V\u011B\u017E m\u00E1 standardn\u00ED \u0161\u00ED\u0159ku 4 bloky u v\u0161ech pater, d\u00E9lka se pohybuje kolem 4 blok\u016F, s v\u00FDjimkou 6. podla\u017E\u00ED [Sauron](mi_sauron), kter\u00E9 je del\u0161\u00ED a v\u00FDrazn\u011B prostorn\u011Bj\u0161\u00ED. V\u0161echna patra jsou propojena \u017Eeb\u0159\u00EDkem v rohu m\u00EDstnosti, kter\u00FD je z\u00E1rove\u0148 jedin\u00FDm vertik\u00E1ln\u00EDm spojen\u00EDm podla\u017E\u00ED. Okna jsou na v\u011Bt\u0161in\u011B pater hojn\u011B zastoupena, \u010Dasto velk\u00E1 4\u20136 blok\u016F, s v\u00FDjimkou 3. podla\u017E\u00ED, kde je jich m\u00E9n\u011B kv\u016Fli \u010Detn\u00FDm dve\u0159\u00EDm. V\u011Bt\u0161ina pater m\u00E1 tak\u00E9 klasick\u00FD prvek \u2013 postel um\u00EDst\u011Bnou pod oknem s crafting table zav\u011B\u0161en\u00FDm nad n\u00ED. Vstupy do jednotliv\u00FDch pater vedou do r\u016Fzn\u00FDch sousedn\u00EDch m\u00EDstnost\u00ED jako jsou [Sobota](mi_sobota), [Na Most\u011B](mi_na_moste), [V\u00FDpl\u0148](mi_vypln) nebo [Papokoi](mi_papokoi). D\u016Fe\u017Eit\u00FDmi spoji jsou tak\u00E9 dve\u0159e na [the Bridge](mi_the_bridge), [the Crossing](mi_the_crossing) nebo na [D\u00E1lnici](mi_dalnice)."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "I kdy\u017E se to nezd\u00E1, ka\u017Ed\u00E9 podla\u017E\u00ED V\u011B\u017Ee m\u00E1 sv\u016Fj specifick\u00FD vzhled. V\u017Edy je tam n\u011Bco, a\u0165 u\u017E to je zvl\u00E1\u0161tn\u00ED um\u00EDst\u011Bn\u00ED oken, dve\u0159\u00ED \u010Di balk\u00F3nek, co se d\u00E1 nazvat v\u00FDrazn\u00FDm prvkem."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": ""
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
     "Empty": false,
     "numberOfRooms": 0,
     "coordinates": {

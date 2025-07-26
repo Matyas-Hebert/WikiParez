@@ -53,6 +53,10 @@
       "PackagePath": "staticwebassets/Images/mi_balkon_ctvrtka3.png"
     },
     {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_balkon_ctvrtka4.png",
+      "PackagePath": "staticwebassets/Images/mi_balkon_ctvrtka4.png"
+    },
+    {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_beetroot_farma1.png",
       "PackagePath": "staticwebassets/Images/mi_beetroot_farma1.png"
     },
@@ -99,6 +103,10 @@
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_chodba3.png",
       "PackagePath": "staticwebassets/Images/mi_chodba3.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_chodba4.png",
+      "PackagePath": "staticwebassets/Images/mi_chodba4.png"
     },
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_chodba_ii1.png",
@@ -183,6 +191,10 @@
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_dum_hloupeho_honzy1.png",
       "PackagePath": "staticwebassets/Images/mi_dum_hloupeho_honzy1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_dum_margity_stehlikove1.png",
+      "PackagePath": "staticwebassets/Images/mi_dum_margity_stehlikove1.png"
     },
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_farmus_bambus1.png",
@@ -469,6 +481,10 @@
       "PackagePath": "staticwebassets/Images/mi_pavlac4.png"
     },
     {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_pavlac5.png",
+      "PackagePath": "staticwebassets/Images/mi_pavlac5.png"
+    },
+    {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_podkrovi1.png",
       "PackagePath": "staticwebassets/Images/mi_podkrovi1.png"
     },
@@ -541,6 +557,18 @@
       "PackagePath": "staticwebassets/Images/mi_rudakuv_dum2.png"
     },
     {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_sauron1.png",
+      "PackagePath": "staticwebassets/Images/mi_sauron1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_sauron2.png",
+      "PackagePath": "staticwebassets/Images/mi_sauron2.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_sauron3.png",
+      "PackagePath": "staticwebassets/Images/mi_sauron3.png"
+    },
+    {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_schodiste_aa1.png",
       "PackagePath": "staticwebassets/Images/mi_schodiste_aa1.png"
     },
@@ -583,6 +611,10 @@
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_skokanske_mustky2.png",
       "PackagePath": "staticwebassets/Images/mi_skokanske_mustky2.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_skokanske_mustky3.png",
+      "PackagePath": "staticwebassets/Images/mi_skokanske_mustky3.png"
     },
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_skryta_mistnost1.png",
@@ -781,6 +813,30 @@
       "PackagePath": "staticwebassets/Images/mi_vault2.png"
     },
     {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_vez_1_podlazi1.png",
+      "PackagePath": "staticwebassets/Images/mi_vez_1_podlazi1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_vez_2_podlazi1.png",
+      "PackagePath": "staticwebassets/Images/mi_vez_2_podlazi1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_vez_2_podlazi2.png",
+      "PackagePath": "staticwebassets/Images/mi_vez_2_podlazi2.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_vez_3_podlazi1.png",
+      "PackagePath": "staticwebassets/Images/mi_vez_3_podlazi1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_vez_4_podlazi1.png",
+      "PackagePath": "staticwebassets/Images/mi_vez_4_podlazi1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_vez_5_podlazi1.png",
+      "PackagePath": "staticwebassets/Images/mi_vez_5_podlazi1.png"
+    },
+    {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_viden1.png",
       "PackagePath": "staticwebassets/Images/mi_viden1.png"
     },
@@ -807,6 +863,18 @@
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_weaver_house2.png",
       "PackagePath": "staticwebassets/Images/mi_weaver_house2.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_zahradni_domek1.png",
+      "PackagePath": "staticwebassets/Images/mi_zahradni_domek1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_zahradni_domek2.png",
+      "PackagePath": "staticwebassets/Images/mi_zahradni_domek2.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_zahradni_domek3.png",
+      "PackagePath": "staticwebassets/Images/mi_zahradni_domek3.png"
     },
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_zmatek1.png",
