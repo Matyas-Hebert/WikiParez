@@ -11404,7 +11404,7 @@
       "mi_stredove_namesti",
       "mi_hlavni_koridor_ii",
       "mi_kazeta",
-      "mi_the_airship",
+      "mi_dalnicni_pilir",
       "mi_hnizdo"
     ],
     "Alternate_names": [],
@@ -18278,7 +18278,7 @@
     "Bordering_rooms": [
       "mi_orizona",
       "mi_hraz",
-      "mi_telocvicna"
+      "mi_bumblebee"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -31670,7 +31670,7 @@
     "Images": [],
     "Image_titles": [],
     "Bordering_rooms": [
-      "mi_bumblebee",
+      "mi_telocvicna",
       "mi_wc_mesita",
       "mi_silhanek"
     ],
