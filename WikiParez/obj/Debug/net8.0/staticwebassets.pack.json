@@ -937,8 +937,20 @@
       "PackagePath": "staticwebassets/Images/missing.jpg"
     },
     {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/os_kvetina1.png",
+      "PackagePath": "staticwebassets/Images/os_kvetina1.png"
+    },
+    {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/os_marcela_hebertova1.png",
       "PackagePath": "staticwebassets/Images/os_marcela_hebertova1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/sp_armory_parez1.png",
+      "PackagePath": "staticwebassets/Images/sp_armory_parez1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/sp_armory_parez1.png:Zone.Identifier",
+      "PackagePath": "staticwebassets/Images/sp_armory_parez1.png:Zone.Identifier"
     },
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/te_bordel_chestka1.png",

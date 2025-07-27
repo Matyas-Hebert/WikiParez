@@ -1595,7 +1595,7 @@
     "Sections": [
       {
         "Title": "P\u0159ehled",
-        "Content": "Ke Klubu je mal\u00FD blok sestaven\u00FD ze dvou m\u00EDstnost\u00ED. V\u011Bt\u0161\u00ED z nich je [Lod\u017Eie](mi_lodzie), kter\u00E1 spojuje blok s [M\u011Bstsk\u00FDm okruhem](mi_mestsky_okruh). Druhou a men\u0161\u00ED m\u00EDstnost\u00ED je p\u0159echod, most spojuj\u00EDc\u00ED [Lod\u017Eii](mi_lodzie) s [Klubem](mi_klub).\r\nKe Klubu soused\u00ED s n\u00E1sleduj\u00EDc\u00EDmi bloky: [V\u00EDde\u0148](bl_viden), [Ropn\u00E1 plo\u0161ina](bl_ropna_plosina) a [Vestibul](bl_vestibul). P\u0159i p\u0159eskoku plotu v Lod\u017Eii se d\u00E1 dostat i do [Dobr\u00E9 Vody](mi_dobra_voda) na [Hlavn\u00ED T\u0159\u00EDd\u011B](bl_hlavni_trida)."
+        "Content": "Ke Klubu je mal\u00FD blok sestaven\u00FD ze dvou m\u00EDstnost\u00ED. V\u011Bt\u0161\u00ED z nich je [Lod\u017Eie](mi_lodzie), kter\u00E1 spojuje blok s [M\u011Bstsk\u00FDm okruhem](mi_mestsky_okruh). Druhou a men\u0161\u00ED m\u00EDstnost\u00ED je [P\u0159echod](mi_prechod), most spojuj\u00EDc\u00ED [Lod\u017Eii](mi_lodzie) s [Klubem](mi_klub).\r\nKe Klubu soused\u00ED s n\u00E1sleduj\u00EDc\u00EDmi bloky: [V\u00EDde\u0148](bl_viden), [Ropn\u00E1 plo\u0161ina](bl_ropna_plosina) a [Vestibul](bl_vestibul). P\u0159i p\u0159eskoku plotu v Lod\u017Eii se d\u00E1 dostat i do [Dobr\u00E9 Vody](mi_dobra_voda) na [Hlavn\u00ED T\u0159\u00EDd\u011B](bl_hlavni_trida)."
       },
       {
         "Title": "N\u00E1zev",
@@ -1606,8 +1606,8 @@
         "Content": "Interi\u00E9r cel\u00E9ho bloku je velmi pr\u00E1zdn\u00FD a nach\u00E1z\u00ED se v n\u011Bm jedin\u00FD crafting table. V\u00FD\u0161ka stropu je \u010Dasto n\u00EDzk\u00E1 s maxim\u00E1ln\u00ED v\u00FD\u0161kou \u010Dty\u0159 blok\u016F."
       },
       {
-        "Title": "Zaj\u00EDmavost",
-        "Content": "Ke Klubu je jeden z m\u00E1la blok\u016F bez jedin\u00E9 postele."
+        "Title": "Zaj\u00EDmavosti",
+        "Content": "Ke Klubu je jeden z m\u00E1la blok\u016F bez jedin\u00E9 postele.\r\nKe Klubu je plochou nejmen\u0161\u00ED blok v [Pa\u0159ezu](ca_parez)."
       }
     ],
     "image_id": 0,
@@ -1619,7 +1619,7 @@
       "y": 0,
       "z": 0
     },
-    "redirect": "",
+    "redirect": null,
     "tobeedited": false
   },
   "mi_ropna_plosina": {
@@ -2924,7 +2924,7 @@
     "Sections": [
       {
         "Title": "P\u0159ehled",
-        "Content": "Ve\u010De\u0159e je m\u00EDstnost na [P\u0159\u00EDkop\u011B](bl_prikop) se t\u0159emi vchody. Ze severu se sem d\u00E1 vej\u00EDt ze [Schodi\u0161t\u011B TT](mi_schodiste_tt) a z [Beetroot farmy](mi_beetroot_farma). Z ji\u017En\u00ED strany sem vedou dve\u0159e ze [Sloupu](mi_sloup).\r\nJedn\u00E1 se o velikostn\u011B st\u0159edn\u00ED m\u00EDstnost na sam\u00E9m jihoz\u00E1padn\u00EDm konci [Pa\u0159ezu](ca_parez)."
+        "Content": "Ve\u010De\u0159e d\u0159\u00EDve Dining Room je m\u00EDstnost na [P\u0159\u00EDkop\u011B](bl_prikop) se t\u0159emi vchody. Ze severu se sem d\u00E1 vej\u00EDt ze [Schodi\u0161t\u011B TT](mi_schodiste_tt) a z [Beetroot farmy](mi_beetroot_farma). Z ji\u017En\u00ED strany sem vedou dve\u0159e ze [Sloupu](mi_sloup).\r\nJedn\u00E1 se o velikostn\u011B st\u0159edn\u00ED m\u00EDstnost na sam\u00E9m jihoz\u00E1padn\u00EDm konci [Pa\u0159ezu](ca_parez)."
       },
       {
         "Title": "N\u00E1zev",
@@ -2952,7 +2952,7 @@
       "y": 0,
       "z": 0
     },
-    "redirect": "",
+    "redirect": null,
     "tobeedited": false
   },
   "mi_hlidkovaci_kos": {
@@ -10615,7 +10615,8 @@
     "Bordering_rooms": [
       "mi_os",
       "mi_svaty_vyt",
-      "mi_bazar"
+      "mi_bazar",
+      "mi_kahan"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -19147,7 +19148,8 @@
       "mi_the_overpass",
       "mi_panget",
       "mi_zlate_schodiste",
-      "mi_policka"
+      "mi_policka",
+      "mi_pavlac"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -31857,7 +31859,7 @@
     "Sections": [
       {
         "Title": "P\u0159ehled",
-        "Content": "Armory jsou mal\u00E1 m\u00EDstnost schovan\u00E1 pod schody na [N\u00E1m\u011Bst\u00ED u Vody](mi_namesti_u_vody) slou\u017E\u00EDc\u00ED na uskladn\u011Bn\u00ED armor\u016F a kosmetick\u00FDch p\u0159edm\u011Bt\u016F. Do prostoru samotn\u00E9ho se ale d\u00E1 dostat jen jedin\u00FDmi dve\u0159mi, kter\u00E9 vedou p\u0159\u00EDmo na dnou baz\u00E9nu v [L\u00E1zn\u00EDch Panoraama](mi_lazne_panoraama)."
+        "Content": "Armory jsou mal\u00E1 m\u00EDstnost schovan\u00E1 pod schody na [N\u00E1m\u011Bst\u00ED u Vody](mi_namesti_u_vody) slou\u017E\u00EDc\u00ED na uskladn\u011Bn\u00ED armor\u016F a kosmetick\u00FDch p\u0159edm\u011Bt\u016F. Do prostoru samotn\u00E9ho se ale d\u00E1 dostat jen jedin\u00FDmi dve\u0159mi, kter\u00E9 vedou p\u0159\u00EDmo na dnou baz\u00E9nu v [L\u00E1zn\u00EDch Panoraama](mi_lazne_panoraama)\u003C\u003C, co\u017E je v\u00FDhodn\u00E9 pokud zrovna sp\u011Bch\u00E1te s nov\u00FDm brn\u011Bn\u00EDm k obran\u011B \u010Di \u00FAtoku a nem\u00E1te \u010Das na sprchu\u003E\u003E::0.35 ."
       },
       {
         "Title": "N\u00E1zev",
@@ -31865,11 +31867,15 @@
       },
       {
         "Title": "Interi\u00E9r",
-        "Content": "Armory jsou mal\u00E1 podlouhl\u00E1 m\u00EDstnost. Na obou konc\u00EDch se nach\u00E1z\u00ED okno (to bl\u00ED\u017E ke vchodu zab\u00EDr\u00E1 celou plochu st\u011Bny) a po stran\u00E1ch jsou uskladn\u011Bny jednotliv\u00E9 kusy brn\u011Bn\u00ED. Po lev\u00E9 stran\u011B je postaveno \u0161est stojan\u016F na brn\u011Bn\u00ED. Nejsou v\u0161ak v\u0161echny zapln\u011Bny, nebo\u0165 nen\u00ED dost kalhot a bot. Po stran\u011B prav\u00E9 m\u016F\u017Eeme naj\u00EDt p\u011Btici barel\u016F, kter\u00E9 slou\u017E\u00ED na ulo\u017Een\u00ED jednotliv\u00FDch kus\u016F brn\u011Bn\u00ED a kosmetick\u00FDch armor trim\u016F. Mezi barely je tak\u00E9 jedin\u00FD crafting table v m\u00EDstnosti a kompost s \u010Dervenou kyti\u010Dkou p\u0159ed n\u00EDm."
+        "Content": "Armory jsou mal\u00E1 podlouhl\u00E1 m\u00EDstnost. Na obou konc\u00EDch se nach\u00E1z\u00ED okno (to bl\u00ED\u017E ke vchodu zab\u00EDr\u00E1 celou plochu st\u011Bny) a po stran\u00E1ch jsou uskladn\u011Bny jednotliv\u00E9 kusy brn\u011Bn\u00ED. Po lev\u00E9 stran\u011B je postaveno \u0161est stojan\u016F na brn\u011Bn\u00ED. V\u0161echny v\u0161ak nebyly zapln\u011Bny, nebo\u0165 nebylo dost kalhot a bot. To zm\u011Bnilo pot\u00E9 co [Marie Hebertov\u00E1](os_marie_hebertova) stojany doplnila (viz Aktuality). Po stran\u011B prav\u00E9 m\u016F\u017Eeme naj\u00EDt p\u011Btici barel\u016F, kter\u00E9 slou\u017E\u00ED na ulo\u017Een\u00ED jednotliv\u00FDch kus\u016F brn\u011Bn\u00ED a kosmetick\u00FDch armor trim\u016F. Mezi barely je tak\u00E9 jedin\u00FD crafting table v m\u00EDstnosti\u003C\u003C, kter\u00FD nikdo nepou\u017E\u00EDv\u00E1,\u003E\u003E::0.5 a kompost s [\u010Dervenou kyti\u010Dkou](os_kyticka) p\u0159ed n\u00EDm."
       },
       {
         "Title": "Zaj\u00EDmavosti",
-        "Content": "Strop v m\u00EDstnosti je ni\u017E\u0161\u00ED u barel\u016F a vy\u0161\u0161\u00ED u stojan\u016F, nebo\u0165 je m\u00EDstnost postavena hned pod schodi\u0161t\u011Bm na [N\u00E1m\u011Bst\u00ED u Vody](mi_namesti_u_vody).\r\nV barelu ur\u010Den\u00E9m na armor trimy se nach\u00E1z\u00ED i dvojice \u0022netherite upgrade templat\u016F\u0022."
+        "Content": "Strop v m\u00EDstnosti je ni\u017E\u0161\u00ED u barel\u016F a vy\u0161\u0161\u00ED u stojan\u016F, nebo\u0165 je m\u00EDstnost postavena hned pod schodi\u0161t\u011Bm na [N\u00E1m\u011Bst\u00ED u Vody](mi_namesti_u_vody).\r\nV barelu ur\u010Den\u00E9m na armor trimy se nach\u00E1z\u00ED i dvojice \u0022netherite upgrade templat\u016F\u0022.\r\n\u003C\u003C[Kyti\u010Dka](os_kyticka) byla zvolena zam\u011Bstnancem m\u011Bs\u00EDce. T\u0159i m\u011Bs\u00EDce v \u0159ad\u011B.\u003E\u003E::0.2"
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "27/07/25: V\u0161echny stojany byly kone\u010Dn\u011B zapln\u011Bny (:"
       }
     ],
     "image_id": 0,
@@ -34124,7 +34130,7 @@
       },
       {
         "Title": "Zaj\u00EDmavost",
-        "Content": "Schodi\u0161t\u011B d\u0159\u00EDve p\u0159\u00EDmo sousedilo se [Spojnic\u00ED](mi_spojnice), [Chodbou](mi_chodba), [D\u00E1lni\u010Dn\u00EDm Pil\u00ED\u0159em](mi_dalnicni_pilir), The Airshipem](mi_the_airship), [Balk\u00F3nem Svat\u00E9 Ned\u011Ble](mi_balkon_svate_nedele), [Carrot Farmou](mi_carrot_farma), [Double Decker Housem](mi_double_decker_house) a s [Schwarzenegger Housem](mi_schwarzenegger_house). Po rozd\u011Blen\u00ED m\u00EDstnosti na \u010Dty\u0159i ji\u017E s nimi nad\u00E1le nesoused\u00ED."
+        "Content": "Schodi\u0161t\u011B d\u0159\u00EDve p\u0159\u00EDmo sousedilo se [Spojnic\u00ED](mi_spojnice), [Chodbou](mi_chodba), [D\u00E1lni\u010Dn\u00EDm Pil\u00ED\u0159em](mi_dalnicni_pilir), [The Airshipem](mi_the_airship), [Balk\u00F3nem Svat\u00E9 Ned\u011Ble](mi_balkon_svate_nedele), [Carrot Farmou](mi_carrot_farma), [Double Decker Housem](mi_double_decker_house) a s [Schwarzenegger Housem](mi_schwarzenegger_house). Po rozd\u011Blen\u00ED m\u00EDstnosti na \u010Dty\u0159i ji\u017E s nimi nad\u00E1le nesoused\u00ED."
       },
       {
         "Title": "Aktuality",
@@ -35433,7 +35439,8 @@
       "mi_satna",
       "mi_vytahova_sachta",
       "mi_zlate_schodiste",
-      "mi_balkon_ctvrtka"
+      "mi_balkon_ctvrtka",
+      "mi_kahan"
     ],
     "Alternate_names": [
       "PLAYSTATION",
@@ -36209,6 +36216,138 @@
     ],
     "image_id": 0,
     "area": 39,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "redirect": null,
+    "tobeedited": false
+  },
+  "os_kyticka": {
+    "Title": "Kv\u011Btina z Armory",
+    "Type": "secret",
+    "Images": [],
+    "Image_titles": [
+      "KV\u011ATINA Z ARMORY"
+    ],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "Jm\u00E9no": "Kv\u011Btina z Armory",
+      "Povol\u00E1n\u00ED": "Statick\u00E1 specialistka pro du\u0161evn\u00ED rovnov\u00E1hu a esteti\u010Dno v prostor\u00E1ch v\u00FDstroje.",
+      "Datum Narozen\u00ED": "kv\u011Bten 2024",
+      "Pracovi\u0161t\u011B": "p\u0159ed kompostem, [Armory](mi_armory), [Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Kv\u011Btina z Armory je kv\u011Btina rud\u00E9ho m\u00E1ku a zam\u011Bstnankyn\u011B spole\u010Dnosti [Armory-Pa\u0159ez](sp_armory_parez) ji\u017E n\u011Bjak\u00FD ten p\u00E1tek. Sv\u00FDm klidn\u00FDm p\u016Fsoben\u00EDm na pracovi\u0161ti p\u0159in\u00E1\u0161\u00ED rovnov\u00E1hu do jinak kovov\u011B stroh\u00E9 m\u00EDstnosti a pom\u00E1h\u00E1 udr\u017Eovat ment\u00E1ln\u00ED pohodu n\u00E1v\u0161t\u011Bvn\u00EDk\u016F."
+      },
+      {
+        "Title": "Zam\u011Bstnankyn\u011B m\u011Bs\u00EDce",
+        "Content": "Spole\u010Dnost [Armory-Pa\u0159ez](sp_armory_parez) nezam\u011Bstn\u00E1v\u00E1 mnoho objekt\u016F, ale o to v\u00EDc si v\u00E1\u017E\u00ED dob\u0159e odveden\u00E9 pr\u00E1ce. Zat\u00EDmco ostatn\u00ED objekty v Armory (stojany, barely \u010Di dve\u0159e) vykazovaly zn\u00E1mky opot\u0159eben\u00ED, \u010Derven\u00E1 kv\u011Btinka u rohu p\u0159ed kompostem plnila svoji pr\u00E1ce bez sebemen\u0161\u00ED zn\u00E1mky \u00FAnavy . I bez zal\u00E9v\u00E1n\u00ED, kter\u00E9 d\u00EDky vysok\u00E9 vlhkosti v okol\u00ED [L\u00E1zn\u00ED](mi_lazne_panoraama) nebylo t\u0159eba, nikdy nezvadla ani nenaru\u0161ovala klid v prostoru svoji p\u0159\u00EDtomnost\u00ED. Rada spole\u010Dnosti ji proto ud\u011Blila titul Zam\u011Bstnankyn\u011B m\u011Bs\u00EDce - poprv\u00E9 symbolicky, podruh\u00E9 z respektu... a pot\u0159et\u00ED u\u017E jen aby zachovaly jistou tradici. Je t\u00E9m\u011B\u0159 jist\u00E9, \u017Ee ocen\u011Bn\u00ED z\u00EDsk\u00E1 v budoucnu znovu."
+      },
+      {
+        "Title": "Nezalita a p\u0159ece \u017Eiv\u00E1",
+        "Content": "Kv\u011Btina z Armory je z botanick\u00E9ho hlediska z\u00E1zrak. Navzdory tomu, \u017Ee v [Armory](mi_armory) nen\u00ED k nalezen\u00ED ani kapka vody ur\u010Den\u00E1 k zal\u00E9v\u00E1n\u00ED, se j\u00ED dlouhodob\u011B da\u0159\u00ED p\u0159e\u017E\u00EDvat v pln\u00E9 kr\u00E1se. Ofici\u00E1ln\u00ED vysv\u011Btlen\u00ED zn\u00ED, \u017Ee se \u017Eiv\u00ED vysokou vzdu\u0161nou vlhkost\u00ED, kter\u00E1 do m\u00EDstnosti prostupuje z bl\u00EDzk\u00E9ho baz\u00E9nu v [L\u00E1zn\u00EDch Panoraama](mi_lazne_panoraama).\r\nNeofici\u00E1ln\u011B se v\u0161ak mezi pracovn\u00EDky [Armory-Pa\u0159ez](sp_armory_parez) \u0161u\u0161k\u00E1, \u017Ee je kv\u011Btina samostatn\u00E1 a \u017Ee se zal\u00E9v\u00E1 bez ciz\u00ED pomoci. Nikdo v\u0161ak nikdy tuto ud\u00E1lost nespat\u0159il i p\u0159esto, \u017Ee je kv\u011Btina ostatn\u00EDmi zam\u011Bstnanci st\u00E1le pod dohledem.\r\nJe tak\u00E9 mo\u017En\u00E9, \u017Ee si kv\u011Btina vyvinula skv\u011Blou odolnost proti suchu a skv\u011Ble dok\u00E1\u017Ee hospoda\u0159it s vlhk\u00FDm vzduchem okolo."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Kv\u011Btina z Armory je doopravdy mob dropem z Iron Golema jm\u00E9nem [Rustav von \u017Delezo](os_rustav_von_zelezo), kter\u00FD tragicky zem\u0159el v [\u017Delezn\u00E9 Lhot\u011B](mi_zelezna_lhota)."
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "redirect": null,
+    "tobeedited": false
+  },
+  "os_rustav_von_zelezo": {
+    "Title": "Rustav von \u017Delezo",
+    "Type": "secret",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "Jm\u00E9no": "Rustav von \u017Delezo",
+      "M\u00EDsto narozen\u00ED": "[\u017Delezn\u00E1 Lhota](mi_zelezna_lhota)",
+      "M\u00EDsto smrti": "[\u017Delezn\u00E1 Lhota](mi_zelezna_lhota)",
+      "V\u011Bk": "15 sekund"
+    },
+    "Sections": [
+      {
+        "Title": "\u00DAvod",
+        "Content": "Rustav von \u017Delezo byl Iron Golem narozen v jihoz\u00E1padn\u00EDm rohu Iron Golem Farmy v [\u017Delezn\u00E9 Lhoty](mi_zelezna_lhota). Jeho \u00FA\u010Del byl od po\u010D\u00E1tku jasn\u00FD: produkce \u017Eeleza. \u017D\u00E1dn\u00E9 iluze, \u017E\u00E1dn\u00E9 sny \u2014 a p\u0159esto se zd\u00E1, \u017Ee pr\u00E1v\u011B sny se mu b\u011Bhem jeho mimo\u0159\u00E1dn\u011B kr\u00E1tk\u00E9ho \u017Eivota zrodily v hlav\u011B."
+      },
+      {
+        "Title": "\u017Divot",
+        "Content": "Rustav \u017Eil pouh\u00FDch patn\u00E1ct vte\u0159in. Ale podle o\u010Dit\u00E9ho sv\u011Bdka (z\u00E1znamy z bezpe\u010Dnostn\u00ED kamery z [Gideonova Domu](mi_gideonuv_dum) se bohu\u017Eel nedochovaly), se b\u011Bhem t\u011Bchto vte\u0159in n\u011Bkolikr\u00E1t na okam\u017Eik zastavil a slab\u011B bojoval proti proudu vody, jako by p\u0159em\u00FD\u0161lel. O \u010Dem? Nev\u00EDme. Ale to, \u017Ee p\u0159em\u00FD\u0161lel, u\u017E nav\u017Edy zpochyb\u0148uje za\u017Eitou p\u0159edstavu, \u017Ee Iron Golemov\u00E9 jsou jen bezduch\u00E9 stroje."
+      },
+      {
+        "Title": "\u017Delezo a Kyti\u010Dka",
+        "Content": "Po sv\u00E9 smrti zanechal za sebou t\u0159i ingoty \u017Eeleza \u2014 a \u010Dervenou kv\u011Btinu. Vesni\u010Dan [Gideon](os_gideon), kter\u00FD jeho smrt sledoval, se rozhodl Golema posmrtn\u011B pok\u0159t\u00EDt jm\u00E9nem Rustav von \u017Delezo. Na jeho po\u010Dest um\u00EDstil [kv\u011Btinu](os_kvetina) do m\u00EDstnosti [Armory](mi_armory), kde v kv\u011Btin\u00E1\u010Di roste dodnes."
+      },
+      {
+        "Title": "V\u011B\u010Dn\u00FD \u017Eivot",
+        "Content": "Rustav u\u017E nechod\u00ED po sv\u011Bt\u011B. Ale ve kv\u011Btin\u011B, kter\u00E1 ho p\u0159e\u017Eila, tu s n\u00E1mi vlastn\u011B po\u0159\u00E1d je. Nikoho za sv\u016Fj \u017Eivot nepoznal, ale d\u00EDky [Gideonovi](os_gideon) z\u00EDskal v\u011B\u010Dn\u00FD \u017Eivot v podob\u011B n\u00E1dhern\u00E9ho m\u00E1ku."
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "redirect": null,
+    "tobeedited": false
+  },
+  "sp_armory_parez": {
+    "Title": "Armory - Pa\u0159ez",
+    "Type": "secret",
+    "Images": [],
+    "Image_titles": [
+      "LOGO"
+    ],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Armory - Pa\u0159ez",
+      "S\u00EDdlo": "[Armory](mi_armory)",
+      "Po\u010Det Zam\u011Bstnanc\u016F": "13"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Armory-Pa\u0159ez je spole\u010Dnost s\u00EDdl\u00EDc\u00ED v are\u00E1lu [Armory](mi_armory), kde se star\u00E1 nejen o uskladn\u011Bn\u00ED a spr\u00E1vu brn\u011Bn\u00ED. Jej\u00ED hlavn\u00ED posl\u00E1n\u00ED je zaji\u0161\u0165ovat efektivn\u00ED vyu\u017Eit\u00ED materi\u00E1l\u016F, kreativn\u00ED recyklaci a spr\u00E1vu vybaven\u00ED."
+      },
+      {
+        "Title": "Zam\u011Bstnanci",
+        "Content": "Spole\u010Dnost zam\u011Bstn\u00E1v\u00E1 mal\u00FD po\u010Det \u201Em\u00EDstn\u00EDch entit\u201C, v\u010Detn\u011B \u0161esti stojan\u016F, \u010Dty\u0159 barel\u016F, crafting tablu, kompostu a [Kv\u011Btiny z Armory](os_kvetina\u00FA, je\u017E je symbolem oddanosti a vitality firmy. Ka\u017Ed\u00E1 entita m\u00E1 sv\u016Fj vlastn\u00ED jasn\u011B specifikovan\u00FD pracovn\u00ED \u00FAkon. V p\u0159\u00EDpad\u011B stojan\u016F se jedn\u00E1 o \u00FAdr\u017Ebu a uchov\u00E1n\u00ED kvality brn\u011Bn\u00ED po dlouhou dobu. Barely zde pracuj\u00ED jako skladn\u00EDc\u00ED p\u0159ebyte\u010Dn\u00FDch kus\u016F brn\u011Bn\u00ED, je\u017E se nevejdou na stojany. Crafting table, je\u017E st\u00E1le \u010Dek\u00E1 na sv\u00E9ho prvn\u00EDho z\u00E1kazn\u00EDka, nab\u00EDz\u00ED skv\u011Bl\u00E9 slu\u017Eby n\u00E1v\u0161t\u011Bvn\u00EDk\u016Fm [Armory](mi_armory). Kompost m\u00E1 za \u00FAkol kontrolovat cel\u00FD prostor p\u0159ed zlod\u011Bji a nev\u00EDtan\u00FDmi hosty. A nakonec [Kyti\u010Dka z Armory](os_kyticka) zde pracuje jako statick\u00E1 specialistka."
+      },
+      {
+        "Title": "Ocen\u011Bn\u00ED",
+        "Content": "Spole\u010Dnost ji\u017E pravideln\u011B ka\u017Ed\u00FD m\u011Bs\u00EDc vyd\u00E1v\u00E1 ocen\u011Bn\u00ED zam\u011Bstnance m\u011Bs\u00EDce. Prvn\u00ED t\u0159i m\u011Bs\u00EDce existence spole\u010Dnosti z\u00EDskala toto ocen\u011Bn\u00ED [Kyti\u010Dka z Armory](os_kyticka), kter\u00E1 jako jedin\u00E1 odv\u00E1d\u011Bla svoji pr\u00E1ci bez chyb a z\u00E1rove\u0148 mohla ukazovat v\u00FDsledky. A právě proto je její podobizna zobrazena na logu společnosti."
+      },
+      {
+        "Title": "Vliv",
+        "Content": "Armory-Pa\u0159ez m\u00E1 sice mal\u00FD, ale z\u00E1sadn\u00ED vliv. Bez n\u00ED by brn\u011Bn\u00ED \u010Dasem opot\u0159ebovalo a m\u00EDstnost by p\u016Fsobila, jako by o ni nikdo nepe\u010Doval. Spole\u010Dnost v\u0161ak nechce b\u00FDt ve st\u0159edu pozornosti ani usilovat o sl\u00E1vu \u2014 jej\u00EDm c\u00EDlem je nen\u00E1padn\u00E1, ale spolehliv\u00E1 p\u00E9\u010De o v\u00FDbavu a udr\u017Een\u00ED tradice."
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
     "Empty": false,
     "numberOfRooms": 0,
     "coordinates": {
