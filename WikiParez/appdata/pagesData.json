@@ -2175,7 +2175,8 @@
       "mi_pod_vrbou",
       "mi_dvojcata",
       "mi_holubnik",
-      "mi_hmla"
+      "mi_hmla",
+      "mi_dolni_nadrazi"
     ],
     "Alternate_names": [
       "Pil\u00ED\u0159"
@@ -2207,7 +2208,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "22/06/25: Do v\u00FDtahu z [\u017Delezn\u00E9 Lhoty](mi_zelezna_lhota) se d\u00E1 vstoupit z [Hr\u00E1ze](mi_hraz).\r\n22/06/25: D\u00E1lni\u010Dn\u00ED Pil\u00ED\u0159 soused\u00ED s [Pr\u00E1hem](mi_prah).\r\n07/07/25: \u0022V\u00FDtah\u0022 dol\u016F u [\u017Delezn\u00E9 Lhoty](mi_zelezna_lhota) vede [Pod Vrbu](mi_pod_vrbou).\r\n12/07/25: Nov\u00FD vchod na [Dvoj\u010Data](mi_dvojcata).\r\n20/07/25: Nov\u00E9 vstupy do [Hmly](mi_hmla) a [Holubn\u00EDku](mi_holubnik)."
+        "Content": "22/06/25: Do v\u00FDtahu z [\u017Delezn\u00E9 Lhoty](mi_zelezna_lhota) se d\u00E1 vstoupit z [Hr\u00E1ze](mi_hraz).\r\n22/06/25: D\u00E1lni\u010Dn\u00ED Pil\u00ED\u0159 soused\u00ED s [Pr\u00E1hem](mi_prah).\r\n07/07/25: \u0022V\u00FDtah\u0022 dol\u016F u [\u017Delezn\u00E9 Lhoty](mi_zelezna_lhota) vede [Pod Vrbu](mi_pod_vrbou).\r\n12/07/25: Nov\u00FD vchod na [Dvoj\u010Data](mi_dvojcata).\r\n20/07/25: Nov\u00E9 vstupy do [Hmly](mi_hmla) a [Holubn\u00EDku](mi_holubnik).\r\n27/07/25: D\u00E1lnice nov\u011B soused\u00ED s [Doln\u00EDm N\u00E1dra\u017E\u00EDm](mi_dolni_nadrazi).\r\n27/07/25: Skrz d\u00E1lnice vede [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha)."
       }
     ],
     "image_id": 0,
@@ -4814,6 +4815,10 @@
       {
         "Title": "Zaj\u00EDmavost",
         "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "27/07/25: Po kraji m\u00EDstnosti vede [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha)."
       }
     ],
     "image_id": 0,
@@ -4825,7 +4830,7 @@
       "y": 93,
       "z": 1105
     },
-    "redirect": "",
+    "redirect": null,
     "tobeedited": false
   },
   "mi_temna_strana_sily": {
@@ -8089,106 +8094,6 @@
     "redirect": "",
     "tobeedited": false
   },
-  "mi_kino_scala": {
-    "Title": "Kino Scala",
-    "Type": "m\u00EDstnost",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [
-      "mi_spojnice",
-      "mi_kralovske_abonma",
-      "mi_zakini"
-    ],
-    "Alternate_names": [
-      "Kino",
-      "Scala"
-    ],
-    "Metadata": {
-      "N\u00E1zev": "Kino Scala",
-      "Blok": "[Kino](bl_kino)",
-      "Okrsek": "[Obchodn\u00ED st\u0159edisko](ok_obchodni_stredisko)",
-      "\u010Ctvr\u0165": "[Kmen](ct_kmen)",
-      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": "Jak vznikl n\u00E1zev?"
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": "N\u011Bco o interi\u00E9ru."
-      },
-      {
-        "Title": "Zaj\u00EDmavost",
-        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
-      }
-    ],
-    "image_id": 0,
-    "area": 164,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "redirect": "",
-    "tobeedited": false
-  },
-  "mi_zakini": {
-    "Title": "Z\u00E1kin\u00ED",
-    "Type": "m\u00EDstnost",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [
-      "mi_chodba",
-      "mi_kino_scala",
-      "mi_kralovske_abonma",
-      "mi_zlate_schodiste"
-    ],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "Z\u00E1kin\u00ED",
-      "Blok": "[Kino](bl_kino)",
-      "Okrsek": "[Obchodn\u00ED st\u0159edisko](ok_obchodni_stredisko)",
-      "\u010Ctvr\u0165": "[Kmen](ct_kmen)",
-      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": "Jak vznikl n\u00E1zev?"
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": "N\u011Bco o interi\u00E9ru."
-      },
-      {
-        "Title": "Zaj\u00EDmavost",
-        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
-      }
-    ],
-    "image_id": 0,
-    "area": 39,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "redirect": "",
-    "tobeedited": false
-  },
   "mi_guacamole": {
     "Title": "Guacamole",
     "Type": "m\u00EDstnost",
@@ -8395,7 +8300,8 @@
       "mi_teraska",
       "mi_the_overpass",
       "mi_horizont",
-      "mi_spojka"
+      "mi_spojka",
+      "mi_dalnicni_pilir"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -8425,7 +8331,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "24/07/25: M\u00EDstnost\u00ED proch\u00E1z\u00ED [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha)."
+        "Content": "24/07/25: M\u00EDstnost\u00ED proch\u00E1z\u00ED [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha).\r\n27/07/25: Doln\u00ED N\u00E1dra\u017E\u00ED soused\u00ED s [D\u00E1lni\u010Dn\u00EDm Pil\u00ED\u0159em](mi_dalnicni_pilir)."
       }
     ],
     "image_id": 0,
@@ -13533,7 +13439,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "22/06/25: P\u0159id\u00E1na n\u00E1stupn\u00ED plo\u0161ina a mal\u00FD ochoz"
+        "Content": "22/06/25: P\u0159id\u00E1na n\u00E1stupn\u00ED plo\u0161ina a mal\u00FD ochoz.\r\n27/07/25: Skrz m\u00EDstnost vede [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha). Mal\u00FD Ochoz p\u0159idan\u00FD p\u0159ed m\u011Bs\u00EDcem byl pro dr\u00E1hu vyu\u017Eit."
       }
     ],
     "image_id": 0,
@@ -13545,7 +13451,7 @@
       "y": 0,
       "z": 0
     },
-    "redirect": "",
+    "redirect": null,
     "tobeedited": false
   },
   "mi_jizni_blok": {
@@ -13587,7 +13493,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "22/06/25: Schodi\u0161t\u011B prodlou\u017Eeno o jedno podla\u017E\u00ED. Nov\u011B vede do [Gar\u00E1\u017Ee](mi_garaz)."
+        "Content": "22/06/25: Schodi\u0161t\u011B prodlou\u017Eeno o jedno podla\u017E\u00ED. Nov\u011B vede do [Gar\u00E1\u017Ee](mi_garaz).\r\n27/07/25: Skrz m\u00EDstnost vede [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha).\r\n27/07/25: Nov\u00FD v\u00FDtah do a z nepojmenovan\u00E9 m\u00EDstnosti."
       }
     ],
     "image_id": 0,
@@ -20821,6 +20727,10 @@
       {
         "Title": "Zaj\u00EDmavost",
         "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "27/07/25: P\u0159es vr\u0161ek mrkve vede [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha)."
       }
     ],
     "image_id": 0,
@@ -21617,7 +21527,8 @@
       "Blok": "[Nad Vodou](bl_nad_vodou)",
       "Okrsek": "[Gideon](ok_gideon)",
       "\u010Ctvr\u0165": "[Gideon](ct_gideon)",
-      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)",
+      "\u00DA\u010Del": "terminus [Mraven\u010D\u00ED Dr\u00E1hy](te_mravenci_draha)."
     },
     "Sections": [
       {
@@ -21638,7 +21549,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "07/07/25: Vstup vodou do [Stavidla](mi_stavidlo).\r\n07/07/25: Vstup schody [Pod Vrbu](mi_pod_vrbou)."
+        "Content": "07/07/25: Vstup vodou do [Stavidla](mi_stavidlo).\r\n07/07/25: Vstup schody [Pod Vrbu](mi_pod_vrbou).\r\n27/07/25: Skrz m\u00EDstnost vede [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha)."
       }
     ],
     "image_id": 0,
@@ -36196,6 +36107,114 @@
       "x": 331,
       "y": 93,
       "z": 1150
+    },
+    "redirect": null,
+    "tobeedited": false
+  },
+  "mi_kino_scala": {
+    "Title": "Kino Scala",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "KINO",
+      "ZAV\u0158EN\u00C9 OKENICE",
+      "OTEV\u0158EN\u00C9 OKENICE"
+    ],
+    "Bordering_rooms": [
+      "mi_spojnice",
+      "mi_kralovske_abonma",
+      "mi_zakini"
+    ],
+    "Alternate_names": [
+      "Kino",
+      "Scala"
+    ],
+    "Metadata": {
+      "N\u00E1zev": "Kino Scala",
+      "Blok": "[Kino](bl_kino)",
+      "Okrsek": "[Obchodn\u00ED st\u0159edisko](ok_obchodni_stredisko)",
+      "\u010Ctvr\u0165": "[Kmen](ct_kmen)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Kino Scala je prostorn\u00E1 m\u00EDstnost v bloku [Kino](bl_kino) se \u010Dty\u0159mi dvojit\u00FDmi dve\u0159mi, po dvou na ka\u017Ed\u00E9 stran\u011B. Na jedn\u00E9 stran\u011B vedou ob\u011B dve\u0159e na [Spojnici](mi_spojnice), zat\u00EDmco na druh\u00E9 stran\u011B jsou dve\u0159e do [Kr\u00E1lovsk\u00E9ho Abonm\u00E1](mi_kralovske_abonma) a do [Z\u00E1kin\u00ED](mi_zakini). M\u00EDstnosti [Kr\u00E1lovsk\u00E9 Abonm\u00E1](mi_kralovske_abonma) a [Z\u00E1kin\u00ED](mi_zakini) pat\u0159\u00ED do stejn\u00E9ho bloku."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "V prostoru se nach\u00E1z\u00ED velk\u00E1 \u0022obrazovka\u0022 postaven\u00E1 z vlny. P\u0159\u00EDdavek Scala byl inspirov\u00E1n jedn\u00EDm z brn\u011Bnsk\u00FDch kin."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Interi\u00E9r Kina Scala tvo\u0159\u00ED \u0161ikm\u00E1 schodovit\u00E1 podlaha slo\u017Een\u00E1 ze sedmi schod\u016F, z nich\u017E ka\u017Ed\u00FD m\u00E1 d\u00E9lku dva bloky, krom\u011B jednoho krat\u0161\u00EDho o d\u00E9lce jednoho bloku. Strop m\u00EDstnosti z\u016Fst\u00E1v\u00E1 rovn\u00FD, co\u017E zp\u016Fsobuje, \u017Ee v\u00FD\u0161ka prostoru se sm\u011Brem nahoru sni\u017Euje.\r\nNa nejni\u017E\u0161\u00EDm konci m\u00EDstnosti je velk\u00E1 obrazovka postaven\u00E1 ze sv\u011Btle \u0161ed\u00E9 a \u010Dern\u00E9 vlny. Na sv\u011Btle \u0161ed\u00FDch vln\u00E1ch jsou polo\u017Eeny lou\u010De osv\u011Btluj\u00EDc\u00ED prostor. Po stran\u00E1ch m\u00EDstnosti jsou v\u0161echna okna zakryt\u00E1 trapdoory, kter\u00E9 lze manu\u00E1ln\u011B otev\u00EDrat. Dal\u0161\u00ED trapdoory se nach\u00E1zej\u00ED nad obrazovkou a na prot\u011Bj\u0161\u00ED st\u011Bn\u011B \u2013 tedy nad nejvy\u0161\u0161\u00EDm schodem \u2013 a daj\u00ED se otev\u00EDrat pomoc\u00ED p\u00E1k. Tyto trapdoory maj\u00ED reprezentovat okenice a tak umo\u017E\u0148ovat prom\u00EDtan\u00ED film\u016F i za dne."
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": "Kino Scala je jedinou m\u00EDstnost\u00ED s funk\u010Dn\u00EDm redstonov\u00FDm obvodem.\r\nZa okny se skr\u00FDvaj\u00ED nap\u0159\u00EDklad zv\u00ED\u0159ata ze [Statku], bobule a kaktusy z [Guacamole](mi_guacamole) \u010Di paprsky [beaconu](beacon_parez) na [Spojnici](mi_spojnice)."
+      }
+    ],
+    "image_id": 0,
+    "area": 164,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 317,
+      "y": 99,
+      "z": 1144
+    },
+    "redirect": null,
+    "tobeedited": false
+  },
+  "mi_zakini": {
+    "Title": "Z\u00E1kin\u00ED",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "Z\u00C1KIN\u00CD",
+      "CHODBI\u010CKA",
+      "V\u00DDHLED*"
+    ],
+    "Bordering_rooms": [
+      "mi_chodba",
+      "mi_kino_scala",
+      "mi_kralovske_abonma",
+      "mi_zlate_schodiste"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Z\u00E1kin\u00ED",
+      "Blok": "[Kino](bl_kino)",
+      "Okrsek": "[Obchodn\u00ED st\u0159edisko](ok_obchodni_stredisko)",
+      "\u010Ctvr\u0165": "[Kmen](ct_kmen)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Z\u00E1kin\u00ED je mal\u00E1 m\u00EDstnost v bloku [Kino](mi_kino), tvo\u0159en\u00E1 \u00FAzkou chodbi\u010Dkou a o n\u011Bco \u0161ir\u0161\u00EDm prost\u016Frkem. Z konce chodby vedou dvoje dve\u0159e: do [Kr\u00E1lovsk\u00E9ho Abonm\u00E1](mi_kralovske_abonma) a do [Kina Scaly](mi_kino_scala). Z prost\u016Frku pak vedou dal\u0161\u00ED dve\u0159e na [Chodbu](mi_chodba), p\u0159i\u010Dem\u017E tyto dve\u0159e jsou um\u00EDst\u011Bny o jeden blok n\u00ED\u017Ee ne\u017E ostatn\u00ED, a tak\u00E9 na [Zlat\u00E9 Schodi\u0161t\u011B](mi_zlate_schodiste) \u2013 konkr\u00E9tn\u011B na prostor, kter\u00FD je aktu\u00E1ln\u011B sou\u010D\u00E1st\u00ED [Zlat\u00E9ho Schodi\u0161t\u011B](mi_zlate_schodiste), ale jeho budoucnost je nejist\u00E1."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "N\u00E1zev vznikl kombinac\u00ED p\u0159edlo\u017Eky \u0022Za\u0022 a slova \u0022Kino\u0022."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Interi\u00E9r Z\u00E1kin\u00ED je tvo\u0159en chodbi\u010Dkou a o n\u011Bco \u0161ir\u0161\u00EDm prost\u016Frkem. Chodba je dva bloky \u0161irok\u00E1 a o n\u011Bco m\u00E1lo vy\u0161\u0161\u00ED. Z jedn\u00E9 strany sd\u00EDl\u00ED st\u011Bnu s [Kinem Scala](mi_kino_scala), z druh\u00E9 strany lze d\u00EDky okn\u016Fm nahl\u00E9dnout do [Kr\u00E1lovsk\u00E9ho Abonm\u00E1](mi_kralovske_abonma). Sm\u011Brem k [Zlat\u00E9mu Schodi\u0161ti](mi_zlate_schodiste) se chodba roz\u0161i\u0159uje na \u010Dty\u0159i bloky do v\u00FD\u0161e zm\u00EDn\u011Bn\u00E9ho prost\u016Frku. T\u011Bsn\u011B p\u0159ed t\u00EDmto roz\u0161\u00ED\u0159en\u00EDm jsou na st\u011Bn\u011B dva nevyu\u017Eit\u00E9 barely a naproti nim zav\u011B\u0161en\u00FD crafting table.\r\nProst\u016Frek, do kter\u00E9ho chodba \u00FAst\u00ED, m\u00E1 rozm\u011Bry 4\u00D75 blok\u016F a z v\u011Bt\u0161\u00ED \u010D\u00E1sti je postaven o p\u016Fl bloku n\u00ED\u017E ne\u017E samotn\u00E1 chodba. V \u010D\u00E1sti, kter\u00E1 na sn\u00ED\u017Een\u00E9 \u00FArovni nen\u00ED, stoj\u00ED (mo\u017En\u00E1 trochu ne\u0161\u0165astn\u011B) b\u00EDl\u00E1 postel. Za n\u00ED se nach\u00E1z\u00ED okno s v\u00FDhledem na [Skokansk\u00E9 M\u016Fstky](mi_skokanske_mustky) a baz\u00E9n v [L\u00E1zn\u00EDch Panoraama](mi_lazne_panoraama)."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "U stopu chodby je mal\u00E9 ok\u00E9nko zakryt\u00E9 z [Kina](mi_kino_scala) trapdoorem."
+      }
+    ],
+    "image_id": 0,
+    "area": 39,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
     },
     "redirect": null,
     "tobeedited": false

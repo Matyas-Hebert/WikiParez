@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets/WikiParez.bundle.scp.css"
     },
     {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Pařez.png:Zone.Identifier",
+      "PackagePath": "staticwebassets/Images/Pařez.png:Zone.Identifier"
+    },
+    {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/beacon_parez1.png",
       "PackagePath": "staticwebassets/Images/beacon_parez1.png"
     },
@@ -31,6 +35,10 @@
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/di_schodov2.png",
       "PackagePath": "staticwebassets/Images/di_schodov2.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/map_elevator.png",
+      "PackagePath": "staticwebassets/Images/map_elevator.png"
     },
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_armory1.png",
@@ -279,6 +287,18 @@
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_kahan4.png",
       "PackagePath": "staticwebassets/Images/mi_kahan4.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_kino_scala1.png",
+      "PackagePath": "staticwebassets/Images/mi_kino_scala1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_kino_scala2.png",
+      "PackagePath": "staticwebassets/Images/mi_kino_scala2.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_kino_scala3.png",
+      "PackagePath": "staticwebassets/Images/mi_kino_scala3.png"
     },
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_klub1.png",
@@ -883,6 +903,18 @@
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_zahradni_domek3.png",
       "PackagePath": "staticwebassets/Images/mi_zahradni_domek3.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_zakini1.png",
+      "PackagePath": "staticwebassets/Images/mi_zakini1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_zakini2.png",
+      "PackagePath": "staticwebassets/Images/mi_zakini2.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_zakini3.png",
+      "PackagePath": "staticwebassets/Images/mi_zakini3.png"
     },
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_zmatek1.png",
