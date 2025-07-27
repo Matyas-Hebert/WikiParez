@@ -8393,7 +8393,8 @@
     "Bordering_rooms": [
       "mi_teraska",
       "mi_the_overpass",
-      "mi_horizont"
+      "mi_horizont",
+      "mi_spojka"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -8402,7 +8403,7 @@
       "Okrsek": "[Sklen\u00EDk](ok_sklenik)",
       "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
       "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
-      "\u00DA\u010Del": "termin\u00E1l [Mraven\u010D\u00ED Dr\u00E1hy](te_mravenci_draha)."
+      "\u00DA\u010Del": "terminus [Mraven\u010D\u00ED Dr\u00E1hy](te_mravenci_draha)."
     },
     "Sections": [
       {
@@ -8436,52 +8437,6 @@
       "z": 1129
     },
     "redirect": null,
-    "tobeedited": false
-  },
-  "mi_policka": {
-    "Title": "Poli\u010Dka",
-    "Type": "m\u00EDstnost",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [
-      "mi_the_overpass"
-    ],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "Poli\u010Dka",
-      "Blok": "[V\u00FDtahov\u00E1 \u0160achta](bl_vytahova_sachta)",
-      "Okrsek": "[Veve\u0159\u00ED](ok_veveri)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
-      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": "Jak vznikl n\u00E1zev?"
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": "N\u011Bco o interi\u00E9ru."
-      },
-      {
-        "Title": "Zaj\u00EDmavost",
-        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
-      }
-    ],
-    "image_id": 0,
-    "area": 25,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 331,
-      "y": 93,
-      "z": 1150
-    },
-    "redirect": "",
     "tobeedited": false
   },
   "mi_zamecke_schody": {
@@ -14092,7 +14047,8 @@
       "mi_mosta",
       "mi_spirala",
       "mi_letove_pole",
-      "mi_rubec"
+      "mi_rubec",
+      "mi_meda"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -14120,6 +14076,10 @@
       {
         "Title": "Zaj\u00EDmavost",
         "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "26/07/25: K m\u00EDstnosti vede nov\u00FD \u017Eelezni\u010Dn\u00ED/ledov\u00FD most [M\u00E9\u010Fa](mi_meda). Po n\u011Bm vede [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha)."
       }
     ],
     "image_id": 0,
@@ -16113,7 +16073,8 @@
       "mi_k_nabrezi",
       "mi_nekonecno",
       "mi_veranda",
-      "mi_slunicko"
+      "mi_slunicko",
+      "mi_veranda"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -16139,6 +16100,10 @@
       {
         "Title": "Zaj\u00EDmavost",
         "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "26/07/25: M\u00EDstnost\u00ED proch\u00E1z\u00ED [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha).\r\n26/07/25: M\u00EDstnost soused\u00ED s [Verandou](mi_veranda)."
       }
     ],
     "image_id": 0,
@@ -16206,7 +16171,8 @@
     "Images": [],
     "Image_titles": [],
     "Bordering_rooms": [
-      "mi_na_nabrezi"
+      "mi_na_nabrezi",
+      "mi_slunicko"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -16232,6 +16198,10 @@
       {
         "Title": "Zaj\u00EDmavost",
         "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "26/07/25: M\u00EDstnost\u00ED proch\u00E1z\u00ED [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha).\r\n26/07/25: M\u00EDstnost soused\u00ED se [Slun\u00ED\u010Dkem](mi_slunicko)."
       }
     ],
     "image_id": 0,
@@ -16396,7 +16366,9 @@
       "mi_rozbresk",
       "mi_na_nabrezi",
       "mi_dalnice",
-      "mi_atrium"
+      "mi_atrium",
+      "mi_ortofrater",
+      "mi_nekonecno"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -16425,7 +16397,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "04/07/25: Od m\u00EDstnosti odd\u011Blena m\u00EDstnost [Stopa](mi_stopa)."
+        "Content": "04/07/25: Od m\u00EDstnosti odd\u011Blena m\u00EDstnost [Stopa](mi_stopa).\r\n26/07/25: M\u00EDstnost soused\u00ED s [Ortofraterem](mi_ortofrater).\r\n26/07/25: M\u00EDstnost\u00ED proch\u00E1z\u00ED [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha)."
       }
     ],
     "image_id": 0,
@@ -16592,7 +16564,8 @@
     "Bordering_rooms": [
       "mi_namornik",
       "mi_arkada",
-      "mi_trigon"
+      "mi_trigon",
+      "mi_ortofrater"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -16618,10 +16591,14 @@
       {
         "Title": "Zaj\u00EDmavost",
         "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "26/07/25: M\u00EDstnost\u00ED proch\u00E1z\u00ED [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha)"
       }
     ],
     "image_id": 0,
-    "area": 227,
+    "area": 230,
     "Empty": true,
     "numberOfRooms": 0,
     "coordinates": {
@@ -16665,6 +16642,10 @@
       {
         "Title": "Zaj\u00EDmavost",
         "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "26/07/25: M\u00EDstnost\u00ED proch\u00E1z\u00ED [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha)"
       }
     ],
     "image_id": 0,
@@ -16737,7 +16718,9 @@
       "mi_maja",
       "mi_arkada",
       "mi_nexus",
-      "mi_trigon"
+      "mi_trigon",
+      "mi_delta",
+      "mi_slunicko"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -16766,7 +16749,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "22/06/25: [Hr\u00E1z](mi_hraz) vede a\u017E k Ortofrat\u00E9ru."
+        "Content": "22/06/25: [Hr\u00E1z](mi_hraz) vede a\u017E k Ortofrat\u00E9ru.\r\n26/07/25: M\u00EDstnost\u00ED proch\u00E1z\u00ED [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha)"
       }
     ],
     "image_id": 0,
@@ -19255,7 +19238,8 @@
       "mi_spojka",
       "mi_the_overpass",
       "mi_panget",
-      "mi_zlate_schodiste"
+      "mi_zlate_schodiste",
+      "mi_policka"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -19281,6 +19265,10 @@
       {
         "Title": "Zaj\u00EDmavost",
         "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "26/07/25: V\u00FDtahov\u00E1 \u0160achta soused\u00ED nov\u011B s [Poli\u010Dkou](mi_policka).\r\n26/07/25: M\u00EDstnost\u00ED proch\u00E1z\u00ED [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha).\r\n26/07/25: Do v\u00FDtah\u016F vedouc\u00EDch do 8., 10. a 11. podla\u017E\u00ED jde nastoupit i z 7. podla\u017E\u00ED V\u00FDtahov\u00E9 \u0160achty."
       }
     ],
     "image_id": 0,
@@ -19288,9 +19276,9 @@
     "Empty": true,
     "numberOfRooms": 0,
     "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
+      "x": 333,
+      "y": 66,
+      "z": 1147
     },
     "redirect": null,
     "tobeedited": false
@@ -19794,7 +19782,7 @@
       "Okrsek": "[Sklen\u00EDk](ok_sklenik)",
       "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
       "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
-      "\u00DA\u010Del": "termin\u00E1l [Mraven\u010D\u00ED Dr\u00E1hy](te_mravenci_draha)."
+      "\u00DA\u010Del": "terminus [Mraven\u010D\u00ED Dr\u00E1hy](te_mravenci_draha)."
     },
     "Sections": [
       {
@@ -20165,7 +20153,9 @@
       "mi_vytahova_sachta",
       "mi_labyrint",
       "mi_pracovna",
-      "mi_kroky"
+      "mi_kroky",
+      "mi_dolni_nadrazi",
+      "mi_troja"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -20191,10 +20181,14 @@
       {
         "Title": "Zaj\u00EDmavost",
         "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "26/07/25: M\u00EDstnost nov\u011B soused\u00ED s [Doln\u00EDm N\u00E1dra\u017E\u00EDm](mi_dolni_nadrazi) a [Tr\u00F3jou](mi_troja).\r\n26/07/25: M\u00EDstnost\u00ED proch\u00E1z\u00ED dv\u011B linky [Mraven\u010D\u00ED Dr\u00E1hy](te_mravenci_draha)"
       }
     ],
     "image_id": 0,
-    "area": 55,
+    "area": 50,
     "Empty": true,
     "numberOfRooms": 0,
     "coordinates": {
@@ -20369,7 +20363,8 @@
       "mi_buben",
       "mi_atomovka",
       "mi_bubenec",
-      "mi_teraska"
+      "mi_teraska",
+      "mi_spojka"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -20395,10 +20390,14 @@
       {
         "Title": "Zaj\u00EDmavost",
         "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "26/07/25: M\u00EDstnost\u00ED proch\u00E1z\u00ED [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha)"
       }
     ],
     "image_id": 0,
-    "area": 154,
+    "area": 152,
     "Empty": true,
     "numberOfRooms": 0,
     "coordinates": {
@@ -21508,6 +21507,10 @@
       {
         "Title": "Zaj\u00EDmavost",
         "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "26/07/25: M\u00EDstnost\u00ED proch\u00E1z\u00ED [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha)."
       }
     ],
     "image_id": 0,
@@ -21542,7 +21545,8 @@
       "mi_hotel_gi_floor_gi",
       "mi_pramice",
       "mi_le_pont",
-      "mi_dvojcata"
+      "mi_dvojcata",
+      "mi_na_nabrezi"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -21550,7 +21554,8 @@
       "Blok": "[Veranda](bl_veranda)",
       "Okrsek": "[Dub](ok_dub)",
       "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
-      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
+      "\u00DA\u010Del": "terminus [Mraven\u010D\u00ED Dr\u00E1hy](te_mravenci_draha)."
     },
     "Sections": [
       {
@@ -21571,7 +21576,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "12/07/25: Nov\u00FD vchod do [Dvoj\u010Dat](mi_dvojcata)."
+        "Content": "12/07/25: Nov\u00FD vchod do [Dvoj\u010Dat](mi_dvojcata).\r\n26/07/25: M\u00EDstnost\u00ED proch\u00E1z\u00ED [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha).\r\n26/07/25: M\u00EDstnost soused\u00ED s [Na N\u00E1b\u0159e\u017E\u00ED](mi_na_nabrezi)."
       }
     ],
     "image_id": 0,
@@ -35448,14 +35453,16 @@
     "Image_titles": [
       "ZMATEK",
       "\u0160IROK\u00C9 SCHODI\u0160T\u011A NA PAVLA\u010C",
-      "V\u00DDHLED NA MOST"
+      "V\u00DDHLED NA MOST",
+      "\u017DELEZNICE A ZA\u010C\u00C1TEK M\u00C9DI"
     ],
     "Bordering_rooms": [
       "mi_pavlac",
       "mi_koreny",
       "mi_venkovni_schodiste",
       "mi_mezipatro",
-      "mi_os"
+      "mi_os",
+      "mi_meda"
     ],
     "Alternate_names": [
       "Chaos"
@@ -35470,7 +35477,7 @@
     "Sections": [
       {
         "Title": "P\u0159ehled",
-        "Content": "Zmatek je relativn\u011B komplikovan\u00E1 m\u00EDstnost, kter\u00E1 nem\u00E1 nikde rovnou podlahu, nebo\u0165 kop\u00EDruje sklon stropu m\u00EDstnost\u00ED pod n\u00EDm (zejm\u00E9na [V\u00FDlohy](mi_vyloha). Vede z n\u00ED \u010Dtve\u0159ice dve\u0159\u00ED, z nich\u017E dv\u011B jsou napojeny na v\u00FDtah dol\u016F do [Ko\u0159en\u016F](mi_koreny) a nahoru do [Venkovn\u00EDho Schodi\u0161t\u011B](mi_venkovni_schodiste). Zbyl\u00E9 dv\u011B vedou do m\u00EDstnost\u00ED [Os](mi_os) a [Mezipatro](mi_mezipatro). Tak\u00E9 odsud vede branka na [Pavla\u010D](mi_pavlac), ale nejvyu\u017E\u00EDvan\u011Bj\u0161\u00EDm vchodem jsou schody z [Ko\u0159en\u016F](mi_koreny)."
+        "Content": "Zmatek je relativn\u011B komplikovan\u00E1 m\u00EDstnost, kter\u00E1 nem\u00E1 nikde rovnou podlahu, nebo\u0165 kop\u00EDruje sklon stropu m\u00EDstnost\u00ED pod n\u00EDm (zejm\u00E9na [V\u00FDlohy](mi_vyloha). Vede z n\u00ED \u010Dtve\u0159ice dve\u0159\u00ED, z nich\u017E dv\u011B jsou napojeny na v\u00FDtah dol\u016F do [Ko\u0159en\u016F](mi_koreny) a nahoru do [Venkovn\u00EDho Schodi\u0161t\u011B](mi_venkovni_schodiste). Zbyl\u00E9 dv\u011B vedou do m\u00EDstnost\u00ED [Os](mi_os) a [Mezipatro](mi_mezipatro). Tak\u00E9 odsud vede branka na [Pavla\u010D](mi_pavlac), ale nejvyu\u017E\u00EDvan\u011Bj\u0161\u00EDm vchodem jsou schody z [Ko\u0159en\u016F](mi_koreny). Pobl\u00ED\u017E stropu m\u00EDstnost\u00ED proch\u00E1z\u00ED tra\u0165 [Mraven\u010D\u00ED Dr\u00E1hy](te_mravenci_draha) a na z\u00E1padn\u00ED stran\u011B za\u010D\u00EDn\u00E1 ledov\u00E1 d\u00E1lnice [M\u00E9\u010Fa](mi_meda)."
       },
       {
         "Title": "N\u00E1zev",
@@ -35478,11 +35485,15 @@
       },
       {
         "Title": "Interi\u00E9r",
-        "Content": "P\u0159i vyu\u017Eit\u00ED vstupu z [Ko\u0159en\u016F](mi_koreny), kter\u00FD se nach\u00E1z\u00ED 2.5 bloku nad jejich podlahou, se dostanete do prvn\u00ED \u010D\u00E1sti m\u00EDstnosti. Tato \u010D\u00E1st m\u00E1 \u010Dtvercov\u00E1 p\u016Fdorys o rozm\u011Brech 5x5 blok\u016F a o n\u011Bco vy\u0161\u0161\u00ED strop. Na jeho dvou st\u011Bn\u00E1ch jde vid\u011Bt dv\u011B velk\u00E1 \u0161ikm\u00E1 okna, kter\u00E1 se setk\u00E1vaj\u00ED v rohu m\u00EDstnosti a do podlahy je vstav\u011Bna b\u00EDl\u00E1 postel. Z \u010D\u00E1sti vedou dva, jeden z nich p\u0159es polo\u017Een\u00FD crafting table, do druh\u00E9 \u010D\u00E1sti. Druh\u00E1 \u010D\u00E1st je jedin\u00E1 \u010D\u00E1st s relativn\u011B rovnou podlahou. Vedou odsud nejen v\u0161echny \u010Dty\u0159i dve\u0159e, ale za\u010D\u00EDnaj\u00ED zde v\u00FD\u0161e zm\u00EDn\u011Bn\u00E9 \u0161irok\u00E9 schody na [Pavla\u010D](mi_pavlac). Sou\u010D\u00E1st\u00ED m\u00EDstnosti je i \u00FAzk\u00E1 uli\u010Dka, kter\u00E1 propojuje [Zmatek](mi_zmatek) s [Os](mi_os). V n\u00ED se nach\u00E1z\u00ED okno s perfektn\u00EDm v\u00FDhledem na [Most](mi_most).\r\nZmatek je zna\u010Dn\u011B prostorn\u00FD s vysok\u00FDmi stropy a\u017E osm blok\u016F. V m\u00EDstnosti je nemal\u00FD po\u010Det schodi\u0161\u0165 a oken, kter\u00E9 ji dod\u00E1vaj\u00ED typick\u00FD vzhled. "
+        "Content": "P\u0159i vyu\u017Eit\u00ED vstupu z [Ko\u0159en\u016F](mi_koreny), kter\u00FD se nach\u00E1z\u00ED 2.5 bloku nad jejich podlahou, se dostanete do prvn\u00ED \u010D\u00E1sti m\u00EDstnosti. Tato \u010D\u00E1st m\u00E1 \u010Dtvercov\u00E1 p\u016Fdorys o rozm\u011Brech 5x5 blok\u016F a o n\u011Bco vy\u0161\u0161\u00ED strop. Na jeho dvou st\u011Bn\u00E1ch \u0161lo vid\u011Bt dv\u011B velk\u00E1 \u0161ikm\u00E1 okna, kter\u00E1 se setk\u00E1vaj\u00ED v rohu m\u00EDstnosti. P\u0159i stavb\u011B nov\u00E9 ledov\u00E9 d\u00E1lnice [M\u00E9\u010Fa](mi_meda) vedouc\u00ED ze Zmatku k [Dra\u010D\u00ED Rotund\u011B](mi_draci_rotunda) bylo jedno z oken bohu\u017Eel zni\u010Deno. Dnes je m\u00EDsto n\u011Bj voln\u00FD vchod k d\u00E1lnice. Do podlahy naproti je vstav\u011Bna b\u00EDl\u00E1 postel. Z \u010D\u00E1sti vedou dva, jeden z nich p\u0159es polo\u017Een\u00FD crafting table, do druh\u00E9 \u010D\u00E1sti. Druh\u00E1 \u010D\u00E1st je jedin\u00E1 \u010D\u00E1st s relativn\u011B rovnou podlahou. Vedou odsud nejen v\u0161echny \u010Dty\u0159i dve\u0159e, ale za\u010D\u00EDnaj\u00ED zde v\u00FD\u0161e zm\u00EDn\u011Bn\u00E9 \u0161irok\u00E9 schody na [Pavla\u010D](mi_pavlac). Sou\u010D\u00E1st\u00ED m\u00EDstnosti je i \u00FAzk\u00E1 uli\u010Dka, kter\u00E1 propojuje [Zmatek](mi_zmatek) s [Os](mi_os). V n\u00ED se nach\u00E1z\u00ED okno s perfektn\u00EDm v\u00FDhledem na [Most](mi_most).\r\nZmatek je zna\u010Dn\u011B prostorn\u00FD s vysok\u00FDmi stropy a\u017E osm blok\u016F. U ji\u017En\u00ED st\u011Bny, kde je strop nejvy\u0161\u0161\u00ED proch\u00E1z\u00ED koleje [Mraven\u010D\u00ED Dr\u00E1hy](te_mravenci_draha). K nim vede mal\u00FD \u017Eeb\u0159\u00EDk, kter\u00FD se nach\u00E1z\u00ED nalevo od dve\u0159\u00ED od v\u00FDtahu do [Ko\u0159en\u016F](mi_koreny). V m\u00EDstnosti je nemal\u00FD po\u010Det schodi\u0161\u0165 a oken, kter\u00E9 ji dod\u00E1vaj\u00ED typick\u00FD vzhled. "
       },
       {
         "Title": "Zaj\u00EDmavost",
         "Content": "D\u0159\u00EDve byl i zmatek v cedulk\u00E1ch, sm\u011Brovk\u00E1ch na m\u00EDstnost. N\u011Bkter\u00E9 m\u00EDstnost ozna\u010Dovali jako \u0022Zmatek\u0022 jin\u00E9 jako \u0022Chaos\u0022. Zmatek je tak jedinou m\u00EDstnost\u00ED, kter\u00E1 m\u011Bla v\u00EDce ne\u017E jeden n\u00E1zev."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "26/07/25: M\u00EDstnost\u00ED proch\u00E1z\u00ED [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha).\r\n26/07/25: V m\u00EDstnosti za\u010D\u00EDn\u00E1 ledov\u00E1 d\u00E1lnice [M\u00E9\u010Fa](mi_meda)."
       }
     ],
     "image_id": 0,
@@ -36081,6 +36092,108 @@
       "x": 0,
       "y": 0,
       "z": 0
+    },
+    "redirect": null,
+    "tobeedited": false
+  },
+  "mi_meda": {
+    "Title": "M\u00E9\u010Fa",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_draci_rotunda",
+      "mi_zmatek"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "M\u00E9\u010Fa",
+      "Blok": "na domy\u0161len\u00ED",
+      "Okrsek": "na domy\u0161len\u00ED",
+      "\u010Ctvr\u0165": "na domy\u0161len\u00ED",
+      "\u010C\u00E1st": "[Sibi\u0159](ca_sibir)",
+      "\u00DA\u010Del": "Ledov\u00E1 d\u00E1lnice, \u017Eeleznice"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 402,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "redirect": null,
+    "tobeedited": false
+  },
+  "mi_policka": {
+    "Title": "Poli\u010Dka",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "POLI\u010CKA",
+      "POLI\u010CKA"
+    ],
+    "Bordering_rooms": [
+      "mi_the_overpass",
+      "mi_vytahova_sachta"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Poli\u010Dka",
+      "Blok": "[V\u00FDtahov\u00E1 \u0160achta](bl_vytahova_sachta)",
+      "Okrsek": "[Veve\u0159\u00ED](ok_veveri)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "[Poli\u010Dka](mi_policka) je mal\u00E1 m\u00EDstnost p\u0159il\u00E9haj\u00EDc\u00ED k [V\u00FDtahov\u00E9 \u0160acht\u011B](mi_vytahova_sachta). P\u016Fvodn\u011B m\u011Bla jedin\u00FD vchod na [the Overpass](mi_the_overpass), ale s v\u00FDstavbou [Mraven\u010D\u00ED Dr\u00E1hy](te_mravenci_draha) do\u0161lo k propojen\u00ED i se samotnou [\u0160achtou](mi_vytahova_sachta). Dnes tak m\u00EDstnost slou\u017E\u00ED jako n\u00E1stupn\u00ED stanice \u017Eeleznice, ale tak\u00E9 se nach\u00E1z\u00ED pobl\u00ED\u017E n\u011Bkolika v\u00FDtah\u016Fm ve [V\u00FDtahov\u00E9 \u0160acht\u011B](mi_vytahova_sachta)."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "V m\u00EDstnosti je truhla polo\u017Eena na dvojici trapdooru, co\u017E p\u0159ipom\u00EDn\u00E1 poli\u010Dku. Odtud tedy n\u00E1zev m\u00EDstnosti.\r\nPoli\u010Dka byla dlouho bez n\u00E1zvu a tak byla pojmenov\u00E1na, a\u017E po dokon\u010Den\u00ED m\u00EDstnosti."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Interi\u00E9r [Poli\u010Dky](mi_policka) p\u016Fsob\u00ED vzdu\u0161n\u011B d\u00EDky relativn\u011B vysok\u00FDm strop\u016Fm sahaj\u00EDc\u00EDm p\u0159es \u010Dty\u0159i bloky. V\u0161echny st\u011Bny jsou prosv\u011Btlen\u00E9 \u00FAzk\u00FDmi a vysok\u00FDmi nebo naopak \u0161irok\u00FDmi a n\u00EDzk\u00FDmi okny. Vlevo od vstupu z [the Overpassu](mi_the_overpass) je ve st\u011Bn\u011B zasazen\u00FD crafting table. P\u0159ed n\u00EDm se nach\u00E1z\u00ED dva trapdoory, na kter\u00FDch stoj\u00ED truhla - odtud Poli\u010Dka. V prav\u00E9m rohu m\u00EDstnosti, hned vedle dve\u0159\u00ED do [V\u00FDtahov\u00E9 \u0160achty](mi_vytahova_sachta), je um\u00EDst\u011Bna \u017Elut\u00E1 postel. A\u010Dkoliv to ji\u017E le\u017E\u00ED mimo samotnou m\u00EDstnost, hned za t\u011Bmito dve\u0159mi lze nastoupit do jednoho ze t\u0159\u00ED v\u00FDtah\u016F [V\u00FDtahov\u00E9 \u0160achty](mi_vytahova_sachta)."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "V\u00FDstavba [Mraven\u010D\u00ED Dr\u00E1hy](te_mravenci_draha) vytvo\u0159ila z Poli\u010Dka vcelku u\u017Eite\u010Dnou m\u00EDstnost. Nejen\u017Ee je je\u0161t\u011B bl\u00ED\u017Ee v\u00FDtah\u016Fm [V\u00FDtahov\u00E9 \u0160achty](mi_vytahova_sachta), ale hned za dve\u0159mi proch\u00E1z\u00ED \u017Eeleznice, kter\u00E1 vede, a\u017E ke [Dra\u010D\u00ED Rotund\u011B](mi_draci_rotunda)."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "26/07/25: M\u00EDstnost nov\u011B soused\u00ED s [V\u00FDtahovou \u0160achtou](mi_vytahova_sachta)."
+      }
+    ],
+    "image_id": 0,
+    "area": 25,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 331,
+      "y": 93,
+      "z": 1150
     },
     "redirect": null,
     "tobeedited": false
