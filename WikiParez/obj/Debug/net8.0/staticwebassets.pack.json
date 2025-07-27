@@ -497,6 +497,14 @@
       "PackagePath": "staticwebassets/Images/mi_podlir2.png"
     },
     {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_policka1.png",
+      "PackagePath": "staticwebassets/Images/mi_policka1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_policka2.png",
+      "PackagePath": "staticwebassets/Images/mi_policka2.png"
+    },
+    {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_prechod1.png",
       "PackagePath": "staticwebassets/Images/mi_prechod1.png"
     },
@@ -887,6 +895,10 @@
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_zmatek3.png",
       "PackagePath": "staticwebassets/Images/mi_zmatek3.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_zmatek4.png",
+      "PackagePath": "staticwebassets/Images/mi_zmatek4.png"
     },
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/missing.jpg",

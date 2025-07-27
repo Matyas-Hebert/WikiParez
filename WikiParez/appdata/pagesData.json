@@ -3225,7 +3225,8 @@
       "mi_kazeta",
       "mi_dalnicni_pilir",
       "mi_hnizdo",
-      "mi_unikove_schodiste"
+      "mi_unikove_schodiste",
+      "mi_hvezda"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -11360,7 +11361,8 @@
       "mi_hlavni_koridor_ii",
       "mi_kazeta",
       "mi_dalnicni_pilir",
-      "mi_hnizdo"
+      "mi_hnizdo",
+      "mi_hvezda"
     ],
     "Alternate_names": [],
     "Metadata": {
