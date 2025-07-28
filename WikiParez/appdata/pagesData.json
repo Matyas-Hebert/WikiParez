@@ -18569,59 +18569,6 @@
     "redirect": null,
     "tobeedited": false
   },
-  "mi_telocvicna": {
-    "Title": "T\u011Blocvi\u010Dna",
-    "Type": "m\u00EDstnost",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [
-      "mi_orizona",
-      "mi_hraz",
-      "mi_bumblebee"
-    ],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "T\u011Blocvi\u010Dna",
-      "Blok": "[Orizona](bl_orizona)",
-      "Okrsek": "[Nord](ok_nord)",
-      "\u010Ctvr\u0165": "[Goias](ct_goias)",
-      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": "Jak vznikl n\u00E1zev?"
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": "N\u011Bco o interi\u00E9ru."
-      },
-      {
-        "Title": "Zaj\u00EDmavost",
-        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
-      },
-      {
-        "Title": "Aktuality",
-        "Content": "22/06/25: T\u011Blocvi\u010Dnou proch\u00E1z\u00ED [Hr\u00E1z](mi_hraz).\r\n07/07/25: Nov\u00FD vchod do m\u00EDstnosti [Bumblebee](mi_bumblebee)."
-      }
-    ],
-    "image_id": 0,
-    "area": 60,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "patternleCompatible": true,
-    "redirect": null,
-    "tobeedited": false
-  },
   "mi_hraz": {
     "Title": "Hr\u00E1z",
     "Type": "m\u00EDstnost",
@@ -37260,755 +37207,964 @@
     "redirect": null,
     "tobeedited": false
   },
-"bl_most": {
-            "Title": "Most",
-            "Type": "blok",
-            "Images": [],
-            "Image_titles": [],
-            "Bordering_rooms": [],
-            "Alternate_names": [],
-            "Metadata": {
-                "Název": "Most",
-                "Okrsek": "[Most](ok_most)",
-                "Čtvrť": "[Expresionismus](ct_expresionismus)",
-                "Část": "[Sibiř](ca_sibir)"
-            },
-            "Sections": [
-                {
-                    "Title": "Přehled",
-                    "Content": ""
-                },
-                {
-                    "Title": "Název",
-                    "Content": ""
-                },
-                {
-                    "Title": "Interiér",
-                    "Content": ""
-                },
-                {
-                    "Title": "Zajímavosti",
-                    "Content": ""
-                },
-                {
-                    "Title": "Aktuality",
-                    "Content": ""
-                }
-            ],
-            "image_id": 0,
-            "area": 0,
-            "Empty": true,
-            "numberOfRooms": 0,
-            "redirect": null,
-            "tobeedited": false
-            },
-"bl_vrba": {
-            "Title": "Vrba",
-            "Type": "blok",
-            "Images": [],
-            "Image_titles": [],
-            "Bordering_rooms": [],
-            "Alternate_names": [],
-            "Metadata": {
-                "Název": "Vrba",
-                "Okrsek": "[Mutěnické Rybníky](ok_mutenicke_rybniky)",
-                "Čtvrť": "[Goias](ct_goias)",
-                "Část": "[Nové Dilí](ca_nove_dili)"
-            },
-            "Sections": [
-                {
-                    "Title": "Přehled",
-                    "Content": ""
-                },
-                {
-                    "Title": "Název",
-                    "Content": ""
-                },
-                {
-                    "Title": "Interiér",
-                    "Content": ""
-                },
-                {
-                    "Title": "Zajímavosti",
-                    "Content": ""
-                },
-                {
-                    "Title": "Aktuality",
-                    "Content": ""
-                }
-            ],
-            "image_id": 0,
-            "area": 0,
-            "Empty": true,
-            "numberOfRooms": 0,
-            "redirect": null,
-            "tobeedited": false
-            },
-"bl_suchanek": {
-            "Title": "Suchánek",
-            "Type": "blok",
-            "Images": [],
-            "Image_titles": [],
-            "Bordering_rooms": [],
-            "Alternate_names": [],
-            "Metadata": {
-                "Název": "Suchánek",
-                "Okrsek": "[Mutěnické Rybníky](ok_mutenicke_rybniky)",
-                "Čtvrť": "[Goias](ct_goias)",
-                "Část": "[Nové Dilí](ca_nove_dili)"
-            },
-            "Sections": [
-                {
-                    "Title": "Přehled",
-                    "Content": ""
-                },
-                {
-                    "Title": "Název",
-                    "Content": ""
-                },
-                {
-                    "Title": "Interiér",
-                    "Content": ""
-                },
-                {
-                    "Title": "Zajímavosti",
-                    "Content": ""
-                },
-                {
-                    "Title": "Aktuality",
-                    "Content": ""
-                }
-            ],
-            "image_id": 0,
-            "area": 0,
-            "Empty": true,
-            "numberOfRooms": 0,
-            "redirect": null,
-            "tobeedited": false
-            },
-"bl_povodi": {
-            "Title": "Povodí",
-            "Type": "blok",
-            "Images": [],
-            "Image_titles": [],
-            "Bordering_rooms": [],
-            "Alternate_names": [],
-            "Metadata": {
-                "Název": "Povodí",
-                "Okrsek": "[Mutěnické Rybníky](ok_mutenicke_rybniky)",
-                "Čtvrť": "[Goias](ct_goias)",
-                "Část": "[Nové Dilí](ca_nove_dili)"
-            },
-            "Sections": [
-                {
-                    "Title": "Přehled",
-                    "Content": ""
-                },
-                {
-                    "Title": "Název",
-                    "Content": ""
-                },
-                {
-                    "Title": "Interiér",
-                    "Content": ""
-                },
-                {
-                    "Title": "Zajímavosti",
-                    "Content": ""
-                },
-                {
-                    "Title": "Aktuality",
-                    "Content": ""
-                }
-            ],
-            "image_id": 0,
-            "area": 0,
-            "Empty": true,
-            "numberOfRooms": 0,
-            "redirect": null,
-            "tobeedited": false
-            },
-"bl_silhanek": {
-            "Title": "Šilhánek",
-            "Type": "blok",
-            "Images": [],
-            "Image_titles": [],
-            "Bordering_rooms": [],
-            "Alternate_names": [],
-            "Metadata": {
-                "Název": "Šilhánek",
-                "Okrsek": "[Mutěnické Rybníky](ok_mutenicke_rybniky)",
-                "Čtvrť": "[Goias](ct_goias)",
-                "Část": "[Nové Dilí](ca_nove_dili)"
-            },
-            "Sections": [
-                {
-                    "Title": "Přehled",
-                    "Content": ""
-                },
-                {
-                    "Title": "Název",
-                    "Content": ""
-                },
-                {
-                    "Title": "Interiér",
-                    "Content": ""
-                },
-                {
-                    "Title": "Zajímavosti",
-                    "Content": ""
-                },
-                {
-                    "Title": "Aktuality",
-                    "Content": ""
-                }
-            ],
-            "image_id": 0,
-            "area": 0,
-            "Empty": true,
-            "numberOfRooms": 0,
-            "redirect": null,
-            "tobeedited": false
-            },
-"bl_tresen": {
-            "Title": "Třešeň",
-            "Type": "blok",
-            "Images": [],
-            "Image_titles": [],
-            "Bordering_rooms": [],
-            "Alternate_names": [],
-            "Metadata": {
-                "Název": "Třešeň",
-                "Okrsek": "[Most](ok_most)",
-                "Čtvrť": "[Expresionismus](ct_expresionismus)",
-                "Část": "[Sibiř](ca_sibir)"
-            },
-            "Sections": [
-                {
-                    "Title": "Přehled",
-                    "Content": ""
-                },
-                {
-                    "Title": "Název",
-                    "Content": ""
-                },
-                {
-                    "Title": "Interiér",
-                    "Content": ""
-                },
-                {
-                    "Title": "Zajímavosti",
-                    "Content": ""
-                },
-                {
-                    "Title": "Aktuality",
-                    "Content": ""
-                }
-            ],
-            "image_id": 0,
-            "area": 0,
-            "Empty": true,
-            "numberOfRooms": 0,
-            "redirect": null,
-            "tobeedited": false
-            },
-"bl_dvojcata": {
-            "Title": "Dvojčata",
-            "Type": "blok",
-            "Images": [],
-            "Image_titles": [],
-            "Bordering_rooms": [],
-            "Alternate_names": [],
-            "Metadata": {
-                "Název": "Dvojčata",
-                "Okrsek": "[Silo](ok_silo)",
-                "Čtvrť": "[Rybářská Kolonie](ct_rybarska_kolonie)",
-                "Část": "[Pařez](ca_parez)"
-            },
-            "Sections": [
-                {
-                    "Title": "Přehled",
-                    "Content": ""
-                },
-                {
-                    "Title": "Název",
-                    "Content": ""
-                },
-                {
-                    "Title": "Interiér",
-                    "Content": ""
-                },
-                {
-                    "Title": "Zajímavosti",
-                    "Content": ""
-                },
-                {
-                    "Title": "Aktuality",
-                    "Content": ""
-                }
-            ],
-            "image_id": 0,
-            "area": 0,
-            "Empty": true,
-            "numberOfRooms": 0,
-            "redirect": null,
-            "tobeedited": false
-            },
-"bl_hospoda": {
-            "Title": "Hospoda",
-            "Type": "blok",
-            "Images": [],
-            "Image_titles": [],
-            "Bordering_rooms": [],
-            "Alternate_names": [],
-            "Metadata": {
-                "Název": "Hospoda",
-                "Okrsek": "[Heršpice](ok_herspice)",
-                "Čtvrť": "[Kořen](ct_koren)",
-                "Část": "[Pařez](ca_parez)"
-            },
-            "Sections": [
-                {
-                    "Title": "Přehled",
-                    "Content": ""
-                },
-                {
-                    "Title": "Název",
-                    "Content": ""
-                },
-                {
-                    "Title": "Interiér",
-                    "Content": ""
-                },
-                {
-                    "Title": "Zajímavosti",
-                    "Content": ""
-                },
-                {
-                    "Title": "Aktuality",
-                    "Content": ""
-                }
-            ],
-            "image_id": 0,
-            "area": 0,
-            "Empty": true,
-            "numberOfRooms": 0,
-            "redirect": null,
-            "tobeedited": false
-            },
-"bl_horizont": {
-            "Title": "Horizont",
-            "Type": "blok",
-            "Images": [],
-            "Image_titles": [],
-            "Bordering_rooms": [],
-            "Alternate_names": [],
-            "Metadata": {
-                "Název": "Horizont",
-                "Okrsek": "[Heršpice](ok_herspice)",
-                "Čtvrť": "[Kořen](ct_koren)",
-                "Část": "[Pařez](ca_parez)"
-            },
-            "Sections": [
-                {
-                    "Title": "Přehled",
-                    "Content": ""
-                },
-                {
-                    "Title": "Název",
-                    "Content": ""
-                },
-                {
-                    "Title": "Interiér",
-                    "Content": ""
-                },
-                {
-                    "Title": "Zajímavosti",
-                    "Content": ""
-                },
-                {
-                    "Title": "Aktuality",
-                    "Content": ""
-                }
-            ],
-            "image_id": 0,
-            "area": 0,
-            "Empty": true,
-            "numberOfRooms": 0,
-            "redirect": null,
-            "tobeedited": false
-            },
-"bl_hrbaty_hrozen": {
-            "Title": "Hrbatý Hrozen",
-            "Type": "blok",
-            "Images": [],
-            "Image_titles": [],
-            "Bordering_rooms": [],
-            "Alternate_names": [],
-            "Metadata": {
-                "Název": "Hrbatý Hrozen",
-                "Okrsek": "[Heršpice](ok_herspice)",
-                "Čtvrť": "[Kořen](ct_koren)",
-                "Část": "[Pařez](ca_parez)"
-            },
-            "Sections": [
-                {
-                    "Title": "Přehled",
-                    "Content": ""
-                },
-                {
-                    "Title": "Název",
-                    "Content": ""
-                },
-                {
-                    "Title": "Interiér",
-                    "Content": ""
-                },
-                {
-                    "Title": "Zajímavosti",
-                    "Content": ""
-                },
-                {
-                    "Title": "Aktuality",
-                    "Content": ""
-                }
-            ],
-            "image_id": 0,
-            "area": 0,
-            "Empty": true,
-            "numberOfRooms": 0,
-            "redirect": null,
-            "tobeedited": false
-            },
-"bl_pohrebiste": {
-            "Title": "Pohřebiště",
-            "Type": "blok",
-            "Images": [],
-            "Image_titles": [],
-            "Bordering_rooms": [],
-            "Alternate_names": [],
-            "Metadata": {
-                "Název": "Pohřebiště",
-                "Okrsek": "[Heršpice](ok_herspice)",
-                "Čtvrť": "[Kořen](ct_koren)",
-                "Část": "[Pařez](ca_parez)"
-            },
-            "Sections": [
-                {
-                    "Title": "Přehled",
-                    "Content": ""
-                },
-                {
-                    "Title": "Název",
-                    "Content": ""
-                },
-                {
-                    "Title": "Interiér",
-                    "Content": ""
-                },
-                {
-                    "Title": "Zajímavosti",
-                    "Content": ""
-                },
-                {
-                    "Title": "Aktuality",
-                    "Content": ""
-                }
-            ],
-            "image_id": 0,
-            "area": 0,
-            "Empty": true,
-            "numberOfRooms": 0,
-            "redirect": null,
-            "tobeedited": false
-            },
-"bl_hudba": {
-            "Title": "Hudba",
-            "Type": "blok",
-            "Images": [],
-            "Image_titles": [],
-            "Bordering_rooms": [],
-            "Alternate_names": [],
-            "Metadata": {
-                "Název": "Hudba",
-                "Okrsek": "[Heršpice](ok_herspice)",
-                "Čtvrť": "[Kořen](ct_koren)",
-                "Část": "[Pařez](ca_parez)"
-            },
-            "Sections": [
-                {
-                    "Title": "Přehled",
-                    "Content": ""
-                },
-                {
-                    "Title": "Název",
-                    "Content": ""
-                },
-                {
-                    "Title": "Interiér",
-                    "Content": ""
-                },
-                {
-                    "Title": "Zajímavosti",
-                    "Content": ""
-                },
-                {
-                    "Title": "Aktuality",
-                    "Content": ""
-                }
-            ],
-            "image_id": 0,
-            "area": 0,
-            "Empty": true,
-            "numberOfRooms": 0,
-            "redirect": null,
-            "tobeedited": false
-            },
-"bl_meda": {
-            "Title": "Méďa",
-            "Type": "blok",
-            "Images": [],
-            "Image_titles": [],
-            "Bordering_rooms": [],
-            "Alternate_names": [],
-            "Metadata": {
-                "Název": "Méďa",
-                "Okrsek": "[Méďa](ok_meda)",
-                "Čtvrť": "[Lom](ct_lom)",
-                "Část": "[Sibiř](ca_sibir)"
-            },
-            "Sections": [
-                {
-                    "Title": "Přehled",
-                    "Content": ""
-                },
-                {
-                    "Title": "Název",
-                    "Content": ""
-                },
-                {
-                    "Title": "Interiér",
-                    "Content": ""
-                },
-                {
-                    "Title": "Zajímavosti",
-                    "Content": ""
-                },
-                {
-                    "Title": "Aktuality",
-                    "Content": ""
-                }
-            ],
-            "image_id": 0,
-            "area": 0,
-            "Empty": true,
-            "numberOfRooms": 0,
-            "redirect": null,
-            "tobeedited": false
-            },
-"ok_loosova_vila": {
-            "Title": "Loosova Vila",
-            "Type": "okrsek",
-            "Images": [],
-            "Image_titles": [],
-            "Bordering_rooms": [],
-            "Alternate_names": [],
-            "Metadata": {
-                "Název": "Loosova Vila",
-                "Čtvrť": "[Trója](ct_troja)",
-                "Část": "[Trója](ca_troja)"
-            },
-            "Sections": [
-                {
-                    "Title": "Přehled",
-                    "Content": ""
-                },
-                {
-                    "Title": "Název",
-                    "Content": ""
-                },
-                {
-                    "Title": "Interiér",
-                    "Content": ""
-                },
-                {
-                    "Title": "Zajímavosti",
-                    "Content": ""
-                },
-                {
-                    "Title": "Aktuality",
-                    "Content": ""
-                }
-            ],
-            "image_id": 0,
-            "area": 0,
-            "Empty": true,
-            "numberOfRooms": 0,
-            "redirect": null,
-            "tobeedited": false
-            },
-"ok_most": {
-            "Title": "Most",
-            "Type": "okrsek",
-            "Images": [],
-            "Image_titles": [],
-            "Bordering_rooms": [],
-            "Alternate_names": [],
-            "Metadata": {
-                "Název": "Most",
-                "Čtvrť": "[Expresionismus](ct_expresionismus)",
-                "Část": "[Sibiř](ca_sibir)"
-            },
-            "Sections": [
-                {
-                    "Title": "Přehled",
-                    "Content": ""
-                },
-                {
-                    "Title": "Název",
-                    "Content": ""
-                },
-                {
-                    "Title": "Interiér",
-                    "Content": ""
-                },
-                {
-                    "Title": "Zajímavosti",
-                    "Content": ""
-                },
-                {
-                    "Title": "Aktuality",
-                    "Content": ""
-                }
-            ],
-            "image_id": 0,
-            "area": 0,
-            "Empty": true,
-            "numberOfRooms": 0,
-            "redirect": null,
-            "tobeedited": false
-            },
-"ok_mutenicke_rybniky": {
-            "Title": "Mutěnické Rybníky",
-            "Type": "okrsek",
-            "Images": [],
-            "Image_titles": [],
-            "Bordering_rooms": [],
-            "Alternate_names": [],
-            "Metadata": {
-                "Název": "Mutěnické Rybníky",
-                "Čtvrť": "[Goias](ct_goias)",
-                "Část": "[Nové Dilí](ca_nove_dili)"
-            },
-            "Sections": [
-                {
-                    "Title": "Přehled",
-                    "Content": ""
-                },
-                {
-                    "Title": "Název",
-                    "Content": ""
-                },
-                {
-                    "Title": "Interiér",
-                    "Content": ""
-                },
-                {
-                    "Title": "Zajímavosti",
-                    "Content": ""
-                },
-                {
-                    "Title": "Aktuality",
-                    "Content": ""
-                }
-            ],
-            "image_id": 0,
-            "area": 0,
-            "Empty": true,
-            "numberOfRooms": 0,
-            "redirect": null,
-            "tobeedited": false
-            },
-"ok_herspice": {
-            "Title": "Heršpice",
-            "Type": "okrsek",
-            "Images": [],
-            "Image_titles": [],
-            "Bordering_rooms": [],
-            "Alternate_names": [],
-            "Metadata": {
-                "Název": "Heršpice",
-                "Čtvrť": "[Kořen](ct_koren)",
-                "Část": "[Pařez](ca_parez)"
-            },
-            "Sections": [
-                {
-                    "Title": "Přehled",
-                    "Content": ""
-                },
-                {
-                    "Title": "Název",
-                    "Content": ""
-                },
-                {
-                    "Title": "Interiér",
-                    "Content": ""
-                },
-                {
-                    "Title": "Zajímavosti",
-                    "Content": ""
-                },
-                {
-                    "Title": "Aktuality",
-                    "Content": ""
-                }
-            ],
-            "image_id": 0,
-            "area": 0,
-            "Empty": true,
-            "numberOfRooms": 0,
-            "redirect": null,
-            "tobeedited": false
-            },
-"ok_meda": {
-            "Title": "Méďa",
-            "Type": "okrsek",
-            "Images": [],
-            "Image_titles": [],
-            "Bordering_rooms": [],
-            "Alternate_names": [],
-            "Metadata": {
-                "Název": "Méďa",
-                "Čtvrť": "[Lom](ct_lom)",
-                "Část": "[Sibiř](ca_sibir)"
-            },
-            "Sections": [
-                {
-                    "Title": "Přehled",
-                    "Content": ""
-                },
-                {
-                    "Title": "Název",
-                    "Content": ""
-                },
-                {
-                    "Title": "Interiér",
-                    "Content": ""
-                },
-                {
-                    "Title": "Zajímavosti",
-                    "Content": ""
-                },
-                {
-                    "Title": "Aktuality",
-                    "Content": ""
-                }
-            ],
-            "image_id": 0,
-            "area": 0,
-            "Empty": true,
-            "numberOfRooms": 0,
-            "redirect": null,
-            "tobeedited": false
-            }
+  "bl_most": {
+    "Title": "Most",
+    "Type": "blok",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Most",
+      "Okrsek": "[Most](ok_most)",
+      "\u010Ctvr\u0165": "[Expresionismus](ct_expresionismus)",
+      "\u010C\u00E1st": "[Sibi\u0159](ca_sibir)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": ""
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": ""
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": ""
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": ""
+      },
+      {
+        "Title": "Aktuality",
+        "Content": ""
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false
+  },
+  "bl_vrba": {
+    "Title": "Vrba",
+    "Type": "blok",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Vrba",
+      "Okrsek": "[Mut\u011Bnick\u00E9 Rybn\u00EDky](ok_mutenicke_rybniky)",
+      "\u010Ctvr\u0165": "[Goias](ct_goias)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": ""
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": ""
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": ""
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": ""
+      },
+      {
+        "Title": "Aktuality",
+        "Content": ""
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false
+  },
+  "bl_suchanek": {
+    "Title": "Such\u00E1nek",
+    "Type": "blok",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Such\u00E1nek",
+      "Okrsek": "[Mut\u011Bnick\u00E9 Rybn\u00EDky](ok_mutenicke_rybniky)",
+      "\u010Ctvr\u0165": "[Goias](ct_goias)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": ""
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": ""
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": ""
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": ""
+      },
+      {
+        "Title": "Aktuality",
+        "Content": ""
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false
+  },
+  "bl_povodi": {
+    "Title": "Povod\u00ED",
+    "Type": "blok",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Povod\u00ED",
+      "Okrsek": "[Mut\u011Bnick\u00E9 Rybn\u00EDky](ok_mutenicke_rybniky)",
+      "\u010Ctvr\u0165": "[Goias](ct_goias)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": ""
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": ""
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": ""
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": ""
+      },
+      {
+        "Title": "Aktuality",
+        "Content": ""
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false
+  },
+  "bl_silhanek": {
+    "Title": "\u0160ilh\u00E1nek",
+    "Type": "blok",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "\u0160ilh\u00E1nek",
+      "Okrsek": "[Mut\u011Bnick\u00E9 Rybn\u00EDky](ok_mutenicke_rybniky)",
+      "\u010Ctvr\u0165": "[Goias](ct_goias)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": ""
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": ""
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": ""
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": ""
+      },
+      {
+        "Title": "Aktuality",
+        "Content": ""
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false
+  },
+  "bl_tresen": {
+    "Title": "T\u0159e\u0161e\u0148",
+    "Type": "blok",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "T\u0159e\u0161e\u0148",
+      "Okrsek": "[Most](ok_most)",
+      "\u010Ctvr\u0165": "[Expresionismus](ct_expresionismus)",
+      "\u010C\u00E1st": "[Sibi\u0159](ca_sibir)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": ""
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": ""
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": ""
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": ""
+      },
+      {
+        "Title": "Aktuality",
+        "Content": ""
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false
+  },
+  "bl_dvojcata": {
+    "Title": "Dvoj\u010Data",
+    "Type": "blok",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Dvoj\u010Data",
+      "Okrsek": "[Silo](ok_silo)",
+      "\u010Ctvr\u0165": "[Ryb\u00E1\u0159sk\u00E1 Kolonie](ct_rybarska_kolonie)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": ""
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": ""
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": ""
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": ""
+      },
+      {
+        "Title": "Aktuality",
+        "Content": ""
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false
+  },
+  "bl_hospoda": {
+    "Title": "Hospoda",
+    "Type": "blok",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Hospoda",
+      "Okrsek": "[Her\u0161pice](ok_herspice)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": ""
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": ""
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": ""
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": ""
+      },
+      {
+        "Title": "Aktuality",
+        "Content": ""
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false
+  },
+  "bl_horizont": {
+    "Title": "Horizont",
+    "Type": "blok",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Horizont",
+      "Okrsek": "[Her\u0161pice](ok_herspice)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": ""
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": ""
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": ""
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": ""
+      },
+      {
+        "Title": "Aktuality",
+        "Content": ""
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false
+  },
+  "bl_hrbaty_hrozen": {
+    "Title": "Hrbat\u00FD Hrozen",
+    "Type": "blok",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Hrbat\u00FD Hrozen",
+      "Okrsek": "[Her\u0161pice](ok_herspice)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": ""
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": ""
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": ""
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": ""
+      },
+      {
+        "Title": "Aktuality",
+        "Content": ""
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false
+  },
+  "bl_pohrebiste": {
+    "Title": "Poh\u0159ebi\u0161t\u011B",
+    "Type": "blok",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Poh\u0159ebi\u0161t\u011B",
+      "Okrsek": "[Her\u0161pice](ok_herspice)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": ""
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": ""
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": ""
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": ""
+      },
+      {
+        "Title": "Aktuality",
+        "Content": ""
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false
+  },
+  "bl_hudba": {
+    "Title": "Hudba",
+    "Type": "blok",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Hudba",
+      "Okrsek": "[Her\u0161pice](ok_herspice)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": ""
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": ""
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": ""
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": ""
+      },
+      {
+        "Title": "Aktuality",
+        "Content": ""
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false
+  },
+  "bl_meda": {
+    "Title": "M\u00E9\u010Fa",
+    "Type": "blok",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "M\u00E9\u010Fa",
+      "Okrsek": "[M\u00E9\u010Fa](ok_meda)",
+      "\u010Ctvr\u0165": "[Lom](ct_lom)",
+      "\u010C\u00E1st": "[Sibi\u0159](ca_sibir)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": ""
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": ""
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": ""
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": ""
+      },
+      {
+        "Title": "Aktuality",
+        "Content": ""
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false
+  },
+  "ok_loosova_vila": {
+    "Title": "Loosova Vila",
+    "Type": "okrsek",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Loosova Vila",
+      "\u010Ctvr\u0165": "[Tr\u00F3ja](ct_troja)",
+      "\u010C\u00E1st": "[Tr\u00F3ja](ca_troja)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": ""
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": ""
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": ""
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": ""
+      },
+      {
+        "Title": "Aktuality",
+        "Content": ""
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false
+  },
+  "ok_most": {
+    "Title": "Most",
+    "Type": "okrsek",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Most",
+      "\u010Ctvr\u0165": "[Expresionismus](ct_expresionismus)",
+      "\u010C\u00E1st": "[Sibi\u0159](ca_sibir)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": ""
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": ""
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": ""
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": ""
+      },
+      {
+        "Title": "Aktuality",
+        "Content": ""
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false
+  },
+  "ok_mutenicke_rybniky": {
+    "Title": "Mut\u011Bnick\u00E9 Rybn\u00EDky",
+    "Type": "okrsek",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Mut\u011Bnick\u00E9 Rybn\u00EDky",
+      "\u010Ctvr\u0165": "[Goias](ct_goias)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": ""
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": ""
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": ""
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": ""
+      },
+      {
+        "Title": "Aktuality",
+        "Content": ""
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false
+  },
+  "ok_herspice": {
+    "Title": "Her\u0161pice",
+    "Type": "okrsek",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Her\u0161pice",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": ""
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": ""
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": ""
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": ""
+      },
+      {
+        "Title": "Aktuality",
+        "Content": ""
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false
+  },
+  "ok_meda": {
+    "Title": "M\u00E9\u010Fa",
+    "Type": "okrsek",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "M\u00E9\u010Fa",
+      "\u010Ctvr\u0165": "[Lom](ct_lom)",
+      "\u010C\u00E1st": "[Sibi\u0159](ca_sibir)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": ""
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": ""
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": ""
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": ""
+      },
+      {
+        "Title": "Aktuality",
+        "Content": ""
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false
+  },
+  "te_miss_parez": {
+    "Title": "Miss Pa\u0159ez",
+    "Type": "ud\u00E1lost",
+    "Images": [],
+    "Image_titles": [
+      "CERTIFIK\u00C1T KRY\u0160TOFA BAUDY\u0160E"
+    ],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Miss Pa\u0159ez",
+      "Zalo\u017Een\u00ED": "2024"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Miss Pa\u0159ez je ka\u017Edoro\u010Dn\u00ED sout\u011B\u017E o nejkr\u00E1sn\u011Bj\u0161\u00ED entitu v prostoru [Pa\u0159ezu](ca_parez), ve kter\u00E9 se hodnot\u00ED nejen vzhled, ale i celkov\u00FD dojem, \u0161arm a dopad na okoln\u00ED estetiku. Sout\u011B\u017E prob\u00EDh\u00E1 p\u0159\u00EDmo ve ve\u0159ejn\u00E9m prostoru a m\u016F\u017Ee se do n\u00ED zapsat jak\u00E1koliv entita \u2014 \u017Eiv\u00E1, polo\u017Eiv\u00E1 i zcela ne\u017Eiv\u00E1 \u2014 kter\u00E1 se n\u011Bjak\u00FDm zp\u016Fsobem pod\u00EDl\u00ED na charakteru Pa\u0159ezu."
+      },
+      {
+        "Title": "1. ro\u010Dn\u00EDk",
+        "Content": "1. ro\u010Dn\u00EDku sout\u011B\u017Ee Miss Pa\u0159ez se z\u00FA\u010Dastnily jen dv\u011B entity: [Kry\u0161tof Baudy\u0161](os_krystof_baudys) a [Gideon](os_gideon). [Gideon](os_gideon) byl z\u00E1rove\u0148 i porotou. Po dlouh\u00E9m p\u0159em\u00FD\u0161len\u00ED, vnit\u0159n\u00EDm dialogu a dvou kolech hlasov\u00E1n\u00ED (z nich\u017E jedno bylo tajn\u00E9), se rozhodl, \u017Ee v\u00EDt\u011Bzem se stane [Kry\u0161tof Baudy\u0161](os_krystof_baudys). S\u00E1m sob\u011B p\u0159i\u0159kl d\u016Fstojn\u00E9 druh\u00E9 m\u00EDsto, kter\u00E9 \u2013 jak pozd\u011Bji uvedl \u2013 \u201Emu bohat\u011B sta\u010D\u00ED\u201C. "
+      },
+      {
+        "Title": "2. ro\u010Dn\u00EDk",
+        "Content": "2. ro\u010Dn\u00EDk sout\u011B\u017Ee Miss Pa\u0159ez se bude konat v srpnu roku 2025. O\u010Dek\u00E1v\u00E1 se v\u00FDrazn\u00E9 nav\u00FD\u0161en\u00ED po\u010Dtu \u00FA\u010Dastn\u00EDk\u016F \u2013 podle p\u0159edb\u011B\u017En\u00FDch odhad\u016F by se m\u011Blo sout\u011B\u017Ee z\u00FA\u010Dastnit a\u017E \u0161est entit. [Gideon](os_gideon) ozn\u00E1mil, \u017Ee se tentokr\u00E1t op\u011Bt z\u00FA\u010Dastn\u00ED jako sout\u011B\u017E\u00EDc\u00ED, a roli poroty p\u0159ed\u00E1 fanou\u0161k\u016Fm, kte\u0159\u00ED budou m\u00EDt mo\u017Enost hlasovat online.  "
+      },
+      {
+        "Title": "Budoucnost",
+        "Content": "[Gideon](os_gideon) ji\u017E st\u00E1rne a pravd\u011Bpodobn\u011B nebude schopen je\u0161t\u011B dlouho zast\u00E1vat roli spr\u00E1vce sout\u011B\u017Ee. Proto aktivn\u011B hled\u00E1 vhodn\u00E9ho n\u00E1stupce, kter\u00FD by v budouc\u00EDch ro\u010Dn\u00EDc\u00EDch p\u0159evzal organizaci Miss Pa\u0159ez.  \r\nPodle zdroj\u016F z bl\u00EDzk\u00E9ho okol\u00ED zva\u017Euje n\u011Bkolik kandid\u00E1t\u016F, p\u0159i\u010Dem\u017E kl\u00ED\u010Dov\u00FDmi krit\u00E9rii jsou estetick\u00E9 c\u00EDt\u011Bn\u00ED, nadhled a schopnost zvl\u00E1dnout tlak ve\u0159ejnosti. Ve vzduchu vis\u00ED ot\u00E1zka \u2013 kdo ponese korunku organizace d\u00E1l?"
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false
+  },
+  "mi_telocvicna": {
+    "Title": "T\u011Blocvi\u010Dna",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "T\u011ALOCVI\u010CNA",
+      "SCHODI\u0160T\u011A",
+      "HR\u00C1Z"
+    ],
+    "Bordering_rooms": [
+      "mi_orizona",
+      "mi_hraz",
+      "mi_bumblebee"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "T\u011Blocvi\u010Dna",
+      "Blok": "[Orizona](bl_orizona)",
+      "Okrsek": "[Nord](ok_nord)",
+      "\u010Ctvr\u0165": "[Goias](ct_goias)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "T\u011Blocvi\u010Dna je m\u00EDstnost v bloku [Orizona](bl_orizona) soused\u00EDc\u00ED jen se t\u0159emi jin\u00FDmi m\u00EDstnostmi. Hlavn\u00EDm vchodem je schodi\u0161t\u011Bm vedouc\u00ED z m\u00EDstnost\u00ED [Orizona](mi_orizona) a [Bumblebee](mi_bumblebee). Schodi\u0161t\u011B vede do hlavn\u00ED \u010D\u00E1sti m\u00EDstnosti, kterou proch\u00E1z\u00ED ledov\u00E1 d\u00E1lnice [Hr\u00E1z](mi_hraz). Do m\u00EDstnosti se d\u00E1 tak\u00E9 dostat p\u0159es plot na balk\u00F3n\u011B v [Povod\u00ED](mi_povodi)."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Vysok\u00E9 stropy m\u00EDstnosti p\u0159ipom\u00EDnaj\u00ED prostor ur\u010Den\u00FD k sportovn\u00EDm v\u00FDkon\u016Fm."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Interi\u00E9r m\u00EDstnosti [T\u011Blocvi\u010Dna](mi_telocvicna) je tvo\u0159en p\u0159\u00EDchodov\u00FDm schodi\u0161t\u011Bm a rozs\u00E1hlou halou. Samotn\u00E9 schodi\u0161t\u011B je dva bloky \u0161irok\u00E9 a p\u0159ekon\u00E1v\u00E1 v\u00FD\u0161kov\u00FD rozd\u00EDl 4.5 bloku. U n\u011Bj se nach\u00E1z\u00ED mal\u00FD v\u00FDklenek se sklen\u011Bnou podlahou, pod n\u00ED\u017E lze spat\u0159it [Formosu](mi_formosa).\r\nHala je otev\u0159en\u00FD prostor s v\u00FDrazn\u011B vysok\u00FDm stropem p\u0159esahuj\u00EDc\u00EDm deset blok\u016F. P\u016Fdorys m\u00EDstnosti je komplikovan\u00FD a nepravideln\u00FD. Na jedn\u00E9 st\u011Bn\u011B se v horn\u00ED \u010D\u00E1sti nach\u00E1z\u00ED jak\u00FDsi opa\u010Dn\u00FD v\u00FDklenek \u2013 tedy jakoby \u201Evklenek\u201C sm\u011Brem ven, tvo\u0159\u00EDc\u00ED zaj\u00EDmav\u00FD architektonick\u00FD detail. P\u0159i stavb\u011B m\u011Bl p\u0159ipom\u00EDnat trubky a d\u00E1t m\u00EDstnosti industri\u00E1ln\u00ED vzhled. Druhou st\u011Bnou proch\u00E1z\u00ED [Hr\u00E1z](mi_hraz), k n\u00ED\u017E vedou schody. Nad samotnou d\u00E1lnici se py\u0161n\u00ED velk\u00E9 okno o rozm\u011Brech 6x7 blok\u016F.\r\nSt\u011Bna protilehl\u00E1 [Hr\u00E1zi](mi_hraz) je sd\u00EDlena s [\u017Deleznou Lhotou](ct_zelezna_lhota). Za \u0159adou oken je zde mo\u017En\u00E9 zahl\u00E9dnout nejen sousedn\u00ED m\u00EDstnosti, ale tak\u00E9 v\u00FDtah. Trapdoory na t\u00E9to st\u011Bn\u011B zakr\u00FDvaj\u00ED mal\u00FD v\u00FDklenek s postel\u00ED v m\u00EDstnosti [Ironie](mi_ironie).\r\nV rohu m\u00EDstnosti se na \u010Dty\u0159blokov\u00E9m podstavci nach\u00E1z\u00ED balkon vedouc\u00ED do m\u00EDstnosti [Povod\u00ED](mi_povodi). Celek p\u016Fsob\u00ED velmi specifick\u00FDm dojmem \u2014 industri\u00E1ln\u00EDm, ale z\u00E1rove\u0148 \u010Dlenit\u00FDm a prostorov\u011B bohat\u00FDm. V cel\u00E9 [T\u011Blocvi\u010Dn\u011B](mi_telocvicna) je jen jeden crafting table a \u017E\u00E1dn\u00E1 postel."
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": "O n\u00E1zvu m\u00EDstnosti se dlouhou dobu specifikovalo. P\u016Fvodn\u00ED my\u0161lenka byla, \u017Ee se bude jednat o m\u00EDstnost industri\u00E1ln\u00EDho typu.\r\nDo doby ne\u017E byla postavena [Hr\u00E1z](mi_hraz) vedl do T\u011Blocvi\u010Dny jedin\u00FD vchod."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "22/06/25: T\u011Blocvi\u010Dnou proch\u00E1z\u00ED [Hr\u00E1z](mi_hraz).\r\n07/07/25: Nov\u00FD vchod do m\u00EDstnosti [Bumblebee](mi_bumblebee)."
+      }
+    ],
+    "image_id": 0,
+    "area": 60,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 352,
+      "y": 76,
+      "z": 1063
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false
+  }
 }

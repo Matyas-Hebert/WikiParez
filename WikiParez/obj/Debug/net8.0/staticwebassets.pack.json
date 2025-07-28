@@ -745,6 +745,18 @@
       "PackagePath": "staticwebassets/Images/mi_tajna_mistnost2.png"
     },
     {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_telocvicna1.png",
+      "PackagePath": "staticwebassets/Images/mi_telocvicna1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_telocvicna2.png",
+      "PackagePath": "staticwebassets/Images/mi_telocvicna2.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_telocvicna3.png",
+      "PackagePath": "staticwebassets/Images/mi_telocvicna3.png"
+    },
+    {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_the_airship1.png",
       "PackagePath": "staticwebassets/Images/mi_the_airship1.png"
     },
@@ -963,6 +975,10 @@
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/te_bordel_chestka1.png",
       "PackagePath": "staticwebassets/Images/te_bordel_chestka1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/te_miss_parez1.png",
+      "PackagePath": "staticwebassets/Images/te_miss_parez1.png"
     },
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/te_preusporadani_troji1.png",
