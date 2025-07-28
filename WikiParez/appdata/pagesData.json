@@ -12487,63 +12487,6 @@
     "redirect": null,
     "tobeedited": false
   },
-  "mi_zelezna_lhota": {
-    "Title": "\u017Delezn\u00E1 Lhota",
-    "Type": "m\u00EDstnost",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [
-      "mi_velehumry",
-      "mi_dalnice",
-      "mi_goiania",
-      "mi_dalnicni_pilir",
-      "mi_ironie",
-      "mi_josef"
-    ],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "\u017Delezn\u00E1 Lhota",
-      "Blok": "[\u017Delezn\u00E1 Lhota](bl_zelezna_lhota)",
-      "Okrsek": "[\u017Delezn\u00E1 Lhota](ok_zelezna_lhota)",
-      "\u010Ctvr\u0165": "[\u017Delezn\u00E1 Lhota](ct_zelezna_lhota)",
-      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)",
-      "\u00DA\u010Del": "Farma na \u017Eelezo, automatick\u00FD kompost"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": "Jak vznikl n\u00E1zev?"
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": "N\u011Bco o interi\u00E9ru."
-      },
-      {
-        "Title": "Zaj\u00EDmavost",
-        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
-      },
-      {
-        "Title": "Aktuality",
-        "Content": "29/06/25: Nov\u00E9 dve\u0159e do rybn\u00EDka [Josef](mi_josef)."
-      }
-    ],
-    "image_id": 0,
-    "area": 62,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "patternleCompatible": true,
-    "redirect": null,
-    "tobeedited": false
-  },
   "mi_velehumry": {
     "Title": "Velehumry",
     "Type": "m\u00EDstnost",
@@ -38164,6 +38107,69 @@
       "z": 1063
     },
     "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false
+  },
+  "mi_zelezna_lhota": {
+    "Title": "\u017Delezn\u00E1 Lhota",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "\u017DELEZN\u00C1 LHOTA",
+      "SCHODI\u0160T\u011A",
+      "V\u00DDTAH",
+      "VSTUP Z D\u00C1LNICE",
+      "FARMA NA \u017DELEZO"
+    ],
+    "Bordering_rooms": [
+      "mi_velehumry",
+      "mi_dalnice",
+      "mi_goiania",
+      "mi_dalnicni_pilir",
+      "mi_ironie",
+      "mi_josef"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "\u017Delezn\u00E1 Lhota",
+      "Blok": "[\u017Delezn\u00E1 Lhota](bl_zelezna_lhota)",
+      "Okrsek": "[\u017Delezn\u00E1 Lhota](ok_zelezna_lhota)",
+      "\u010Ctvr\u0165": "[\u017Delezn\u00E1 Lhota](ct_zelezna_lhota)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)",
+      "\u00DA\u010Del": "Farma na \u017Eelezo, automatick\u00FD kompost"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "[\u017Delezn\u00E1 Lhota](ct_zelezna_lhota) je m\u00EDstnost nach\u00E1zej\u00EDc\u00ED se ve stejnojmenn\u00E9m [bloku](bl_zelezna_lhota), [okrsku](ok_zelezna_lhota) a [\u010Dtvrti](ct_zelezna_lhota). Je tvo\u0159ena zejm\u00E9na dlouh\u00FDm schodi\u0161t\u011Bm, kter\u00E9 sestupuje z [D\u00E1lnice](mi_dalnice) sm\u011Brem dol\u016F k farm\u011B na \u017Eelezo a automatick\u00E9mu kompost\u00E9ru.\r\nZ prostoru m\u00EDstnosti vedou t\u0159i dve\u0159e \u2014 do rybn\u00EDku [Josef](mi_josef), do m\u00EDstnosti [Velehumry](mi_velehumry) a tak\u00E9 do [Goianie](mi_goiania). Schodi\u0161t\u011B pokra\u010Duje d\u00E1le vzh\u016Fru do m\u00EDstnosti [Ironie](mi_ironie), zat\u00EDmco ze st\u0159edu m\u00EDstnosti vede jednosm\u011Brn\u00FD v\u00FDtah sm\u011B\u0159uj\u00EDc\u00ED p\u0159\u00EDmo k [D\u00E1lni\u010Dn\u00EDmu Pil\u00ED\u0159i](mi_dalnicni_pilir)."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "M\u00EDstnost byla pojmenov\u00E1na \u0022\u017Delezn\u00E1 Lhota\u0022 nebo\u0165 se u m\u00EDstnosti nach\u00E1z\u00ED farma na \u017Delezo."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Interi\u00E9r [\u017Delezn\u00E9 Lhoty](ct_zelezna_lhota) je \u010Dlenit\u00FD a pln\u011B pod\u0159\u00EDzen\u00FD provozn\u00EDm pot\u0159eb\u00E1m farmy. Dominantn\u00EDm prvkem prostoru je dvoublokov\u011B \u0161irok\u00E9 schodi\u0161t\u011B tvo\u0159en\u00E9 t\u0159emi hlavn\u00EDmi \u00FAseky (4, 4 a 5 blok\u016F dlouh\u00FDmi), kter\u00E9 propojuje r\u016Fzn\u00E9 \u00FArovn\u011B m\u00EDstnosti. V\u00FD\u0161e pokra\u010Duje schodi\u0161t\u011B o blok u\u017E\u0161\u00ED, p\u0159i\u010Dem\u017E mezi jednotliv\u00FDmi \u00FAseky se nach\u00E1zej\u00ED mal\u00E1 mezipatra s p\u0159\u00EDstupem k dal\u0161\u00EDm prostor\u016Fm.\r\nV\u0161ude, kde by se jinak mohli spawnout mobov\u00E9, jsou um\u00EDst\u011Bna tla\u010D\u00EDtka, kter\u00E1 tento jev eliminuj\u00ED \u2014 aby se iron golemov\u00E9 spawnovali v\u00FDhradn\u011B ve farm\u011B. Z nejvy\u0161\u0161\u00EDho mezipatra vedou dve\u0159e p\u0159\u00EDmo na dno rybn\u00EDka [Josef](mi_josef). Kousek vedle se nach\u00E1z\u00ED dvojice barel\u016F a jeden crafting table. Z prost\u0159edn\u00EDho mezipatra vedou dve\u0159e do [Goianie](mi_goiania) a jednosm\u011Brn\u00FD v\u00FDtah k [D\u00E1lni\u010Dn\u00EDmu Pil\u00ED\u0159i](mi_dalnicni_pilir). Tato \u010D\u00E1st je prosv\u011Btlena velk\u00FDm 7\u00D74 blokov\u00FDm oknem. Nejni\u017E\u0161\u00ED mezipatro \u017E\u00E1dn\u00FD vstup neobsahuje, ale prostor zde ozvl\u00E1\u0161t\u0148uj\u00ED dv\u011B vysok\u00E1 \u00FAzk\u00E1 okna.\r\nVe spodn\u00ED \u010D\u00E1sti m\u00EDstnosti jsou po prav\u00E9 st\u011Bn\u011B pou\u017Eity neho\u0159lav\u00E9 materi\u00E1ly (kombinace cobblestone a netherrack), proto\u017Ee je ve farm\u011B pou\u017Eita l\u00E1va. \u00DApln\u011B dole \u2014 t\u0159i bloky pod hladinou mo\u0159e \u2014 je podlaha osazena trapdoory a koberci, aby se zabr\u00E1nilo spawnov\u00E1n\u00ED Iron Golem\u016F v m\u00EDstnosti. Na prav\u00E9 stran\u011B je truhla napojen\u00E1 na hoppery z farmy. Zadn\u00ED st\u011Bna pak host\u00ED automatick\u00FD kompost\u00E9r, barel na kv\u011Btiny a barel na v\u00FDslednou kostn\u00ED mou\u010Dku.\r\nV\u00FD\u0161ka stropu se li\u0161\u00ED podle \u010D\u00E1sti prostoru \u2014 u farmy dosahuje jen 3\u20134 blok\u016F, jinde a\u017E dev\u00EDti. Prostor je velmi dob\u0159e osv\u011Btlen p\u0159irozen\u00FDm sv\u011Btlem d\u00EDky velk\u00E9mu mno\u017Estv\u00ED oken, a nechyb\u00ED zde ani dostatek crafting tabl\u016F rozeset\u00FDch po cel\u00E9 d\u00E9lce interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": "\u017Delezn\u00E1 Lhota je nejstar\u0161\u00ED m\u00EDstnost\u00ED v [Nov\u00E9m Dil\u00ED](ct_nove_dili).\r\nFarmou na \u017Delezo byly ovlivn\u011Bny m\u00EDstnosti v bloku [Humry](bl_humry), kter\u00E9 bylo t\u0159eba tak\u00E9 \u0022spawn proofnout\u0022.\r\nNad jedn\u00EDm z vysok\u00FDch oken na nejni\u017E\u0161\u00EDm mezipat\u0159e jsou dva trapdoory zakr\u00FDvaj\u00EDc\u00ED led z [D\u00E1lnice](mi_dalnice).\r\nVe v\u00FD\u0161e polo\u017Een\u00E9m barelu na u [D\u00E1lnice](mi_dalnice) je z cobblestonov\u00FDch slab\u016F a dvou glowston\u016F vysklad\u00E1n smajl\u00EDk."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "29/06/25: Nov\u00E9 dve\u0159e do rybn\u00EDka [Josef](mi_josef)."
+      }
+    ],
+    "image_id": 0,
+    "area": 62,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 352,
+      "y": 67,
+      "z": 1072
+    },
+    "patternleCompatible": false,
     "redirect": null,
     "tobeedited": false
   }
