@@ -477,6 +477,10 @@
       "PackagePath": "staticwebassets/Images/mi_paradox2.png"
     },
     {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_parez_reference2.png:Zone.Identifier",
+      "PackagePath": "staticwebassets/Images/mi_parez_reference2.png:Zone.Identifier"
+    },
+    {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_parsley_attic1.png",
       "PackagePath": "staticwebassets/Images/mi_parsley_attic1.png"
     },
@@ -937,6 +941,26 @@
       "PackagePath": "staticwebassets/Images/mi_zakini3.png"
     },
     {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_zelezna_lhota1.png",
+      "PackagePath": "staticwebassets/Images/mi_zelezna_lhota1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_zelezna_lhota2.png",
+      "PackagePath": "staticwebassets/Images/mi_zelezna_lhota2.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_zelezna_lhota3.png",
+      "PackagePath": "staticwebassets/Images/mi_zelezna_lhota3.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_zelezna_lhota4.png",
+      "PackagePath": "staticwebassets/Images/mi_zelezna_lhota4.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_zelezna_lhota5.png",
+      "PackagePath": "staticwebassets/Images/mi_zelezna_lhota5.png"
+    },
+    {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_zmatek1.png",
       "PackagePath": "staticwebassets/Images/mi_zmatek1.png"
     },
@@ -979,6 +1003,26 @@
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/te_miss_parez1.png",
       "PackagePath": "staticwebassets/Images/te_miss_parez1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/te_parez_reference1.png",
+      "PackagePath": "staticwebassets/Images/te_parez_reference1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/te_parez_reference1.png:Zone.Identifier",
+      "PackagePath": "staticwebassets/Images/te_parez_reference1.png:Zone.Identifier"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/te_parez_reference2.png",
+      "PackagePath": "staticwebassets/Images/te_parez_reference2.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/te_parez_reference3.png",
+      "PackagePath": "staticwebassets/Images/te_parez_reference3.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/te_parez_reference3.png:Zone.Identifier",
+      "PackagePath": "staticwebassets/Images/te_parez_reference3.png:Zone.Identifier"
     },
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/te_preusporadani_troji1.png",

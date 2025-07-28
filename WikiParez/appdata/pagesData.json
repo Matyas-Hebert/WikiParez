@@ -24744,54 +24744,6 @@
     "redirect": null,
     "tobeedited": false
   },
-  "bl_zelezna_lhota": {
-    "Title": "\u017Delezn\u00E1 Lhota",
-    "Type": "blok",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "\u017Delezn\u00E1 Lhota",
-      "Okrsek": "[\u017Delezn\u00E1 Lhota](ok_zelezna_lhota)",
-      "\u010Ctvr\u0165": "[\u017Delezn\u00E1 Lhota](ct_zelezna_lhota)",
-      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": ""
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": ""
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": ""
-      },
-      {
-        "Title": "Zaj\u00EDmavosti",
-        "Content": ""
-      },
-      {
-        "Title": "Aktuality",
-        "Content": ""
-      }
-    ],
-    "image_id": 0,
-    "area": 0,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "patternleCompatible": true,
-    "redirect": null,
-    "tobeedited": false
-  },
   "bl_humry": {
     "Title": "Humry",
     "Type": "blok",
@@ -38170,6 +38122,102 @@
       "z": 1072
     },
     "patternleCompatible": false,
+    "redirect": null,
+    "tobeedited": false
+  },
+  "bl_zelezna_lhota": {
+    "Title": "\u017Delezn\u00E1 Lhota",
+    "Type": "blok",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "\u017Delezn\u00E1 Lhota",
+      "Okrsek": "[\u017Delezn\u00E1 Lhota](ok_zelezna_lhota)",
+      "\u010Ctvr\u0165": "[\u017Delezn\u00E1 Lhota](ct_zelezna_lhota)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "\u017Delezn\u00E1 Lhota je blok ve stejnojmenn\u00E9m [okrsku](ok_zelezna_lhota) a [\u010Dtvrti](ct_zelezna_lhota) tvo\u0159en jedinou [m\u00EDstnost\u00ED](mi_zelezna_lhota), kter\u00E1 s n\u00EDm tak\u00E9 sd\u00EDl\u00ED jm\u00E9no.\r\nBlok soused\u00ED s bloky [Velk\u00FD Pil\u00ED\u0159](bl_velky_pilir), [Pocity](bl_pocity), [Humry](bl_humry) a [Velho](bl_velho)"
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "\u017Delezn\u00E1 Lhota sd\u00EDl\u00ED n\u00E1zev s jedinou [m\u00EDstnost\u00ED](mi_zelezna_lhota) v bloku."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "V\u00EDce o informac\u00ED o interi\u00E9ru jedin\u00E9 m\u00EDstnosti v bloku naleznete [zde](mi_zelezna_lhota)."
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": "\u017Delezn\u00E1 Lhota je nejstar\u0161\u00EDm blokem v [Nov\u00E9m Dil\u00ED](ct_nove_dili)."
+      },
+      {
+        "Title": "Budoucnost",
+        "Content": "Do bloku pravd\u011Bpodobn\u011B nep\u0159ibude \u017E\u00E1dn\u00E1 m\u00EDstnost. I v p\u0159\u00EDpad\u011B kdyby byla prob\u011Bhla konstrukce nov\u00E9 m\u00EDstnosti pobl\u00ED\u017E [\u017Delezn\u00E9 Lhoty](mi_zelezna_lhota), co\u017E je technicky komplikovan\u00E9, spadala by pravd\u011Bpodobn\u011B do nov\u00E9ho bloku."
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false
+  },
+  "te_parez_reference": {
+    "Title": "Pa\u0159ez Reference",
+    "Type": "hra",
+    "Images": [],
+    "Image_titles": [
+      "NEBE",
+      "ASTRA",
+      "LEVO"
+    ],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Pa\u0159ez Reference",
+      "Typ": "slovn\u00ED",
+      "Po\u010Det hr\u00E1\u010D\u016F": "2\u002B",
+      "Trv\u00E1n\u00ED": "hodiny a\u017E dny"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Pa\u0159ez Reference je hrav\u00E1 slovn\u00ED hra pro dva a v\u00EDce hr\u00E1\u010D\u016F, navr\u017Een\u00E1 tak, aby bavila i p\u0159i dlouh\u00FDch cest\u00E1ch nebo toulk\u00E1ch m\u011Bstem. Princip je jednoduch\u00FD: hr\u00E1\u010Di sout\u011B\u017E\u00ED o to, kdo d\u0159\u00EDve nalezne \u0022pa\u0159ez referenci\u0022 \u2014 tedy skute\u010Dn\u00FD v\u00FDskyt n\u00E1zvu n\u011Bjak\u00E9 m\u00EDstnosti z fiktivn\u00EDho sv\u011Bta Pa\u0159ezu ve sv\u00E9m okol\u00ED. Sv\u016Fj n\u00E1lez zahl\u00E1s\u00ED ostatn\u00EDm slovy nap\u0159.: \u0022[Rozcest\u00ED](mi_rozcesti) Pa\u0159ez Reference\u0022. Takovou referenc\u00ED m\u016F\u017Ee b\u00FDt nap\u0159\u00EDklad n\u00E1pis, zvuk nebo objekt. Hra m\u00E1 lehce improvizovan\u00FD a kolektivn\u011B dohodnut\u00FD charakter, kde se po\u010D\u00EDt\u00E1 i ur\u010Dit\u00E1 m\u00EDra kreativity a soudnosti p\u0159i uzn\u00E1v\u00E1n\u00ED bod\u016F. Vyhr\u00E1v\u00E1 hr\u00E1\u010D s nejv\u00EDce body na konci hry."
+      },
+      {
+        "Title": "Pravidla",
+        "Content": "Z\u00E1kladn\u00ED mechanika hry za\u010D\u00EDn\u00E1 seznamem m\u00EDstnost\u00ED (aktu\u00E1ln\u011B jich existuje kolem 500), p\u0159i\u010Dem\u017E hr\u00E1\u010Di hledaj\u00ED jejich jm\u00E9na ve sv\u00E9m okol\u00ED. Jakmile jeden hr\u00E1\u010D \u00FAsp\u011B\u0161n\u011B objev\u00ED n\u011Bjakou referenci, st\u00E1v\u00E1 se pro ostatn\u00ED \u0022uzam\u010Denou\u0022 \u2014 nikdo jin\u00FD u\u017E si za ni nem\u016F\u017Ee p\u0159ipsat bod. Na za\u010D\u00E1tku si ka\u017Ed\u00FD hr\u00E1\u010D vede bodov\u00FD p\u0159ehled s\u00E1m, ale pokud hra trv\u00E1 d\u00E9le, doporu\u010Duje se sk\u00F3re zapisovat \u2014 zejm\u00E9na kv\u016Fli zpomaluj\u00EDc\u00EDmu se tempu, jak po\u010Det naleziteln\u00FDch referenc\u00ED ub\u00FDv\u00E1. D\u00E9lka hry m\u016F\u017Ee kol\u00EDsat od n\u011Bkolika minut po n\u011Bkolik dn\u00ED, v\u010Detn\u011B p\u0159eru\u0161en\u00ED a pokra\u010Dov\u00E1n\u00ED. V p\u0159\u00EDpad\u011B del\u0161\u00EDch her se hr\u00E1\u010Di mohou dohodnout, kdy se hra p\u0159eru\u0161\u00ED (nap\u0159. v noci).\r\nHra kon\u010D\u00ED p\u0159i domluv\u011B hr\u00E1\u010D\u016F z d\u016Fvodu vy\u010Derp\u00E1n\u00EDm mo\u017En\u00FDch pa\u0159ez referenc\u00ED, konce v\u00FDletu nebo cht\u00ED\u010De d\u011Blat n\u011Bco jin\u00E9ho."
+      },
+      {
+        "Title": "Dopln\u011Bn\u00ED Pravidel",
+        "Content": "Aby hra byla co nejz\u00E1bavn\u011Bj\u0161\u00ED a z\u00E1rove\u0148 f\u00E9rov\u00E1, doporu\u010Duje se, aby se hr\u00E1\u010Di pohybovali pobl\u00ED\u017E spoluhr\u00E1\u010D\u016Fm, a\u0165 u\u017E kv\u016Fli f\u00E9rov\u00E9mu z\u00E1vodu o nov\u011B nalezen\u00E9 reference, nebo kv\u016Fli diskusi, zda je dan\u00FD objev dostate\u010Dn\u011B validn\u00ED. Naopak, p\u0159\u00EDli\u0161 velk\u00E9 skupiny hr\u00E1\u010D\u016F mohou zp\u016Fsobit zmatek a hru zpomalit, i kdy\u017E i to m\u016F\u017Ee b\u00FDt sou\u010D\u00E1st\u00ED z\u00E1\u017Eitku. D\u016Fle\u017Eit\u00FDm aspektem je st\u0159\u00EDd\u00E1n\u00ED prost\u0159ed\u00ED \u2014 statick\u00E9 lokace (nap\u0159. dlouh\u00E1 cesta po d\u00E1lnici) nejsou pro hru ide\u00E1ln\u00ED, proto\u017Ee nenab\u00EDz\u00ED tolik rozmanit\u00FDch podn\u011Bt\u016F.\r\nZvl\u00E1\u0161tn\u00ED situace nast\u00E1v\u00E1 u m\u00EDstnost\u00ED s b\u011B\u017En\u00FDmi n\u00E1zvy na za\u010D\u00E1tku hry, jako nap\u0159\u00EDklad [Listy](mi_listy) nebo [Nebe](mi_nebe), kter\u00E9 lze naj\u00EDt t\u00E9m\u011B\u0159 okam\u017Eit\u011B. Z toho d\u016Fvodu se doporu\u010Duje zav\u00E9st startovn\u00ED podm\u00EDnku \u2014 nap\u0159\u00EDklad \u017Ee hra za\u010D\u00EDn\u00E1 a\u017E po spat\u0159en\u00ED \u017Elut\u00E9ho auta nebo v\u00FDskytu p\u00EDsmene \u201Ex\u201C. Jinou mo\u017Enost\u00ED je p\u0159edem vylou\u010Dit ur\u010Dit\u00E9 snadno naleziteln\u00E9 n\u00E1zvy, i kdy\u017E to nen\u00ED v\u017Edy popul\u00E1rn\u00ED \u0159e\u0161en\u00ED."
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": "Historicky prvn\u00ED hra Pa\u0159ez Reference se odehr\u00E1la v are\u00E1lu Zem\u011Bd\u011Blsk\u00E9 univerzity v pra\u017Esk\u00E9m Suchdole. Nejdel\u0161\u00ED zaznamenan\u00E1 hra trvala p\u0159es dva dny a skon\u010Dila rem\u00EDzou 101\u2013101 mezi dv\u011Bma hr\u00E1\u010Di. D\u00EDky st\u00E1l\u00E9mu v\u00FDvoji sv\u011Bta Pa\u0159ezu se seznam m\u00EDstnost\u00ED neust\u00E1le roz\u0161i\u0159uje a p\u0159ejmenov\u00E1v\u00E1, aby n\u00E1zvy byly p\u0159irozen\u011Bj\u0161\u00ED a sn\u00E1ze naleziteln\u00E9 v re\u00E1ln\u00E9m sv\u011Bt\u011B, \u010D\u00EDm\u017E se zachov\u00E1v\u00E1 sv\u011B\u017E\u00ED a dlouhodob\u011B hrateln\u00FD charakter t\u00E9to netradi\u010Dn\u00ED venkovn\u00ED slovn\u00ED hry."
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   }
