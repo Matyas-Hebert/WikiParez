@@ -62,7 +62,7 @@ public class WikiService
         var i = 0;
         foreach (var page in _pages.Keys)
         {
-            if (_pages[page].coordinates.x != 0 && _pages[page].coordinates.y != 0 && _pages[page].coordinates.z != 0)
+            if (_pages[page].coordinates.x != 0 && _pages[page].coordinates.y != 0 && _pages[page].coordinates.z != 0 && _pages[page].patternleCompatible)
             {
                 Console.WriteLine(page);
                 i++;
@@ -478,6 +478,7 @@ public class WikiService
 
         foreach (var key in dictionary.Keys)
         {
+            
             totalpages++;
             if (dictionary[key].Empty == false && dictionary[key].Type != "redirect") finishedPages++;
             if (dictionary[key].image_count() == 0)

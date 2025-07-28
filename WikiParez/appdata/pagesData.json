@@ -43,10 +43,11 @@
     "Empty": false,
     "numberOfRooms": 0,
     "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
+      "x": 292,
+      "y": 87,
+      "z": 1122
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -95,10 +96,11 @@
     "Empty": false,
     "numberOfRooms": 0,
     "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
+      "x": 291,
+      "y": 88,
+      "z": 1133
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -148,10 +150,11 @@
     "Empty": false,
     "numberOfRooms": 0,
     "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
+      "x": 284,
+      "y": 85,
+      "z": 1121
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -206,10 +209,11 @@
     "Empty": false,
     "numberOfRooms": 0,
     "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
+      "x": 292,
+      "y": 88,
+      "z": 1128
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -259,10 +263,11 @@
     "Empty": false,
     "numberOfRooms": 0,
     "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
+      "x": 294,
+      "y": 82,
+      "z": 1127
     },
+    "patternleCompatible": false,
     "redirect": null,
     "tobeedited": false
   },
@@ -317,10 +322,11 @@
     "Empty": false,
     "numberOfRooms": 0,
     "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
+      "x": 286,
+      "y": 81,
+      "z": 1126
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -375,10 +381,11 @@
     "Empty": false,
     "numberOfRooms": 0,
     "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
+      "x": 286,
+      "y": 76,
+      "z": 1127
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -429,10 +436,11 @@
     "Empty": false,
     "numberOfRooms": 0,
     "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
+      "x": 286,
+      "y": 72,
+      "z": 1124
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -480,11 +488,12 @@
     "Empty": false,
     "numberOfRooms": 0,
     "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
+      "x": 282,
+      "y": 81,
+      "z": 1135
     },
-    "redirect": "",
+    "patternleCompatible": true,
+    "redirect": null,
     "tobeedited": false
   },
   "mi_nadchod": {
@@ -530,11 +539,12 @@
     "Empty": false,
     "numberOfRooms": 0,
     "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
+      "x": 292,
+      "y": 84,
+      "z": 1123
     },
-    "redirect": "",
+    "patternleCompatible": true,
+    "redirect": null,
     "tobeedited": false
   },
   "beacon_parez": {
@@ -580,6 +590,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -626,6 +637,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -673,6 +685,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -716,6 +729,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -756,6 +770,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -799,7 +814,7 @@
       },
       {
         "Title": "Zaj\u00EDmavosti",
-        "Content": "I kdy\u017E je kom\u016Frka odd\u011Blena od Hlavn\u00ED \u010D\u00E1sti Mosti\u0161t\u011B dve\u0159mi nejedn\u00E1 se o jinou m\u00EDstnost.\nPro vstup do kom\u016Frky z Hlavn\u00ED \u010D\u00E1sti m\u00EDstnosti je t\u0159eba se skr\u010Dit, nebo\u0165 je strop jen 1.5 bloku vysoko."
+        "Content": "I kdy\u017E je kom\u016Frka odd\u011Blena od Hlavn\u00ED \u010D\u00E1sti Mosti\u0161t\u011B dve\u0159mi nejedn\u00E1 se o jinou m\u00EDstnost.\r\nPro vstup do kom\u016Frky z Hlavn\u00ED \u010D\u00E1sti m\u00EDstnosti je t\u0159eba se skr\u010Dit, nebo\u0165 je strop jen 1.5 bloku vysoko."
       }
     ],
     "image_id": 0,
@@ -807,11 +822,12 @@
     "Empty": false,
     "numberOfRooms": 0,
     "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
+      "x": 288,
+      "y": 67,
+      "z": 1123
     },
-    "redirect": "",
+    "patternleCompatible": true,
+    "redirect": null,
     "tobeedited": false
   },
   "mi_strecha": {
@@ -862,11 +878,12 @@
     "Empty": false,
     "numberOfRooms": 0,
     "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
+      "x": 317,
+      "y": 93,
+      "z": 1128
     },
-    "redirect": "",
+    "patternleCompatible": true,
+    "redirect": null,
     "tobeedited": false
   },
   "mi_skokanske_mustky": {
@@ -920,10 +937,11 @@
     "Empty": false,
     "numberOfRooms": 0,
     "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
+      "x": 317,
+      "y": 93,
+      "z": 1142
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -984,10 +1002,11 @@
     "Empty": false,
     "numberOfRooms": 0,
     "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
+      "x": 311,
+      "y": 93,
+      "z": 1136
     },
+    "patternleCompatible": false,
     "redirect": null,
     "tobeedited": false
   },
@@ -1034,11 +1053,12 @@
     "Empty": false,
     "numberOfRooms": 0,
     "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
+      "x": 303,
+      "y": 92,
+      "z": 1122
     },
-    "redirect": "",
+    "patternleCompatible": true,
+    "redirect": null,
     "tobeedited": false
   },
   "mi_pucmeloun_farma": {
@@ -1088,11 +1108,12 @@
     "Empty": false,
     "numberOfRooms": 0,
     "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
+      "x": 323,
+      "y": 93,
+      "z": 1153
     },
-    "redirect": "",
+    "patternleCompatible": true,
+    "redirect": null,
     "tobeedited": false
   },
   "mi_staj": {
@@ -1138,11 +1159,12 @@
     "Empty": false,
     "numberOfRooms": 0,
     "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
+      "x": 302,
+      "y": 93,
+      "z": 1154
     },
-    "redirect": "",
+    "patternleCompatible": true,
+    "redirect": null,
     "tobeedited": false
   },
   "mi_builder_cepicka": {
@@ -1187,11 +1209,12 @@
     "Empty": false,
     "numberOfRooms": 0,
     "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
+      "x": 292,
+      "y": 92,
+      "z": 1153
     },
-    "redirect": "",
+    "patternleCompatible": true,
+    "redirect": null,
     "tobeedited": false
   },
   "mi_lokace": {
@@ -1217,7 +1240,7 @@
     "Sections": [
       {
         "Title": "P\u0159ehled",
-        "Content": "Lokace je obd\u00E9ln\u00EDkov\u00E1 m\u00EDstnost s jedin\u00FDm vstupem a to z [Airshipu](mi_the_airship). V m\u00EDstnosti jsou uskladn\u011Bny ve\u0161ker\u00E9 v\u011Bci, kter\u00E9 nejsou nikam za\u0159azeny ale i ty kter\u00E9 \u010Dekaj\u00ED na rozt\u0159\u00EDzen\u00ED. V Lokaci je celkem 18 barel\u016F. V\u0161echny jsou postaveny na ji\u017En\u00ED st\u011Bn\u011B m\u00EDstnosti. V m\u00EDstnosti je tak\u00E9 lectern s knihou ur\u010Denou na seznam v\u0161ech m\u00EDstnost\u00ED a jejich \u00FA\u010Del\u016F. V dob\u011B psan\u00ED tohoto \u010Dl\u00E1nku byla kniha t\u00E9m\u011B\u0159 pr\u00E1zdn\u00E1."
+        "Content": "Lokace je obd\u00E9ln\u00EDkov\u00E1 m\u00EDstnost s jedin\u00FDm vstupem a z [Airshipu](mi_the_airship) a z\u00E1rove\u0148 s\u00EDdlo spole\u010Dnosti [ORP](sp_orp). V m\u00EDstnosti jsou uskladn\u011Bny ve\u0161ker\u00E9 v\u011Bci, kter\u00E9 nejsou nikam za\u0159azeny ale i ty kter\u00E9 \u010Dekaj\u00ED na rozt\u0159\u00EDzen\u00ED. V Lokaci je celkem 18 barel\u016F. V\u0161echny jsou postaveny na ji\u017En\u00ED st\u011Bn\u011B m\u00EDstnosti. V m\u00EDstnosti je tak\u00E9 lectern s knihou ur\u010Denou na seznam v\u0161ech m\u00EDstnost\u00ED a jejich \u00FA\u010Del\u016F. V dob\u011B psan\u00ED tohoto \u010Dl\u00E1nku byla kniha t\u00E9m\u011B\u0159 pr\u00E1zdn\u00E1."
       },
       {
         "Title": "N\u00E1zev",
@@ -1225,11 +1248,15 @@
       },
       {
         "Title": "Interi\u00E9r",
-        "Content": "Vstup do m\u00EDstnosti je v jihov\u00FDchodn\u00EDm rohu. Hned po lev\u00E9 stran\u011B jde vid\u011Bt st\u011Bnu s 18 barely. Uprost\u0159ed z\u00E1padn\u00ED st\u011Bny je lectern na vyv\u00FD\u0161en\u00E9m podstavci. Krom toho je zde tak\u00E9 1 crafting table, ale \u017E\u00E1dn\u00E1 postel.\r\nV\u0161echny st\u011Bny krom\u011B severn\u00ED maj\u00ED blok pod stropem okenn\u00ED tabulky.\r\nM\u00EDstnost je osv\u011Btlena lanternami."
+        "Content": "Vstup do m\u00EDstnosti je v jihov\u00FDchodn\u00EDm rohu. Hned po lev\u00E9 stran\u011B jde vid\u011Bt st\u011Bnu s 18 barely. Barel nejv\u00EDce vpravo dole je napojen na syst\u00E9m odpadn\u00EDch rour. Ve\u0161ker\u00E9 itemy, kter\u00E9 jsou do rour vyhozeny, skon\u010D\u00ED pr\u00E1v\u011B v dan\u00E9m barelu. Uprost\u0159ed z\u00E1padn\u00ED st\u011Bny je lectern na vyv\u00FD\u0161en\u00E9m podstavci. Krom toho je zde tak\u00E9 1 crafting table, ale \u017E\u00E1dn\u00E1 postel.\r\nV\u0161echny st\u011Bny krom\u011B severn\u00ED maj\u00ED blok pod stropem okenn\u00ED tabulky.\r\nM\u00EDstnost je osv\u011Btlena lanternami."
       },
       {
         "Title": "Zaj\u00EDmavosti",
         "Content": "Lokace je m\u00EDstnosti s jednou z nejv\u011Bt\u0161\u00EDch hustot barel\u016F na blok a to 0.18 barel/blok.\r\nSeznam m\u00EDstnost\u00ED v knize v lecternu je se\u0159azen abecedn\u011B."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "27/07/25: M\u00EDstnost napojena na syst\u00E9m odpadn\u00EDch rour [ORP](sp_orp)."
       }
     ],
     "image_id": 0,
@@ -1237,11 +1264,12 @@
     "Empty": false,
     "numberOfRooms": 0,
     "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
+      "x": 288,
+      "y": 92,
+      "z": 1140
     },
-    "redirect": "",
+    "patternleCompatible": true,
+    "redirect": null,
     "tobeedited": false
   },
   "mi_kabina": {
@@ -1289,11 +1317,12 @@
     "Empty": false,
     "numberOfRooms": 0,
     "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
+      "x": 296,
+      "y": 97,
+      "z": 1131
     },
-    "redirect": "",
+    "patternleCompatible": true,
+    "redirect": null,
     "tobeedited": false
   },
   "mi_the_terrass": {
@@ -1342,11 +1371,12 @@
     "Empty": false,
     "numberOfRooms": 0,
     "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
+      "x": 296,
+      "y": 92,
+      "z": 1125
     },
-    "redirect": "",
+    "patternleCompatible": true,
+    "redirect": null,
     "tobeedited": false
   },
   "mi_parsley_attic": {
@@ -1356,7 +1386,8 @@
     "Image_titles": [
       "HLAVN\u00CD \u010C\u00C1ST",
       "LO\u017DNICE",
-      "SCHODI\u0160T\u011A"
+      "SCHODI\u0160T\u011A",
+      "BARELY"
     ],
     "Bordering_rooms": [
       "mi_the_airship",
@@ -1373,7 +1404,8 @@
       "Blok": "[Pod masou](bl_pod_masou)",
       "Okrsek": "[The Airship](ok_the_airship)",
       "\u010Ctvr\u0165": "[Kmen](ct_kmen)",
-      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
+      "\u00DA\u010Del": "Odpadn\u00ED roura ORP"
     },
     "Sections": [
       {
@@ -1386,11 +1418,15 @@
       },
       {
         "Title": "Interi\u00E9r",
-        "Content": "V interi\u00E9ru m\u00EDstnosti se nach\u00E1zej\u00ED 3 postele, b\u00EDl\u00E1 a \u010Dern\u00E1 postel v lo\u017Enici a b\u00EDl\u00E1 postel v hlavn\u00ED \u010D\u00E1sti. V hlavn\u00ED \u010D\u00E1sti lze naj\u00EDt tak\u00E9 crafting table a dva barely.\r\nV\u00FD\u0161ka stropu se v r\u016Fzn\u00FDch \u010D\u00E1stech Parsley Attic li\u0161\u00ED. Nejni\u017E\u0161\u00ED strop je na z\u00E1padn\u00EDm konci hlavn\u00ED \u010D\u00E1sti a to jen 2.5 bloku. Na chodb\u011B je strop 4-4.5 blok\u016F vysoko.\r\nNaproti dv\u011Bma postel\u00EDm v lo\u017Enici je men\u0161\u00ED pl\u016Ftek chr\u00E1nic\u00ED proti p\u00E1du na [Schodi\u0161t\u011B TT](mi_schodiste_tt)."
+        "Content": "V interi\u00E9ru m\u00EDstnosti se nach\u00E1zej\u00ED 3 postele, b\u00EDl\u00E1 a \u010Dern\u00E1 postel v lo\u017Enici a b\u00EDl\u00E1 postel v hlavn\u00ED \u010D\u00E1sti. V hlavn\u00ED \u010D\u00E1sti lze naj\u00EDt tak\u00E9 crafting table a dva barely. V\u00FD\u0161e polo\u017Een\u00FD barel je napojen na syst\u00E9m odpadn\u00EDch rour [ORP](sp_orp).\r\nV\u00FD\u0161ka stropu se v r\u016Fzn\u00FDch \u010D\u00E1stech Parsley Attic li\u0161\u00ED. Nejni\u017E\u0161\u00ED strop je na z\u00E1padn\u00EDm konci hlavn\u00ED \u010D\u00E1sti a to jen 2.5 bloku. Na chodb\u011B je strop 4-4.5 blok\u016F vysoko.\r\nNaproti dv\u011Bma postel\u00EDm v lo\u017Enici je men\u0161\u00ED pl\u016Ftek chr\u00E1nic\u00ED proti p\u00E1du na [Schodi\u0161t\u011B TT](mi_schodiste_tt)."
       },
       {
         "Title": "Zaj\u00EDmavost",
         "Content": "Hlavn\u00ED \u010D\u00E1st m\u00E1 zakulacenou st\u0159echu a v dob\u011B psan\u00ED tohoto \u010Dl\u00E1nku na n\u00ED nebyla postavena \u017E\u00E1dn\u00E1 m\u00EDstnost."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "27/07/25: M\u00EDstnost napojena na syst\u00E9m odpadn\u00EDch rour [ORP](sp_orp)."
       }
     ],
     "image_id": 0,
@@ -1402,7 +1438,8 @@
       "y": 0,
       "z": 0
     },
-    "redirect": "",
+    "patternleCompatible": true,
+    "redirect": null,
     "tobeedited": false
   },
   "mi_the_airship": {
@@ -1476,6 +1513,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -1527,6 +1565,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -1576,6 +1615,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -1619,6 +1659,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -1679,6 +1720,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -1734,6 +1776,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -1791,6 +1834,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -1834,6 +1878,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -1890,6 +1935,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -1944,6 +1990,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -2006,6 +2053,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -2051,6 +2099,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "mi_spojnice",
     "tobeedited": false
   },
@@ -2096,6 +2145,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "mi_spojnice",
     "tobeedited": false
   },
@@ -2142,6 +2192,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -2220,6 +2271,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -2265,6 +2317,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "mi_dalnicni_pilir",
     "tobeedited": false
   },
@@ -2310,6 +2363,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "mi_dalnicni_pilir",
     "tobeedited": false
   },
@@ -2355,6 +2409,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "mi_dalnicni_pilir",
     "tobeedited": false
   },
@@ -2405,6 +2460,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -2460,6 +2516,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -2515,6 +2572,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -2566,6 +2624,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -2619,6 +2678,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -2655,7 +2715,7 @@
       "Okrsek": "[Silo](ok_silo)",
       "\u010Ctvr\u0165": "[Ryb\u00E1\u0159sk\u00E1 Kolonie](ct_rybarska_kolonie)",
       "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
-      "\u00DA\u010Del": "Strom, sklad d\u0159eva, sazenic, seker a bone mealu",
+      "\u00DA\u010Del": "Strom, sklad d\u0159eva, sazenic, seker a bone mealu, Odpadn\u00ED roura ORP",
       "Kategorie": "[Stromov\u00E1 v\u011B\u017E](ka_stromove_veze)"
     },
     "Sections": [
@@ -2669,7 +2729,7 @@
       },
       {
         "Title": "Interi\u00E9r",
-        "Content": "M\u00EDstnost m\u00E1 p\u016Fdorys kruhu o vnit\u0159n\u00EDm pr\u016Fm\u011Bru deseti blok\u016F. Na ka\u017Ed\u00E9m ze \u010Dty\u0159 z\u00E1kladn\u00EDch sv\u011Btov\u00FDch stran jsou vysok\u00E1 dva bloky \u0161irok\u00E1 okna, kter\u00E1 se t\u00E1hnou a\u017E t\u011Bsn\u011B pod [Podkrov\u00ED](mi_podkrovi) (33 blok\u016F nad podlahou). Vyj\u00EDmkou je v\u0161ak ji\u017En\u00ED okno, kter\u00E9 je jednou p\u0159eru\u0161eno a to prot\u00EDnaj\u00EDc\u00ED [D\u00E1lnic\u00ED](mi_dalnice). Ka\u017Ed\u00E9 z oken m\u00E1 v\u00FD\u0161ku 31 blok\u016F a nab\u00EDz\u00ED \u010Dasto n\u00E1dhern\u00E9 v\u00FDhledy.\r\nV m\u00EDstnosti se nach\u00E1z\u00ED p\u011Bt crafting tabl\u016F, jedna b\u00EDl\u00E1 postel a \u010Dty\u0159i barely. V\u0161echny barely jsou polo\u017Eeny v nejni\u017E\u0161\u00EDm podla\u017E\u00ED.\r\nV jihov\u00FDchodn\u00EDm rohu m\u00EDstnosti je \u017Eeb\u0159\u00EDk, kter\u00FD umo\u017E\u0148uje jednoduch\u00FD p\u0159\u00EDstup ke v\u0161em ochoz\u016Fm ve v\u011B\u017Ei (dnes je v\u0161ak \u010Dasto nahrazov\u00E1n [Sil\u00E1kem](mi_silak). Jednotliv\u00E9 ochozy jsou jen jeden blok \u0161irok\u00E9 a obch\u00E1zej\u00ED cel\u00FD obvod Sila. Obecn\u011B ma ka\u017Ed\u00FD plochu 36 blok\u016F \u010Dtvere\u010Dn\u00EDch."
+        "Content": "M\u00EDstnost m\u00E1 p\u016Fdorys kruhu o vnit\u0159n\u00EDm pr\u016Fm\u011Bru deseti blok\u016F. Na ka\u017Ed\u00E9m ze \u010Dty\u0159 z\u00E1kladn\u00EDch sv\u011Btov\u00FDch stran jsou vysok\u00E1 dva bloky \u0161irok\u00E1 okna, kter\u00E1 se t\u00E1hnou a\u017E t\u011Bsn\u011B pod [Podkrov\u00ED](mi_podkrovi) (33 blok\u016F nad podlahou). Vyj\u00EDmkou je v\u0161ak ji\u017En\u00ED okno, kter\u00E9 je jednou p\u0159eru\u0161eno a to prot\u00EDnaj\u00EDc\u00ED [D\u00E1lnic\u00ED](mi_dalnice). Ka\u017Ed\u00E9 z oken m\u00E1 v\u00FD\u0161ku 31 blok\u016F a nab\u00EDz\u00ED \u010Dasto n\u00E1dhern\u00E9 v\u00FDhledy.\r\nV m\u00EDstnosti se nach\u00E1z\u00ED p\u011Bt crafting tabl\u016F, jedna b\u00EDl\u00E1 postel a \u010Dty\u0159i barely. V\u0161echny barely jsou polo\u017Eeny v nejni\u017E\u0161\u00EDm podla\u017E\u00ED. V rohu u b\u00EDl\u00E9 postele je mal\u00FD v\u00FDklenek s vodn\u00EDm v\u00FDtahem schovan\u00FDm za trapdoorem. V\u00FDtah je napojen na syst\u00E9m odpadn\u00EDch rour [ORP](sp_orp).\r\nV jihov\u00FDchodn\u00EDm rohu m\u00EDstnosti je \u017Eeb\u0159\u00EDk, kter\u00FD umo\u017E\u0148uje jednoduch\u00FD p\u0159\u00EDstup ke v\u0161em ochoz\u016Fm ve v\u011B\u017Ei (dnes je v\u0161ak \u010Dasto nahrazov\u00E1n [Sil\u00E1kem](mi_silak). Jednotliv\u00E9 ochozy jsou jen jeden blok \u0161irok\u00E9 a obch\u00E1zej\u00ED cel\u00FD obvod Sila. Obecn\u011B ma ka\u017Ed\u00FD plochu 36 blok\u016F \u010Dtvere\u010Dn\u00EDch."
       },
       {
         "Title": "Zaj\u00EDmavosti",
@@ -2677,7 +2737,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "12/07/25: Nov\u00FD vchod do [Dvoj\u010Dat](mi_dvojcata).\r\n19/07/25: Od Sila odtr\u017Eeno [Podkorv\u00ED](mi_podkrovi), jednalo se o nejvy\u0161\u0161\u00ED podla\u017E\u00ED Sila."
+        "Content": "12/07/25: Nov\u00FD vchod do [Dvoj\u010Dat](mi_dvojcata).\r\n19/07/25: Od Sila odtr\u017Eeno [Podkorv\u00ED](mi_podkrovi), jednalo se o nejvy\u0161\u0161\u00ED podla\u017E\u00ED Sila.\r\n27/07/25: M\u00EDstnost napojena na syst\u00E9m odpadn\u00EDch rour [ORP](sp_orp)."
       }
     ],
     "image_id": 0,
@@ -2685,10 +2745,11 @@
     "Empty": false,
     "numberOfRooms": 0,
     "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
+      "x": 293,
+      "y": 64,
+      "z": 1112
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -2730,6 +2791,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -2779,6 +2841,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -2815,6 +2878,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -2845,6 +2909,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "mi_vecere",
     "tobeedited": false
   },
@@ -2896,6 +2961,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -2952,6 +3018,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -3003,6 +3070,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -3051,6 +3119,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -3103,6 +3172,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -3150,6 +3220,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -3199,6 +3270,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -3264,6 +3336,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -3315,6 +3388,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -3362,6 +3436,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -3408,6 +3483,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -3467,6 +3543,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -3519,6 +3596,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -3566,6 +3644,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -3627,6 +3706,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -3675,6 +3755,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -3722,6 +3803,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -3770,6 +3852,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -3817,6 +3900,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -3866,6 +3950,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -3916,6 +4001,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -3965,6 +4051,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -4018,6 +4105,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -4066,6 +4154,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -4112,6 +4201,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -4159,6 +4249,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -4208,6 +4299,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -4256,6 +4348,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -4308,6 +4401,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -4356,6 +4450,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -4403,6 +4498,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -4422,7 +4518,8 @@
       "mi_diving_room",
       "mi_pavlac",
       "mi_pavlacovy_dum",
-      "mi_hnizdo"
+      "mi_hnizdo",
+      "mi_the_airship"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -4463,6 +4560,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -4518,6 +4616,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -4566,6 +4665,7 @@
       "y": 88,
       "z": 1151
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -4620,6 +4720,7 @@
       "y": 88,
       "z": 1130
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -4680,6 +4781,7 @@
       "y": 87,
       "z": 1127
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -4732,6 +4834,7 @@
       "y": 87,
       "z": 1132
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -4779,6 +4882,7 @@
       "y": 94,
       "z": 1110
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -4830,6 +4934,7 @@
       "y": 93,
       "z": 1105
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -4878,6 +4983,7 @@
       "y": 94,
       "z": 1114
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -4934,6 +5040,7 @@
       "y": 98,
       "z": 1124
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -4980,6 +5087,7 @@
       "y": 101,
       "z": 1127
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -5030,6 +5138,7 @@
       "y": 95,
       "z": 1131
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -5077,6 +5186,7 @@
       "y": 96,
       "z": 1141
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -5136,6 +5246,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -5187,6 +5298,7 @@
       "y": 102,
       "z": 1128
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -5237,6 +5349,7 @@
       "y": 110,
       "z": 1144
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -5283,6 +5396,7 @@
       "y": 109,
       "z": 1137
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -5329,6 +5443,7 @@
       "y": 109,
       "z": 1137
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -5375,6 +5490,7 @@
       "y": 109,
       "z": 1137
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -5428,6 +5544,7 @@
       "y": 113,
       "z": 1136
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -5475,6 +5592,7 @@
       "y": 118,
       "z": 1117
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -5527,6 +5645,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -5577,6 +5696,7 @@
       "y": 110,
       "z": 1137
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -5626,6 +5746,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -5676,6 +5797,7 @@
       "y": 103,
       "z": 1117
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -5724,6 +5846,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -5773,6 +5896,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -5822,6 +5946,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -5878,6 +6003,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -5925,6 +6051,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -5977,6 +6104,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -6025,6 +6153,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -6077,6 +6206,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -6131,6 +6261,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -6180,6 +6311,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -6228,6 +6360,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -6256,6 +6389,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "mi_juka",
     "tobeedited": false
   },
@@ -6306,6 +6440,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -6353,6 +6488,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -6399,6 +6535,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -6447,6 +6584,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -6496,6 +6634,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -6542,6 +6681,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -6591,6 +6731,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -6640,6 +6781,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -6687,6 +6829,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -6737,6 +6880,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -6783,6 +6927,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -6829,6 +6974,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -6879,6 +7025,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -6928,6 +7075,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -6976,6 +7124,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -7024,6 +7173,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -7073,6 +7223,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -7120,6 +7271,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -7169,6 +7321,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -7218,6 +7371,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -7264,6 +7418,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -7292,6 +7447,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "mi_obalovna",
     "tobeedited": false
   },
@@ -7342,6 +7498,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -7392,6 +7549,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -7420,6 +7578,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "mi_pata",
     "tobeedited": false
   },
@@ -7448,6 +7607,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "mi_tkanicka",
     "tobeedited": false
   },
@@ -7498,6 +7658,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -7546,6 +7707,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -7594,6 +7756,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -7642,6 +7805,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -7688,6 +7852,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -7737,6 +7902,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -7788,6 +7954,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -7847,6 +8014,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -7894,6 +8062,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -7942,6 +8111,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -7989,6 +8159,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -8040,6 +8211,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -8091,6 +8263,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -8142,6 +8315,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -8191,6 +8365,7 @@
       "y": 103,
       "z": 1126
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -8239,6 +8414,7 @@
       "y": 109,
       "z": 1126
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -8288,6 +8464,7 @@
       "y": 99,
       "z": 1129
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -8343,6 +8520,7 @@
       "y": 94,
       "z": 1129
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -8392,6 +8570,7 @@
       "y": 70,
       "z": 1143
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -8449,6 +8628,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -8513,6 +8693,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -8560,6 +8741,7 @@
       "y": 71,
       "z": 1143
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -8608,6 +8790,7 @@
       "y": 70,
       "z": 1131
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -8658,6 +8841,7 @@
       "y": 70,
       "z": 1125
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -8706,6 +8890,7 @@
       "y": 65,
       "z": 1132
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -8753,6 +8938,7 @@
       "y": 65,
       "z": 1145
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -8801,6 +8987,7 @@
       "y": 63,
       "z": 1149
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -8852,6 +9039,7 @@
       "y": 66,
       "z": 1151
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -8903,6 +9091,7 @@
       "y": 66,
       "z": 1139
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -8951,6 +9140,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -9010,6 +9200,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -9058,6 +9249,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -9106,6 +9298,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -9152,6 +9345,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -9200,6 +9394,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -9248,6 +9443,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -9297,6 +9493,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -9344,6 +9541,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -9397,6 +9595,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -9445,6 +9644,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -9495,6 +9695,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -9547,6 +9748,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -9598,6 +9800,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -9655,6 +9858,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -9709,6 +9913,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -9756,6 +9961,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -9804,6 +10010,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -9852,6 +10059,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -9899,6 +10107,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -9949,6 +10158,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -10028,6 +10238,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -10073,6 +10284,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "mi_the_bridge",
     "tobeedited": false
   },
@@ -10118,6 +10330,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "mi_the_bridge",
     "tobeedited": false
   },
@@ -10163,6 +10376,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "mi_the_bridge",
     "tobeedited": false
   },
@@ -10208,6 +10422,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "mi_the_bridge",
     "tobeedited": false
   },
@@ -10272,6 +10487,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -10338,6 +10554,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -10403,6 +10620,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -10452,6 +10670,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -10502,6 +10721,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -10550,6 +10770,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -10604,6 +10825,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -10657,6 +10879,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -10708,6 +10931,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -10758,6 +10982,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -10806,6 +11031,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -10859,6 +11085,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -10910,6 +11137,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -10961,6 +11189,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -11007,6 +11236,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -11057,6 +11287,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -11103,6 +11334,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -11153,6 +11385,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -11202,6 +11435,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -11248,6 +11482,7 @@
       "y": 70,
       "z": 1136
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -11306,6 +11541,7 @@
       "y": 74,
       "z": 1137
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -11359,6 +11595,7 @@
       "y": 77,
       "z": 1158
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -11411,6 +11648,7 @@
       "y": 81,
       "z": 1158
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -11463,6 +11701,7 @@
       "y": 85,
       "z": 1158
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -11516,6 +11755,7 @@
       "y": 74,
       "z": 1125
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -11565,6 +11805,7 @@
       "y": 76,
       "z": 1130
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -11617,6 +11858,7 @@
       "y": 74,
       "z": 1138
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -11665,6 +11907,7 @@
       "y": 76,
       "z": 1146
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -11712,6 +11955,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -11740,6 +11984,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "mi_kolt",
     "tobeedited": false
   },
@@ -11768,6 +12013,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "mi_luka",
     "tobeedited": false
   },
@@ -11821,6 +12067,7 @@
       "y": 82,
       "z": 1113
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -11849,6 +12096,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "mi_veta",
     "tobeedited": false
   },
@@ -11877,6 +12125,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "mi_tyran",
     "tobeedited": false
   },
@@ -11924,6 +12173,7 @@
       "y": 89,
       "z": 1074
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -11976,6 +12226,7 @@
       "y": 84,
       "z": 1072
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -12029,6 +12280,7 @@
       "y": 81,
       "z": 1072
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -12082,6 +12334,7 @@
       "y": 77,
       "z": 1071
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -12133,6 +12386,7 @@
       "y": 78,
       "z": 1074
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -12181,6 +12435,7 @@
       "y": 72,
       "z": 1068
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -12228,6 +12483,7 @@
       "y": 72,
       "z": 1070
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -12284,6 +12540,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -12332,6 +12589,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -12380,6 +12638,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -12426,6 +12685,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -12473,6 +12733,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -12491,7 +12752,8 @@
       "Blok": "[Cimrman](bl_cimrman)",
       "Okrsek": "[Mrkev](ok_mrkev)",
       "\u010Ctvr\u0165": "[Mrkev](ct_mrkev)",
-      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)",
+      "\u00DA\u010Del": "Odpadn\u00ED roura ORP"
     },
     "Sections": [
       {
@@ -12509,6 +12771,10 @@
       {
         "Title": "Zaj\u00EDmavost",
         "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "27/07/25: M\u00EDstnost napojena na syst\u00E9m odpadn\u00EDch rour [ORP](sp_orp)."
       }
     ],
     "image_id": 0,
@@ -12520,7 +12786,8 @@
       "y": 0,
       "z": 0
     },
-    "redirect": "",
+    "patternleCompatible": true,
+    "redirect": null,
     "tobeedited": false
   },
   "mi_hluchonemy": {
@@ -12567,6 +12834,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -12614,6 +12882,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -12661,6 +12930,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -12708,6 +12978,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -12755,6 +13026,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -12804,6 +13076,7 @@
       "y": 66,
       "z": 1088
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -12852,6 +13125,7 @@
       "y": 66,
       "z": 1082
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -12898,6 +13172,7 @@
       "y": 66,
       "z": 1089
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -12944,6 +13219,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -12991,6 +13267,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -13038,6 +13315,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -13085,6 +13363,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -13102,7 +13381,8 @@
       "Blok": "[Byty Gi](bl_byty_gi)",
       "Okrsek": "[Gi](ok_gi)",
       "\u010Ctvr\u0165": "[Gi](ct_gi)",
-      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)",
+      "\u00DA\u010Del": "Odpadn\u00ED roura ORP"
     },
     "Sections": [
       {
@@ -13120,6 +13400,10 @@
       {
         "Title": "Zaj\u00EDmavost",
         "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "27/07/25: M\u00EDstnost napojena na syst\u00E9m odpadn\u00EDch rour [ORP](sp_orp)."
       }
     ],
     "image_id": 0,
@@ -13131,7 +13415,8 @@
       "y": 0,
       "z": 0
     },
-    "redirect": "",
+    "patternleCompatible": true,
+    "redirect": null,
     "tobeedited": false
   },
   "mi_cervi_dira": {
@@ -13181,6 +13466,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -13244,6 +13530,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -13300,6 +13587,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -13348,6 +13636,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -13400,6 +13689,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -13410,7 +13700,9 @@
     "Image_titles": [],
     "Bordering_rooms": [
       "mi_predel",
-      "mi_hotel_gi_floor_gi"
+      "mi_hotel_gi_floor_gi",
+      "mi_padaci_most",
+      "mi_dalnicni_pilir"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -13440,11 +13732,11 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "22/06/25: P\u0159id\u00E1na n\u00E1stupn\u00ED plo\u0161ina a mal\u00FD ochoz.\r\n27/07/25: Skrz m\u00EDstnost vede [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha). Mal\u00FD Ochoz p\u0159idan\u00FD p\u0159ed m\u011Bs\u00EDcem byl pro dr\u00E1hu vyu\u017Eit."
+        "Content": "22/06/25: P\u0159id\u00E1na n\u00E1stupn\u00ED plo\u0161ina a mal\u00FD ochoz.\r\n27/07/25: Skrz m\u00EDstnost vede [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha). Mal\u00FD Ochoz p\u0159idan\u00FD p\u0159ed m\u011Bs\u00EDcem byl pro dr\u00E1hu vyu\u017Eit.\r\n27/07/25: M\u00EDstnost napojena na syst\u00E9m odpadn\u00EDch rour [ORP](sp_orp).\r\n28/07/25: Od Bal\u00F3nk\u016F odd\u011Blena m\u00EDstnost [Padac\u00ED Most](mi_padaci_most). Syst\u00E9m odpadn\u00EDch rour zm\u00EDn\u011Bn\u00FD v\u00FD\u0161e n\u00E1le\u017E\u00ED [Padac\u00EDmu Mostu](mi_padaci_most)."
       }
     ],
     "image_id": 0,
-    "area": 354,
+    "area": 308,
     "Empty": true,
     "numberOfRooms": 0,
     "coordinates": {
@@ -13452,6 +13744,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -13465,7 +13758,9 @@
       "mi_nocni_klid",
       "mi_garaz",
       "mi_smycka",
-      "mi_vedomi"
+      "mi_vedomi",
+      "mi_padaci_most",
+      "mi_trh"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -13473,7 +13768,8 @@
       "Blok": "[Bloky](bl_bloky)",
       "Okrsek": "[Gandalf](ok_gandalf)",
       "\u010Ctvr\u0165": "[Gandalf](ct_gandalf)",
-      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)",
+      "\u00DA\u010Del": "Odpadn\u00ED roura ORP"
     },
     "Sections": [
       {
@@ -13494,11 +13790,11 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "22/06/25: Schodi\u0161t\u011B prodlou\u017Eeno o jedno podla\u017E\u00ED. Nov\u011B vede do [Gar\u00E1\u017Ee](mi_garaz).\r\n27/07/25: Skrz m\u00EDstnost vede [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha).\r\n27/07/25: Nov\u00FD v\u00FDtah do a z nepojmenovan\u00E9 m\u00EDstnosti."
+        "Content": "22/06/25: Schodi\u0161t\u011B prodlou\u017Eeno o jedno podla\u017E\u00ED. Nov\u011B vede do [Gar\u00E1\u017Ee](mi_garaz).\r\n27/07/25: Skrz m\u00EDstnost vede [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha).\r\n27/07/25: Nov\u00FD v\u00FDtah do a z [Padac\u00EDho Mostu](mi_padaci_most) - d\u0159\u00EDve [Bal\u00F3nky](mi_balonky).\r\n28/07/25: M\u00EDstnost soused\u00ED s [Trhem](mi_trh)."
       }
     ],
     "image_id": 0,
-    "area": 138,
+    "area": 144,
     "Empty": true,
     "numberOfRooms": 0,
     "coordinates": {
@@ -13506,6 +13802,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -13561,6 +13858,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -13609,6 +13907,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -13655,6 +13954,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -13702,6 +14002,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -13749,6 +14050,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -13797,6 +14099,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -13850,6 +14153,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -13897,6 +14201,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -13944,6 +14249,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -13966,7 +14272,7 @@
       "Okrsek": "[Rotunda](ok_rotunda)",
       "\u010Ctvr\u0165": "[Basgiath](ct_basgiath)",
       "\u010C\u00E1st": "[Sibi\u0159](ca_sibir)",
-      "\u00DA\u010Del": "Strom",
+      "\u00DA\u010Del": "Strom, Odpadn\u00ED roura [ORP](sp_orp)",
       "Kategorie": "[Stromov\u00E1 v\u011B\u017E](ka_stromove_veze)"
     },
     "Sections": [
@@ -13988,7 +14294,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "26/07/25: K m\u00EDstnosti vede nov\u00FD \u017Eelezni\u010Dn\u00ED/ledov\u00FD most [M\u00E9\u010Fa](mi_meda). Po n\u011Bm vede [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha)."
+        "Content": "26/07/25: K m\u00EDstnosti vede nov\u00FD \u017Eelezni\u010Dn\u00ED/ledov\u00FD most [M\u00E9\u010Fa](mi_meda). Po n\u011Bm vede [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha).\r\n27/07/25: M\u00EDstnost napojena na syst\u00E9m odpadn\u00EDch rour [ORP](sp_orp)."
       }
     ],
     "image_id": 0,
@@ -13996,10 +14302,11 @@
     "Empty": true,
     "numberOfRooms": 0,
     "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
+      "x": 264,
+      "y": 81,
+      "z": 1135
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -14046,6 +14353,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -14064,7 +14372,8 @@
       "Blok": "[Rotunda](bl_rotunda)",
       "Okrsek": "[Rotunda](ok_rotunda)",
       "\u010Ctvr\u0165": "[Basgiath](ct_basgiath)",
-      "\u010C\u00E1st": "[Sibi\u0159](ca_sibir)"
+      "\u010C\u00E1st": "[Sibi\u0159](ca_sibir)",
+      "\u00DA\u010Del": "Odpadn\u00ED roura ORP"
     },
     "Sections": [
       {
@@ -14082,6 +14391,10 @@
       {
         "Title": "Zaj\u00EDmavost",
         "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "27/07/25: M\u00EDstnost napojena na syst\u00E9m odpadn\u00EDch rour [ORP](sp_orp)."
       }
     ],
     "image_id": 0,
@@ -14089,11 +14402,12 @@
     "Empty": true,
     "numberOfRooms": 0,
     "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
+      "x": 275,
+      "y": 97,
+      "z": 1133
     },
-    "redirect": "",
+    "patternleCompatible": true,
+    "redirect": null,
     "tobeedited": false
   },
   "mi_weaver_house": {
@@ -14147,6 +14461,7 @@
       "y": 69,
       "z": 1140
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -14198,6 +14513,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -14239,6 +14555,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -14280,6 +14597,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -14322,6 +14640,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -14364,6 +14683,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -14406,6 +14726,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -14448,6 +14769,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -14490,6 +14812,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -14533,6 +14856,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "",
     "tobeedited": false
   },
@@ -14592,6 +14916,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -14641,6 +14966,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -14689,6 +15015,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -14738,6 +15065,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -14791,6 +15119,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -14838,6 +15167,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -14885,6 +15215,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -14931,6 +15262,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -14977,6 +15309,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -15025,6 +15358,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -15082,6 +15416,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -15129,6 +15464,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -15176,6 +15512,7 @@
       "y": 68,
       "z": 1148
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -15223,6 +15560,7 @@
       "y": 77,
       "z": 1158
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -15269,6 +15607,7 @@
       "y": 77,
       "z": 1155
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -15324,6 +15663,7 @@
       "y": 69,
       "z": 1142
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -15371,6 +15711,7 @@
       "y": 65,
       "z": 1142
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -15419,6 +15760,7 @@
       "y": 63,
       "z": 1134
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -15466,6 +15808,7 @@
       "y": 68,
       "z": 1127
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -15513,6 +15856,7 @@
       "y": 64,
       "z": 1140
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -15562,6 +15906,7 @@
       "y": 62,
       "z": 1140
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -15616,6 +15961,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -15690,6 +16036,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -15735,6 +16082,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "mi_dalnice",
     "tobeedited": false
   },
@@ -15780,6 +16128,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "mi_dalnice",
     "tobeedited": false
   },
@@ -15825,6 +16174,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "mi_dalnice",
     "tobeedited": false
   },
@@ -15873,6 +16223,7 @@
       "y": 71,
       "z": 1110
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -15969,6 +16320,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -16024,6 +16376,7 @@
       "y": 63,
       "z": 1114
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -16071,6 +16424,7 @@
       "y": 63,
       "z": 1109
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -16122,6 +16476,7 @@
       "y": 63,
       "z": 1113
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -16168,6 +16523,7 @@
       "y": 71,
       "z": 1109
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -16214,6 +16570,7 @@
       "y": 71,
       "z": 1109
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -16260,6 +16617,7 @@
       "y": 71,
       "z": 1125
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -16318,6 +16676,7 @@
       "y": 71,
       "z": 1117
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -16365,6 +16724,7 @@
       "y": 67,
       "z": 1104
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -16412,6 +16772,7 @@
       "y": 73,
       "z": 1142
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -16462,6 +16823,7 @@
       "y": 78,
       "z": 1142
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -16515,6 +16877,7 @@
       "y": 83,
       "z": 1142
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -16566,6 +16929,7 @@
       "y": 87,
       "z": 1142
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -16613,6 +16977,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -16670,6 +17035,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -16720,6 +17086,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -16771,6 +17138,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -16818,6 +17186,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -16873,6 +17242,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -16921,6 +17291,7 @@
       "y": 70,
       "z": 1145
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -16967,6 +17338,7 @@
       "y": 70,
       "z": 1145
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -17016,6 +17388,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -17064,6 +17437,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -17115,6 +17489,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -17164,6 +17539,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -17184,7 +17560,7 @@
       "Okrsek": "[Gandalf](ok_gandalf)",
       "\u010Ctvr\u0165": "[Gandalf](ct_gandalf)",
       "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)",
-      "\u00DA\u010Del": "Pracovn\u00ED stoly vesni\u010Dan\u016F, sklad emerald\u016F, knih a \u017Eeleza, kovadlina"
+      "\u00DA\u010Del": "Pracovn\u00ED stoly vesni\u010Dan\u016F, sklad emerald\u016F, knih a \u017Eeleza, kovadlina, Odpadn\u00ED roura ORP"
     },
     "Sections": [
       {
@@ -17202,6 +17578,10 @@
       {
         "Title": "Zaj\u00EDmavost",
         "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "27/07/25: M\u00EDstnost napojena na syst\u00E9m odpadn\u00EDch rour [ORP](sp_orp)."
       }
     ],
     "image_id": 0,
@@ -17209,10 +17589,11 @@
     "Empty": true,
     "numberOfRooms": 0,
     "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
+      "x": 300,
+      "y": 63,
+      "z": 1061
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -17264,6 +17645,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -17313,6 +17695,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -17362,6 +17745,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -17390,6 +17774,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "mi_cary",
     "tobeedited": false
   },
@@ -17418,6 +17803,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "mi_atlas",
     "tobeedited": false
   },
@@ -17467,6 +17853,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -17517,6 +17904,7 @@
       "y": 67,
       "z": 1087
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -17545,6 +17933,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "mi_mestecko",
     "tobeedited": false
   },
@@ -17573,6 +17962,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "mi_amulet",
     "tobeedited": false
   },
@@ -17625,6 +18015,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -17674,6 +18065,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -17721,6 +18113,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -17773,6 +18166,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -17822,6 +18216,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -17870,6 +18265,7 @@
       "y": 69,
       "z": 1064
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -17917,6 +18313,7 @@
       "y": 69,
       "z": 1062
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -17965,6 +18362,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -18012,6 +18410,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -18022,7 +18421,8 @@
     "Image_titles": [],
     "Bordering_rooms": [
       "mi_komin",
-      "mi_formosa"
+      "mi_formosa",
+      "mi_trh"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -18048,10 +18448,14 @@
       {
         "Title": "Zaj\u00EDmavost",
         "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "28/07/25: M\u00EDstnost nov\u011B soused\u00ED s [Trhem](mi_trh)."
       }
     ],
     "image_id": 0,
-    "area": 176,
+    "area": 180,
     "Empty": true,
     "numberOfRooms": 0,
     "coordinates": {
@@ -18059,6 +18463,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -18110,6 +18515,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -18159,6 +18565,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -18211,6 +18618,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -18274,6 +18682,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -18319,6 +18728,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "mi_hraz",
     "tobeedited": false
   },
@@ -18364,6 +18774,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "mi_hraz",
     "tobeedited": false
   },
@@ -18409,6 +18820,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "mi_hraz",
     "tobeedited": false
   },
@@ -18454,6 +18866,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "mi_hraz",
     "tobeedited": false
   },
@@ -18499,6 +18912,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "mi_hraz",
     "tobeedited": false
   },
@@ -18546,6 +18960,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -18601,6 +19016,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -18649,6 +19065,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -18695,6 +19112,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -18741,6 +19159,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -18787,6 +19206,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -18834,6 +19254,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -18882,6 +19303,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -18928,6 +19350,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -18974,6 +19397,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -19028,6 +19452,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -19081,6 +19506,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -19130,6 +19556,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -19190,6 +19617,7 @@
       "y": 66,
       "z": 1147
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -19244,6 +19672,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -19310,6 +19739,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -19356,6 +19786,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -19404,6 +19835,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -19459,6 +19891,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -19510,6 +19943,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -19562,6 +19996,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -19619,6 +20054,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -19670,6 +20106,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -19725,6 +20162,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -19776,6 +20214,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -19826,6 +20265,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -19873,6 +20313,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -19930,6 +20371,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -19958,6 +20400,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "mi_vyhlidka",
     "tobeedited": false
   },
@@ -20004,6 +20447,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -20050,6 +20494,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -20106,6 +20551,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -20160,6 +20606,7 @@
       "y": 87,
       "z": 1135
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -20209,6 +20656,7 @@
       "y": 87,
       "z": 1132
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -20258,6 +20706,7 @@
       "y": 89,
       "z": 1128
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -20315,6 +20764,7 @@
       "y": 91,
       "z": 1138
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -20343,6 +20793,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": "mi_kolinko",
     "tobeedited": false
   },
@@ -20393,6 +20844,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -20441,6 +20893,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -20489,6 +20942,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -20536,6 +20990,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -20585,6 +21040,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -20635,6 +21091,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -20685,6 +21142,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -20744,6 +21202,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -20792,6 +21251,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -20848,6 +21308,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -20895,6 +21356,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -20945,6 +21407,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -20992,6 +21455,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -21004,7 +21468,8 @@
       "mi_kvadrant_jezdcu",
       "mi_hradba",
       "mi_hradbb",
-      "mi_pristavni_molo"
+      "mi_pristavni_molo",
+      "mi_meda"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -21031,10 +21496,14 @@
       {
         "Title": "Zaj\u00EDmavost",
         "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "27/07/25: Nov\u00FD v\u00FDtah vedouc\u00ED na [M\u00E9\u010Fu](mi_meda)."
       }
     ],
     "image_id": 0,
-    "area": 1318,
+    "area": 1302,
     "Empty": true,
     "numberOfRooms": 0,
     "coordinates": {
@@ -21042,6 +21511,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -21089,6 +21559,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -21135,6 +21606,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -21182,6 +21654,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -21228,6 +21701,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -21280,6 +21754,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -21326,6 +21801,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -21379,6 +21855,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -21436,6 +21913,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -21502,6 +21980,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -21521,7 +22000,8 @@
       "mi_audit",
       "mi_smycka",
       "mi_stavidlo",
-      "mi_pod_vrbou"
+      "mi_pod_vrbou",
+      "mi_trh"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -21530,7 +22010,7 @@
       "Okrsek": "[Gideon](ok_gideon)",
       "\u010Ctvr\u0165": "[Gideon](ct_gideon)",
       "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)",
-      "\u00DA\u010Del": "terminus [Mraven\u010D\u00ED Dr\u00E1hy](te_mravenci_draha)."
+      "\u00DA\u010Del": "terminus [Mraven\u010D\u00ED Dr\u00E1hy](te_mravenci_draha), Odpadn\u00ED roura ORP"
     },
     "Sections": [
       {
@@ -21551,11 +22031,11 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "07/07/25: Vstup vodou do [Stavidla](mi_stavidlo).\r\n07/07/25: Vstup schody [Pod Vrbu](mi_pod_vrbou).\r\n27/07/25: Skrz m\u00EDstnost vede [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha)."
+        "Content": "07/07/25: Vstup vodou do [Stavidla](mi_stavidlo).\r\n07/07/25: Vstup schody [Pod Vrbu](mi_pod_vrbou).\r\n27/07/25: Skrz m\u00EDstnost vede [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha).\r\n28/07/25: Karotka nov\u011B soused\u00ED s [Trhem](mi_trh)."
       }
     ],
     "image_id": 0,
-    "area": 90,
+    "area": 98,
     "Empty": true,
     "numberOfRooms": 0,
     "coordinates": {
@@ -21563,6 +22043,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -21613,6 +22094,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -21633,7 +22115,8 @@
       "Blok": "[Smy\u010Dka](bl_smycka)",
       "Okrsek": "[Mrkev](ok_mrkev)",
       "\u010Ctvr\u0165": "[Mrkev](ct_mrkev)",
-      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)",
+      "\u00DA\u010Del": "Odpadn\u00ED roura ORP"
     },
     "Sections": [
       {
@@ -21651,6 +22134,10 @@
       {
         "Title": "Zaj\u00EDmavost",
         "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "27/07/25: M\u00EDstnost napojena na syst\u00E9m odpadn\u00EDch rour [ORP](sp_orp)."
       }
     ],
     "image_id": 0,
@@ -21662,6 +22149,7 @@
       "y": 67,
       "z": 1094
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -21680,7 +22168,8 @@
       "mi_jizni_blok",
       "mi_hraz",
       "mi_hotel_gi_floor_ga",
-      "mi_gideon"
+      "mi_gideon",
+      "mi_atlas"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -21706,6 +22195,10 @@
       {
         "Title": "Zaj\u00EDmavost",
         "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "27/07/25: Smy\u010Dka nov\u011B soused\u00ED s [Atlasem](mi_atlas)."
       }
     ],
     "image_id": 0,
@@ -21717,6 +22210,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -21764,6 +22258,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -21811,6 +22306,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -21858,6 +22354,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -21905,6 +22402,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -21952,6 +22450,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -21999,6 +22498,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -22046,6 +22546,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -22093,6 +22594,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -22140,6 +22642,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -22187,6 +22690,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -22234,6 +22738,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -22281,6 +22786,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -22328,6 +22834,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -22375,6 +22882,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -22422,6 +22930,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -22469,6 +22978,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -22516,6 +23026,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -22563,6 +23074,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -22610,6 +23122,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -22657,6 +23170,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -22704,6 +23218,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -22751,6 +23266,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -22798,6 +23314,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -22845,6 +23362,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -22892,6 +23410,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -22939,6 +23458,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -22986,6 +23506,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -23033,6 +23554,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -23080,6 +23602,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -23127,6 +23650,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -23174,6 +23698,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -23221,6 +23746,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -23268,6 +23794,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -23315,6 +23842,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -23362,6 +23890,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -23409,6 +23938,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -23456,6 +23986,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -23503,6 +24034,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -23550,6 +24082,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -23597,6 +24130,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -23644,6 +24178,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -23691,6 +24226,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -23738,6 +24274,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -23785,6 +24322,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -23832,6 +24370,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -23879,6 +24418,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -23926,6 +24466,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -23973,6 +24514,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -24020,6 +24562,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -24067,6 +24610,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -24114,6 +24658,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -24161,6 +24706,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -24208,6 +24754,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -24255,6 +24802,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -24302,6 +24850,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -24349,6 +24898,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -24396,6 +24946,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -24443,6 +24994,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -24490,6 +25042,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -24537,6 +25090,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -24584,6 +25138,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -24631,6 +25186,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -24678,6 +25234,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -24725,6 +25282,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -24772,6 +25330,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -24819,6 +25378,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -24866,6 +25426,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -24913,6 +25474,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -24960,6 +25522,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -25007,6 +25570,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -25054,6 +25618,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -25101,6 +25666,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -25148,6 +25714,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -25195,6 +25762,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -25242,6 +25810,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -25289,6 +25858,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -25336,6 +25906,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -25383,6 +25954,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -25430,6 +26002,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -25477,6 +26050,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -25524,6 +26098,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -25571,6 +26146,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -25618,6 +26194,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -25665,6 +26242,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -25712,6 +26290,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -25759,6 +26338,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -25806,6 +26386,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -25853,6 +26434,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -25900,6 +26482,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -25947,6 +26530,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -25994,6 +26578,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -26041,6 +26626,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -26088,6 +26674,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -26135,6 +26722,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -26182,6 +26770,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -26229,6 +26818,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -26276,6 +26866,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -26323,6 +26914,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -26370,6 +26962,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -26417,6 +27010,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -26464,6 +27058,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -26511,6 +27106,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -26558,6 +27154,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -26605,6 +27202,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -26652,6 +27250,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -26699,6 +27298,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -26746,6 +27346,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -26793,6 +27394,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -26840,6 +27442,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -26887,6 +27490,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -26934,6 +27538,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -26981,6 +27586,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -27028,6 +27634,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -27075,6 +27682,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -27122,6 +27730,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -27169,6 +27778,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -27216,6 +27826,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -27263,6 +27874,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -27310,6 +27922,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -27357,6 +27970,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -27404,6 +28018,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -27451,6 +28066,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -27497,6 +28113,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -27543,6 +28160,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -27589,6 +28207,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -27635,6 +28254,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -27681,6 +28301,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -27727,6 +28348,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -27773,6 +28395,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -27819,6 +28442,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -27865,6 +28489,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -27911,6 +28536,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -27957,6 +28583,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -28003,6 +28630,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -28049,6 +28677,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -28095,6 +28724,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -28141,6 +28771,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -28187,6 +28818,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -28233,6 +28865,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -28279,6 +28912,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -28325,6 +28959,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -28371,6 +29006,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -28417,6 +29053,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -28463,6 +29100,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -28509,6 +29147,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -28555,6 +29194,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -28601,6 +29241,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -28647,6 +29288,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -28693,6 +29335,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -28739,6 +29382,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -28785,6 +29429,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -28831,6 +29476,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -28877,6 +29523,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -28923,6 +29570,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -28969,6 +29617,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -29015,6 +29664,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -29061,6 +29711,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -29107,6 +29758,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -29153,6 +29805,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -29199,6 +29852,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -29245,6 +29899,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -29291,6 +29946,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -29337,6 +29993,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -29382,6 +30039,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -29427,6 +30085,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -29472,6 +30131,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -29517,6 +30177,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -29562,6 +30223,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -29607,6 +30269,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -29652,6 +30315,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -29697,6 +30361,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -29742,6 +30407,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -29787,6 +30453,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -29832,6 +30499,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -29877,6 +30545,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -29922,6 +30591,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -29967,6 +30637,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -30012,6 +30683,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -30057,6 +30729,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -30102,6 +30775,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -30147,6 +30821,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -30191,6 +30866,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -30235,6 +30911,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -30279,6 +30956,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -30328,6 +31006,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -30382,6 +31061,7 @@
       "y": 87,
       "z": 1144
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -30430,6 +31110,7 @@
       "y": 89,
       "z": 1138
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -30482,6 +31163,7 @@
       "y": 87,
       "z": 1137
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -30532,6 +31214,7 @@
       "y": 86,
       "z": 1133
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -30579,6 +31262,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -30627,6 +31311,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -30676,6 +31361,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -30723,6 +31409,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -30771,6 +31458,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -30820,6 +31508,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -30866,6 +31555,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -30913,6 +31603,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -30956,6 +31647,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -31003,6 +31695,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -31055,6 +31748,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -31102,6 +31796,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -31151,6 +31846,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -31201,6 +31897,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -31249,6 +31946,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -31298,6 +31996,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -31347,6 +32046,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -31393,6 +32093,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -31441,6 +32142,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -31487,6 +32189,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -31535,6 +32238,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -31581,6 +32285,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -31629,6 +32334,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -31676,6 +32382,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -31722,6 +32429,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -31774,6 +32482,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -31833,6 +32542,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -31887,6 +32597,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -31938,6 +32649,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -31984,6 +32696,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -32035,6 +32748,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -32077,6 +32791,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -32129,6 +32844,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -32183,6 +32899,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -32227,6 +32944,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -32277,6 +32995,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -32325,6 +33044,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -32377,6 +33097,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -32429,6 +33150,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -32475,6 +33197,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -32521,6 +33244,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -32579,6 +33303,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -32634,6 +33359,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -32702,6 +33428,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -32762,6 +33489,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -32814,6 +33542,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -32863,6 +33592,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -32916,6 +33646,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -32960,6 +33691,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -33006,6 +33738,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -33055,6 +33788,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -33108,6 +33842,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -33164,6 +33899,7 @@
       "y": 83,
       "z": 1108
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -33218,6 +33954,7 @@
       "y": 89,
       "z": 1109
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -33272,6 +34009,7 @@
       "y": 86,
       "z": 1109
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -33326,6 +34064,7 @@
       "y": 80,
       "z": 1108
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -33378,6 +34117,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -33433,6 +34173,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -33487,6 +34228,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -33539,6 +34281,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -33551,7 +34294,8 @@
       "mi_cary",
       "mi_moje_malickost",
       "mi_zavodni_okruh",
-      "mi_i_port"
+      "mi_i_port",
+      "mi_smycka"
     ],
     "Alternate_names": [
       "Nord de Gideon"
@@ -33582,18 +34326,19 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "19/07/25: P\u0159ejmenov\u00E1no z Nord de Gideon na Atlas."
+        "Content": "19/07/25: P\u0159ejmenov\u00E1no z Nord de Gideon na Atlas.\r\n27/07/25: M\u00EDstnost napojena na syst\u00E9m odpadn\u00EDch rour [ORP](sp_orp).\r\n27/05/25: M\u00EDstnost nov\u011B soused\u00ED se [Smy\u010Dkou](mi_smycka)."
       }
     ],
     "image_id": 0,
-    "area": 69,
+    "area": 80,
     "Empty": true,
     "numberOfRooms": 0,
     "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
+      "x": 340,
+      "y": 63,
+      "z": 1085
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -33646,6 +34391,7 @@
       "y": 67,
       "z": 1101
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -33695,6 +34441,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -33751,6 +34498,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -33806,6 +34554,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -33860,6 +34609,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -33907,6 +34657,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -33962,6 +34713,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -34019,6 +34771,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -34079,6 +34832,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -34146,6 +34900,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -34198,6 +34953,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -34259,6 +35015,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -34307,6 +35064,7 @@
       "y": 98,
       "z": 1124
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -34353,6 +35111,7 @@
       "y": 102,
       "z": 1124
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -34400,6 +35159,7 @@
       "y": 98,
       "z": 1123
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -34449,6 +35209,7 @@
       "y": 94,
       "z": 1122
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -34501,6 +35262,7 @@
       "y": 94,
       "z": 1122
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -34550,6 +35312,7 @@
       "y": 94,
       "z": 1129
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -34597,6 +35360,7 @@
       "y": 94,
       "z": 1118
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -34646,6 +35410,7 @@
       "y": 91,
       "z": 1113
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -34692,6 +35457,7 @@
       "y": 88,
       "z": 1115
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -34739,6 +35505,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -34788,6 +35555,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -34836,6 +35604,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -34884,6 +35653,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -34932,6 +35702,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -34980,6 +35751,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -35028,6 +35800,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -35075,6 +35848,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -35132,6 +35906,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -35182,6 +35957,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -35234,6 +36010,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -35304,6 +36081,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -35362,6 +36140,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -35424,6 +36203,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -35480,6 +36260,7 @@
       "y": 89,
       "z": 1153
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -35549,6 +36330,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -35599,6 +36381,7 @@
       "y": 73,
       "z": 1131
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -35653,6 +36436,7 @@
       "y": 79,
       "z": 1138
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -35703,6 +36487,7 @@
       "y": 68,
       "z": 1125
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -35756,6 +36541,7 @@
       "y": 72,
       "z": 1125
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -35809,6 +36595,7 @@
       "y": 76,
       "z": 1125
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -35861,6 +36648,7 @@
       "y": 80,
       "z": 1125
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -35912,6 +36700,7 @@
       "y": 84,
       "z": 1125
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -35966,6 +36755,7 @@
       "y": 88,
       "z": 1128
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -36013,6 +36803,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -36023,14 +36814,15 @@
     "Image_titles": [],
     "Bordering_rooms": [
       "mi_draci_rotunda",
-      "mi_zmatek"
+      "mi_zmatek",
+      "mi_lom"
     ],
     "Alternate_names": [],
     "Metadata": {
       "N\u00E1zev": "M\u00E9\u010Fa",
-      "Blok": "na domy\u0161len\u00ED",
-      "Okrsek": "na domy\u0161len\u00ED",
-      "\u010Ctvr\u0165": "na domy\u0161len\u00ED",
+      "Blok": "[M\u00E9\u010Fa](bl_meda)",
+      "Okrsek": "[M\u00E9\u010Fa](ok_meda)",
+      "\u010Ctvr\u0165": "[Lom](ct_lom)",
       "\u010C\u00E1st": "[Sibi\u0159](ca_sibir)",
       "\u00DA\u010Del": "Ledov\u00E1 d\u00E1lnice, \u017Eeleznice"
     },
@@ -36050,6 +36842,10 @@
       {
         "Title": "Zaj\u00EDmavost",
         "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "27/07/25: Nov\u00FD v\u00FDtah vedouc\u00ED z [Lomu](mi_lom)."
       }
     ],
     "image_id": 0,
@@ -36061,6 +36857,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -36115,6 +36912,7 @@
       "y": 93,
       "z": 1150
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -36170,6 +36968,7 @@
       "y": 99,
       "z": 1144
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -36223,6 +37022,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -36268,6 +37068,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -36311,6 +37112,7 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
   },
@@ -36339,7 +37141,7 @@
       },
       {
         "Title": "Ocen\u011Bn\u00ED",
-        "Content": "Spole\u010Dnost ji\u017E pravideln\u011B ka\u017Ed\u00FD m\u011Bs\u00EDc vyd\u00E1v\u00E1 ocen\u011Bn\u00ED zam\u011Bstnance m\u011Bs\u00EDce. Prvn\u00ED t\u0159i m\u011Bs\u00EDce existence spole\u010Dnosti z\u00EDskala toto ocen\u011Bn\u00ED [Kyti\u010Dka z Armory](os_kyticka), kter\u00E1 jako jedin\u00E1 odv\u00E1d\u011Bla svoji pr\u00E1ci bez chyb a z\u00E1rove\u0148 mohla ukazovat v\u00FDsledky. A právě proto je její podobizna zobrazena na logu společnosti."
+        "Content": "Spole\u010Dnost ji\u017E pravideln\u011B ka\u017Ed\u00FD m\u011Bs\u00EDc vyd\u00E1v\u00E1 ocen\u011Bn\u00ED zam\u011Bstnance m\u011Bs\u00EDce. Prvn\u00ED t\u0159i m\u011Bs\u00EDce existence spole\u010Dnosti z\u00EDskala toto ocen\u011Bn\u00ED [Kyti\u010Dka z Armory](os_kyticka), kter\u00E1 jako jedin\u00E1 odv\u00E1d\u011Bla svoji pr\u00E1ci bez chyb a z\u00E1rove\u0148 mohla ukazovat v\u00FDsledky. A pr\u00E1v\u011B proto je jej\u00ED podobizna zobrazena na logu spole\u010Dnosti."
       },
       {
         "Title": "Vliv",
@@ -36355,7 +37157,858 @@
       "y": 0,
       "z": 0
     },
+    "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
-  }
+  },
+  "mi_padaci_most": {
+    "Title": "Padac\u00ED Most",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_jizni_blok",
+      "mi_balonky"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Padac\u00ED Most",
+      "Blok": "[Bal\u00F3nky](bl_balonky)",
+      "Okrsek": "[Bal\u00F3nky](ok_balonky)",
+      "\u010Ctvr\u0165": "[Gi](ct_gi)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)",
+      "\u00DA\u010Del": "Odpadn\u00ED roura ORP"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 51,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 293,
+      "y": 92,
+      "z": 1078
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false
+  },
+  "mi_trh": {
+    "Title": "Trh",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_garaz",
+      "mi_pirenopolis",
+      "mi_karotka",
+      "mi_jizni_blok"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Trh",
+      "Blok": "[Listy](bl_listy)",
+      "Okrsek": "[Mrkev](ok_mrkev)",
+      "\u010Ctvr\u0165": "[Mrkev](ct_mrkev)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 105,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false
+  },
+"bl_most": {
+            "Title": "Most",
+            "Type": "blok",
+            "Images": [],
+            "Image_titles": [],
+            "Bordering_rooms": [],
+            "Alternate_names": [],
+            "Metadata": {
+                "Název": "Most",
+                "Okrsek": "[Most](ok_most)",
+                "Čtvrť": "[Expresionismus](ct_expresionismus)",
+                "Část": "[Sibiř](ca_sibir)"
+            },
+            "Sections": [
+                {
+                    "Title": "Přehled",
+                    "Content": ""
+                },
+                {
+                    "Title": "Název",
+                    "Content": ""
+                },
+                {
+                    "Title": "Interiér",
+                    "Content": ""
+                },
+                {
+                    "Title": "Zajímavosti",
+                    "Content": ""
+                },
+                {
+                    "Title": "Aktuality",
+                    "Content": ""
+                }
+            ],
+            "image_id": 0,
+            "area": 0,
+            "Empty": true,
+            "numberOfRooms": 0,
+            "redirect": null,
+            "tobeedited": false
+            },
+"bl_vrba": {
+            "Title": "Vrba",
+            "Type": "blok",
+            "Images": [],
+            "Image_titles": [],
+            "Bordering_rooms": [],
+            "Alternate_names": [],
+            "Metadata": {
+                "Název": "Vrba",
+                "Okrsek": "[Mutěnické Rybníky](ok_mutenicke_rybniky)",
+                "Čtvrť": "[Goias](ct_goias)",
+                "Část": "[Nové Dilí](ca_nove_dili)"
+            },
+            "Sections": [
+                {
+                    "Title": "Přehled",
+                    "Content": ""
+                },
+                {
+                    "Title": "Název",
+                    "Content": ""
+                },
+                {
+                    "Title": "Interiér",
+                    "Content": ""
+                },
+                {
+                    "Title": "Zajímavosti",
+                    "Content": ""
+                },
+                {
+                    "Title": "Aktuality",
+                    "Content": ""
+                }
+            ],
+            "image_id": 0,
+            "area": 0,
+            "Empty": true,
+            "numberOfRooms": 0,
+            "redirect": null,
+            "tobeedited": false
+            },
+"bl_suchanek": {
+            "Title": "Suchánek",
+            "Type": "blok",
+            "Images": [],
+            "Image_titles": [],
+            "Bordering_rooms": [],
+            "Alternate_names": [],
+            "Metadata": {
+                "Název": "Suchánek",
+                "Okrsek": "[Mutěnické Rybníky](ok_mutenicke_rybniky)",
+                "Čtvrť": "[Goias](ct_goias)",
+                "Část": "[Nové Dilí](ca_nove_dili)"
+            },
+            "Sections": [
+                {
+                    "Title": "Přehled",
+                    "Content": ""
+                },
+                {
+                    "Title": "Název",
+                    "Content": ""
+                },
+                {
+                    "Title": "Interiér",
+                    "Content": ""
+                },
+                {
+                    "Title": "Zajímavosti",
+                    "Content": ""
+                },
+                {
+                    "Title": "Aktuality",
+                    "Content": ""
+                }
+            ],
+            "image_id": 0,
+            "area": 0,
+            "Empty": true,
+            "numberOfRooms": 0,
+            "redirect": null,
+            "tobeedited": false
+            },
+"bl_povodi": {
+            "Title": "Povodí",
+            "Type": "blok",
+            "Images": [],
+            "Image_titles": [],
+            "Bordering_rooms": [],
+            "Alternate_names": [],
+            "Metadata": {
+                "Název": "Povodí",
+                "Okrsek": "[Mutěnické Rybníky](ok_mutenicke_rybniky)",
+                "Čtvrť": "[Goias](ct_goias)",
+                "Část": "[Nové Dilí](ca_nove_dili)"
+            },
+            "Sections": [
+                {
+                    "Title": "Přehled",
+                    "Content": ""
+                },
+                {
+                    "Title": "Název",
+                    "Content": ""
+                },
+                {
+                    "Title": "Interiér",
+                    "Content": ""
+                },
+                {
+                    "Title": "Zajímavosti",
+                    "Content": ""
+                },
+                {
+                    "Title": "Aktuality",
+                    "Content": ""
+                }
+            ],
+            "image_id": 0,
+            "area": 0,
+            "Empty": true,
+            "numberOfRooms": 0,
+            "redirect": null,
+            "tobeedited": false
+            },
+"bl_silhanek": {
+            "Title": "Šilhánek",
+            "Type": "blok",
+            "Images": [],
+            "Image_titles": [],
+            "Bordering_rooms": [],
+            "Alternate_names": [],
+            "Metadata": {
+                "Název": "Šilhánek",
+                "Okrsek": "[Mutěnické Rybníky](ok_mutenicke_rybniky)",
+                "Čtvrť": "[Goias](ct_goias)",
+                "Část": "[Nové Dilí](ca_nove_dili)"
+            },
+            "Sections": [
+                {
+                    "Title": "Přehled",
+                    "Content": ""
+                },
+                {
+                    "Title": "Název",
+                    "Content": ""
+                },
+                {
+                    "Title": "Interiér",
+                    "Content": ""
+                },
+                {
+                    "Title": "Zajímavosti",
+                    "Content": ""
+                },
+                {
+                    "Title": "Aktuality",
+                    "Content": ""
+                }
+            ],
+            "image_id": 0,
+            "area": 0,
+            "Empty": true,
+            "numberOfRooms": 0,
+            "redirect": null,
+            "tobeedited": false
+            },
+"bl_tresen": {
+            "Title": "Třešeň",
+            "Type": "blok",
+            "Images": [],
+            "Image_titles": [],
+            "Bordering_rooms": [],
+            "Alternate_names": [],
+            "Metadata": {
+                "Název": "Třešeň",
+                "Okrsek": "[Most](ok_most)",
+                "Čtvrť": "[Expresionismus](ct_expresionismus)",
+                "Část": "[Sibiř](ca_sibir)"
+            },
+            "Sections": [
+                {
+                    "Title": "Přehled",
+                    "Content": ""
+                },
+                {
+                    "Title": "Název",
+                    "Content": ""
+                },
+                {
+                    "Title": "Interiér",
+                    "Content": ""
+                },
+                {
+                    "Title": "Zajímavosti",
+                    "Content": ""
+                },
+                {
+                    "Title": "Aktuality",
+                    "Content": ""
+                }
+            ],
+            "image_id": 0,
+            "area": 0,
+            "Empty": true,
+            "numberOfRooms": 0,
+            "redirect": null,
+            "tobeedited": false
+            },
+"bl_dvojcata": {
+            "Title": "Dvojčata",
+            "Type": "blok",
+            "Images": [],
+            "Image_titles": [],
+            "Bordering_rooms": [],
+            "Alternate_names": [],
+            "Metadata": {
+                "Název": "Dvojčata",
+                "Okrsek": "[Silo](ok_silo)",
+                "Čtvrť": "[Rybářská Kolonie](ct_rybarska_kolonie)",
+                "Část": "[Pařez](ca_parez)"
+            },
+            "Sections": [
+                {
+                    "Title": "Přehled",
+                    "Content": ""
+                },
+                {
+                    "Title": "Název",
+                    "Content": ""
+                },
+                {
+                    "Title": "Interiér",
+                    "Content": ""
+                },
+                {
+                    "Title": "Zajímavosti",
+                    "Content": ""
+                },
+                {
+                    "Title": "Aktuality",
+                    "Content": ""
+                }
+            ],
+            "image_id": 0,
+            "area": 0,
+            "Empty": true,
+            "numberOfRooms": 0,
+            "redirect": null,
+            "tobeedited": false
+            },
+"bl_hospoda": {
+            "Title": "Hospoda",
+            "Type": "blok",
+            "Images": [],
+            "Image_titles": [],
+            "Bordering_rooms": [],
+            "Alternate_names": [],
+            "Metadata": {
+                "Název": "Hospoda",
+                "Okrsek": "[Heršpice](ok_herspice)",
+                "Čtvrť": "[Kořen](ct_koren)",
+                "Část": "[Pařez](ca_parez)"
+            },
+            "Sections": [
+                {
+                    "Title": "Přehled",
+                    "Content": ""
+                },
+                {
+                    "Title": "Název",
+                    "Content": ""
+                },
+                {
+                    "Title": "Interiér",
+                    "Content": ""
+                },
+                {
+                    "Title": "Zajímavosti",
+                    "Content": ""
+                },
+                {
+                    "Title": "Aktuality",
+                    "Content": ""
+                }
+            ],
+            "image_id": 0,
+            "area": 0,
+            "Empty": true,
+            "numberOfRooms": 0,
+            "redirect": null,
+            "tobeedited": false
+            },
+"bl_horizont": {
+            "Title": "Horizont",
+            "Type": "blok",
+            "Images": [],
+            "Image_titles": [],
+            "Bordering_rooms": [],
+            "Alternate_names": [],
+            "Metadata": {
+                "Název": "Horizont",
+                "Okrsek": "[Heršpice](ok_herspice)",
+                "Čtvrť": "[Kořen](ct_koren)",
+                "Část": "[Pařez](ca_parez)"
+            },
+            "Sections": [
+                {
+                    "Title": "Přehled",
+                    "Content": ""
+                },
+                {
+                    "Title": "Název",
+                    "Content": ""
+                },
+                {
+                    "Title": "Interiér",
+                    "Content": ""
+                },
+                {
+                    "Title": "Zajímavosti",
+                    "Content": ""
+                },
+                {
+                    "Title": "Aktuality",
+                    "Content": ""
+                }
+            ],
+            "image_id": 0,
+            "area": 0,
+            "Empty": true,
+            "numberOfRooms": 0,
+            "redirect": null,
+            "tobeedited": false
+            },
+"bl_hrbaty_hrozen": {
+            "Title": "Hrbatý Hrozen",
+            "Type": "blok",
+            "Images": [],
+            "Image_titles": [],
+            "Bordering_rooms": [],
+            "Alternate_names": [],
+            "Metadata": {
+                "Název": "Hrbatý Hrozen",
+                "Okrsek": "[Heršpice](ok_herspice)",
+                "Čtvrť": "[Kořen](ct_koren)",
+                "Část": "[Pařez](ca_parez)"
+            },
+            "Sections": [
+                {
+                    "Title": "Přehled",
+                    "Content": ""
+                },
+                {
+                    "Title": "Název",
+                    "Content": ""
+                },
+                {
+                    "Title": "Interiér",
+                    "Content": ""
+                },
+                {
+                    "Title": "Zajímavosti",
+                    "Content": ""
+                },
+                {
+                    "Title": "Aktuality",
+                    "Content": ""
+                }
+            ],
+            "image_id": 0,
+            "area": 0,
+            "Empty": true,
+            "numberOfRooms": 0,
+            "redirect": null,
+            "tobeedited": false
+            },
+"bl_pohrebiste": {
+            "Title": "Pohřebiště",
+            "Type": "blok",
+            "Images": [],
+            "Image_titles": [],
+            "Bordering_rooms": [],
+            "Alternate_names": [],
+            "Metadata": {
+                "Název": "Pohřebiště",
+                "Okrsek": "[Heršpice](ok_herspice)",
+                "Čtvrť": "[Kořen](ct_koren)",
+                "Část": "[Pařez](ca_parez)"
+            },
+            "Sections": [
+                {
+                    "Title": "Přehled",
+                    "Content": ""
+                },
+                {
+                    "Title": "Název",
+                    "Content": ""
+                },
+                {
+                    "Title": "Interiér",
+                    "Content": ""
+                },
+                {
+                    "Title": "Zajímavosti",
+                    "Content": ""
+                },
+                {
+                    "Title": "Aktuality",
+                    "Content": ""
+                }
+            ],
+            "image_id": 0,
+            "area": 0,
+            "Empty": true,
+            "numberOfRooms": 0,
+            "redirect": null,
+            "tobeedited": false
+            },
+"bl_hudba": {
+            "Title": "Hudba",
+            "Type": "blok",
+            "Images": [],
+            "Image_titles": [],
+            "Bordering_rooms": [],
+            "Alternate_names": [],
+            "Metadata": {
+                "Název": "Hudba",
+                "Okrsek": "[Heršpice](ok_herspice)",
+                "Čtvrť": "[Kořen](ct_koren)",
+                "Část": "[Pařez](ca_parez)"
+            },
+            "Sections": [
+                {
+                    "Title": "Přehled",
+                    "Content": ""
+                },
+                {
+                    "Title": "Název",
+                    "Content": ""
+                },
+                {
+                    "Title": "Interiér",
+                    "Content": ""
+                },
+                {
+                    "Title": "Zajímavosti",
+                    "Content": ""
+                },
+                {
+                    "Title": "Aktuality",
+                    "Content": ""
+                }
+            ],
+            "image_id": 0,
+            "area": 0,
+            "Empty": true,
+            "numberOfRooms": 0,
+            "redirect": null,
+            "tobeedited": false
+            },
+"bl_meda": {
+            "Title": "Méďa",
+            "Type": "blok",
+            "Images": [],
+            "Image_titles": [],
+            "Bordering_rooms": [],
+            "Alternate_names": [],
+            "Metadata": {
+                "Název": "Méďa",
+                "Okrsek": "[Méďa](ok_meda)",
+                "Čtvrť": "[Lom](ct_lom)",
+                "Část": "[Sibiř](ca_sibir)"
+            },
+            "Sections": [
+                {
+                    "Title": "Přehled",
+                    "Content": ""
+                },
+                {
+                    "Title": "Název",
+                    "Content": ""
+                },
+                {
+                    "Title": "Interiér",
+                    "Content": ""
+                },
+                {
+                    "Title": "Zajímavosti",
+                    "Content": ""
+                },
+                {
+                    "Title": "Aktuality",
+                    "Content": ""
+                }
+            ],
+            "image_id": 0,
+            "area": 0,
+            "Empty": true,
+            "numberOfRooms": 0,
+            "redirect": null,
+            "tobeedited": false
+            },
+"ok_loosova_vila": {
+            "Title": "Loosova Vila",
+            "Type": "okrsek",
+            "Images": [],
+            "Image_titles": [],
+            "Bordering_rooms": [],
+            "Alternate_names": [],
+            "Metadata": {
+                "Název": "Loosova Vila",
+                "Čtvrť": "[Trója](ct_troja)",
+                "Část": "[Trója](ca_troja)"
+            },
+            "Sections": [
+                {
+                    "Title": "Přehled",
+                    "Content": ""
+                },
+                {
+                    "Title": "Název",
+                    "Content": ""
+                },
+                {
+                    "Title": "Interiér",
+                    "Content": ""
+                },
+                {
+                    "Title": "Zajímavosti",
+                    "Content": ""
+                },
+                {
+                    "Title": "Aktuality",
+                    "Content": ""
+                }
+            ],
+            "image_id": 0,
+            "area": 0,
+            "Empty": true,
+            "numberOfRooms": 0,
+            "redirect": null,
+            "tobeedited": false
+            },
+"ok_most": {
+            "Title": "Most",
+            "Type": "okrsek",
+            "Images": [],
+            "Image_titles": [],
+            "Bordering_rooms": [],
+            "Alternate_names": [],
+            "Metadata": {
+                "Název": "Most",
+                "Čtvrť": "[Expresionismus](ct_expresionismus)",
+                "Část": "[Sibiř](ca_sibir)"
+            },
+            "Sections": [
+                {
+                    "Title": "Přehled",
+                    "Content": ""
+                },
+                {
+                    "Title": "Název",
+                    "Content": ""
+                },
+                {
+                    "Title": "Interiér",
+                    "Content": ""
+                },
+                {
+                    "Title": "Zajímavosti",
+                    "Content": ""
+                },
+                {
+                    "Title": "Aktuality",
+                    "Content": ""
+                }
+            ],
+            "image_id": 0,
+            "area": 0,
+            "Empty": true,
+            "numberOfRooms": 0,
+            "redirect": null,
+            "tobeedited": false
+            },
+"ok_mutenicke_rybniky": {
+            "Title": "Mutěnické Rybníky",
+            "Type": "okrsek",
+            "Images": [],
+            "Image_titles": [],
+            "Bordering_rooms": [],
+            "Alternate_names": [],
+            "Metadata": {
+                "Název": "Mutěnické Rybníky",
+                "Čtvrť": "[Goias](ct_goias)",
+                "Část": "[Nové Dilí](ca_nove_dili)"
+            },
+            "Sections": [
+                {
+                    "Title": "Přehled",
+                    "Content": ""
+                },
+                {
+                    "Title": "Název",
+                    "Content": ""
+                },
+                {
+                    "Title": "Interiér",
+                    "Content": ""
+                },
+                {
+                    "Title": "Zajímavosti",
+                    "Content": ""
+                },
+                {
+                    "Title": "Aktuality",
+                    "Content": ""
+                }
+            ],
+            "image_id": 0,
+            "area": 0,
+            "Empty": true,
+            "numberOfRooms": 0,
+            "redirect": null,
+            "tobeedited": false
+            },
+"ok_herspice": {
+            "Title": "Heršpice",
+            "Type": "okrsek",
+            "Images": [],
+            "Image_titles": [],
+            "Bordering_rooms": [],
+            "Alternate_names": [],
+            "Metadata": {
+                "Název": "Heršpice",
+                "Čtvrť": "[Kořen](ct_koren)",
+                "Část": "[Pařez](ca_parez)"
+            },
+            "Sections": [
+                {
+                    "Title": "Přehled",
+                    "Content": ""
+                },
+                {
+                    "Title": "Název",
+                    "Content": ""
+                },
+                {
+                    "Title": "Interiér",
+                    "Content": ""
+                },
+                {
+                    "Title": "Zajímavosti",
+                    "Content": ""
+                },
+                {
+                    "Title": "Aktuality",
+                    "Content": ""
+                }
+            ],
+            "image_id": 0,
+            "area": 0,
+            "Empty": true,
+            "numberOfRooms": 0,
+            "redirect": null,
+            "tobeedited": false
+            },
+"ok_meda": {
+            "Title": "Méďa",
+            "Type": "okrsek",
+            "Images": [],
+            "Image_titles": [],
+            "Bordering_rooms": [],
+            "Alternate_names": [],
+            "Metadata": {
+                "Název": "Méďa",
+                "Čtvrť": "[Lom](ct_lom)",
+                "Část": "[Sibiř](ca_sibir)"
+            },
+            "Sections": [
+                {
+                    "Title": "Přehled",
+                    "Content": ""
+                },
+                {
+                    "Title": "Název",
+                    "Content": ""
+                },
+                {
+                    "Title": "Interiér",
+                    "Content": ""
+                },
+                {
+                    "Title": "Zajímavosti",
+                    "Content": ""
+                },
+                {
+                    "Title": "Aktuality",
+                    "Content": ""
+                }
+            ],
+            "image_id": 0,
+            "area": 0,
+            "Empty": true,
+            "numberOfRooms": 0,
+            "redirect": null,
+            "tobeedited": false
+            }
 }

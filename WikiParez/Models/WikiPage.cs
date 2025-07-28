@@ -15,6 +15,7 @@ public class WikiPage
     public bool Empty { get; set; } = false;
     public int numberOfRooms { get; set; } = 0;
     public Coordinates coordinates {get; set;} = new Coordinates();
+    public bool patternleCompatible { get; set; } = true;
     public int image_count()
     {
         return Image_titles.Count;

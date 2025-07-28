@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mrb2WNZtCWM1i5Ij1Smuy07KnMmSrSg7YELdD/ughTI=",
+  "Hash": "XJZmR7DmYN474Vm+M8sgxGV9vR5R+uDQXbD/30wgmOs=",
   "Source": "WikiParez",
   "BasePath": "_content/WikiParez",
   "Mode": "Default",
@@ -110,6 +110,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/favicon.png"
+    },
+    {
+      "Identity": "/root/wikiparez/WikiParez/wwwroot/Images/Autosaved (3).png:Zone.Identifier",
+      "SourceId": "WikiParez",
+      "SourceType": "Discovered",
+      "ContentRoot": "/root/wikiparez/WikiParez/wwwroot/",
+      "BasePath": "_content/WikiParez",
+      "RelativePath": "Images/Autosaved (3).png:Zone.Identifier",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Images/Autosaved (3).png:Zone.Identifier"
     },
     {
       "Identity": "/root/wikiparez/WikiParez/wwwroot/Images/beacon_parez1.png",
@@ -2373,6 +2392,25 @@
       "OriginalItemSpec": "wwwroot/Images/mi_parsley_attic3.png"
     },
     {
+      "Identity": "/root/wikiparez/WikiParez/wwwroot/Images/mi_parsley_attic4.png",
+      "SourceId": "WikiParez",
+      "SourceType": "Discovered",
+      "ContentRoot": "/root/wikiparez/WikiParez/wwwroot/",
+      "BasePath": "_content/WikiParez",
+      "RelativePath": "Images/mi_parsley_attic4.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Images/mi_parsley_attic4.png"
+    },
+    {
       "Identity": "/root/wikiparez/WikiParez/wwwroot/Images/mi_pavlac1.png",
       "SourceId": "WikiParez",
       "SourceType": "Discovered",
@@ -4520,12 +4558,12 @@
       "OriginalItemSpec": "wwwroot/Images/missing.jpg"
     },
     {
-      "Identity": "/root/wikiparez/WikiParez/wwwroot/Images/os_kvetina1.png",
+      "Identity": "/root/wikiparez/WikiParez/wwwroot/Images/os_kyticka1.png",
       "SourceId": "WikiParez",
       "SourceType": "Discovered",
       "ContentRoot": "/root/wikiparez/WikiParez/wwwroot/",
       "BasePath": "_content/WikiParez",
-      "RelativePath": "Images/os_kvetina1.png",
+      "RelativePath": "Images/os_kyticka1.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4536,7 +4574,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/Images/os_kvetina1.png"
+      "OriginalItemSpec": "wwwroot/Images/os_kyticka1.png"
     },
     {
       "Identity": "/root/wikiparez/WikiParez/wwwroot/Images/os_marcela_hebertova1.png",
