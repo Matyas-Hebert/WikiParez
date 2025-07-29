@@ -18806,54 +18806,6 @@
     "redirect": "mi_hraz",
     "tobeedited": false
   },
-  "mi_kvadrant_jezdcu": {
-    "Title": "Kvadrant Jezdc\u016F",
-    "Type": "m\u00EDstnost",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [
-      "mi_lom",
-      "mi_spirala"
-    ],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "Kvadrant Jezdc\u016F",
-      "Blok": "[Kvadrant](bl_kvadrant)",
-      "Okrsek": "[\u010Ctvrt\u00E9 K\u0159\u00EDdlo](ok_ctvrte_kridlo)",
-      "\u010Ctvr\u0165": "[Basgiath](ct_basgiath)",
-      "\u010C\u00E1st": "[Sibi\u0159](ca_sibir)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": "Jak vznikl n\u00E1zev?"
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": "N\u011Bco o interi\u00E9ru."
-      },
-      {
-        "Title": "Zaj\u00EDmavost",
-        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
-      }
-    ],
-    "image_id": 0,
-    "area": 224,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "patternleCompatible": true,
-    "redirect": null,
-    "tobeedited": false
-  },
   "mi_spirala": {
     "Title": "Spir\u00E1la",
     "Type": "m\u00EDstnost",
@@ -33537,53 +33489,6 @@
     "redirect": null,
     "tobeedited": false
   },
-  "mi_motor": {
-    "Title": "Motor",
-    "Type": "m\u00EDstnost",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [
-      "mi_pavilon"
-    ],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "Motor",
-      "Blok": "[T\u0159e\u0161e\u0148](bl_tresen)",
-      "Okrsek": "[Most](ok_most)",
-      "\u010Ctvr\u0165": "[Expresionismus](ct_expresionismus)",
-      "\u010C\u00E1st": "[Sibi\u0159](ca_sibir)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": "Jak vznikl n\u00E1zev?"
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": "N\u011Bco o interi\u00E9ru."
-      },
-      {
-        "Title": "Zaj\u00EDmavost",
-        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
-      }
-    ],
-    "image_id": 0,
-    "area": 5,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "patternleCompatible": true,
-    "redirect": null,
-    "tobeedited": false
-  },
   "mi_pavilon": {
     "Title": "Pavilon",
     "Type": "m\u00EDstnost",
@@ -35201,56 +35106,6 @@
       "x": 342,
       "y": 94,
       "z": 1118
-    },
-    "patternleCompatible": true,
-    "redirect": null,
-    "tobeedited": false
-  },
-  "mi_hmla": {
-    "Title": "Hmla",
-    "Type": "m\u00EDstnost",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [
-      "mi_papokoi",
-      "mi_hrozen",
-      "mi_hyena",
-      "mi_dalnicni_pilir"
-    ],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "Hmla",
-      "Blok": "[Hrbat\u00FD Hrozen](bl_hrbaty_hrozen)",
-      "Okrsek": "[Her\u0161pice](ok_herspice)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
-      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": "Jak vznikl n\u00E1zev?"
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": "N\u011Bco o interi\u00E9ru."
-      },
-      {
-        "Title": "Zaj\u00EDmavost",
-        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
-      }
-    ],
-    "image_id": 0,
-    "area": 11,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 344,
-      "y": 91,
-      "z": 1113
     },
     "patternleCompatible": true,
     "redirect": null,
@@ -38216,6 +38071,159 @@
       "x": 0,
       "y": 0,
       "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false
+  },
+  "mi_kvadrant_jezdcu": {
+    "Title": "Kvadrant Jezdc\u016F",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "KVADRANT JEZDC\u016E",
+      "BR\u00C1NA"
+    ],
+    "Bordering_rooms": [
+      "mi_lom",
+      "mi_spirala"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Kvadrant Jezdc\u016F",
+      "Blok": "[Kvadrant](bl_kvadrant)",
+      "Okrsek": "[\u010Ctvrt\u00E9 K\u0159\u00EDdlo](ok_ctvrte_kridlo)",
+      "\u010Ctvr\u0165": "[Basgiath](ct_basgiath)",
+      "\u010C\u00E1st": "[Sibi\u0159](ca_sibir)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Kvadrant Jezdc\u016F tvo\u0159\u00ED prvn\u00ED podla\u017E\u00ED v\u011B\u017Ee [Basgiath](ct_basgiath). Do m\u00EDstnosti se vstupuje hlavn\u00ED branou, kter\u00E1 je p\u0159\u00EDstupn\u00E1 d\u0159ev\u011Bn\u00FDm mostem vedouc\u00EDm z [Lomu](mi_lom). Uprost\u0159ed Kvadrantu se nach\u00E1z\u00ED dominantn\u00ED prvek \u2013 to\u010Dit\u00E9 schodi\u0161t\u011B zn\u00E1m\u00E9 jako [Spir\u00E1la](mi_spirala). To propojuje toto podla\u017E\u00ED jednak sm\u011Brem dol\u016F s [Arboretem](mi_arboretum), a jednak sm\u011Brem vzh\u016Fru s vy\u0161\u0161\u00EDmi m\u00EDstnostmi v r\u00E1mci [Basgiathu](ct_basgiath) jako je [Dra\u010D\u00ED Rotunda](mi_draci_rotunda). V r\u00E1mci [Basgiathu](ct_basgiath) nen\u00ED jin\u00E1 mo\u017Enost jak se dostat do jin\u00FDch podla\u017E\u00ED."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "N\u00E1zev byl inspirov\u00E1n knihou \u0022\u010Dtvrt\u00E9 k\u0159\u00EDdlo\u0022. Kvadrant Jezdc\u016F v knize ozna\u010Duje jednu ze \u010Dty\u0159 sekc\u00ED/k\u0159\u00EDdel ur\u010Denou pro v\u00FDcvik dra\u010D\u00EDch jezdc\u016F."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Kulat\u00E1 m\u00EDstnost o polom\u011Bru deseti blok\u016F, se st\u011Bnami vytvo\u0159en\u00FDmi z kombinace prken, plot\u016F a trapdoor\u016F, kter\u00E9 vytv\u00E1\u0159ej\u00ED typick\u00FD styl [Basgiathu](ct_basgiath). Ji\u017En\u00ED st\u011Bna je p\u0159eru\u0161ena \u0161irokou branou, zat\u00EDmco na v\u00FDchodn\u00ED, severn\u00ED a z\u00E1padn\u00ED stran\u011B jsou do v\u00FD\u0161ky vsazeny trapdoory \u2014 zat\u00EDm je\u0161t\u011B uzav\u0159en\u00E9, ale p\u0159ipraven\u00E9 st\u00E1t se budouc\u00EDmi vchody.\r\nVe st\u0159edu m\u00EDstnosti je vyhrazen\u00FD \u010Dtvercov\u00FD prostor o rozm\u011Brech 6\u00D76 blok\u016F pro [schodi\u0161t\u011B](mi_spirala). Na ka\u017Ed\u00E9 ze \u010Dty\u0159 st\u011Bn, vysoko u stropu, vis\u00ED lucerny, kter\u00E9 sv\u00FDm tepl\u00FDm sv\u011Btlem zal\u00E9vaj\u00ED interi\u00E9r.\r\nStrop m\u00EDstnosti je po okraj\u00EDch ve v\u00FD\u0161ce 4,5 bloku, ale sm\u011Brem ke st\u0159edu se ztr\u00E1c\u00ED \u2014 proto\u017Ee o osmn\u00E1ct blok\u016F v\u00FD\u0161e, p\u0159\u00EDmo nad touto m\u00EDstnost\u00ED, je podlaha [stromov\u00E9 v\u011B\u017Ee](ka_stromova_vez) [Dra\u010D\u00ED Rotundy](mi_draci_rotunda).\r\nCelkov\u011B m\u00E1 Kvadrant Jezdc\u016F jeden z nejpropracovan\u011Bj\u0161\u00EDch interi\u00E9r\u016F ze v\u0161ech m\u00EDstnost\u00ED nejen v [Basgiathu](ct_basgiath) ale v cel\u00E9m dom\u011B a svoji nemalou plochou m\u016F\u017Ee p\u0159ipom\u00EDnat prostor pro v\u00FDcvik dra\u010D\u00EDch jezdc\u016F. "
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Kvadrant Jezdc\u016F je nejstar\u0161\u00ED m\u00EDstnost ve \u010Dtvrti [Basgiath](ct_basgiath)."
+      }
+    ],
+    "image_id": 0,
+    "area": 224,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 264,
+      "y": 63,
+      "z": 1136
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false
+  },
+  "mi_motor": {
+    "Title": "Motor",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "MOTOR"
+    ],
+    "Bordering_rooms": [
+      "mi_pavilon"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Motor",
+      "Blok": "[T\u0159e\u0161e\u0148](bl_tresen)",
+      "Okrsek": "[Most](ok_most)",
+      "\u010Ctvr\u0165": "[Expresionismus](ct_expresionismus)",
+      "\u010C\u00E1st": "[Sibi\u0159](ca_sibir)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Motor je mal\u00E1 m\u00EDstnost nach\u00E1zej\u00EDc\u00ED se pod schody vedouc\u00EDmi z [Pavilonu](mi_pavilon) do [T\u0159e\u0161n\u011B](mi_tresen). Do m\u00EDstnosti vedou jedin\u00E9 dve\u0159e a to z ji\u017E zm\u00EDn\u011Bn\u00E9ho [Pavilonu](mi_pavilon)."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Stejn\u011B jak je motor pod kapotou auta tak je m\u00EDstnost Motor schovan\u00E1 pod schodi\u0161t\u011Bm."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "M\u00EDstnost s nepravideln\u00FDm p\u016Fdorysem o celkov\u00E9 plo\u0161e jeden\u00E1cti blok\u016F. Jej\u00ED strop tvo\u0159\u00ED \u0161ikm\u00E9 schodi\u0161t\u011B, kter\u00E9 se sm\u011Brem k severn\u00ED st\u011Bn\u011B postupn\u011B sni\u017Euje, a\u017E nakonec spl\u00FDv\u00E1 s podlahou. Kv\u016Fli tomu m\u00E1 pouze p\u011Bt blok\u016F m\u00EDstnsoti dostate\u010Dnou v\u00FD\u0161ku k voln\u00E9mu pohybu \u2014 na zbyl\u00FDch \u0161esti bloc\u00EDch je strop ni\u017E\u0161\u00ED ne\u017E v\u00FD\u0161ka hr\u00E1\u010De\r\nV \u010D\u00E1sti s nejvy\u0161\u0161\u00EDm stropem se nach\u00E1zej\u00ED dve\u0159e, dv\u011B mal\u00E1 okna a ve st\u011Bny je um\u00EDst\u011Bn crafting table a cel\u00FD prostor osv\u011Btluje jedin\u00E1 lou\u010D."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "M\u00EDstnost je star\u0161\u00ED jak [Pavilon](mi_pavilon)."
+      }
+    ],
+    "image_id": 0,
+    "area": 5,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 317,
+      "y": 65,
+      "z": 1172
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false
+  },
+  "mi_hmla": {
+    "Title": "Hmla",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "HMLA",
+      "ZA\u010C\u00C1TEK SCHODI\u0160T\u011A"
+    ],
+    "Bordering_rooms": [
+      "mi_papokoi",
+      "mi_hrozen",
+      "mi_hyena",
+      "mi_dalnicni_pilir"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Hmla",
+      "Blok": "[Hrbat\u00FD Hrozen](bl_hrbaty_hrozen)",
+      "Okrsek": "[Her\u0161pice](ok_herspice)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Hmla je kr\u00E1tk\u00E9 \u00FAzk\u00E9 schodi\u0161t\u011B spojuj\u00EDc\u00ED n\u00E1sleduj\u00EDc\u00ED m\u00EDstnosti (od nejn\u00ED\u017Ee polo\u017Een\u00E9): [Papokoi](mi_papokoi), [Hrozen](mi_hrozen), [D\u00E1lni\u010Dn\u00ED Pil\u00ED\u0159](mi_dalnicni_pilir) a [Hyena](mi_hyena). Spole\u010Dn\u011B s [Hroznem](mi_hrozen) a [Halucinacemi](mi_halucinace) pat\u0159\u00ED do bloku [Hrbat\u00FD Hrozen](bl_hrbaty_hrozen)."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Stejn\u011B jako v\u0161echny ostatn\u00ED [Her\u0161pick\u00E9](ok_herspice) m\u00EDstnosti je i Hmla pojmenov\u00E1na podle b\u00E1sn\u011B Vlasty Redla jen na \u0022H\u0022."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Hmla je kr\u00E1tk\u00E9 jeden blok \u00FAzk\u00E9 schodi\u0161t\u011B, kter\u00E9 je ze v\u0161ech stran oploceno. Schodi\u0161t\u011B samotn\u00E9 nen\u00ED ani n\u00E1hodou rovn\u00E9 a na sv\u00E9 kr\u00E1tk\u00E9 d\u00E9lce jeden\u00E1cti blok\u016F se \u010Dty\u0159ikr\u00E1t st\u00E1\u010D\u00ED. V p\u0159\u00EDpad\u011B, \u017Ee hr\u00E1\u010D proj\u00EDt schodi\u0161t\u011B zezdola nahoru mus\u00ED zato\u010Dit 3xdoleva a 1xdoprava.\r\nSchodi\u0161t\u011B nen\u00ED zast\u0159e\u0161eno a je osv\u011Btleno ve dne sluncem a v noci lou\u010Demi, kter\u00E9 jsou polo\u017Eeny na z\u00E1bradl\u00EDch."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Hmla se sv\u00FDm n\u00E1zvem n\u00E1ramn\u011B hod\u00ED k bl\u00EDzk\u00E9 m\u00EDstnosti [Halu\u0161ky](mi_halusky). Ob\u011B maj\u00ED n\u011Bjakou spojitost se Slovenskem."
+      }
+    ],
+    "image_id": 0,
+    "area": 11,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 344,
+      "y": 91,
+      "z": 1113
     },
     "patternleCompatible": true,
     "redirect": null,
