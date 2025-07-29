@@ -237,6 +237,14 @@
       "PackagePath": "staticwebassets/Images/mi_hlidkovaci_kos2.png"
     },
     {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_hmla1.png",
+      "PackagePath": "staticwebassets/Images/mi_hmla1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_hmla2.png",
+      "PackagePath": "staticwebassets/Images/mi_hmla2.png"
+    },
+    {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_holic1.png",
       "PackagePath": "staticwebassets/Images/mi_holic1.png"
     },
@@ -329,6 +337,14 @@
       "PackagePath": "staticwebassets/Images/mi_kroky3.png"
     },
     {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_kvadrant_jezdcu1.png",
+      "PackagePath": "staticwebassets/Images/mi_kvadrant_jezdcu1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_kvadrant_jezdcu2.png",
+      "PackagePath": "staticwebassets/Images/mi_kvadrant_jezdcu2.png"
+    },
+    {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_la1.png",
       "PackagePath": "staticwebassets/Images/mi_la1.png"
     },
@@ -395,6 +411,10 @@
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_mostiste4.png",
       "PackagePath": "staticwebassets/Images/mi_mostiste4.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_motor1.png",
+      "PackagePath": "staticwebassets/Images/mi_motor1.png"
     },
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_nadchod1.png",
@@ -643,6 +663,22 @@
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_silo3.png",
       "PackagePath": "staticwebassets/Images/mi_silo3.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_sklenik_vychod1.png",
+      "PackagePath": "staticwebassets/Images/mi_sklenik_vychod1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_sklenik_zapad1.png",
+      "PackagePath": "staticwebassets/Images/mi_sklenik_zapad1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_sklenik_zapad2.png",
+      "PackagePath": "staticwebassets/Images/mi_sklenik_zapad2.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_sklenik_zapad3.png",
+      "PackagePath": "staticwebassets/Images/mi_sklenik_zapad3.png"
     },
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_skokanske_mustky1.png",

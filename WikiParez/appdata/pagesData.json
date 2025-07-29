@@ -19801,7 +19801,8 @@
       "mi_papokoi",
       "mi_holic",
       "mi_diagonala",
-      "mi_kolt"
+      "mi_kolt",
+      "mi_sklenik_zapad"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -19827,6 +19828,10 @@
       {
         "Title": "Zaj\u00EDmavost",
         "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "29/07/25: Opravena chyba. Plac soused\u00ED se [Sklen\u00EDkem Z\u00E1pad](mi_sklenik_zapad)."
       }
     ],
     "image_id": 0,
@@ -19889,114 +19894,6 @@
     ],
     "image_id": 0,
     "area": 99,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "patternleCompatible": true,
-    "redirect": null,
-    "tobeedited": false
-  },
-  "mi_sklenik_vychod": {
-    "Title": "Sklen\u00EDk V\u00FDchod",
-    "Type": "m\u00EDstnost",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [
-      "mi_sklenik_zapad",
-      "mi_diagonala"
-    ],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "Sklen\u00EDk V\u00FDchod",
-      "Blok": "[Sklen\u00EDk](bl_sklenik)",
-      "Okrsek": "[Sklen\u00EDk](ok_sklenik)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
-      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": "Jak vznikl n\u00E1zev?"
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": "N\u011Bco o interi\u00E9ru."
-      },
-      {
-        "Title": "Zaj\u00EDmavost",
-        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
-      },
-      {
-        "Title": "Aktuality",
-        "Content": "24/07/25: M\u00EDstnost\u00ED proch\u00E1z\u00ED [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha)."
-      }
-    ],
-    "image_id": 0,
-    "area": 50,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "patternleCompatible": true,
-    "redirect": null,
-    "tobeedited": false
-  },
-  "mi_sklenik_zapad": {
-    "Title": "Sklen\u00EDk Z\u00E1pad",
-    "Type": "m\u00EDstnost",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [
-      "mi_sklenik_vychod",
-      "mi_diagonala",
-      "mi_atrium",
-      "mi_dalnice",
-      "mi_predel"
-    ],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "Sklen\u00EDk Z\u00E1pad",
-      "Blok": "[Sklen\u00EDk](bl_sklenik)",
-      "Okrsek": "[Sklen\u00EDk](ok_sklenik)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
-      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
-      "\u00DA\u010Del": "terminus [Mraven\u010D\u00ED Dr\u00E1hy](te_mravenci_draha)."
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": "Jak vznikl n\u00E1zev?"
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": "N\u011Bco o interi\u00E9ru."
-      },
-      {
-        "Title": "Zaj\u00EDmavost",
-        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
-      },
-      {
-        "Title": "Aktuality",
-        "Content": "24/07/25: M\u00EDstnost\u00ED proch\u00E1z\u00ED [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha)."
-      }
-    ],
-    "image_id": 0,
-    "area": 183,
     "Empty": true,
     "numberOfRooms": 0,
     "coordinates": {
@@ -38224,6 +38121,121 @@
       "x": 344,
       "y": 91,
       "z": 1113
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false
+  },
+  "mi_sklenik_zapad": {
+    "Title": "Sklen\u00EDk Z\u00E1pad",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "SKLEN\u011AN\u00C1 \u010C\u00C1ST",
+      "D\u0158EV\u011AN\u00C1 \u010C\u00C1ST",
+      "BLOK TR\u00C1VY"
+    ],
+    "Bordering_rooms": [
+      "mi_sklenik_vychod",
+      "mi_diagonala",
+      "mi_atrium",
+      "mi_dalnice",
+      "mi_plac",
+      "mi_predel"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Sklen\u00EDk Z\u00E1pad",
+      "Blok": "[Sklen\u00EDk](bl_sklenik)",
+      "Okrsek": "[Sklen\u00EDk](ok_sklenik)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
+      "\u00DA\u010Del": "terminus [Mraven\u010D\u00ED Dr\u00E1hy](te_mravenci_draha)."
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Sklen\u00EDk Z\u00E1pad je velk\u00E1 m\u00EDstnost, kter\u00E1 se spole\u010Dn\u011B se [Sklen\u00EDkem V\u00FDchod](mi_sklenik_vychod) nach\u00E1z\u00ED p\u0159\u00EDmo nad [N\u00E1dvo\u0159\u00EDm](mi_nadvori). Z m\u00EDstnosti se d\u00E1 p\u0159\u00EDmo vstoupit do [Diagon\u00E1ly](mi_diagonala), na [Plac](mi_plac), dve\u0159mi na [P\u0159ed\u011Bl](mi_predel), dv\u011Bmi dve\u0159mi do [Atria](mi_atrium), schody k [D\u00E1lnici](mi_dalnice) a do ji\u017E zm\u00EDn\u011Bn\u00E9ho [Sklen\u00EDku V\u00FDchod](mi_sklenik_vychod).\r\nM\u00EDstnost se tak\u00E9 v \u010Dervenci stala termin\u00E1ln\u00ED stanic\u00ED [Mraven\u010D\u00ED Dr\u00E1hy](te_mravenci_draha). Umo\u017Enuje tak jednoduch\u00FD p\u0159estup mezi lodn\u00ED a \u017Eelezni\u010Dn\u00ED dopravou."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "V\u011Bt\u0161ina podlahy m\u00EDstnosti je ze skla - odtud \u0022Sklen\u00EDk\u0022. Z\u00E1pad zna\u010D\u00ED na kter\u00E9 sv\u011Btov\u00E9 stran\u011B sklen\u00EDku je m\u00EDstnost postavena."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Sklen\u00EDk Z\u00E1pad je m\u00EDstnost troj\u00FAheln\u00EDkov\u00E9ho tvaru. V\u011Bt\u0161ina jej\u00ED podlahy je postavena ze sklen\u011Bn\u00FDch blok\u016F pod nimi\u017E se nach\u00E1z\u00ED [N\u00E1dvo\u0159\u00ED](mi_nadvori), na kter\u00E9 v\u0161ak nen\u00ED z v\u011Bt\u0161iny vid\u011Bt skrz dubov\u00E9 a b\u0159ezov\u00E9 stromy. Na velkou \u010D\u00E1st\u00ED plochy je postaven [Plac](mi_plac), kter\u00FD limituje v\u00FD\u0161ku stropu na t\u0159i bloky. V ostatn\u00EDch m\u00EDstech m\u016F\u017Ee strop dosahovat v\u00FD\u0161ky a\u017E 11 blok\u016F. Sklen\u011Bn\u00E1 \u010D\u00E1st se na jihov\u00FDchod\u011B l\u00E1me sm\u011Brem nahoru a slou\u017E\u00ED jako z\u00E1bradl\u00ED [Diagon\u00E1le](mi_diagonala), je\u017E je schodi\u0161t\u011Bm spojuj\u00EDc\u00EDm [the Bridge](mi_the_bridge) s [Placem](mi_plac) a odd\u011Bluj\u00EDc\u00EDm z\u00E1padn\u00ED a [v\u00FDchodn\u00ED Sklen\u00EDk](mi_sklenik_vychod) od sebe. Samotn\u00E1 ohl\u00E1 sklen\u011Bn\u00E1 podlaha m\u016F\u017Ee slou\u017Eit tak\u00E9 jako schodi\u0161t\u011B spojuj\u00EDc\u00ED Sklen\u00EDk Z\u00E1pad s [Placem](mi_plac). Za zm\u00EDnku tak\u00E9 stoj\u00ED z\u00E1padn\u00ED st\u011Bna, za ni\u017E se nach\u00E1z\u00ED [P\u0159ed\u011Bl](mi_predel), nebo\u0165 je z poloviny postavena z trapdoor\u016F (na stavbu st\u011Bny bylo vypot\u0159ebov\u00E1no 25 log\u016F d\u0159eva...).\r\nZ v\u00FDchodn\u00EDho konce m\u00EDstnosti vede \u00FAzk\u00FD, jeden blok \u0161irok\u00FD, most spojuj\u00EDc\u00ED Sklen\u00EDk Z\u00E1pad se [Sklen\u00EDkem V\u00FDchod](mi_sklenik_vychod) (m\u00EDstnosti si most rozd\u011Blily p\u0159esn\u011B na poloviny). Na za\u010D\u00E1tku n\u011Bj za\u010D\u00EDn\u00E1 jedna z linek [Mraven\u010D\u00ED Dr\u00E1hy](te_mravenci_draha) vedouc\u00ED na [Doln\u00ED N\u00E1dra\u017E\u00ED](mi_dolni_nadrazi) - Sklen\u00EDk Z\u00E1pad je tak termin\u00E1ln\u00ED stanice dr\u00E1hy. \r\nNa severn\u00EDm konci m\u00EDstnosti se sklen\u011Bn\u00E1 podlaha m\u011Bn\u00ED v d\u0159ev\u011Bnou a zved\u00E1 se o jeden blok (strop je zde pouh\u00E9 dva bloky vysok\u00FD). Tato \u010D\u00E1st se nach\u00E1z\u00ED p\u0159\u00EDmo nad ledovou [D\u00E1lnic\u00ED](mi_dalnice), k n\u00ED\u017E odsud vedou schody. V rohu u schodi\u0161t\u011B se nab\u00EDz\u00ED p\u011Bkn\u00FD v\u00FDhled p\u0159es plot na [Akvadukt](mi_akvadukt) a [UFO](mi_ufo). Je zde tak\u00E9 jedin\u00FD crafting table v cel\u00E9 m\u00EDstnosti."
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": "Hned p\u0159ed n\u00E1stupn\u00EDm m\u00EDstem na vlak polo\u017Eil enderman blok tr\u00E1vy.\r\nDo [Atria](mi_atrium) vedou ze Sklen\u00EDku Z\u00E1pad dvoje dve\u0159e. Jedny z nich z v\u00FD\u0161e zm\u00EDn\u011Bn\u00E9ho moste\u010Dku, kter\u00FD byl rozd\u011Blen mezi [Sklen\u00EDkm V\u00FDchod](mi_sklenik_vychod) a Sklen\u00EDk Z\u00E1pad p\u0159esn\u011B na poloviny. Dve\u0159e jsou dva bloky od hranice na stran\u011B Sklen\u00EDku Z\u00E1pad. Tak m\u00E1lo chyb\u011Blo aby i [Sklen\u00EDk V\u00FDchod](mi_sklenik_vychod) sousedil s [Atriem](mi_atrium)."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "24/07/25: M\u00EDstnost\u00ED proch\u00E1z\u00ED [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha).\r\n29/07/25: Opravena chyba. Sklen\u00EDk z\u00E1pad soused\u00ED s [Placem](mi_plac)."
+      }
+    ],
+    "image_id": 0,
+    "area": 183,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 335,
+      "y": 76,
+      "z": 1120
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false
+  },
+  "mi_sklenik_vychod": {
+    "Title": "Sklen\u00EDk V\u00FDchod",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "SKLEN\u00CDK V\u00DDCHOD"
+    ],
+    "Bordering_rooms": [
+      "mi_sklenik_zapad",
+      "mi_diagonala"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Sklen\u00EDk V\u00FDchod",
+      "Blok": "[Sklen\u00EDk](bl_sklenik)",
+      "Okrsek": "[Sklen\u00EDk](ok_sklenik)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Sklen\u00EDk V\u00FDchod je mal\u00E1 m\u00EDstnost, kter\u00E1 se spole\u010Dn\u011B se [Sklen\u00EDkem Z\u00E1pad](mi_sklenik_vychod) nach\u00E1z\u00ED p\u0159\u00EDmo nad [N\u00E1dvo\u0159\u00EDm](mi_nadvori). Z m\u00EDstnosti se d\u00E1 p\u0159\u00EDmo vstoupit na [Diagon\u00E1lu](mi_diagonala) a do ji\u017E zm\u00EDn\u011Bn\u00E9ho [Sklen\u00EDku Z\u00E1pad](mi_sklenik_zapad). M\u00EDstnost\u00ED tak\u00E9 proch\u00E1z\u00ED koleje [Mraven\u010D\u00ED Dr\u00E1hy](te_mravenci_draha), kter\u00E9 d\u00E1le vedou do bl\u00EDzk\u00E9 termin\u00E1ln\u00ED stanice [Sklen\u00EDk Z\u00E1pad](mi_sklenik_zapad)."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "V\u011Bt\u0161ina plochy podlahy m\u00EDstnosti je ze skla - odtud \u0022Sklen\u00EDk\u0022. V\u00FDchod zna\u010D\u00ED na kter\u00E9 sv\u011Btov\u00E9 stran\u011B sklen\u00EDku je m\u00EDstnost postavena."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Sklen\u00EDk V\u00FDchod je m\u00EDstnost troj\u00FAheln\u00EDkov\u00E9ho tvaru. V\u011Bt\u0161ina jeho podlahy je tvo\u0159ena sklem. Ta se na severoz\u00E1pad\u011B l\u00E1me nahoru a slou\u017E\u00ED jako z\u00E1bradl\u00ED pro [Diagon\u00E1lu](mi_diagonala). Nad \u010D\u00E1st\u00ED m\u00EDstnosti je strop tvo\u0159en [Placem](mi_plac), kter\u00FD limituje jeho v\u00FD\u0161ku na \u010Dty\u0159i bloky. Tam kde nen\u00ED v\u00FD\u0161ka [Placem](mi_plac) omezena dosahuje strop impozantn\u00ED v\u00FD\u0161ky 12 metr\u016F, co\u017E je asi jako v\u00FD\u0161ka dosp\u011Bl\u00E9ho brachiosaura.\r\nPo prav\u00E9m okraji m\u00EDstnost\u00ED vedou koleje [Mraven\u010D\u00ED Dr\u00E1hy](te_mravenci_draha), kter\u00E9 d\u00E1le pokra\u010Duj\u00ED po \u00FAzk\u00E9m, jeden blok \u0161irok\u00E9m most\u011B, kter\u00FD je rozd\u011Blen p\u0159esn\u011B na poloviny mezi [z\u00E1padn\u00ED](mi_sklenik_zapad) a v\u00FDchodn\u00ED Sklen\u00EDk. Plocha cel\u00E9ho mostu je vyu\u017Eit pro \u00FA\u010Dely \u017Eeleznice. Na st\u011Bn\u00E1ch kolem kter\u00FDch \u017Eeleznice vede je mnoho oken r\u016Fzn\u00FDch velikost\u00ED, z nich\u017E nejzaj\u00EDmav\u011Bj\u0161\u00ED nab\u00EDz\u00ED v\u00FDhled do prostoru nad [Jez\u00EDrkem](mi_jezirko).\r\nV prostoru chyb\u00ED crafting table a je osv\u011Btlena lou\u010D\u00ED a dv\u011Bmi redstone torchemi, kter\u00E9 nap\u00E1j\u00ED koleje dr\u00E1hy."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Do [Atria](mi_atrium) vedou ze Sklen\u00EDku Z\u00E1pad dvoje dve\u0159e. Jedny z nich z v\u00FD\u0161e zm\u00EDn\u011Bn\u00E9ho moste\u010Dku, kter\u00FD byl rozd\u011Blen mezi [Sklen\u00EDkm V\u00FDchod](mi_sklenik_vychod) a Sklen\u00EDk Z\u00E1pad p\u0159esn\u011B na poloviny. Dve\u0159e jsou dva bloky od hranice na stran\u011B Sklen\u00EDku Z\u00E1pad. Tak m\u00E1lo chyb\u011Blo aby i [Sklen\u00EDk V\u00FDchod](mi_sklenik_vychod) sousedil s [Atriem](mi_atrium). 24/07/25: M\u00EDstnost\u00ED proch\u00E1z\u00ED [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha)."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "24/07/25: M\u00EDstnost\u00ED proch\u00E1z\u00ED [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha)."
+      }
+    ],
+    "image_id": 0,
+    "area": 50,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 339,
+      "y": 75,
+      "z": 1136
     },
     "patternleCompatible": true,
     "redirect": null,
