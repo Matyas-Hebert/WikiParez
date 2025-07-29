@@ -11,7 +11,7 @@
         padding: 2rem;
         padding-right: 6rem;
         padding-left: 6rem;
-        border-radius: 8px;
+        border-radius: 8px; 
         display: inline-block;
         align-self: center;
         width: fit-content;
@@ -42,6 +42,33 @@
         animation: splash 2s infinite ease-in-out;
     }
 
+    .piechartwrapper {
+        position: relative;
+        width: 200px;
+        height: 200px;
+    }
+
+    .piecharttext {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        color: white; /* or whatever color */
+        font-weight: bold;
+        font-size: xx-large;
+        text-align: center;
+    }
+
+    .donepiechart {
+        background: conic-gradient(rgb(9, 141, 9) 0deg @ViewBag.degrees, rgb(194, 21, 21) @ViewBag.degrees 360deg);
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+        font-size: xx-large;
+        text-align: center;
+        vertical-align: middle;
+    }
+
     @@keyframes splash {
         0%, 100% {
             transform: translateX(50%) rotate(30deg) scale(1);
@@ -62,10 +89,19 @@
         <h1>Více než @(ViewBag.finishedPages-1) článků!</h1>
         <div class="topright">@ViewBag.splashtext</div>
     </div>
-    <div class="content-panel-2">
-        <h3 style="color: white;">Nejnovější články: </h3>
-        @foreach (var key in Model.Keys){
-            <p style="color: white;">Více o <a href=@key>@Model[@key]</a>.</p>
-        }
+    <div style="width: fit-content; display: flex; flex-direction: row; align-self: center; gap: 30px">
+        <div class="content-panel-2">
+            <h3 style="color: white;">Nejnovější články: </h3>
+            @foreach (var key in Model.Keys){
+                <p style="color: white;">Více o <a href=@key>@Model[@key]</a>.</p>
+            }
+        </div>
+        <div style="display: flex; flex-direction: column; gap:50px;">
+            <div class="piechartwrapper">
+                <div class="donepiechart"></div>
+                <div class="piecharttext">@ViewBag.percentage</div>
+            </div>
+            <div style="background-color: rgba(68, 64, 64, 0.6); font-size: x-large; color: white;">DOKONČENÍ</br>PAŘEZ WIKI:<br/>@ViewBag.date</div>
+        </div>
     </div>
 </div>

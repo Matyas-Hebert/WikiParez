@@ -479,7 +479,7 @@ public class WikiService
         foreach (var key in dictionary.Keys)
         {
             
-            totalpages++;
+            if (dictionary[key].Type != "redirect") totalpages++;
             if (dictionary[key].Empty == false && dictionary[key].Type != "redirect") finishedPages++;
             if (dictionary[key].image_count() == 0)
             {

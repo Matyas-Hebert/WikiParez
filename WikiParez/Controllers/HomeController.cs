@@ -24,6 +24,16 @@ public class HomeController : Controller
         var splashtexts = _wikiService.getSplashTexts();
         var random = new Random();
         ViewBag.splashtext = splashtexts[random.Next(splashtexts.Count)];
+        var percentagedone = ((double)_wikiService.getFinishedPages() / (double)_wikiService.getTotalPages());
+        var b = percentagedone * 360.0f;
+        var c = Math.Round(percentagedone * 100, 2);
+        var timesincefirstpage = (DateTime.Today - new DateTime(2025, 6, 6)).TotalDays;
+        var pagesperday = (double)_wikiService.getFinishedPages() / (double)timesincefirstpage;
+        var pagesremaining = _wikiService.getTotalPages() - _wikiService.getFinishedPages();
+        var expecteddone = DateTime.Today.AddDays(Math.Round(pagesremaining / pagesperday)).ToString("dd/MM/yyyy");
+        ViewBag.date = expecteddone;
+        ViewBag.degrees = b.ToString() + "deg";
+        ViewBag.percentage = c.ToString() + "%";
         return View(_wikiService.Last10pages());
     }
 
