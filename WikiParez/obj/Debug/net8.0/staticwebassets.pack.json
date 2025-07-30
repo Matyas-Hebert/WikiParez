@@ -261,6 +261,18 @@
       "PackagePath": "staticwebassets/Images/mi_holic4.png"
     },
     {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_hotel_gi_floor_ga1.png",
+      "PackagePath": "staticwebassets/Images/mi_hotel_gi_floor_ga1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_hotel_gi_floor_ga2.png",
+      "PackagePath": "staticwebassets/Images/mi_hotel_gi_floor_ga2.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_hotel_gi_floor_ga3.png",
+      "PackagePath": "staticwebassets/Images/mi_hotel_gi_floor_ga3.png"
+    },
+    {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_hvezda1.png",
       "PackagePath": "staticwebassets/Images/mi_hvezda1.png"
     },
