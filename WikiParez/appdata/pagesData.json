@@ -38244,5 +38244,50 @@
     "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false
+  },
+  "os_helena_jaklova": {
+    "Title": "Helena Jaklov\u00E1",
+    "Type": "osoba",
+    "Images": [],
+    "Image_titles": [
+      ""
+    ],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Helena Jaklov\u00E1",
+      "Tituly": "PhDr., Ph.D.",
+      "V\u011Bk": "49"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Helena Jaklov\u00E1 je autorkou \u0159ady odborn\u00FDch publikac\u00ED, uzn\u00E1vanou p\u0159ekladatelkou a \u010Dlenkou \u010Cesk\u00E9ho svazu germanist\u016F, kter\u00E1 se nikdy nezaj\u00EDmala o sv\u011Bt Minecraftu ani o komunitu Pa\u0159ezu. P\u0159esto\u017Ee se dlouhodob\u011B v\u011Bnuje jazykov\u011Bd\u011B a liter\u00E1rn\u00ED teorii, k d\u011Bn\u00ED v Pa\u0159ezu nem\u00E1 \u017E\u00E1dn\u00FD vztah a \u017E\u00E1dn\u00E9 m\u00EDsto v n\u011Bm nikdy nepojmenovala. Na rozd\u00EDl od sv\u00E9ho syna [Kry\u0161tofa Baudy\u0161e](os_krystof_baudys), kter\u00FD je s projektem \u00FAzce spjat, se na tvorb\u011B Pa\u0159ezu nijak nepod\u00EDlela. V \u010De\u0161tin\u011B i n\u011Bm\u010Din\u011B publikovala mno\u017Estv\u00ED studi\u00ED, z nich\u017E ani jedna se net\u00FDk\u00E1 Minecraftu \u010Di Pa\u0159ez Wiki, kde jej\u00ED autorsk\u00FD profil z\u016Fst\u00E1v\u00E1 pr\u00E1zdn\u00FD. B\u011Bhem let vystoupila na mnoha konferenc\u00EDch a p\u0159edn\u00E1\u0161k\u00E1ch, ov\u0161em t\u00E9mata Pa\u0159ezu mezi nimi nikdy nezazn\u011Bla. Sv\u011Bt blok\u016F, m\u00EDstnost\u00ED, okrsk\u016F a \u010Dtvrt\u00ED j\u00ED z\u016Fst\u00E1v\u00E1 naprosto ciz\u00ED \u2013 co\u017E j\u00ED ale, up\u0159\u00EDmn\u011B \u0159e\u010Deno, v\u016Fbec nevad\u00ED."
+      },
+      {
+        "Title": "Miss Pa\u0159ez",
+        "Content": "Helen\u011B Jaklov\u00E9 byla p\u0159i konzumaci ob\u011Bda v s\u00EDdle, kde str\u00E1vila v\u011Bt\u0161inu sv\u00E9ho \u017Eivota, p\u0159edlo\u017Eena nab\u00EDdka \u00FA\u010Dasti v sout\u011B\u017Ei [Miss Pa\u0159ez](te_miss_parez). Tu ale t\u00E9m\u011B\u0159 okam\u017Eit\u011B odm\u00EDtla se slibem, \u017Ee se alespo\u0148 z\u00FA\u010Dastn\u00ED hlasovac\u00EDho procesu. Ve\u0161ker\u00E9 entity ve sv\u011Bt\u011B Pa\u0159ezu te\u010F napjat\u011B \u010Dekaj\u00ED zda Phdr. Helena Jaklov\u00E1 Ph.D. bude v sout\u011B\u017Ei podporovat sv\u00E9ho [star\u0161\u00EDho syna](os_krystof_baudys), nebo zda sv\u016Fj slib nedodr\u017E\u00ED."
+      },
+      {
+        "Title": "Rozhod\u010D\u00ED",
+        "Content": "Ve dnes 13.-15. srpna je napl\u00E1nov\u00E1n v\u00FDlet do m\u011Bsta N\u00E1chod a k Adr\u0161pa\u0161sk\u00FDm Skal\u00E1m. V pr\u016Fb\u011Bhu v\u00FDletu se [V\u00EDt Baudy\u0161](os_vit_baudys), [Kry\u0161tof Baudy\u0161](os_krystof_baudys), [Maty\u00E1\u0161 Hebert](os_matyas_hebert) a [Marie Hebertov\u00E1](os_marie_hebertova) z\u00FA\u010Dastn\u00ED nap\u00EDnav\u00E9 hry [Pa\u0159ez Reference](te_parez_reference). Hr\u00E1\u010Di v pr\u016Fbehu hry budou moci vyu\u017E\u00EDt slu\u017Eeb Heleny Jaklov\u00E9 jako nestrann\u00E9ho rozhod\u010D\u00EDho."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Helena Jaklov\u00E1 nem\u00E1 nic spole\u010Dn\u00E9ho s Pa\u0159ez Wiki."
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false
   }
 }
