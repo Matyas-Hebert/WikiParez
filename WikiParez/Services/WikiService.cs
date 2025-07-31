@@ -45,7 +45,7 @@ public class WikiService
         {
             pages.Add(key, new ParezlePage
             {
-                Title = _onlyroomspages[key].Title,
+                Title = _onlyroomspages[key].Title + " (" + _onlyroomspages[key].Bordering_rooms.Count.ToString() + ")",
                 Bordering_rooms = _onlyroomspages[key].Bordering_rooms,
                 Blok = GetNameFromLink(_onlyroomspages[key].Metadata["Blok"]),
                 Okrsek = GetNameFromLink(_onlyroomspages[key].Metadata["Okrsek"]),

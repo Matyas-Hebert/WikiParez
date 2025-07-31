@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "GArFE72IvezsYIOGfSQ5A8YZJkfDDpwm3jMWaKaS9bw=",
+  "Hash": "NgjUp0cZ+U3jPKRYoYHyAGvo9S4FQRYI422+ApdELjQ=",
   "Source": "WikiParez",
   "BasePath": "_content/WikiParez",
   "Mode": "Default",
@@ -4955,6 +4955,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/Images/missing.jpg"
+    },
+    {
+      "Identity": "/root/wikiparez/WikiParez/wwwroot/Images/os_helena_jaklova1.png",
+      "SourceId": "WikiParez",
+      "SourceType": "Discovered",
+      "ContentRoot": "/root/wikiparez/WikiParez/wwwroot/",
+      "BasePath": "_content/WikiParez",
+      "RelativePath": "Images/os_helena_jaklova1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Images/os_helena_jaklova1.png"
     },
     {
       "Identity": "/root/wikiparez/WikiParez/wwwroot/Images/os_kyticka1.png",
