@@ -110,7 +110,7 @@
         <div style="padding-top: 50px; padding-right: 30px; flex: 1; display: flex; flex-direction: column; justify-content: flex-start; gap: 10px;">
             <div id="guessed">
                 <div class="room-rectangle">
-                    @Model[@ViewBag.Start].Title
+                    @Model[@ViewBag.Start].Title (@Model[@ViewBag.Start].Bordering_rooms.Count)
                 </div>
             </div>
             <div class="room-rectangle2" id="middle-rectangle">
@@ -118,7 +118,7 @@
             </div>
             <div id="guessedend">
                 <div class="room-rectangle">
-                    @Model[@ViewBag.End].Title
+                    @Model[@ViewBag.End].Title (@Model[@ViewBag.End].Bordering_rooms.Count)
                 </div>
             </div>
             <div style="position: relative; width: 80%; margin: 0 auto;">
@@ -235,13 +235,13 @@
         for (let i = 0; i < startguesses.length; i++) {
             var newDiv = document.createElement('div');
             newDiv.className = 'room-rectangle';
-            newDiv.textContent = rooms[startguesses[i]].title || '';
+            newDiv.textContent = rooms[startguesses[i]].title + " (" + rooms[startguesses[i]].bordering_rooms.length + ")" || '';
             guessed.appendChild(newDiv);
         }
         for (let i = endguesses.length - 1; i >= 0; i--){
             var newDiv = document.createElement('div');
             newDiv.className = 'room-rectangle';
-            newDiv.textContent = rooms[endguesses[i]].title || '';
+            newDiv.textContent = rooms[endguesses[i]].title + " (" + rooms[endguesses[i]].bordering_rooms.length + ")" || '';
             guessedfromtheend.appendChild(newDiv);
         }
 
@@ -287,7 +287,7 @@
 
             var newDiv = document.createElement('div');
             newDiv.className = 'room-rectangle';
-            newDiv.textContent = rooms[arg].title || '';
+            newDiv.textContent = rooms[arg].title + " (" + rooms[arg].bordering_rooms.length + ")" || '';
             board.appendChild(newDiv);
 
             alreadyguessed = [arg];
@@ -478,7 +478,7 @@
                 if(!hintenabled || hintenabled && rooms[lastGuess].bordering_rooms.includes(key)){
                     var newDiv = document.createElement('div');
                     newDiv.onclick = function() { choose(key); };
-                    newDiv.textContent = title;
+                    newDiv.textContent = title + " (" + rooms[key].bordering_rooms.length + ")";
                     newDiv.value = key;
                     newDiv.className = 'dropdown-item';
                     dropdown.appendChild(newDiv);
