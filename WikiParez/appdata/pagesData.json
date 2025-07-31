@@ -6210,61 +6210,6 @@
     "redirect": "",
     "tobeedited": false
   },
-  "mi_mestsky_okruh": {
-    "Title": "M\u011Bstsk\u00FD Okruh",
-    "Type": "m\u00EDstnost",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [
-      "mi_klub",
-      "mi_lodzie",
-      "mi_dobra_voda",
-      "mi_the_bridge",
-      "mi_the_crossing",
-      "mi_villager_house",
-      "mi_dalnice",
-      "mi_zahradkarska_kolonie",
-      "mi_vypikarna"
-    ],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "M\u011Bstsk\u00FD Okruh",
-      "Blok": "[Vestibul](bl_vestibul)",
-      "Okrsek": "[D\u00E1lni\u010Dn\u00ED Kolonie](ok_dalnicni_kolonie)",
-      "\u010Ctvr\u0165": "[D\u00E1lni\u010Dn\u00ED Kolonie](ct_dalnicni_kolonie)",
-      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": "Jak vznikl n\u00E1zev?"
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": "N\u011Bco o interi\u00E9ru."
-      },
-      {
-        "Title": "Zaj\u00EDmavost",
-        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
-      }
-    ],
-    "image_id": 0,
-    "area": 142,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "patternleCompatible": true,
-    "redirect": "",
-    "tobeedited": false
-  },
   "mi_mustek": {
     "Title": "M\u016Fstek",
     "Type": "m\u00EDstnost",
@@ -38287,6 +38232,65 @@
       "z": 0
     },
     "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false
+  },
+  "mi_mestsky_okruh": {
+    "Title": "M\u011Bstsk\u00FD Okruh",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "ZA\u010C\u00C1TEK",
+      "KONEC"
+    ],
+    "Bordering_rooms": [
+      "mi_klub",
+      "mi_lodzie",
+      "mi_dobra_voda",
+      "mi_the_bridge",
+      "mi_the_crossing",
+      "mi_villager_house",
+      "mi_dalnice",
+      "mi_zahradkarska_kolonie",
+      "mi_vypikarna"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "M\u011Bstsk\u00FD Okruh",
+      "Blok": "[Vestibul](bl_vestibul)",
+      "Okrsek": "[D\u00E1lni\u010Dn\u00ED Kolonie](ok_dalnicni_kolonie)",
+      "\u010Ctvr\u0165": "[D\u00E1lni\u010Dn\u00ED Kolonie](ct_dalnicni_kolonie)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
+      "\u00DA\u010Del": "Ledov\u00E1 d\u00E1lnice"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "M\u011Bstsk\u00FD Okruh je kr\u00E1tk\u00E1 ledov\u00E1 d\u00E1lnice pod\u00E9l [The Crossingu](mi_the_crossing), [Villager Housu](mi_villager_house) a [The Bridge](mi_the_bridge). D\u00E1lnice za\u010D\u00EDn\u00E1 u vstupu z [Lod\u017Eie](mi_lodzie) a [Klubu](mi_klub) a u dve\u0159\u00ED z [Dobr\u00E9 Vody](mi_dobra_voda). M\u011Bstsk\u00FD Okruh m\u00E1 tak\u00E9 odbo\u010Dku, kter\u00E1 je p\u0159\u00EDmo napojena na [D\u00E1lnice](mi_dalnice) a kon\u010D\u00ED u [Zahr\u00E1dk\u00E1\u0159sk\u00E9 Kolonie](mi_zahradkarska_kolonie) pobl\u00ED\u017E dve\u0159\u00ED do [Vyp\u00EDk\u00E1rny](mi_vypikarna)."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "M\u00EDstnost se nenach\u00E1z\u00ED ve m\u011Bst\u011B a nejedn\u00E1 se o okruh, p\u0159esto n\u00E1zev k m\u00EDstnosti neodmysliteln\u011B pat\u0159\u00ED a d\u00E1v\u00E1 smysl."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "M\u011Bstsk\u00FD Okruh je ledov\u00E1 d\u00E1lnice postaven\u00E1 z modr\u00E9ho ledu. Jej\u00ED za\u010D\u00E1tek se nach\u00E1z\u00ED u konce schodi\u0161t\u011B vedouc\u00EDho z [Lod\u017Eie](mi_lodzie) a [Klubu](mi_klub). Hranice ledov\u00E9 d\u00E1lnice je zde p\u0159esn\u011B ozna\u010Dena sv\u011Btle modr\u00FDch kobercem, kter\u00FD z\u00E1rove\u0148 br\u00E1n\u00ED proti necht\u011Bn\u00E9mu vyjet\u00ED lod\u00ED mimo led. Koberc\u016F je pou\u017Eitu u dvou dal\u0161\u00EDch vstup\u016F jmenovit\u011B z [The Bridge](mi_the_bridge) a z [The Bridge](mi_the_bridge)... \r\nCesta d\u00E1le pokra\u010Duje vpravo. Po prav\u00E9 stran\u011B d\u00E1lnice jsou polo\u017Eeny trapdoory za nimi\u017E je [Villager House](mi_villager_house). Kousek za trapdoory je zde skv\u011Ble p\u0159\u00EDstupn\u00E1 postel. Naproti [Villager Housu](mi_villager_house) je mal\u00E1 \u0022m\u00EDstnost\u0022 s n\u00EDzk\u00FDm stropem, u n\u00ED\u017E jsem zapomn\u011Bl zda je sou\u010D\u00E1st\u00ED M\u011Bstsk\u00E9ho Okruhu \u010Di [The Crossingu](mi_the_crossing). Nach\u00E1z\u00ED se v n\u00ED barel a crafting table. Cesta se d\u00E1le st\u00E1\u010D\u00ED vpravo a pokra\u010Duje rovn\u011B a\u017E k [Zahr\u00E1dk\u00E1\u0159sk\u00E9 Kolonii](mi_zahradkarska_kolonie). Nalevo od cesty v t\u00E9to \u010D\u00E1sti vede [The Crossing](mi_the_crossing) a napravo se nach\u00E1z\u00ED dve\u0159e do [Vyp\u00EDk\u00E1rny](mi_vypikarna)."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "M\u011Bstsk\u00FD Okruh je nejkrat\u0161\u00ED ledovou d\u00E1lnic\u00ED a z\u00E1rove\u0148 jedinou postavenou z modr\u00E9ho ledu. Na kr\u00E1tk\u00E9 d\u00E9lce to nem\u00E1 ani smysl..."
+      }
+    ],
+    "image_id": 0,
+    "area": 142,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 315,
+      "y": 79,
+      "z": 1122
+    },
+    "patternleCompatible": false,
     "redirect": null,
     "tobeedited": false
   }
