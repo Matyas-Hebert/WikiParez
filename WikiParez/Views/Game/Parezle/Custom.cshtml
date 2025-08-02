@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: sans-serif;
+    }
+
+    .container {
+        display: flex;
+        width: 100vw;
+        padding: 20px;
+        gap: 10px;
+        box-sizing: border-box;
+    }
+
+    .input-box {
+        flex: 1;
+        min-height: 70px;
+        width: 100%;
+    }
+
+    .dropdown {
+        flex: 1;
+        border: 1px solid #000;
+        background-color: #eee;
+        max-height: 350px;
+        overflow-y: auto;
+    }
+
+    .dropdown-item {
+        padding: 10px;
+        border-bottom: 1px solid #999;
+        cursor: pointer;
+    }
+
+    .dropdown-item:hover {
+        background-color: #666;
+        color: white;
+    }
+  </style>
+</head>
+<body>
+
+<div class="container">
+    <div style="flex: 1;">
+        <input value="" id="startroom" class="input-box" placeholder="Start typing..." oninput="filterRooms('startroom')">
+        <input id="endroom" class="input-box" placeholder="Start typing..." oninput="filterRooms('endroom')">
+        <input type="hidden" id="endroom2" class="input-box" placeholder="Start typing..." oninput="filterRooms('endroom2')">
+        <input type="hidden" id="endroom3" class="input-box" placeholder="Start typing..." oninput="filterRooms('endroom3')">
+        <input type="hidden" id="endroom4" class="input-box" placeholder="Start typing..." oninput="filterRooms('endroom4')">
+    </div>
+    <div id="room-dropdown" class="dropdown"></div>
+</div>
+
+<script>
+  const rooms = @Html.Raw(Json.Serialize(Model));
+
+  function filterRooms(inputid) {
+    const input = document.getElementById(inputid).value.toLowerCase().replace(/[\s\-\,\.]/g, '');
+    const dropdown = document.getElementById('room-dropdown');
+    dropdown.innerHTML = '';
+
+    for (let key in rooms) {
+      let title = rooms[key].title.toLowerCase().replace(/[\s\-\,\.]/g, '');
+      if (title.startsWith(input)) {
+        const item = document.createElement('div');
+        item.className = 'dropdown-item';
+        item.textContent = rooms[key].title;
+        item.onclick = () => {
+          document.getElementById(inputid).value = rooms[key].title;
+        };
+        dropdown.appendChild(item);
+      }
+    }
+  }
+</script>
+
+</body>
+</html>

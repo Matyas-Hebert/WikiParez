@@ -26,6 +26,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvR2FtZS9IaWdoZXJMb3dlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[/root/wikiparez/WikiParez/Views/Game/Parezle/Custom.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvR2FtZS9QYXJlemxlL0N1c3RvbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/root/wikiparez/WikiParez/Views/Game/Parezle/Menu.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvR2FtZS9QYXJlemxlL01lbnUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

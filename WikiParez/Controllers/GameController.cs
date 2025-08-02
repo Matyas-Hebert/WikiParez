@@ -241,6 +241,13 @@ namespace WikiParez.Controllers
             return View("Parezle/Parezle", _wikiService.GetParezlePages());
         }
 
+        [HttpGet]
+        [Route("Game/Parezle/Custom")]
+        public IActionResult CustomParezle()
+        {
+            return View("Parezle/Custom", _wikiService.GetParezlePages());
+        }
+
 
         [HttpPost]
         public IActionResult ChooseHigherLower(string slug1, string slug2, int highScore, int score, int roomToChange, int action){
