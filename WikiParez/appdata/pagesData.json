@@ -1240,7 +1240,7 @@
     "Sections": [
       {
         "Title": "P\u0159ehled",
-        "Content": "Lokace je obd\u00E9ln\u00EDkov\u00E1 m\u00EDstnost s jedin\u00FDm vstupem a z [Airshipu](mi_the_airship) a z\u00E1rove\u0148 s\u00EDdlo spole\u010Dnosti [ORP](sp_orp). V m\u00EDstnosti jsou uskladn\u011Bny ve\u0161ker\u00E9 v\u011Bci, kter\u00E9 nejsou nikam za\u0159azeny ale i ty kter\u00E9 \u010Dekaj\u00ED na rozt\u0159\u00EDzen\u00ED. V Lokaci je celkem 18 barel\u016F. V\u0161echny jsou postaveny na ji\u017En\u00ED st\u011Bn\u011B m\u00EDstnosti. V m\u00EDstnosti je tak\u00E9 lectern s knihou ur\u010Denou na seznam v\u0161ech m\u00EDstnost\u00ED a jejich \u00FA\u010Del\u016F. V dob\u011B psan\u00ED tohoto \u010Dl\u00E1nku byla kniha t\u00E9m\u011B\u0159 pr\u00E1zdn\u00E1."
+        "Content": "Lokace je obd\u00E9ln\u00EDkov\u00E1 m\u00EDstnost postaven\u00E1 v architektonick\u00E9m stylu [Hralyd](as_hralyd) s jedin\u00FDm vstupem a z [Airshipu](mi_the_airship) a z\u00E1rove\u0148 s\u00EDdlo spole\u010Dnosti [ORP](sp_orp). V m\u00EDstnosti jsou uskladn\u011Bny ve\u0161ker\u00E9 v\u011Bci, kter\u00E9 nejsou nikam za\u0159azeny ale i ty kter\u00E9 \u010Dekaj\u00ED na rozt\u0159\u00EDzen\u00ED. V Lokaci je celkem 18 barel\u016F. V\u0161echny jsou postaveny na ji\u017En\u00ED st\u011Bn\u011B m\u00EDstnosti. V m\u00EDstnosti je tak\u00E9 lectern s knihou ur\u010Denou na seznam v\u0161ech m\u00EDstnost\u00ED a jejich \u00FA\u010Del\u016F. V dob\u011B psan\u00ED tohoto \u010Dl\u00E1nku byla kniha t\u00E9m\u011B\u0159 pr\u00E1zdn\u00E1."
       },
       {
         "Title": "N\u00E1zev",
@@ -9999,72 +9999,6 @@
     "redirect": null,
     "tobeedited": false
   },
-  "mi_the_overpass": {
-    "Title": "The Overpass",
-    "Type": "m\u00EDstnost",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [
-      "mi_vytahova_sachta",
-      "mi_guacamole",
-      "mi_autobusak",
-      "mi_temna_strana_sily",
-      "mi_ustredni_stredisko_beta",
-      "mi_teraska",
-      "mi_troja",
-      "mi_dolni_nadrazi",
-      "mi_strecha",
-      "mi_spojka",
-      "mi_policka",
-      "mi_pucmeloun_farma",
-      "mi_dalnicni_pilir",
-      "mi_hospoda",
-      "mi_hriva",
-      "mi_skokanske_mustky"
-    ],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "The Overpass",
-      "Blok": "[Autobus\u00E1k](bl_autobusak)",
-      "Okrsek": "[Sklen\u00EDk](ok_sklenik)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
-      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": "Jak vznikl n\u00E1zev?"
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": "N\u011Bco o interi\u00E9ru."
-      },
-      {
-        "Title": "Zaj\u00EDmavost",
-        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
-      },
-      {
-        "Title": "Aktuality",
-        "Content": "25/06/25: Cel\u00E1 m\u00EDstnost nov\u011B v bloku [Autobus\u00E1k](bl_autobusak). D\u0159\u00EDve byla rozd\u011Blena na bloky [Lanterna](bl_lanterna), [St\u0159echa](bl_strecha), [Beta](bl_beta),[Tr\u00F3ja](bl_troja) a [V\u00FDtahov\u00E1 \u0160achta](bl_vytahova_sachta).\r\n20/07/25: Nov\u00E9 dve\u0159e do [Hospody](mi_hospoda) a nov\u00E1 m\u00EDstnost p\u0159\u00EDmo na Overpassu [H\u0159\u00EDva](mi_hriva).\r\n24/07/25: M\u00EDstnost\u00ED proch\u00E1z\u00ED [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha)."
-      }
-    ],
-    "image_id": 0,
-    "area": 272,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "patternleCompatible": true,
-    "redirect": null,
-    "tobeedited": false
-  },
   "mi_w_vez_1_podlazi": {
     "Title": "W-V\u011B\u017E 1. podla\u017E\u00ED",
     "Type": "m\u00EDstnost",
@@ -16849,56 +16783,6 @@
     ],
     "image_id": 0,
     "area": 94,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "patternleCompatible": true,
-    "redirect": null,
-    "tobeedited": false
-  },
-  "mi_gideon_tunel": {
-    "Title": "Gideon Tunel",
-    "Type": "m\u00EDstnost",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [
-      "mi_tajna_chodba",
-      "mi_gideon",
-      "mi_k_nabrezi",
-      "mi_katedra"
-    ],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "Gideon Tunel",
-      "Blok": "[P\u0159i Vod\u011B](bl_pri_vode)",
-      "Okrsek": "[Gideon](ok_gideon)",
-      "\u010Ctvr\u0165": "[Gideon](ct_gideon)",
-      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": "Jak vznikl n\u00E1zev?"
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": "N\u011Bco o interi\u00E9ru."
-      },
-      {
-        "Title": "Zaj\u00EDmavost",
-        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
-      }
-    ],
-    "image_id": 0,
-    "area": 33,
     "Empty": true,
     "numberOfRooms": 0,
     "coordinates": {
@@ -37911,6 +37795,223 @@
       "x": 300,
       "y": 134,
       "z": 1173
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false
+  },
+  "as_hralyd": {
+    "Title": "Hralyd",
+    "Type": "Architektonick\u00FD styl",
+    "Images": [],
+    "Image_titles": [
+      "TYPICK\u00DD HRALYD - SPY"
+    ],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Hralyd",
+      "Autor": "[V\u00EDt Baudy\u0161](os_vit_baudys)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Architektonick\u00FD styl Hralyd, pojmenovan\u00FD podle sv\u00E9ho tv\u016Frce [V\u00EDta Baudy\u0161e](os_vit_baudys), je charakteristick\u00FD sv\u00FDm utilit\u00E1rn\u00EDm a stroh\u00FDm p\u0159\u00EDstupem. M\u00EDstnosti tohoto stylu m\u00EDvaj\u00ED \u010Dtvercov\u00FD nebo obd\u00E9ln\u00EDkov\u00FD p\u016Fdorys a \u010Dasto p\u016Fsob\u00ED v\u011Bt\u0161\u00ED, ne\u017E by funk\u010Dn\u011B bylo nutn\u00E9. Typick\u00E1 je jejich symetrie a minimum vstup\u016F."
+      },
+      {
+        "Title": "Materi\u00E1l",
+        "Content": "Z hlediska materi\u00E1lu jsou extr\u00E9mn\u011B omezen\u00E9 \u2013 stav\u00ED se t\u00E9m\u011B\u0159 v\u00FDhradn\u011B ze d\u0159eva a skla, bez jak\u00FDchkoli v\u00FDrazn\u011Bj\u0161\u00EDch ozdob \u010Di textur. V\u00FDsledkem jsou m\u00EDstnosti p\u0159ipom\u00EDnaj\u00EDc\u00ED hol\u00E9 d\u0159ev\u011Bn\u00E9 krychle, bez dekorac\u00ED nebo \u010Dlenitosti, kter\u00E9 nevynikaj\u00ED ani z vn\u011Bj\u0161\u00EDho pohledu."
+      },
+      {
+        "Title": "Z\u00E1v\u011Br",
+        "Content": "P\u0159esto\u017Ee styl Hralyd postr\u00E1d\u00E1 vizu\u00E1ln\u00ED atraktivitu, jeho jednoduchost a v\u00FDrazn\u00FD rukopis ho \u010Din\u00ED okam\u017Eit\u011B rozpoznateln\u00FDm. Mezi hr\u00E1\u010Di se stal zn\u00E1m\u00FDm pr\u00E1v\u011B pro sv\u016Fj \u201Enudn\u00FD\u201C vzhled a p\u0159ehnan\u011B velk\u00FD vnit\u0159n\u00ED prostor bez jasn\u00E9ho \u00FA\u010Delu."
+      },
+      {
+        "Title": "P\u0159\u00EDklady",
+        "Content": "Mezi m\u00EDstnosti postaven\u00E9 ve stylu Hralyd lze za\u0159adit nap\u0159\u00EDklad [Spy](mi_spy) \u010Di [Lokace](mi_lokace). Tento styl je v\u0161ak v cel\u00E9m dom\u011B zastoupen jen velmi \u0159\u00EDdce. D\u016Fvodem je jeho extr\u00E9mn\u00ED k\u0159ehkost: sta\u010D\u00ED drobn\u00E1 \u00FAprava \u2013 p\u0159id\u00E1n\u00ED schod\u016F, rozbit\u00ED symetrie, pou\u017Eit\u00ED t\u0159et\u00EDho materi\u00E1lu nebo v\u011Bt\u0161\u00ED mno\u017Estv\u00ED oken \u2013 a m\u00EDstnost u\u017E do stylu Hralyd nespad\u00E1.\r\nP\u0159\u00EDkladem m\u00EDstnosti, kter\u00E1 m\u00E1 ke stylu Hralyd velmi bl\u00EDzko, ale kv\u016Fli t\u011Bmto odchylk\u00E1m se do n\u011Bj neza\u0159azuje, je [Nejv\u011Bt\u0161\u00ED Tma](mi_nejvetsi_tma). P\u0159esto\u017Ee sd\u00EDl\u00ED z\u00E1kladn\u00ED znaky, jako je velk\u00E1 plocha a stroh\u00E9 materi\u00E1ly, p\u0159\u00EDtomnost schod\u016F, v\u00EDce vchod\u016F a nesoum\u011Brn\u00FDch oken ji u\u017E \u0159ad\u00ED jinam."
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false
+  },
+  "mi_gideon_tunel": {
+    "Title": "Gideon Tunel",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "GIDEON TUNEL",
+      "KONEC CHODBY"
+    ],
+    "Bordering_rooms": [
+      "mi_tajna_chodba",
+      "mi_gideon",
+      "mi_k_nabrezi",
+      "mi_katedra"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Gideon Tunel",
+      "Blok": "[P\u0159i Vod\u011B](bl_pri_vode)",
+      "Okrsek": "[Gideon](ok_gideon)",
+      "\u010Ctvr\u0165": "[Gideon](ct_gideon)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Gideon Tunel je podzemn\u00ED chodba spojuj\u00EDc\u00ED [Gideona](mi_gideon) s [Tajnou Chodbou](mi_tajna_chodba). Nav\u00EDc z n\u00ED vedou dve\u0159e [K N\u00E1b\u0159e\u017E\u00ED](mi_k_nabrezi) a do [Katedry](mi_katedra)."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jedn\u00E1 se tunel, kter\u00FD vede z [Gideona](mi_gideon)."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Gideon Tunel je jeden blok \u00FAzk\u00E1 a dva bloky \u0161irok\u00E1 chodba. Vede sm\u011Brem sever-jih a na ji\u017En\u00EDm se st\u00E1\u010D\u00ED na z\u00E1pad a pokra\u010Duje dal\u0161\u00ED t\u0159i bloky. Po prav\u00E9 stran\u011B jsou zde pou\u017Eity trapdoory, kter\u00E9 sni\u017Euj\u00ED \u0161\u00ED\u0159ku chodby o dal\u0161\u00EDch 19%, a nalevo jsou dve\u0159e vedouc\u00ED na schodi\u0161t\u011B v [Tajn\u00E9 Chodb\u011B](mi_tajna_chodba). Celkov\u00E1 d\u00E9lka chodby je 33 blok\u016F. \r\nV cel\u00E9 chodb\u011B jsou jen dv\u011B lou\u010De a v m\u00EDstech, kde sch\u00E1z\u00ED je prostor osv\u011Btlen skrz dve\u0159e do [Katedry](mi_katedra), [Gideona](mi_gideon) a [K N\u00E1b\u0159e\u017E\u00ED](mi_k_nabrezi)."
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": "Gideon Tunel je nejji\u017En\u011Bji polo\u017Een\u00E1 m\u00EDstnost ve \u010Dtvrti [Gideon](ct_gideon) a jedna z nejji\u017En\u011Bj\u0161\u00EDch v [Nov\u00E9m Dil\u00ED](ca_nove_dili).\r\nTrapdoory v chodb\u011B funguj\u00ED jako st\u011Bna se [Z\u00E1vodn\u00EDm Okruhem](mi_zavodni_okruh)"
+      }
+    ],
+    "image_id": 0,
+    "area": 33,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 323,
+      "y": 63,
+      "z": 1122
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false
+  },
+  "mi_the_overpass": {
+    "Title": "The Overpass",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "OVERPASS MEZI AUTOBUS\u00C1KEM A HOSPODOU",
+      "SCHODY NA GUACAMOLE",
+      "M\u016ESTEK A TEMN\u00C1 STRANA S\u00CDLY",
+      "POHLED NA DOLN\u00CD PODLA\u017D\u00CD"
+    ],
+    "Bordering_rooms": [
+      "mi_vytahova_sachta",
+      "mi_guacamole",
+      "mi_autobusak",
+      "mi_temna_strana_sily",
+      "mi_ustredni_stredisko_beta",
+      "mi_teraska",
+      "mi_troja",
+      "mi_dolni_nadrazi",
+      "mi_strecha",
+      "mi_spojka",
+      "mi_policka",
+      "mi_pucmeloun_farma",
+      "mi_dalnicni_pilir",
+      "mi_hospoda",
+      "mi_hriva",
+      "mi_skokanske_mustky"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "The Overpass",
+      "Blok": "[Autobus\u00E1k](bl_autobusak)",
+      "Okrsek": "[Sklen\u00EDk](ok_sklenik)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "The Overpass je nejv\u00FD\u0161e polo\u017Een\u00E1 z chodeb pojmenovan\u00FDch prefixem \u201EThe\u201C. Slou\u017E\u00ED jako propojen\u00ED mezi m\u00EDstnostmi [Pu\u010Dmeloun Farma](mi_pucmeloun_farma) a [Guacamole](mi_guacamole), a d\u00EDky sv\u00E9mu rozsahu i v\u00FD\u0161kov\u00E9 \u010Dlenitosti tvo\u0159\u00ED jednu z d\u016Fle\u017Eit\u011Bj\u0161\u00EDch dopravn\u00EDch tepen v dom\u011B.\r\nChodba se rozprost\u00EDr\u00E1 na dvou v\u00FD\u0161kov\u00FDch \u00FArovn\u00EDch, mezi nimi\u017E vede schodi\u0161t\u011B.  \r\nPrvn\u00ED podla\u017E\u00ED nab\u00EDz\u00ED p\u0159\u00EDstup do n\u011Bkolika kl\u00ED\u010Dov\u00FDch m\u00EDstnost\u00ED \u2013 krom\u011B dve\u0159\u00ED do [Poli\u010Dky](mi_policka), [V\u00FDtahov\u00E9 \u0160achty](mi_vytahova_sachta) a [St\u0159echy](mi_strechy) odtud vedou tak\u00E9 schody dol\u016F do [Spojky](mi_spojka). D\u016Fle\u017Eit\u00FDm prvkem je \u017Eelezni\u010Dn\u00ED pr\u016Fjezd sm\u011B\u0159uj\u00EDc\u00ED ke [Skokansk\u00FDm M\u016Fstk\u016Fm](mi_skokanske_mustky), p\u0159i\u010Dem\u017E tato \u010D\u00E1st chodby proch\u00E1z\u00ED kolem [Doln\u00EDho N\u00E1dra\u017E\u00ED](mi_dolni_nadrazi), termin\u00E1ln\u00ED stanice v\u0161ech linek [Mraven\u010D\u00ED Dr\u00E1hy](te_mravenci_draha).\r\nDruh\u00E9 podla\u017E\u00ED m\u00E1 tvar podkovy a vede okolo [Autobus\u00E1ku](mi_autobusak), p\u0159i\u010Dem\u017E zde nalezneme vstupy do [\u00DAst\u0159edn\u00EDho St\u0159ediska Beta](mi_ustredni_stredisko_beta), [Hospody](mi_hospoda) i [V\u00FDtahov\u00E9 \u0160achty](mi_vytahova_sachta). Z t\u00E9to \u00FArovn\u011B se d\u00E1 sej\u00EDt schodi\u0161t\u011Bm k [D\u00E1lni\u010Dn\u00EDmu Pil\u00ED\u0159i](mi_dalnicni_pilir), [Tr\u00F3je](mi_troja) nebo [Ter\u00E1sce](mi_teraska). P\u0159\u00EDmo uprost\u0159ed chodby stoj\u00ED plotov\u00E1 konstrukce zvan\u00E1 [H\u0159\u00EDva](mi_hriva), kde jsou p\u0159iv\u00E1z\u00E1ni skeleton kon\u011B. Na sam\u00E9m konci chodby pak stoup\u00E1 schodi\u0161t\u011B vzh\u016Fru do [Guacamole](mi_guacamole).\r\nM\u00EDstnost d\u0159\u00EDve pat\u0159ila do p\u011Bti r\u016Fzn\u00FDch blok\u016F ale pozd\u011Bji byla za\u0159azena do bloku [Autobus\u00E1k](bl_autobusak), nebo\u0165 vede okolo dvou m\u00EDstnost\u00ED v n\u011Bm."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "The Overpass byl postaven d\u0159\u00EDve ne\u017E ve\u0161ker\u00E1 v\u00FDstavba pod n\u00EDm. \u0022Overpass\u0022 se d\u00E1 p\u0159elo\u017Eit jako \u0022Nadjezd\u0022."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Interi\u00E9r Overpassu je velmi rozmanit\u00FD a prom\u011Bnliv\u00FD. Horn\u00ED podla\u017E\u00ED nen\u00ED zast\u0159e\u0161eno, co\u017E umo\u017E\u0148uje p\u0159\u00EDm\u00FD v\u00FDhled na oblohu. Chodba zde b\u00FDv\u00E1 dva a\u017E t\u0159i bloky \u0161irok\u00E1, av\u0161ak v n\u011Bkter\u00FDch m\u00EDstech se \u0161\u00ED\u0159ka v\u00FDrazn\u011B li\u0161\u00ED. Nap\u0159\u00EDklad d\u00EDky konstrukci [Her\u0161pic](ok_herspice) byla \u010D\u00E1st Overpassu roz\u0161\u00ED\u0159ena. Naopak existuj\u00ED i extr\u00E9mn\u011B \u00FAzk\u00E9 \u00FAseky \u2013 jako \u201Emost\u201C, kter\u00FD je oplocen z obou stran a prakticky zde z\u016Fst\u00E1v\u00E1 jen asi 1,8 bloku pr\u016Fchoz\u00ED \u0161\u00ED\u0159ky. V\u00FDstupn\u00ED v\u00FDtah z [Temn\u00E9 Strany S\u00EDly](mi_temna_strana_sily) je obklopen tak t\u011Bsn\u011B, \u017Ee kolem n\u011Bj vede pouze jednoblokov\u00FD pr\u016Fchod (ten vznikl a\u017E po v\u00FDstavb\u011B [Autobus\u00E1ku](mi_autobusak).\r\nChodba se op\u011Bt roz\u0161i\u0159uje v \u010D\u00E1sti, kde odbo\u010Duje vlevo sm\u011Brem k [Tr\u00F3je](mi_troja) \u2013 zde je a\u017E \u0161est blok\u016F \u0161irok\u00E1, p\u0159i\u010Dem\u017E schodi\u0161t\u011B dol\u016F m\u00E1 \u0161\u00ED\u0159ku jen dva bloky. Vedle tohoto schodi\u0161t\u011B se nach\u00E1z\u00ED je\u0161t\u011B jedno \u00FAzk\u00E9 schodi\u0161t\u011B na [Ter\u00E1sku](mi_teraska), kter\u00E9 je pova\u017Eov\u00E1no za jedno z nejhor\u0161\u00EDch v dom\u011B \u2013 snad pouze schodi\u0161t\u011B v [Dvoj\u010Datech](mi_dvojcata) je hor\u0161\u00ED. K [Tr\u00F3je](mi_troja) vede je\u0161t\u011B dal\u0161\u00ED, av\u0161ak pouze jednoblokov\u00E9 schodi\u0161t\u011B nach\u00E1zej\u00EDc\u00ED se o kousek d\u00E1l.\r\nNa \u00FApln\u00E9m konci horn\u00EDho patra se nach\u00E1z\u00ED mal\u00FD v\u00FDklenek s \u010Dervenou postel\u00ED a crafting tablem. Naproti jsou zbytky plotov\u00E9ho z\u00E1bradl\u00ED, kter\u00E9 d\u0159\u00EDve chr\u00E1nilo proti p\u00E1du \u2013 dnes ji\u017E zbyte\u010Dn\u00E9, nebo\u0165 zde stoj\u00ED [Autobus\u00E1k](mi_autobusak).\r\nSchodi\u0161t\u011B do doln\u00EDho patra m\u00E1 d\u00E9lku p\u011Bti blok\u016F. To je oproti horn\u00EDmu v\u00EDce obestav\u011Bn\u00E9 a zast\u0159e\u0161en\u00E9 r\u016Fznorod\u00FDmi m\u00EDstnostmi. Z prav\u00E9 st\u011Bny zde vyb\u00EDhaj\u00ED i okna, co\u017E nen\u00ED pro horn\u00ED patro b\u011B\u017En\u00E9 (v\u00FDjimkou jsou propojen\u00ED s [V\u00FDtahovou \u0160achtou](mi_vytahova_sachta), [Doln\u00EDm N\u00E1dra\u017E\u00EDm](mi_dolni_nadrazi) a [Hospodou](mi_hospoda)). Okna v doln\u00ED \u010D\u00E1sti b\u00FDvaj\u00ED velk\u00E1 \u2013 \u010Dasto a\u017E 4x4 bloky.\r\nStropy dosahuj\u00ED v\u00FD\u0161ky alespo\u0148 p\u011Bti blok\u016F, ale v n\u011Bkter\u00FDch m\u00EDstech, nap\u0159\u00EDklad u schodi\u0161t\u011B do horn\u00EDho podla\u017E\u00ED, mohou b\u00FDt vysok\u00E9 a\u017E 12 blok\u016F. Touto spodn\u00ED \u010D\u00E1st\u00ED nap\u0159\u00ED\u010D proch\u00E1z\u00ED \u017Eeleznice [Mraven\u010D\u00ED Dr\u00E1hy](te_mravenci_draha).\r\nU konce chodby vede dvoublokov\u00E9 schodi\u0161t\u011B dol\u016F do [Spojky](mi_spojka) a v\u0161e je zakon\u010Deno dve\u0159mi do [Pu\u010Dmeloun Farmy](mi_pucmeloun_farma), kter\u00E9 jsou zaj\u00EDmav\u011B obestav\u011Bn\u00E9 trapdoory slou\u017E\u00EDc\u00EDmi jako provizorn\u00ED ze\u010F.\r\nJe d\u016Fle\u017Eit\u00E9 zm\u00EDnit, \u017Ee m\u00EDstnosti [Doln\u00ED N\u00E1dra\u017E\u00ED](mi_dolni_nadrazi) a [Autobus\u00E1k](mi_autobusak) jsou o jeden blok v\u00FD\u0161e ne\u017E Overpass, tak\u017Ee k ob\u011Bma vede sch\u016Fdek."
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": "Vedle dve\u0159\u00ED do [Bety](mi_ustredni_stredisko_beta) jsou trapdoory, kter\u00E9 d\u00E1vaj\u00ED iluzi, \u017Ee jsou zde dve\u0159e dv\u011B.\r\nNa nej\u0161ir\u0161\u00EDm m\u00EDst\u011B (tedy p\u0159i odbo\u010Dce k [Tr\u00F3je](mi_troja) a [D\u00E1lni\u010Dn\u00EDmu PIl\u00ED\u0159i](mi_dalnicni_pilir)) je uprost\u0159ed cesty polo\u017Een crafting table a pl\u016Ftek z cedulkou."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "25/06/25: Cel\u00E1 m\u00EDstnost nov\u011B v bloku [Autobus\u00E1k](bl_autobusak). D\u0159\u00EDve byla rozd\u011Blena na bloky [Lanterna](bl_lanterna), [St\u0159echa](bl_strecha), [Beta](bl_beta),[Tr\u00F3ja](bl_troja) a [V\u00FDtahov\u00E1 \u0160achta](bl_vytahova_sachta).\r\n20/07/25: Nov\u00E9 dve\u0159e do [Hospody](mi_hospoda) a nov\u00E1 m\u00EDstnost p\u0159\u00EDmo na Overpassu [H\u0159\u00EDva](mi_hriva).\r\n24/07/25: M\u00EDstnost\u00ED proch\u00E1z\u00ED [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha)."
+      }
+    ],
+    "image_id": 0,
+    "area": 272,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false
+  },
+  "os_vit_baudys": {
+    "Title": "V\u00EDt Baudy\u0161",
+    "Type": "osoba",
+    "Images": [],
+    "Image_titles": [
+      "ILUSTRA\u010CN\u00CD FOTO"
+    ],
+    "Bordering_rooms": [],
+    "Alternate_names": [
+      "Syr V\u00FDt",
+      "Hralyd"
+    ],
+    "Metadata": {
+      "N\u00E1zev": "V\u00EDt Baudy\u0161",
+      "Narozen\u00ED": "asi 2009",
+      "Povol\u00E1n\u00ED": "architekt, student, budouc\u00ED Miss Pa\u0159ez?",
+      "P\u0159ezd\u00EDvka": "Hralyd, Syr V\u00FDt"
+    },
+    "Sections": [
+      {
+        "Title": "Kari\u00E9ra",
+        "Content": "V\u00EDt Baudy\u0161, pova\u017Eov\u00E1n za jednoho z nejz\u00E1sadn\u011Bj\u0161\u00EDch architekt\u016F sv\u00E9 generace, st\u00E1l u zrodu architektonick\u00E9ho stylu [Hralyd](as_hralyd). Jeho jm\u00E9no je dnes zn\u00E1mo mezi znalci a fanou\u0161ky architektury, ale i tak\u00E9 mezi t\u011Bmi, kte\u0159\u00ED se odv\u00E1\u017E\u00ED zpochybnit podstatu architektury jako takov\u00E9. Hralyd dal sv\u011Btu kompletn\u011B nov\u00FD pohled, kter\u00FDm lze vn\u00EDmat prostor. I p\u0159esto, \u017Ee mu chyb\u00ED form\u00E1ln\u00ED vzd\u011Bl\u00E1n\u00ED v obory, jeho vliv na sou\u010Dasnou podobu prostorov\u00E9ho my\u0161len\u00ED je nepopirateln\u00FD."
+      },
+      {
+        "Title": "Hralyd",
+        "Content": "Architektonick\u00FD styl [Hralyd](as_hralyd) p\u0159edstavuje unik\u00E1tn\u00ED podobu minimalistick\u00E9ho maximalismu, charakterizovanou nekompromisn\u00ED jednoduchost\u00ED a absolutn\u00ED absenc\u00ED jak\u00FDchkoli dekora\u010Dn\u00EDch prvk\u016F \u010Di detail\u016F. Prostory vych\u00E1zej\u00ED ze stroh\u00E9 kubick\u00E9 struktury, kter\u00E1 je v\u017Edy tvo\u0159ena v\u00FDhradn\u011B ze d\u0159eva. Vstup do m\u00EDstnost\u00ED obvykle zaji\u0161\u0165uje jedin\u00FD vchod \u2013 d\u0159ev\u011Bn\u00E9 dve\u0159e um\u00EDst\u011Bn\u00E9 zpravidla uprost\u0159ed jedn\u00E9 ze st\u011Bn tak, aby neru\u0161ily jednotv\u00E1rnost prostoru. Vybaven\u00ED m\u00EDstnost\u00ED je redukov\u00E1no na nezbytn\u00E9 minimum, \u010Dasto jen na n\u011Bkolik \u00FA\u010Delov\u00FDch blok\u016F nebo postel, p\u0159i\u010Dem\u017E zbytek prostoru z\u016Fst\u00E1v\u00E1 z\u00E1m\u011Brn\u011B pr\u00E1zdn\u00FD.\r\n[Hralyd](as_hralyd) nen\u00ED pouze vrcholem kari\u00E9ry V\u00EDta Baudy\u0161e, ale tak\u00E9 pova\u017Eov\u00E1n za nejvy\u0161\u0161\u00ED dosa\u017Een\u00FD stupe\u0148 architektonick\u00E9ho um\u011Bn\u00ED v\u016Fbec."
+      },
+      {
+        "Title": "Vliv mimo Hralyd",
+        "Content": "Vliv V\u00EDta na [Pa\u0159ez](ca_parez) p\u0159esahuje samotn\u00FD architektonick\u00FD styl. Nap\u0159\u00EDklad m\u00EDstnost [Svat\u00FD V\u00FDt](mi_svaty_vyt) vzd\u00E1v\u00E1 hold Baudy\u0161ovi jako v\u00FDjime\u010Dn\u00E9mu architektu. Co ho ale mo\u017En\u00E1 dodnes tr\u00E1p\u00ED, je fakt, \u017Ee nen\u00ED vystavena ve stylu [Hralyd](as_hralyd). Tato m\u00EDstnost mu dala jeho druhou p\u0159ezd\u00EDvku a to \u0022Syr V\u00FDt\u0022."
+      },
+      {
+        "Title": "Budoucnost",
+        "Content": "V\u00EDt Baudy\u0161 se chyst\u00E1 z\u00FA\u010Dastnit druh\u00E9ho ro\u010Dn\u00EDku sout\u011B\u017Ee [Miss Pa\u0159ez](te_miss_parez), kde hodl\u00E1 op\u011Bt zaujmout sv\u00FDm jedine\u010Dn\u00FDm pohledem na prostor. Pracuje tak\u00E9 na zcela nov\u00E9m stylu, kter\u00FD p\u0159inese revolu\u010Dn\u00ED zm\u011Bnu \u2013 m\u00EDsto tradi\u010Dn\u00EDho d\u0159eva bude tentokr\u00E1t vyu\u017E\u00EDvat pouze vzduch, \u010D\u00EDm\u017E \u00FApln\u011B p\u0159ehodnot\u00ED samotnou podstatu materi\u00E1lu v architektu\u0159e.\r\nTato radik\u00E1ln\u00ED inovace slibuje ot\u0159\u00E1st z\u00E1klady nejen stylu Hralyd, ale i cel\u00E9 architektonick\u00E9 sc\u00E9ny. V\u00EDt Baudy\u0161 tak pokra\u010Duje ve sv\u00E9m nekone\u010Dn\u00E9m vlivu, redefinuj\u00EDc, co znamen\u00E1 prostor a existence v architektu\u0159e."
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
     },
     "patternleCompatible": true,
     "redirect": null,
