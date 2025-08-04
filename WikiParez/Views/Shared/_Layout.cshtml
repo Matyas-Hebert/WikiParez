@@ -34,23 +34,6 @@
                         <li class="nav-item"></li>
                             <a class="nav-link text-dark" asp-area="" asp-controller="Wiki" asp-action="Random">Náhodný</a>
                         </li>
-                        @if (false){
-                            <li class="nav-item">
-                                <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="New">Nové Místnosti</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link text-dark" asp-area="" asp-controller="Game" asp-action="HigherLower">Větší nebo menší</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link text-dark" asp-area="" asp-controller="Game" asp-action="ParezleMenu">PAŘEZLE</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link text-dark" asp-area="" asp-controller="Game" asp-action="Bordering">Sousedí to?</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link text-dark" asp-area="" asp-controller="List" asp-action="List">Seznam</a>
-                            </li>
-                        }
                         <li class="nav-item"></li>
                             <a class="nav-link text-dark" asp-area="" asp-controller="Wiki" asp-action="Games">Hry</a>
                         </li>
@@ -59,6 +42,9 @@
                         </li>
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Map" asp-action="Elevators">Mapa Výtahů</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Top" asp-action="Menu">Nej</a>
                         </li>
                     </ul>
                     <form class="d-flex" asp-controller="Wiki" asp-action="Search" method="get">

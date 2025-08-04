@@ -49,6 +49,18 @@
       "PackagePath": "staticwebassets/Images/map_elevator.png"
     },
     {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_akvadukt1.png",
+      "PackagePath": "staticwebassets/Images/mi_akvadukt1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_akvadukt2.png",
+      "PackagePath": "staticwebassets/Images/mi_akvadukt2.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_akvadukt3.png",
+      "PackagePath": "staticwebassets/Images/mi_akvadukt3.png"
+    },
+    {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_armory1.png",
       "PackagePath": "staticwebassets/Images/mi_armory1.png"
     },
@@ -239,6 +251,18 @@
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_gideon_tunel2.png",
       "PackagePath": "staticwebassets/Images/mi_gideon_tunel2.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_gideonuv_dum1.png",
+      "PackagePath": "staticwebassets/Images/mi_gideonuv_dum1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_gideonuv_dum2.png",
+      "PackagePath": "staticwebassets/Images/mi_gideonuv_dum2.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_gideonuv_dum3.png",
+      "PackagePath": "staticwebassets/Images/mi_gideonuv_dum3.png"
     },
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_hlidkovaci_kos1.png",
@@ -1127,6 +1151,10 @@
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/missing.jpg",
       "PackagePath": "staticwebassets/Images/missing.jpg"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/os_gideon1.png",
+      "PackagePath": "staticwebassets/Images/os_gideon1.png"
     },
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/os_helena_jaklova1.png",

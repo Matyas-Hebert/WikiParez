@@ -41,6 +41,18 @@ public class HomeController : Controller
         return View("New");
     }
 
+    [Route("Top/Parezle")]
+    public IActionResult TopParezle()
+    {
+        return View("Leaderboard", _wikiService.GetTopParezleRooms());
+    }
+
+    [Route("Top/Menu")]
+    public IActionResult TopMenu()
+    {
+        return View("TopMenu");
+    }
+
     [Route("List/Rooms")]
     public IActionResult Listrooms()
     {

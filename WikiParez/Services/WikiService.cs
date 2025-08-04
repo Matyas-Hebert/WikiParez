@@ -26,6 +26,14 @@ public class WikiService
     private int finishedPages = 0;
     private int totalpages = 0;
 
+    public Dictionary<string, double> GetTopParezleRooms()
+    {
+        return new Dictionary<string, double>
+        {
+            {"The Bridge",33778.12},{"Dálniční Pilíř",26571.87},{"Dálnice",25446.82},{"Venkovní Schodiště",19087.51},{"Kořeny",16244.06},{"Zoban",15462},{"Ptakopysk",14646.52},{"Liána",14622.86},{"Silo",14137.13},{"Výtahová Šachta",13368.44},{"Veranda",12706.92},{"Dvojčata",12449.64},{"Okruh",11930.51},{"Hráz",10656.42},{"Kanál",10638.93},{"Hlavní Koridor II",9601.96},{"Středové náměstí",9387.03},{"Kahan",8662.14},{"The Airship",8574.96},{"Smyčka",8499.77},{"Papokoi",8218.94},{"Karotka",8019.35},{"The Detour",7816.39},{"Lilek",7482.14},{"Pavlač",7478.95},{"The Overpass",7462.49},{"The Crossing",7214.47},{"Preatrium",6970.76},{"Kokarda",6699.71},{"Labyrint",6354.53},{"Únikové Schodiště",5692.35},{"Rozhraní",5250.28},{"Alej",5059.34},{"Přístavní Molo",4951.3},{"Silice",4924.72},{"Díra do Pekel",4754.8},{"Farmus-Bambus",4484.93},{"Spojka",4442.7},{"Atrium",4372.75},{"Hotel Gi Floor Ga",4190.54},{"Hlavní Koridor I",4182.08},{"Pod Schodama",3928.96},{"Královské Abonmá",3864.44},{"Vstup",3816.96},{"Jižní Blok",3798.02},{"Náměstí u Vody",3768.82},{"Obalovna",3698.61},{"Katakomby",3680.76},{"Železná Lhota",3554.04},{"Klub",3382.45},{"Pata",3367.03},{"Čtverec",3288.58},{"Pod Vrbou",3245.23},{"Statek",3191.52},{"Diagonála",3167.91},{"Závodní Okruh",3125.44},{"Zmatek",3092.85},{"Sluníčko",3030.88},{"Trója",3024.64},{"Hlavní Třída",3018.36},{"Dragon Lair",3005.96},{"Stoupání",2955.96},{"Juka",2943.81},{"Lom",2906.02},{"Výplň",2881.03},{"Hotel Gi Floor Gi",2767.37},{"Městský Okruh",2610.45},{"Amazonský Havířov",2602.61},{"Hvězda",2528.7},{"Loosova Vila",2492.2},{"Guacamole",2487.07},{"Hnízdo",2470.06},{"Garáž",2450.79},{"Chodba",2444.11},{"Gideon",2391.66},{"Východní Blok",2391.54},{"Spirála",2381.39},{"UFO",2368.4},{"Zlaté Schodiště",2367.94},{"Spojnice",2283.31},{"Ortofrater",2214.54},{"Preddvor",2108.44},{"Na Můstku",2106.03},{"Na Ochozu",2098.55},{"Balónky",2091.91},{"Laboratoř",2049.66},{"Le Pont",2003.45},{"Ústřední středisko Alfa",1992.75},{"Dračí Rotunda",1961.52},{"Hotel Gi Floor Ge",1904.77},{"Pasáž",1817.55},{"Dron",1794.12},{"Ústřední středisko Beta",1771.27},{"Zahrádkářská Kolonie",1748.41},{"Arkáda",1711.63},{"Hotel",1702.88},{"Méďa",1643.81},{"Dolní Nádraží",1636.73},{"Přístav",1633.75},{"Tělocvična",1624.87}
+        };
+    }
+
     public WikiService(IHostEnvironment env)
     {
         _path = Path.Combine(env.ContentRootPath, "appdata", "pagesData.json");
@@ -36,6 +44,44 @@ public class WikiService
         _onlyroomspages = LoadOnlyRoomPages();
         _simplifiedPages = GetSimplifiedDict();
         _patternlepages = LoadCoordinatesPages();
+        var max = 0;
+        var scores = new Dictionary<string, double>();
+        foreach (var room1 in _onlyroomspages.Keys)
+        {
+            foreach (var room2 in _onlyroomspages.Keys)
+            {
+                if (!DoesBorder(room1, room2) && room1 != room2)
+                {
+                    var paths = FindPaths(room1, room2);
+                    foreach (var path in paths)
+                    {
+                        if (path.Count >= max)
+                        {
+                            max = path.Count;
+                            Console.WriteLine("found path with length: " + max + " " + room1 + " to " + room2);
+                        }
+                        var len = path.Count;
+                        foreach (var room in path)
+                        {
+                            if (!scores.ContainsKey(room))
+                            {
+                                scores[room] = 0;
+                            }
+                            if (room != room1 && room != room2)
+                            {
+                                scores[room] += 1.0f / len;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+
+        scores = scores.OrderByDescending(kvp => kvp.Value).ToDictionary(kvp => kvp.Key, kvp => kvp.Value);
+        foreach (var scorekey in scores.Keys)
+        {
+            Console.WriteLine("{\""+ _pages[scorekey].Title + "\"," + Math.Round(scores[scorekey], 2) + "},");
+        }
     }
 
     public Dictionary<string, ParezlePage> GetParezlePages()
@@ -159,13 +205,66 @@ public class WikiService
         return false;
     }
 
-    public List<string> FindPath(string from, string to)
+    public List<List<string>> FindPaths(string from, string to)
     {
-        if (from == "mi_listy" || to == "mi_listy" || to == "mi_svatyne")
+        //Console.WriteLine("finding paths from " + from + " to " + to);
+        var toexplore = new Queue<string>();
+        var distance = new Dictionary<string, int>();
+        var predecessors = new Dictionary<string, List<string>>();
+
+        predecessors[from] = new List<string>();
+        distance[from] = 0;
+        toexplore.Enqueue(from);
+
+        while (toexplore.Count > 0)
         {
-            return new List<string>();
+            var currentroom = toexplore.Dequeue();
+            var currentdistance = distance[currentroom];
+            var borderingrooms = GetBordering(currentroom);
+            foreach (var borderingroom in borderingrooms)
+            {
+                if (!distance.ContainsKey(borderingroom))
+                {
+                    distance[borderingroom] = currentdistance+1;
+                    predecessors[borderingroom] = new List<string> { currentroom };
+                    toexplore.Enqueue(borderingroom);
+                }
+                else if (distance[borderingroom] == currentdistance + 1)
+                {
+                    predecessors[borderingroom].Add(currentroom);
+                }
+            }
         }
 
+        var allpaths = new List<List<string>>();
+
+        if (!predecessors.ContainsKey(to)) return allpaths;
+
+        void Backtrack(string current, List<string> path)
+        {
+            if (current == from)
+            {
+                var completePath = new List<string>(path) { from };
+                completePath.Reverse();
+                allpaths.Add(completePath);
+                return;
+            }
+
+            foreach (var prev in predecessors[current])
+            {
+                path.Add(current);
+                Backtrack(prev, path);
+                path.RemoveAt(path.Count - 1);
+            }
+        }
+
+        Backtrack(to, new List<string>());
+
+        return allpaths;
+    }
+
+    public List<string> FindPath(string from, string to)
+    {
         Queue<string> toexplore = new Queue<string>();
         HashSet<string> visited = new HashSet<string>();
         Dictionary<string, string?> previous = new Dictionary<string, string?>();
