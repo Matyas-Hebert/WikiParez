@@ -44,7 +44,7 @@ public class WikiService
         _onlyroomspages = LoadOnlyRoomPages();
         _simplifiedPages = GetSimplifiedDict();
         _patternlepages = LoadCoordinatesPages();
-        var max = 0;
+        /**var max = 0;
         var scores = new Dictionary<string, double>();
         foreach (var room1 in _onlyroomspages.Keys)
         {
@@ -81,7 +81,7 @@ public class WikiService
         foreach (var scorekey in scores.Keys)
         {
             Console.WriteLine("{\""+ _pages[scorekey].Title + "\"," + Math.Round(scores[scorekey], 2) + "},");
-        }
+        }**/
     }
 
     public Dictionary<string, ParezlePage> GetParezlePages()
