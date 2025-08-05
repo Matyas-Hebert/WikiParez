@@ -1,11 +1,13 @@
 #!/bin/bash
 
-python3 WikiParez/appdata/analyzepaths.py
+if [[ "$2" == "-nap" ]]; then
+	python3 WikiParez/appdata/analyzepaths.py
+fi
 
 git add *
 git commit -m "$1"
 
 read -p "Type Y if you want to push" confirmation
-if [[ "$confirmation" == "Y" || "$confirmation" == "y"]]; then
+if [[ "$confirmation" == "Y" || "$confirmation" == "y" ]]; then
 	git push origin main
 fi
