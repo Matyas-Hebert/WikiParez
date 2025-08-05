@@ -23,6 +23,10 @@ a {
   border-color: #1861ac;
 }
 
+.my-navbar {
+  background-color: rgb(81, 183, 241);
+}
+
 .border-top {
   border-top: 1px solid #e5e5e5;
 }

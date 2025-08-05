@@ -81,6 +81,7 @@
 
 @{
     ViewData["Title"] = "Home Page";
+    var i = 0;
 }
 
 <div class="text-center" style="display: flex; flex-direction: column; gap: 40px;">
@@ -93,8 +94,16 @@
         <div class="content-panel-2">
             <h3 style="color: white;">Nejnovější články: </h3>
             @foreach (var key in Model.Keys){
-                <p style="color: white;">Více o <a href=@key>@Model[@key]</a>.</p>
+                <p class="new-articles" data-index="@i" style="color: white; display: @(i < 10 ? "block" : "none")">
+                    Více o <a href=@key>@Model[@key]</a>.
+                </p>
+                i++;
             }
+            <div id="pagenumber" style="background-color: rgba(68,64,64,0.6); color: white;">STRÁNKA 1</div>
+            <div style="display: flex; flex-direction: row;">
+                <button id="prevbutton" onclick="previous()" style="flex: 1; background-color: rgb(75, 75, 75);">PŘEDCHOZÍ</button>
+                <button id="nextbutton" onclick="next()"     style="flex: 1; background-color: lightgray;">DALŠÍ</button>
+            </div>
         </div>
         <div style="display: flex; flex-direction: column; gap:50px;">
             <div class="piechartwrapper">
@@ -105,3 +114,49 @@
         </div>
     </div>
 </div>
+
+<script>
+    let newarticlespage = 0;
+    const newarticles = document.querySelectorAll(".new-articles");
+    const articlepages = Math.ceil(newarticles.length/10);
+    const prevbutton = document.getElementById("prevbutton");
+    const nextbutton = document.getElementById("nextbutton");
+    const pagenumber = document.getElementById("pagenumber");
+
+    function previous(){
+        console.log("previous");
+        if (newarticlespage == 0){
+            return;
+        }
+        newarticlespage--;
+        updatearticlelinks();
+    }
+
+    function next(){
+        console.log("next");
+        if (newarticlespage == articlepages-1){
+            return;
+        }
+        newarticlespage++;
+        updatearticlelinks();
+    }
+
+    function updatearticlelinks(){
+        prevbutton.style.backgroundColor = "lightgray";
+        nextbutton.style.backgroundColor = "lightgray";
+        pagenumber.innerText = "STRÁNKA " + (newarticlespage+1)
+        if (newarticlespage == 0) prevbutton.style.backgroundColor = "rgb(75,75,75)";
+        if (newarticlespage == articlepages-1) nextbutton.style.backgroundColor = "rgb(75,75,75)"
+
+        let start = newarticlespage*10;
+        let end = newarticlespage*10 + 9;
+        for (let i = 0; i < newarticles.length; i++){
+            if (i < start || i > end){
+                newarticles[i].style.display = "none";
+            }
+            else {
+                newarticles[i].style.display = "block";
+            }
+        }
+    }
+</script>

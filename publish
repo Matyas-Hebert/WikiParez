@@ -1,5 +1,10 @@
 #!/bin/bash
 
+if [[ "$1" == "-help" || "$1" == "--help" ]]; then
+	echo "use -nap in second argument to not analyze paths"
+	exit
+fi
+
 if [[ "$2" != "-nap" ]]; then
 	python3 WikiParez/appdata/analyzepaths.py
 fi

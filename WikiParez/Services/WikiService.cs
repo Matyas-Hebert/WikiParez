@@ -411,12 +411,12 @@ public class WikiService
         int pageCount = _pages.Count;
         var dict = new Dictionary<string, string>();
         Console.WriteLine("list:");
-        for (int i = pageCount - 1; i >= pageCount - 10; i--)
+        for (int i = pageCount - 1; i >= 0; i--)
         {
             var key = _pages.Keys.ElementAt(i);
-            if (_pages[key].Empty || _pages[key].Type == "secret")
+            if (_pages[key].Empty || _pages[key].Type == "secret" || _pages[key].Title == "redirecting")
             {
-                pageCount--;
+                //pageCount--;
             }
             else
             {

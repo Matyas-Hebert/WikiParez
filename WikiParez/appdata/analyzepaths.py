@@ -63,7 +63,7 @@ i = 0
 total = len(only_rooms_pages)
 
 for room1 in only_rooms_pages.keys():
-    print(round(i/total*100))
+    print("Analyzing Paths:", round(i/total*100))
     i+=1
     for room2 in only_rooms_pages.keys():
         if room1 != room2 and not does_border(room1, room2):
@@ -80,7 +80,3 @@ sorted_scores = sorted(scores.items(), key=lambda kv: kv[1], reverse=True)
 print(sorted_scores)
 with open("WikiParez/appdata/parezlescores.json", "w") as f:
     json.dump(sorted_scores, f)
-
-for room, score in sorted_scores:
-    title = only_rooms_pages[room]["Title"]
-    print(f'{{"{title}", {round(score, 2)}}},')
