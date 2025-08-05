@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "dndjfLCCTbL8vTda0ShAUkF1y4Qf9G2i/ezt+M6f7OQ=",
+  "Hash": "kegQHX/9fwNMjEEXAoWgaqw4NRjhTIgrkyNjWD040ec=",
   "Source": "WikiParez",
   "BasePath": "_content/WikiParez",
   "Mode": "Default",
@@ -129,6 +129,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/Images/as_hralyd1.png"
+    },
+    {
+      "Identity": "/root/wikiparez/WikiParez/wwwroot/Images/as_papoko1.png",
+      "SourceId": "WikiParez",
+      "SourceType": "Discovered",
+      "ContentRoot": "/root/wikiparez/WikiParez/wwwroot/",
+      "BasePath": "_content/WikiParez",
+      "RelativePath": "Images/as_papoko1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Images/as_papoko1.png"
     },
     {
       "Identity": "/root/wikiparez/WikiParez/wwwroot/Images/Autosaved (3).png:Zone.Identifier",

@@ -18,6 +18,7 @@ public class WikiService
 {
     private readonly string _path;
     private readonly string _pathsplash;
+    private readonly string _pathtopparezle;
     private Dictionary<string, WikiPage> _pages;
     private Dictionary<string, WikiPage> _onlyroomspages;
     private Dictionary<string, SimplifiedWikiPage> _simplifiedPages;
@@ -26,18 +27,11 @@ public class WikiService
     private int finishedPages = 0;
     private int totalpages = 0;
 
-    public Dictionary<string, double> GetTopParezleRooms()
-    {
-        return new Dictionary<string, double>
-        {
-            {"The Bridge",33778.12},{"Dálniční Pilíř",26571.87},{"Dálnice",25446.82},{"Venkovní Schodiště",19087.51},{"Kořeny",16244.06},{"Zoban",15462},{"Ptakopysk",14646.52},{"Liána",14622.86},{"Silo",14137.13},{"Výtahová Šachta",13368.44},{"Veranda",12706.92},{"Dvojčata",12449.64},{"Okruh",11930.51},{"Hráz",10656.42},{"Kanál",10638.93},{"Hlavní Koridor II",9601.96},{"Středové náměstí",9387.03},{"Kahan",8662.14},{"The Airship",8574.96},{"Smyčka",8499.77},{"Papokoi",8218.94},{"Karotka",8019.35},{"The Detour",7816.39},{"Lilek",7482.14},{"Pavlač",7478.95},{"The Overpass",7462.49},{"The Crossing",7214.47},{"Preatrium",6970.76},{"Kokarda",6699.71},{"Labyrint",6354.53},{"Únikové Schodiště",5692.35},{"Rozhraní",5250.28},{"Alej",5059.34},{"Přístavní Molo",4951.3},{"Silice",4924.72},{"Díra do Pekel",4754.8},{"Farmus-Bambus",4484.93},{"Spojka",4442.7},{"Atrium",4372.75},{"Hotel Gi Floor Ga",4190.54},{"Hlavní Koridor I",4182.08},{"Pod Schodama",3928.96},{"Královské Abonmá",3864.44},{"Vstup",3816.96},{"Jižní Blok",3798.02},{"Náměstí u Vody",3768.82},{"Obalovna",3698.61},{"Katakomby",3680.76},{"Železná Lhota",3554.04},{"Klub",3382.45},{"Pata",3367.03},{"Čtverec",3288.58},{"Pod Vrbou",3245.23},{"Statek",3191.52},{"Diagonála",3167.91},{"Závodní Okruh",3125.44},{"Zmatek",3092.85},{"Sluníčko",3030.88},{"Trója",3024.64},{"Hlavní Třída",3018.36},{"Dragon Lair",3005.96},{"Stoupání",2955.96},{"Juka",2943.81},{"Lom",2906.02},{"Výplň",2881.03},{"Hotel Gi Floor Gi",2767.37},{"Městský Okruh",2610.45},{"Amazonský Havířov",2602.61},{"Hvězda",2528.7},{"Loosova Vila",2492.2},{"Guacamole",2487.07},{"Hnízdo",2470.06},{"Garáž",2450.79},{"Chodba",2444.11},{"Gideon",2391.66},{"Východní Blok",2391.54},{"Spirála",2381.39},{"UFO",2368.4},{"Zlaté Schodiště",2367.94},{"Spojnice",2283.31},{"Ortofrater",2214.54},{"Preddvor",2108.44},{"Na Můstku",2106.03},{"Na Ochozu",2098.55},{"Balónky",2091.91},{"Laboratoř",2049.66},{"Le Pont",2003.45},{"Ústřední středisko Alfa",1992.75},{"Dračí Rotunda",1961.52},{"Hotel Gi Floor Ge",1904.77},{"Pasáž",1817.55},{"Dron",1794.12},{"Ústřední středisko Beta",1771.27},{"Zahrádkářská Kolonie",1748.41},{"Arkáda",1711.63},{"Hotel",1702.88},{"Méďa",1643.81},{"Dolní Nádraží",1636.73},{"Přístav",1633.75},{"Tělocvična",1624.87}
-        };
-    }
-
     public WikiService(IHostEnvironment env)
     {
         _path = Path.Combine(env.ContentRootPath, "appdata", "pagesData.json");
         _pathsplash = Path.Combine(env.ContentRootPath, "appdata", "splashtexts.txt");
+        _pathtopparezle = Path.Combine(env.ContentRootPath, "appdata", "parezlescores.json");
         Console.WriteLine(_path);
         Console.WriteLine(_pathsplash);
         _pages = LoadPages();
@@ -82,6 +76,25 @@ public class WikiService
         {
             Console.WriteLine("{\""+ _pages[scorekey].Title + "\"," + Math.Round(scores[scorekey], 2) + "},");
         }**/
+    }
+
+    public Dictionary<string, double> GetTopParezleRooms()
+    {
+        var json = File.ReadAllText(_pathtopparezle);
+        Console.WriteLine(json);
+        var result = new Dictionary<string, double>();
+
+        using var document = JsonDocument.Parse(json);
+        var root = document.RootElement;
+
+        foreach (var element in root.EnumerateArray())
+        {
+            var name = _pages[element[0].GetString()].Title;
+            var score = element[1].GetSingle();
+            if (name != null)
+                result[name] = Math.Round(score,0);
+        }
+        return result;
     }
 
     public Dictionary<string, ParezlePage> GetParezlePages()
