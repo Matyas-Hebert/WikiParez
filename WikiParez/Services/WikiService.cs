@@ -13,6 +13,7 @@ using Microsoft.AspNetCore.Mvc.Filters;
 using System.Globalization;
 using Microsoft.AspNetCore.SignalR;
 using System.Numerics;
+using System.Linq;
 
 public class WikiService
 {
@@ -97,6 +98,36 @@ public class WikiService
         return result;
     }
 
+    public Dictionary<string, int> GetLargestRooms()
+    {
+        var result = new Dictionary<string, int>();
+
+        foreach (var key in _onlyroomspages.Keys)
+        {
+            var room = _onlyroomspages[key];
+            if (room.area > 0) result.Add(room.Title, room.area);
+        }
+
+        result = result.OrderByDescending(kvp => kvp.Value).ToDictionary(kvp => kvp.Key, kvp => kvp.Value);
+
+        return result;
+    }
+
+    public Dictionary<string, int> GetMostBorderingRooms()
+    {
+        var result = new Dictionary<string, int>();
+
+        foreach (var key in _onlyroomspages.Keys)
+        {
+            var room = _onlyroomspages[key];
+            if (room.Bordering_rooms.Count > 0) result.Add(room.Title, room.Bordering_rooms.Count);
+        }
+
+        result = result.OrderByDescending(kvp => kvp.Value).ToDictionary(kvp => kvp.Key, kvp => kvp.Value);
+
+        return result;
+    }
+
     public Dictionary<string, ParezlePage> GetParezlePages()
     {
         var pages = new Dictionary<string, ParezlePage>();
@@ -123,12 +154,12 @@ public class WikiService
         {
             if (_pages[page].coordinates.x != 0 && _pages[page].coordinates.y != 0 && _pages[page].coordinates.z != 0 && _pages[page].patternleCompatible)
             {
-                Console.WriteLine(page);
+                //Console.WriteLine(page);
                 i++;
                 coords[page] = _pages[page].coordinates;
             }
         }
-        Console.WriteLine(i + "rooms");
+        //Console.WriteLine(i + "rooms");
         return coords;
     }
 
@@ -410,7 +441,7 @@ public class WikiService
     public Dictionary<string, string> Last10pages(){
         int pageCount = _pages.Count;
         var dict = new Dictionary<string, string>();
-        Console.WriteLine("list:");
+        //Console.WriteLine("list:");
         for (int i = pageCount - 1; i >= 0; i--)
         {
             var key = _pages.Keys.ElementAt(i);

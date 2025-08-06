@@ -63,7 +63,7 @@ i = 0
 total = len(only_rooms_pages)
 
 for room1 in only_rooms_pages.keys():
-    print("Analyzing Paths:", round(i/total*100))
+    print("Analyzing Paths:", round(str(i+1) + "/" + str(total)))
     i+=1
     for room2 in only_rooms_pages.keys():
         if room1 != room2 and not does_border(room1, room2):

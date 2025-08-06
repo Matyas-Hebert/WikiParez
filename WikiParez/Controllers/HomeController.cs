@@ -47,6 +47,18 @@ public class HomeController : Controller
         return View("Leaderboard", _wikiService.GetTopParezleRooms());
     }
 
+    [Route("Top/Largest")]
+    public IActionResult TopLargest()
+    {
+        return View("Leaderboard", _wikiService.GetLargestRooms());
+    }
+
+    [Route("Top/Mostbordered")]
+    public IActionResult MostBordered()
+    {
+        return View("Leaderboard", _wikiService.GetMostBorderingRooms());
+    }
+
     [Route("Top/Menu")]
     public IActionResult TopMenu()
     {
