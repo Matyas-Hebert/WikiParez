@@ -93,6 +93,18 @@
       "PackagePath": "staticwebassets/Images/mi_beetroot_farma1.png"
     },
     {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_buben1.png",
+      "PackagePath": "staticwebassets/Images/mi_buben1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_buben2.png",
+      "PackagePath": "staticwebassets/Images/mi_buben2.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_buben3.png",
+      "PackagePath": "staticwebassets/Images/mi_buben3.png"
+    },
+    {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_builder_cepicka1.png",
       "PackagePath": "staticwebassets/Images/mi_builder_cepicka1.png"
     },
@@ -267,6 +279,18 @@
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_gideonuv_dum3.png",
       "PackagePath": "staticwebassets/Images/mi_gideonuv_dum3.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_hala1.png",
+      "PackagePath": "staticwebassets/Images/mi_hala1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_hala2.png",
+      "PackagePath": "staticwebassets/Images/mi_hala2.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_hala3.png",
+      "PackagePath": "staticwebassets/Images/mi_hala3.png"
     },
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_hlidkovaci_kos1.png",

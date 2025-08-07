@@ -13334,7 +13334,7 @@
       },
       {
         "Title": "Uspo\u0159\u00E1d\u00E1n\u00ED p\u0159ed",
-        "Content": "[Tr\u00F3ja](ca_troja) byla rozd\u011Blena na 6 \u010Dtvrt\u00ED [Labyrint](ct_labyrint), [Loosova Vila](ct_loosova_vila), [Nekone\u010Dno](ct_nekonecno),[Triangl](ct_triangl), [Tr\u00F3ja](ct_troja), [Vietnamsk\u00E1 \u010Ctvr\u0165](ct_vietnamska_ctvrt).\r\n\u010Ctvrti se d\u00E1le d\u011Blily na tyto okrsky:\r\n[Labyrint](ct_labyrint): [Labyrint](ok_labyrint) a [\u0160ne\u010D\u00ED R\u00E1j](ok_sneci_raj).\r\n[Loosova Vila](ct_loosova_vila): [Loosova Vila](ok_loosova_vila) a [Nexus](ok_nexus)\r\n[Nekone\u010Dno](ct_nekonecno): [Nekone\u010Dno](ok_nekonecno) a [Slun\u00ED\u010Dko](ok_slunicko)\r\n[Triangl](ct_triangl): pouze [Triangl](ok_triangl)\r\n[Tr\u00F3ja](ct_troja): [Bubene\u010D](ok_bubenec) a [Tr\u00F3ja](ok_troja)\r\n[Vietnamsk\u00E1 \u010Ctvr\u0165](ct_vietnamska_ctvrt): [Atom](ok_atom), [Preatrium](ok_preatrium) a [Vietnamsk\u00E1 \u010Ctvr\u0165](ok_vietnamska_ctvrt)"
+        "Content": "[Tr\u00F3ja](ca_troja) byla rozd\u011Blena na 6 \u010Dtvrt\u00ED [Labyrint](ct_labyrint), [Loosova Vila](ct_loosova_vila), [Nekone\u010Dno](ct_nekonecno),[Triangl](ct_triangl), [Tr\u00F3ja](ct_troja), [Vietnamsk\u00E1 \u010Ctvr\u0165](ct_vietnamska_ctvrt).\r\n\u010Ctvrti se d\u00E1le d\u011Blily na tyto okrsky:\r\n[Labyrint](ct_labyrint): [Labyrint](ok_labyrint) a [\u0160ne\u010D\u00ED R\u00E1j](ok_sneci_raj).\r\n[Loosova Vila](ct_loosova_vila): [Loosova Vila](ok_loosova_vila) a [Nexus](ok_nexus)\r\n[Nekone\u010Dno](ct_nekonecno): [Nekone\u010Dno](ok_nekonecno) a [Slun\u00ED\u010Dko](ok_slunicko)\r\n[Triangl](ct_triangl): pouze [Triangl](ok_triangl)\r\n[Tr\u00F3ja](ct_troja): [Bubene\u010D](ok_bubenec) a [Tr\u00F3ja](ok_troja)\r\n[Vietnamsk\u00E1 \u010Ctvr\u0165](ct_vietnamska_ctvrt): [Atom](ok_atom), [Preatrium](ok_preatrium) a [Vietnamsk\u00FD Okrsek](ok_vietnamsky_okrsek) d\u0159\u00EDve Vietnamsk\u00E1 \u010Ctvr\u0165"
       },
       {
         "Title": "Nov\u00E9 \u010Dtvrti",
@@ -14033,7 +14033,7 @@
     "Metadata": {
       "N\u00E1zev": "Kho",
       "Blok": "[Hala](bl_hala)",
-      "Okrsek": "[Vietnamsk\u00E1 \u010Ctvr\u0165](ok_vietnamska_ctvrt)",
+      "Okrsek": "[Vietnamsk\u00FD Okrsek](ok_vietnamsky_okrsek)",
       "\u010Ctvr\u0165": "[Vietnamsk\u00E1 \u010Ctvr\u0165](ct_vietnamska_ctvrt)",
       "\u010C\u00E1st": "[Tr\u00F3ja](ca_troja)"
     },
@@ -14068,53 +14068,6 @@
     "redirect": null,
     "tobeedited": false
   },
-  "mi_tinh_le": {
-    "Title": "Tinh Le",
-    "Type": "m\u00EDstnost",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [
-      "mi_preatrium"
-    ],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "Tinh Le",
-      "Blok": "[Hala](bl_hala)",
-      "Okrsek": "[Vietnamsk\u00E1 \u010Ctvr\u0165](ok_vietnamska_ctvrt)",
-      "\u010Ctvr\u0165": "[Vietnamsk\u00E1 \u010Ctvr\u0165](ct_vietnamska_ctvrt)",
-      "\u010C\u00E1st": "[Tr\u00F3ja](ca_troja)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": "Jak vznikl n\u00E1zev?"
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": "N\u011Bco o interi\u00E9ru."
-      },
-      {
-        "Title": "Zaj\u00EDmavost",
-        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
-      }
-    ],
-    "image_id": 0,
-    "area": 7,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "patternleCompatible": true,
-    "redirect": null,
-    "tobeedited": false
-  },
   "mi_quare": {
     "Title": "Quare",
     "Type": "m\u00EDstnost",
@@ -14127,7 +14080,7 @@
     "Metadata": {
       "N\u00E1zev": "Quare",
       "Blok": "[Hala](bl_hala)",
-      "Okrsek": "[Vietnamsk\u00E1 \u010Ctvr\u0165](ok_vietnamska_ctvrt)",
+      "Okrsek": "[Vietnamsk\u00FD Okrsek](ok_vietnamsky_okrsek)",
       "\u010Ctvr\u0165": "[Vietnamsk\u00E1 \u010Ctvr\u0165](ct_vietnamska_ctvrt)",
       "\u010C\u00E1st": "[Tr\u00F3ja](ca_troja)"
     },
@@ -14162,55 +14115,6 @@
     "redirect": null,
     "tobeedited": false
   },
-  "mi_xing": {
-    "Title": "Xing",
-    "Type": "m\u00EDstnost",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [
-      "mi_preatrium",
-      "mi_loosova_vila",
-      "mi_vystup"
-    ],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "Xing",
-      "Blok": "[Hala](bl_hala)",
-      "Okrsek": "[Vietnamsk\u00E1 \u010Ctvr\u0165](ok_vietnamska_ctvrt)",
-      "\u010Ctvr\u0165": "[Vietnamsk\u00E1 \u010Ctvr\u0165](ct_vietnamska_ctvrt)",
-      "\u010C\u00E1st": "[Tr\u00F3ja](ca_troja)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": "Jak vznikl n\u00E1zev?"
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": "N\u011Bco o interi\u00E9ru."
-      },
-      {
-        "Title": "Zaj\u00EDmavost",
-        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
-      }
-    ],
-    "image_id": 0,
-    "area": 103,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "patternleCompatible": true,
-    "redirect": null,
-    "tobeedited": false
-  },
   "mi_preatrium": {
     "Title": "Preatrium",
     "Type": "m\u00EDstnost",
@@ -14220,11 +14124,11 @@
       "mi_kahan",
       "mi_v_vez_3_podlazi",
       "mi_kho",
-      "mi_tinh_le",
+      "mi_hnilicko",
       "mi_labyrint",
       "mi_quare",
       "mi_atrium",
-      "mi_xing",
+      "mi_hala",
       "mi_loosova_vila",
       "mi_vstup",
       "mi_atom",
@@ -14377,8 +14281,8 @@
     "Alternate_names": [],
     "Metadata": {
       "N\u00E1zev": "Vietnamsk\u00E1 \u010Ctvr\u0165",
-      "Blok": "[Vietnamsk\u00E1 \u010Ctvr\u0165](bl_vietnamska_ctvrt)",
-      "Okrsek": "[Vietnamsk\u00E1 \u010Ctvr\u0165](ok_vietnamska_ctvrt)",
+      "Blok": "[Vietnamsk\u00FD Blok](bl_vietnamsky_blok)",
+      "Okrsek": "[Vietnamsk\u00FD Okrsek](ok_vietnamsky_okrsek)",
       "\u010Ctvr\u0165": "[Vietnamsk\u00E1 \u010Ctvr\u0165](ct_vietnamska_ctvrt)",
       "\u010C\u00E1st": "[Tr\u00F3ja](ca_troja)"
     },
@@ -14424,8 +14328,8 @@
     "Alternate_names": [],
     "Metadata": {
       "N\u00E1zev": "Hanojsk\u00E1 V\u011B\u017E",
-      "Blok": "[Vietnamsk\u00E1 \u010Ctvr\u0165](bl_vietnamska_ctvrt)",
-      "Okrsek": "[Vietnamsk\u00E1 \u010Ctvr\u0165](ok_vietnamska_ctvrt)",
+      "Blok": "[Vietnamsk\u00FD Blok](bl_vietnamsky_blok)",
+      "Okrsek": "[Vietnamsk\u00FD Okrsek](ok_vietnamsky_okrsek)",
       "\u010Ctvr\u0165": "[Vietnamsk\u00E1 \u010Ctvr\u0165](ct_vietnamska_ctvrt)",
       "\u010C\u00E1st": "[Tr\u00F3ja](ca_troja)"
     },
@@ -14469,7 +14373,7 @@
       "mi_plaz",
       "mi_minimum",
       "mi_preatrium",
-      "mi_xing",
+      "mi_hala",
       "mi_na_mustku",
       "mi_loze",
       "mi_kryt",
@@ -17890,7 +17794,7 @@
     "Bordering_rooms": [
       "mi_vstup",
       "mi_koreny",
-      "mi_xing",
+      "mi_hala",
       "mi_arcanum"
     ],
     "Alternate_names": [],
@@ -18936,57 +18840,6 @@
       "x": 346,
       "y": 91,
       "z": 1138
-    },
-    "patternleCompatible": true,
-    "redirect": null,
-    "tobeedited": false
-  },
-  "mi_buben": {
-    "Title": "Buben",
-    "Type": "m\u00EDstnost",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [
-      "mi_troja",
-      "mi_barka",
-      "mi_ctverec"
-    ],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "Buben",
-      "Blok": "[Buben](bl_buben)",
-      "Okrsek": "[Tr\u00F3ja](ok_troja)",
-      "\u010Ctvr\u0165": "[Tr\u00F3ja](ct_troja)",
-      "\u010C\u00E1st": "[Tr\u00F3ja](ca_troja)",
-      "\u00DA\u010Del": "Strom, sklad sazenic",
-      "Kategorie": "[Stromov\u00E1 v\u011B\u017E](ka_stromove_veze)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": "Jak vznikl n\u00E1zev?"
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": "N\u011Bco o interi\u00E9ru."
-      },
-      {
-        "Title": "Zaj\u00EDmavost",
-        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
-      }
-    ],
-    "image_id": 0,
-    "area": 122,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
     },
     "patternleCompatible": true,
     "redirect": null,
@@ -23777,7 +23630,7 @@
     "Alternate_names": [],
     "Metadata": {
       "N\u00E1zev": "Hala",
-      "Okrsek": "[Vietnamsk\u00E1 \u010Ctvr\u0165](ok_vietnamska_ctvrt)",
+      "Okrsek": "[Vietnamsk\u00FD Okrsek](ok_vietnamsky_okrsek)",
       "\u010Ctvr\u0165": "[Vietnamsk\u00E1 \u010Ctvr\u0165](ct_vietnamska_ctvrt)",
       "\u010C\u00E1st": "[Tr\u00F3ja](ca_troja)"
     },
@@ -23874,54 +23727,6 @@
     "Metadata": {
       "N\u00E1zev": "Atom",
       "Okrsek": "[Atom](ok_atom)",
-      "\u010Ctvr\u0165": "[Vietnamsk\u00E1 \u010Ctvr\u0165](ct_vietnamska_ctvrt)",
-      "\u010C\u00E1st": "[Tr\u00F3ja](ca_troja)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": ""
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": ""
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": ""
-      },
-      {
-        "Title": "Zaj\u00EDmavosti",
-        "Content": ""
-      },
-      {
-        "Title": "Aktuality",
-        "Content": ""
-      }
-    ],
-    "image_id": 0,
-    "area": 0,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "patternleCompatible": true,
-    "redirect": null,
-    "tobeedited": false
-  },
-  "bl_vietnamska_ctvrt": {
-    "Title": "Vietnamsk\u00E1 \u010Ctvr\u0165",
-    "Type": "blok",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "Vietnamsk\u00E1 \u010Ctvr\u0165",
-      "Okrsek": "[Vietnamsk\u00E1 \u010Ctvr\u0165](ok_vietnamska_ctvrt)",
       "\u010Ctvr\u0165": "[Vietnamsk\u00E1 \u010Ctvr\u0165](ct_vietnamska_ctvrt)",
       "\u010C\u00E1st": "[Tr\u00F3ja](ca_troja)"
     },
@@ -27256,53 +27061,6 @@
     "Metadata": {
       "N\u00E1zev": "Gul\u00E1\u0161",
       "\u010Ctvr\u0165": "[Tr\u00F3ja](ct_troja)",
-      "\u010C\u00E1st": "[Tr\u00F3ja](ca_troja)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": ""
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": ""
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": ""
-      },
-      {
-        "Title": "Zaj\u00EDmavosti",
-        "Content": ""
-      },
-      {
-        "Title": "Aktuality",
-        "Content": ""
-      }
-    ],
-    "image_id": 0,
-    "area": 0,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "patternleCompatible": true,
-    "redirect": null,
-    "tobeedited": false
-  },
-  "ok_vietnamska_ctvrt": {
-    "Title": "Vietnamsk\u00E1 \u010Ctvr\u0165",
-    "Type": "okrsek",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "Vietnamsk\u00E1 \u010Ctvr\u0165",
-      "\u010Ctvr\u0165": "[Vietnamsk\u00E1 \u010Ctvr\u0165](ct_vietnamska_ctvrt)",
       "\u010C\u00E1st": "[Tr\u00F3ja](ca_troja)"
     },
     "Sections": [
@@ -36528,7 +36286,7 @@
       "N\u00E1zev": "Helena Jaklov\u00E1",
       "Tituly": "PhDr., Ph.D.",
       "V\u011Bk": "49",
-      "Děti": "[Kryštof Baudyš](os_krystof_baudys) a [Vít Baudyš](os_vit_baudys)"
+      "D\u011Bti": "[Kry\u0161tof Baudy\u0161](os_krystof_baudys) a [V\u00EDt Baudy\u0161](os_vit_baudys)"
     },
     "Sections": [
       {
@@ -37497,8 +37255,8 @@
       "Narozen\u00ED": "asi 2009",
       "Povol\u00E1n\u00ED": "architekt, student, budouc\u00ED Miss Pa\u0159ez?",
       "P\u0159ezd\u00EDvka": "Hralyd, Syr V\u00FDt",
-      "Matka": "[Helena Jaklová](os_helena_jaklova)",
-      "Bratr": "[Kryštof Baudyš](os_krystof_baudys)"
+      "Matka": "[Helena Jaklov\u00E1](os_helena_jaklova)",
+      "Bratr": "[Kry\u0161tof Baudy\u0161](os_krystof_baudys)"
     },
     "Sections": [
       {
@@ -38126,7 +37884,7 @@
       },
       {
         "Title": "N\u00E1zev",
-        "Content": "M\u00EDstnost se jmenuje plam\u00EDnek kv\u016Fli v\u00FDskytu l\u00E1vy."
+        "Content": "L\u00E1va, ohe\u0148, teplo, \u017E\u00E1r, jiskra, magma, popel, pochode\u0148, kotel, palivo, pec, k\u0159esadlo, v\u00FDbuch, horko, plam\u00EDnek"
       },
       {
         "Title": "Interi\u00E9r",
@@ -38193,6 +37951,276 @@
       "x": 354,
       "y": 87,
       "z": 1098
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false
+  },
+  "mi_hnilicko": {
+    "Title": "Hnili\u010Dko",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_preatrium"
+    ],
+    "Alternate_names": [
+      "Tinh Le"
+    ],
+    "Metadata": {
+      "N\u00E1zev": "Hnili\u010Dko",
+      "Blok": "[Hala](bl_hala)",
+      "Okrsek": "[Vietnamsk\u00FD Okrsek](ok_vietnamsky_okrsek)",
+      "\u010Ctvr\u0165": "[Vietnamsk\u00E1 \u010Ctvr\u0165](ct_vietnamska_ctvrt)",
+      "\u010C\u00E1st": "[Tr\u00F3ja](ca_troja)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "07/08/25: P\u0159ejmenov\u00E1no z Tinh Le na Hnili\u010Dko."
+      }
+    ],
+    "image_id": 0,
+    "area": 7,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 341,
+      "y": 79,
+      "z": 1149
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false
+  },
+  "mi_hala": {
+    "Title": "Hala",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "HALA",
+      "MOSTEK",
+      "NEZASKLEN\u00C9 OTVORY"
+    ],
+    "Bordering_rooms": [
+      "mi_preatrium",
+      "mi_loosova_vila",
+      "mi_vystup"
+    ],
+    "Alternate_names": [
+      "Xing"
+    ],
+    "Metadata": {
+      "N\u00E1zev": "Hala",
+      "Blok": "[Hala](bl_hala)",
+      "Okrsek": "[Vietnamsk\u00FD Okrsek](ok_vietnamsky_okrsek)",
+      "\u010Ctvr\u0165": "[Vietnamsk\u00E1 \u010Ctvr\u0165](ct_vietnamska_ctvrt)",
+      "\u010C\u00E1st": "[Tr\u00F3ja](ca_troja)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Hala d\u0159\u00EDve Xing je m\u00EDstnost ve stejnojmenn\u00E9m [bloku](bl_hala) a druh\u00E1 nejv\u011Bt\u0161\u00ED m\u00EDstnost ve [Vietnamsk\u00E9 \u010Ctvrti](ct_vietnamska_ctvrt). M\u00EDstnost m\u00E1 velmi vysok\u00FD strop a tak se do jej\u00EDho prostoru vejde trojice v\u00FDtah\u016F. Do Haly se d\u00E1 dostat t\u0159emi dve\u0159mi jmenovit\u011B z [Preatria](mi_preatrium), [Loosovy Vily](mi_loosova_vila) a [V\u00FDstupu](mi_vystup)."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "N\u00E1zev m\u00EDstnost z\u00EDskala podle [bloku](bl_hala), ve kter\u00E9m se nach\u00E1z\u00ED."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Hala m\u00E1 obd\u00E9ln\u00EDkov\u00FD p\u016Fdorys o rozm\u011Brech 9\u00D711 blok\u016F a v n\u011Bkter\u00FDch m\u00EDstech dosahuje v\u00FD\u0161ky i 15 blok\u016F. Dominantou prostoru, krom\u011B jeho velikosti, jsou t\u0159i d\u0159ev\u011Bn\u00E9 plotov\u00E9 sloupky um\u00EDst\u011Bn\u00E9 uprost\u0159ed, kter\u00E9 podp\u00EDraj\u00ED trojici balk\u00F3n\u016F: [Vietnamsk\u00E1 \u010Ctvr\u0165](mi_vietnamska_ctvrt), [Hnili\u010Dko](mi_hnilicko) a [Quare](mi_quare). Tyto balk\u00F3ny se nach\u00E1zej\u00ED v prostoru Haly a \u010D\u00E1ste\u010Dn\u011B jej vypl\u0148uj\u00ED..\r\nNa z\u00E1padn\u00ED stran\u011B se nach\u00E1z\u00ED schodi\u0161t\u011B vedouc\u00ED na \u00FAzk\u00FD m\u016Fstek, kter\u00FD pokra\u010Duje do m\u00EDstnosti [V\u00FDstup](mi_vystup). Tento m\u016Fstek proch\u00E1z\u00ED nad [Preatriem](mi_preatrium), kter\u00E9 je d\u00EDky alespo\u0148 \u010D\u00E1ste\u010Dn\u011B zast\u0159e\u0161eno. Vedle schodi\u0161t\u011B se nach\u00E1zej\u00ED dv\u011B velk\u00E1 okna, skrz n\u011B\u017E lze pozorovat vodu proud\u00EDc\u00ED v\u00FDtahy ve [V\u00FDtahov\u00E9 \u0160acht\u011B](mi_vytahova_sachta).\r\nV\u0161ude, kde to konstrukce dovoluje, jsou um\u00EDst\u011Bna men\u0161\u00ED okna, co\u017E prostor v\u00FDrazn\u011B prosv\u011Btluje. Tato okna se nach\u00E1z\u00ED po v\u0161ech st\u011Bn\u00E1ch a dod\u00E1vaj\u00ED Hale otev\u0159en\u00FD a vzdu\u0161n\u00FD charakter. Strop m\u00EDstnosti je nerovn\u00FD a dosud nedokon\u010Den\u00FD.\r\nNa severn\u00ED stran\u011B se nach\u00E1zej\u00ED dve\u0159e do [Loosovy Vily](mi_loosova_vila). Vedle nich jsou ve st\u011Bn\u011B dv\u011B rovnob\u011B\u017En\u00E1 \u0161ikm\u00E1 okna a v rohu stoj\u00ED crafting table. Vysoko naproti t\u011Bmto okn\u016Fm jsou ve zdi dva \u0161ikm\u00E9 otvory, kter\u00E9 nejsou zaskleny. Spolu s oknem pod nimi vypadaj\u00ED jako zamra\u010Den\u00FD smajl\u00EDk.\r\nSt\u011Bny i st\u0159echa Haly zat\u00EDm nejsou zcela dokon\u010Deny, ale u\u017E nyn\u00ED p\u016Fsob\u00ED prostor impozantn\u011B. Jejich dokon\u010Den\u00ED nen\u00ED aktu\u00E1ln\u011B v pl\u00E1nu."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Na crafting table v rohu postavil jeden nezbedn\u00FD enderman blok tr\u00E1vy."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "07/08/25: P\u0159ejmenov\u00E1no z Xing na Hala."
+      }
+    ],
+    "image_id": 0,
+    "area": 103,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 344,
+      "y": 72,
+      "z": 1149
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false
+  },
+  "ok_vietnamsky_okrsek": {
+    "Title": "Vietnamsk\u00FD Okrsek",
+    "Type": "okrsek",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [
+      "Vietnamsk\u00E1 \u010Ctvr\u0165"
+    ],
+    "Metadata": {
+      "N\u00E1zev": "Vietnamsk\u00FD Okrsek",
+      "\u010Ctvr\u0165": "[Vietnamsk\u00E1 \u010Ctvr\u0165](ct_vietnamska_ctvrt)",
+      "\u010C\u00E1st": "[Tr\u00F3ja](ca_troja)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": ""
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": ""
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": ""
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": ""
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "07/08/25: P\u0159ejmenov\u00E1no z Vietnamsk\u00E1 \u010Ctvr\u0165 na Vietnamsk\u00FD Okrsek."
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false
+  },
+  "bl_vietnamsky_blok": {
+    "Title": "Vietnamsk\u00FD Blok",
+    "Type": "blok",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [
+      "Vietnamsk\u00E1 \u010Ctvr\u0165"
+    ],
+    "Metadata": {
+      "N\u00E1zev": "Vietnamsk\u00FD Blok",
+      "Okrsek": "[Vietnamsk\u00FD Okrsek](ok_vietnamsky_okrsek)",
+      "\u010Ctvr\u0165": "[Vietnamsk\u00E1 \u010Ctvr\u0165](ct_vietnamska_ctvrt)",
+      "\u010C\u00E1st": "[Tr\u00F3ja](ca_troja)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": ""
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": ""
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": ""
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": ""
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "07/08/25: P\u0159ejmenov\u00E1no z Vietnamsk\u00E1 \u010Ctvr\u0165 na Vietnamsk\u00FD Blok."
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false
+  },
+  "mi_buben": {
+    "Title": "Buben",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "BUBEN",
+      "MRAVEN\u010C\u00CD DR\u00C1HA, POSTEL A U\u0158\u00CDZL\u00C9 OKNO",
+      "POHLED ZHORA"
+    ],
+    "Bordering_rooms": [
+      "mi_troja",
+      "mi_barka",
+      "mi_ctverec"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Buben",
+      "Blok": "[Buben](bl_buben)",
+      "Okrsek": "[Tr\u00F3ja](ok_troja)",
+      "\u010Ctvr\u0165": "[Tr\u00F3ja](ct_troja)",
+      "\u010C\u00E1st": "[Tr\u00F3ja](ca_troja)",
+      "\u00DA\u010Del": "Strom, sklad sazenic",
+      "Kategorie": "[Stromov\u00E1 v\u011B\u017E](ka_stromove_veze)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Buben je m\u00EDstnost ve stejnojmenn\u00E9m [bloku](bl_buben). Jedn\u00E1 se o jedinou [stromovou v\u011B\u017E](ka_stromove_veze) v [Tr\u00F3ji](ca_troja). Je tvo\u0159ena hlavn\u00EDm podla\u017E\u00EDm a jedn\u00EDm ochozem, ze kter\u00E9ho vedou dve\u0159e do [\u010Ctverce](mi_ctverec) a [Barky](mi_barka). Z hlavn\u00EDho podla\u017E\u00ED, je\u017E je z\u00E1rove\u0148 i m\u00EDstem, kde vyr\u016Fst\u00E1 strom vedou dve\u0159e do m\u00EDstnosti [Tr\u00F3ja](mi_troja) a nach\u00E1z\u00ED se zde dvojice barel\u016F na uskladn\u011Bn\u00ED smrkov\u00FDch sazenic. Proch\u00E1z\u00ED tudy tak\u00E9 koleje [Mraven\u010D\u00ED Dr\u00E1hy](te_mravenci_draha)."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "N\u00E1zev m\u00EDstnosti dodr\u017Euje pravidlo, \u017Ee ka\u017Ed\u00E1 [stromov\u00E1 v\u011B\u017E](ka_stromove_veze) mus\u00ED b\u00FDt pojmenov\u00E1na po objektu v\u00E1lcov\u00E9ho tvaru. Pro\u010D zrovna \u0022buben\u0022 je nejasn\u00E9. Jasn\u00E9 je, \u017Ee bl\u00EDzk\u00E1 m\u00EDstnost [Bubene\u010D](mi_bubenec) byla n\u00E1zvem inspirov\u00E1na."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Buben m\u00E1 p\u016Fdorys kruhu o vnit\u0159n\u00EDm pr\u016Fm\u011Bru deseti blok\u016F. Na ka\u017Ed\u00E9m ze \u010Dty\u0159 z\u00E1kladn\u00EDch sv\u011Btov\u00FDch stran jsou vysok\u00E1 dva bloky \u0161irok\u00E1 okna, kter\u00E1 se t\u00E1hnou a\u017E t\u011Bsn\u011B pod strop v\u011B\u017Ee. Po obou stran\u00E1ch oken jsou v pravideln\u00FDch intervalech rozm\u00EDst\u011Bny lou\u010De osv\u011Btluj\u00EDc\u00ED cel\u00FD prostor. Okno na severn\u00ED stran\u011B, je ale p\u0159eru\u0161eno podlahou a stropem m\u00EDstnosti [Barka](mi_barka) ale tak\u00E9 kolejemi [Mraven\u010D\u00ED Dr\u00E1hy](te_mravenci_draha). Nen\u00ED v\u0161ak jedin\u00FDm, v\u00FDchodn\u00ED okno je t\u00E9m\u011B\u0159 u podlahy p\u0159eru\u0161eno stropem m\u00EDstnosti [N\u00E1mo\u0159n\u00EDk](mi_namornik). Ka\u017Ed\u00E9 z oken je 35 blok\u016F vysok\u00E9 a dod\u00E1v\u00E1 Bubnu typick\u00FD vzhled.\r\nV m\u00EDstnosti se nach\u00E1z\u00ED dva crafting tably (jeden na ochozu), sv\u011Btle modr\u00E1 postel a dva barely. Oba barely jsou polo\u017Eeny v podlaze Bubnu. Na severn\u00ED st\u011Bn\u011B bl\u00EDzko sv\u011Btle modr\u00E9 postele je dva bloky vysok\u00FD v\u00FDklenek, kter\u00FDm proch\u00E1z\u00ED koleje [Mraven\u010D\u00ED Dr\u00E1hy](te_mravenci_draha), co\u017E znamen\u00E1 nejen zkr\u00E1cen\u00ED severn\u00EDho okna, ale i \u017Eeb\u0159\u00EDku, kter\u00FD je nejjednodu\u0161\u0161\u00EDm zp\u016Fsobem jak se dostat nahoru na ochoz. Ochoz je jeden blok \u0161irok\u00FD a obch\u00E1z\u00ED cel\u00FD obvod Bubnu. Dodr\u017Euje tak standartn\u00ED plochu 36 blok\u016F \u010Dtvere\u010Dn\u00EDch.\r\nStrop v\u011B\u017Ee nen\u00ED rovn\u00FD, je tvo\u0159en m\u011Blkou kopul\u00ED, je\u017E je nejvy\u0161\u0161\u00EDm bodem nejen v jak\u00E9koli [stromov\u00E9 v\u011B\u017Ei](ka_stromove_veze), ale tak\u00E9 nejvy\u0161\u0161\u00EDm bodem [Tr\u00F3ji](ca_troja)."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Ze stromu, kter\u00FD jsem vyt\u011B\u017Eil p\u0159i psan\u00ED \u010Dl\u00E1nku vypadlo 16 smrkov\u00FDch sazenic."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "26/07/25: M\u00EDstnost\u00ED proch\u00E1z\u00ED [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha)"
+      }
+    ],
+    "image_id": 0,
+    "area": 122,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 356,
+      "y": 93,
+      "z": 1140
     },
     "patternleCompatible": true,
     "redirect": null,
