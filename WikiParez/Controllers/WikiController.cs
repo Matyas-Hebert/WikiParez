@@ -86,7 +86,7 @@ namespace WikiParez.Controllers
             if (page == null)
                 return NotFound();
             ViewBag.Slug = slug;
-            return View("Index", newpage);
+            return Redirect("/" + slug);
         }
 
         [HttpGet]
@@ -96,7 +96,7 @@ namespace WikiParez.Controllers
             ViewBag.Slug = slug;
             var page = _wikiService.GetPageBySlug(slug);
             var newpage = eastereggs(ClonePage(page));
-            return View("Index", newpage);
+            return Redirect("/" + slug);
         }
 
         public IActionResult Other()
@@ -116,7 +116,7 @@ namespace WikiParez.Controllers
             ViewBag.Slug = slug;
             var page = _wikiService.GetPageBySlug(slug);
             var newpage = eastereggs(ClonePage(page));
-            return View("Index", newpage);
+            return Redirect("/" + slug);
         }
 
         private void SendEmailToMe(string message, string slug)
