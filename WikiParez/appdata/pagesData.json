@@ -7120,7 +7120,7 @@
     "Alternate_names": [],
     "Metadata": {
       "N\u00E1zev": "Venkovn\u00ED Schodi\u0161t\u011B",
-      "Blok": "[Venkovn\u00ED Schodi\u0161t\u011B](mi_venkovni_schodiste)",
+      "Blok": "[Venkovn\u00ED Schodi\u0161t\u011B](bl_venkovni_schodiste)",
       "Okrsek": "[Obchodn\u00ED st\u0159edisko](ok_obchodni_stredisko)",
       "\u010Ctvr\u0165": "[Kmen](ct_kmen)",
       "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
@@ -36753,7 +36753,7 @@
     ],
     "Metadata": {
       "N\u00E1zev": "Ptakopysk",
-      "Blok": "[Venkovn\u00ED Schodi\u0161t\u011B](mi_venkovni_schodiste)",
+      "Blok": "[Venkovn\u00ED Schodi\u0161t\u011B](bl_venkovni_schodiste)",
       "Okrsek": "[Obchodn\u00ED st\u0159edisko](ok_obchodni_stredisko)",
       "\u010Ctvr\u0165": "[Kmen](ct_kmen)",
       "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
@@ -38175,6 +38175,48 @@
     "redirect": null,
     "tobeedited": false
   },
+  "bl_venkovni_schodiste": {
+            "Title": "Venkovní Schodiště",
+            "Type": "blok",
+            "Images": [],
+            "Image_titles": [],
+            "Bordering_rooms": [],
+            "Alternate_names": [],
+            "Metadata": {
+                "Název": "Venkovní Schodiště",
+                "Okrsek": "[Obchodní středisko](ok_obchodni_stredisko)",
+                "Čtvrť": "[Kmen](ct_kmen)",
+                "Část": "[Pařez](ca_parez)"
+            },
+            "Sections": [
+                {
+                    "Title": "Přehled",
+                    "Content": ""
+                },
+                {
+                    "Title": "Název",
+                    "Content": ""
+                },
+                {
+                    "Title": "Interiér",
+                    "Content": ""
+                },
+                {
+                    "Title": "Zajímavosti",
+                    "Content": ""
+                },
+                {
+                    "Title": "Aktuality",
+                    "Content": ""
+                }
+            ],
+            "image_id": 0,
+            "area": 0,
+            "Empty": true,
+            "numberOfRooms": 0,
+            "redirect": null,
+            "tobeedited": false
+            },
   "mi_basta": {
     "Title": "Ba\u0161ta",
     "Type": "m\u00EDstnost",
@@ -38189,7 +38231,7 @@
     "Alternate_names": [],
     "Metadata": {
       "N\u00E1zev": "Ba\u0161ta",
-      "Blok": "[Venkovn\u00ED Schodi\u0161t\u011B](mi_venkovni_schodiste)",
+      "Blok": "[Venkovn\u00ED Schodi\u0161t\u011B](bl_venkovni_schodiste)",
       "Okrsek": "[Obchodn\u00ED st\u0159edisko](ok_obchodni_stredisko)",
       "\u010Ctvr\u0165": "[Kmen](ct_kmen)",
       "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
