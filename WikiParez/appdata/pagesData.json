@@ -3623,7 +3623,7 @@
     "Images": [],
     "Image_titles": [],
     "Bordering_rooms": [
-      "mi_venkovni_schodiste",
+      "mi_basta",
       "mi_nkp",
       "mi_most",
       "mi_zmatek",
@@ -3663,7 +3663,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "19/06/25: P\u0159esunuta ze [St\u0159edu](bl_stred) do [Mezipatra](bl_mezipatro).\r\n12/07/25: Nov\u00FD vchod do [P\u016Flm\u011Bs\u00EDce](mi_pulmesic)."
+        "Content": "19/06/25: P\u0159esunuta ze [St\u0159edu](bl_stred) do [Mezipatra](bl_mezipatro).\r\n12/07/25: Nov\u00FD vchod do [P\u016Flm\u011Bs\u00EDce](mi_pulmesic).\r\n07/08/25: V\u00FDtah vede do [Ba\u0161ty](mi_basta) m\u00EDsto [Venkovn\u00EDho Schodi\u0161t\u011B](mi_venkovni_schodiste)."
       }
     ],
     "image_id": 0,
@@ -7109,15 +7109,13 @@
     "Image_titles": [],
     "Bordering_rooms": [
       "mi_kralovske_abonma",
-      "mi_koreny",
-      "mi_pasaz",
+      "mi_juka",
+      "mi_ptakopysk",
       "mi_statek",
       "mi_vandula",
       "mi_farmus_bambus",
       "mi_zapadni_kridlo",
-      "mi_juka",
-      "mi_ptakopysk",
-      "mi_bazar"
+      "mi_basta"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -7146,11 +7144,11 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "18/07/25: Propojeno s [Ptakopyskem](mi_ptakopysk).\r\n19/07/25: Zast\u0159e\u0161en prostor u v\u00FDtahu z a do [Ko\u0159en\u016F](mi_koreny).\r\n19/07/25: Spojeno s [Bazarem](mi_bazar)."
+        "Content": "18/07/25: Propojeno s [Ptakopyskem](mi_ptakopysk).\r\n19/07/25: Zast\u0159e\u0161en prostor u v\u00FDtahu z a do [Ko\u0159en\u016F](mi_koreny).\r\n19/07/25: Nov\u011B soused\u00ED s [Bazarem](mi_bazar).\r\n07/08/25: Od m\u00EDstnosti odd\u011Blena [Ba\u0161ta](mi_basta). Venkovn\u00ED Schodi\u0161t\u011B tak nesoused\u00ED s [Pas\u00E1\u017E\u00ED](mi_pasaz), [Bazarem](mi_bazar) a [Ko\u0159eny](mi_koreny)."
       }
     ],
     "image_id": 0,
-    "area": 362,
+    "area": 273,
     "Empty": true,
     "numberOfRooms": 0,
     "coordinates": {
@@ -7315,7 +7313,7 @@
     "Bordering_rooms": [
       "mi_statek",
       "mi_sklad",
-      "mi_venkovni_schodiste",
+      "mi_basta",
       "mi_unikove_schodiste",
       "mi_kahan",
       "mi_kamrlik"
@@ -18840,55 +18838,6 @@
       "x": 346,
       "y": 91,
       "z": 1138
-    },
-    "patternleCompatible": true,
-    "redirect": null,
-    "tobeedited": false
-  },
-  "mi_barka": {
-    "Title": "Barka",
-    "Type": "m\u00EDstnost",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [
-      "mi_buben",
-      "mi_ctverec",
-      "mi_parek"
-    ],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "Barka",
-      "Blok": "[Buben](bl_buben)",
-      "Okrsek": "[Tr\u00F3ja](ok_troja)",
-      "\u010Ctvr\u0165": "[Tr\u00F3ja](ct_troja)",
-      "\u010C\u00E1st": "[Tr\u00F3ja](ca_troja)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": "Jak vznikl n\u00E1zev?"
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": "N\u011Bco o interi\u00E9ru."
-      },
-      {
-        "Title": "Zaj\u00EDmavost",
-        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
-      }
-    ],
-    "image_id": 0,
-    "area": 144,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
     },
     "patternleCompatible": true,
     "redirect": null,
@@ -32235,7 +32184,7 @@
     "Image_titles": [],
     "Bordering_rooms": [
       "mi_kahan",
-      "mi_venkovni_schodiste"
+      "mi_basta"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -38223,6 +38172,109 @@
       "z": 1140
     },
     "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false
+  },
+  "mi_basta": {
+    "Title": "Ba\u0161ta",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_pasaz",
+      "mi_venkovni_schodiste",
+      "mi_bazar",
+      "mi_koreny"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Ba\u0161ta",
+      "Blok": "[Venkovn\u00ED Schodi\u0161t\u011B](mi_venkovni_schodiste)",
+      "Okrsek": "[Obchodn\u00ED st\u0159edisko](ok_obchodni_stredisko)",
+      "\u010Ctvr\u0165": "[Kmen](ct_kmen)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 87,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 314,
+      "y": 105,
+      "z": 1161
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false
+  },
+  "mi_barka": {
+    "Title": "Barka",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "BARKA ZVENKU",
+      "BARKA OD P\u00C1RKU",
+      "BARKA OD \u010CTVERCE"
+    ],
+    "Bordering_rooms": [
+      "mi_buben",
+      "mi_ctverec",
+      "mi_parek"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Barka",
+      "Blok": "[Buben](bl_buben)",
+      "Okrsek": "[Tr\u00F3ja](ok_troja)",
+      "\u010Ctvr\u0165": "[Tr\u00F3ja](ct_troja)",
+      "\u010C\u00E1st": "[Tr\u00F3ja](ca_troja)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Barka je p\u0159es 70 blok\u016F dlouh\u00E1 chodba a z\u00E1rove\u0148 i most spojuj\u00EDc\u00ED [Buben](mi_buben) a [\u010Ctverec](mi_ctverec) s [P\u00E1rkem](mi_parek). Jedn\u00E1 se o v\u011Bt\u0161\u00ED ze dvou m\u00EDstnost\u00ED v bloku [Buben](bl_buben)."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "M\u00EDstnost sd\u00EDl\u00ED n\u00E1zev s otev\u0159en\u00FDm kulturn\u00EDm prostorem bez bari\u00E9r a divadlem v Brn\u011B. N\u00E1zev most z\u00EDskal p\u0159edev\u0161\u00EDm kv\u016Fli mal\u00E9 \u0161\u00ED\u0159ce chodby, podobn\u011B jako chodba ve skute\u010Dn\u00E9m divadle."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Barka je dlouh\u00FD, dva bloky \u00FAzk\u00E1 chodba se stropem o v\u00FD\u0161ce 3.5 bloku. Chodba za\u010D\u00EDn\u00E1 dve\u0159mi ze [\u010Ctverce](mi_ctverec) u\u017E\u0161\u00EDm, jen jeden blok \u0161irok\u00FDm \u00FAsekem. Barka se nad\u00E1le roz\u0161i\u0159uje na dvojn\u00E1sobek a hned vedle dve\u0159\u00ED z [Bubnu](mi_buben) lze naj\u00EDt crafting table a truhlu.\r\nChodba d\u00E1le pokra\u010Duje jako most vedouc\u00ED nad zamrzl\u00FDm oce\u00E1nem. Specifick\u00E1 jsou periodicky polo\u017Een\u00E1 \u010Dtvercov\u00E1 okna. Most je ukon\u010Den strm\u00FDm schodi\u0161t\u011Bm vedouc\u00EDm dol\u016F k [P\u00E1rku](mi_parek)."
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": "Vzhledem k tomu, \u017Ee [Buben](mi_buben) m\u00E1 pouze jeden ochoz, je Barka nejv\u011Bt\u0161\u00ED m\u00EDstnost\u00ED v bloku [Buben](bl_buben).\r\nV truhle je uskladn\u011Bno 24 ender perel a smrkov\u00FD list."
+      }
+    ],
+    "image_id": 0,
+    "area": 144,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 386,
+      "y": 113,
+      "z": 1134
+    },
+    "patternleCompatible": false,
     "redirect": null,
     "tobeedited": false
   }

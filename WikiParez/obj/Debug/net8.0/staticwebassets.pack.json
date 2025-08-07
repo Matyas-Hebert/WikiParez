@@ -89,6 +89,18 @@
       "PackagePath": "staticwebassets/Images/mi_balkon_ctvrtka4.png"
     },
     {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_barka1.png",
+      "PackagePath": "staticwebassets/Images/mi_barka1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_barka2.png",
+      "PackagePath": "staticwebassets/Images/mi_barka2.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_barka3.png",
+      "PackagePath": "staticwebassets/Images/mi_barka3.png"
+    },
+    {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_beetroot_farma1.png",
       "PackagePath": "staticwebassets/Images/mi_beetroot_farma1.png"
     },

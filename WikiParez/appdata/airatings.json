@@ -1,0 +1,10 @@
+[
+    ["mi_motor", [7.2,8.3,4.1,9.0]],
+    ["mi_podlir", [6.8,9.2,8.5,8.4]],
+    ["mi_spojnice", [7.9,9.5,8.1,8.7]],
+    ["mi_dalnicni_prechod", [5.1,8.9,6.4,7.2]],
+    ["mi_lodzie", [7.4,8.0,6.3,6.7]],
+    ["mi_sauron", [8.3,9.1,8.6,6.4]],
+    ["mi_dum_margity_stehlikove", [7.7,7.9,8.2,5.0]],
+    ["mi_hlidkovaci_kos", [7.5,8.0,7.8,8.5]]
+]
