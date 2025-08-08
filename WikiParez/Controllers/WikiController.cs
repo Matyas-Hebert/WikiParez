@@ -38,35 +38,11 @@ namespace WikiParez.Controllers
             return page;
         }
 
-        private WikiPage ClonePage(WikiPage page)
-        {
-            return new WikiPage
-            {
-                Title = page.Title,
-                Type = page.Type,
-                Images = page.Images,
-                Image_titles = page.Image_titles,
-                Bordering_rooms = page.Bordering_rooms,
-                Alternate_names = page.Alternate_names,
-                Metadata = page.Metadata,
-                Sections = page.Sections.Select(s => new Section
-                {
-                    Title = s.Title,
-                    Content = s.Content
-                }).ToList(),
-                image_id = page.image_id,
-                area = page.area,
-                Empty = page.Empty,
-                numberOfRooms = page.numberOfRooms,
-                redirect = page.redirect
-            };
-        }
-
         [Route("{slug}")]
         public IActionResult Page(string slug)
         {
             var page = _wikiService.GetPageBySlug(slug);
-            var newpage = eastereggs(ClonePage(page));
+            var newpage = eastereggs(page.Clone());
 
             if (page == null)
                 return NotFound();
@@ -82,7 +58,7 @@ namespace WikiParez.Controllers
         {
             var slug = _wikiService.GetRandomSlug(false);
             var page = _wikiService.GetPageBySlug(slug);
-            var newpage = eastereggs(ClonePage(page));
+            var newpage = eastereggs(page.Clone());
             if (page == null)
                 return NotFound();
             ViewBag.Slug = slug;
@@ -95,7 +71,7 @@ namespace WikiParez.Controllers
             var slug = _wikiService.FindBestMatch(query, 1);
             ViewBag.Slug = slug;
             var page = _wikiService.GetPageBySlug(slug);
-            var newpage = eastereggs(ClonePage(page));
+            var newpage = eastereggs(page.Clone());
             return Redirect("/" + slug);
         }
 
@@ -115,7 +91,7 @@ namespace WikiParez.Controllers
             SendEmailToMe(message, slug);
             ViewBag.Slug = slug;
             var page = _wikiService.GetPageBySlug(slug);
-            var newpage = eastereggs(ClonePage(page));
+            var newpage = eastereggs(page.Clone());
             return Redirect("/" + slug);
         }
 

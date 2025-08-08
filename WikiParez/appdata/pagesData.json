@@ -49,7 +49,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_schodiste_tt": {
     "Title": "Schodi\u0161t\u011B TT",
@@ -102,7 +103,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_oranjestad": {
     "Title": "Oranjestad",
@@ -156,7 +158,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_beetroot_farma": {
     "Title": "Beetroot farma",
@@ -215,7 +218,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_ulice_schodova": {
     "Title": "Ulice Schodov\u00E1",
@@ -269,7 +273,8 @@
     },
     "patternleCompatible": false,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_byt_chudaka_kterej_nema_rad_kluby": {
     "Title": "Byt chud\u00E1ka, kterej nem\u00E1 r\u00E1d kluby",
@@ -328,7 +333,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_klub": {
     "Title": "Klub",
@@ -387,7 +393,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_viden": {
     "Title": "V\u00EDde\u0148",
@@ -442,7 +449,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_rubec": {
     "Title": "Rubec",
@@ -494,7 +502,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_nadchod": {
     "Title": "Nadchod",
@@ -545,7 +554,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "beacon_parez": {
     "Title": "Beacon - Pa\u0159ez",
@@ -592,7 +602,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "os_marcela_hebertova": {
     "Title": "Marcela Hebertov\u00E1",
@@ -639,7 +650,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_barvy": {
     "Title": "Barvy",
@@ -687,7 +699,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_viden": {
     "Title": "V\u00EDde\u0148",
@@ -731,7 +744,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ca_parez": {
     "Title": "Pa\u0159ez",
@@ -772,7 +786,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_mostiste": {
     "Title": "Mosti\u0161t\u011B",
@@ -828,7 +843,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_strecha": {
     "Title": "St\u0159echa",
@@ -884,7 +900,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_skokanske_mustky": {
     "Title": "Skokansk\u00E9 m\u016Fstky",
@@ -943,7 +960,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_chodba": {
     "Title": "Chodba",
@@ -1008,7 +1026,8 @@
     },
     "patternleCompatible": false,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_dalnicni_prechod": {
     "Title": "D\u00E1lni\u010Dn\u00ED p\u0159echod",
@@ -1059,7 +1078,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_pucmeloun_farma": {
     "Title": "Pu\u010Dmeloun farma",
@@ -1114,7 +1134,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_staj": {
     "Title": "St\u00E1j",
@@ -1165,7 +1186,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_builder_cepicka": {
     "Title": "Builder \u010Depi\u010Dka",
@@ -1215,7 +1237,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_lokace": {
     "Title": "Lokace",
@@ -1270,7 +1293,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_kabina": {
     "Title": "Kabina",
@@ -1323,7 +1347,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_the_terrass": {
     "Title": "The Terrass",
@@ -1377,7 +1402,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_parsley_attic": {
     "Title": "Parsley Attic",
@@ -1440,7 +1466,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_the_airship": {
     "Title": "The Airship",
@@ -1515,7 +1542,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_lodzie": {
     "Title": "Lod\u017Eie",
@@ -1567,7 +1595,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_prechod": {
     "Title": "P\u0159echod",
@@ -1617,7 +1646,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_ke_klubu": {
     "Title": "Ke Klubu",
@@ -1661,7 +1691,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_ropna_plosina": {
     "Title": "Ropn\u00E1 Plo\u0161ina",
@@ -1722,7 +1753,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_ropna_plosina_b": {
     "Title": "Ropn\u00E1 Plo\u0161ina b",
@@ -1778,7 +1810,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_hvezda": {
     "Title": "Hv\u011Bzda",
@@ -1836,7 +1869,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_ropna_plosina": {
     "Title": "Ropn\u00E1 Plo\u0161ina",
@@ -1880,7 +1914,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_nether": {
     "Title": "Nether",
@@ -1937,7 +1972,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_dobra_voda": {
     "Title": "Dobr\u00E1 Voda",
@@ -1992,7 +2028,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_spojnice": {
     "Title": "Spojnice",
@@ -2055,7 +2092,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mm_spojnice_1": {
     "Title": "redirecting",
@@ -2101,7 +2139,8 @@
     },
     "patternleCompatible": true,
     "redirect": "mi_spojnice",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mm_spojnice_2": {
     "Title": "redirecting",
@@ -2147,7 +2186,8 @@
     },
     "patternleCompatible": true,
     "redirect": "mi_spojnice",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_the_airship": {
     "Title": "The Airship",
@@ -2194,7 +2234,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_dalnicni_pilir": {
     "Title": "D\u00E1lni\u010Dn\u00ED Pil\u00ED\u0159",
@@ -2273,7 +2314,14 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": [
+      {
+        "stars": 4.5,
+        "author": "Jan Les\u00E1k",
+        "text": "jednoduch\u00FD p\u0159esun mezi Silem a Okapem"
+      }
+    ]
   },
   "mm_dalnicni_pilir_1": {
     "Title": "redirecting",
@@ -2319,7 +2367,8 @@
     },
     "patternleCompatible": true,
     "redirect": "mi_dalnicni_pilir",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mm_dalnicni_pilir_2": {
     "Title": "redirecting",
@@ -2365,7 +2414,8 @@
     },
     "patternleCompatible": true,
     "redirect": "mi_dalnicni_pilir",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mm_dalnicni_pilir_3": {
     "Title": "redirecting",
@@ -2411,7 +2461,8 @@
     },
     "patternleCompatible": true,
     "redirect": "mi_dalnicni_pilir",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_silak": {
     "Title": "Sil\u00E1k",
@@ -2462,7 +2513,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_diving_room": {
     "Title": "Diving Room",
@@ -2518,7 +2570,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_ordinace_pink_lady": {
     "Title": "Ordinace Pink Lady",
@@ -2574,7 +2627,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_diving_hole": {
     "Title": "Diving Hole",
@@ -2626,7 +2680,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_schodiste_aa": {
     "Title": "Schodi\u0161t\u011B AA",
@@ -2680,7 +2735,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_silo": {
     "Title": "Silo",
@@ -2751,7 +2807,14 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": [
+      {
+        "stars": 4.5,
+        "author": "Jan Les\u00E1k",
+        "text": "jistota"
+      }
+    ]
   },
   "ka_stromove_veze": {
     "Title": "Stromov\u00E9 v\u011B\u017Ee",
@@ -2793,7 +2856,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_jama_pekelna": {
     "Title": "J\u00E1ma Pekeln\u00E1",
@@ -2843,7 +2907,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ka_by_kiki": {
     "Title": "by kiki",
@@ -2880,7 +2945,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_sloup": {
     "Title": "Sloup",
@@ -2932,7 +2998,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_vecere": {
     "Title": "Ve\u010De\u0159e",
@@ -2989,7 +3056,14 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": [
+      {
+        "stars": 3,
+        "author": "Hana Ve\u010De\u0159ov\u00E1",
+        "text": "..."
+      }
+    ]
   },
   "mi_hlidkovaci_kos": {
     "Title": "Hl\u00EDdkovac\u00ED Ko\u0161",
@@ -3041,7 +3115,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_lavicka": {
     "Title": "Lavi\u010Dka",
@@ -3090,7 +3165,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_paluba": {
     "Title": "Paluba",
@@ -3143,7 +3219,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_podpalubi": {
     "Title": "Podpalub\u00ED",
@@ -3191,7 +3268,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_smashy_house": {
     "Title": "Smashy House",
@@ -3241,7 +3319,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_stredove_namesti": {
     "Title": "St\u0159edov\u00E9 n\u00E1m\u011Bst\u00ED",
@@ -3307,7 +3386,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_na_ochozu": {
     "Title": "Na Ochozu",
@@ -3359,7 +3439,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_jeslicky": {
     "Title": "Jesli\u010Dky",
@@ -3407,7 +3488,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_na_rohu": {
     "Title": "Na Rohu",
@@ -3454,7 +3536,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_alej": {
     "Title": "Alej",
@@ -3514,7 +3597,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_laborator": {
     "Title": "Laborato\u0159",
@@ -3567,7 +3651,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_vyloha": {
     "Title": "V\u00FDloha",
@@ -3615,7 +3700,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_koreny": {
     "Title": "Ko\u0159eny",
@@ -3677,7 +3763,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_os": {
     "Title": "Os",
@@ -3726,7 +3813,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_pavlacovy_dum": {
     "Title": "Pavla\u010Dov\u00FD D\u016Fm",
@@ -3774,7 +3862,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_podpavlacovy_dum": {
     "Title": "Podpavla\u010Dov\u00FD D\u016Fm",
@@ -3824,7 +3913,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_rainbow_house": {
     "Title": "Rainbow House",
@@ -3875,7 +3965,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_rainbow_garden": {
     "Title": "Rainbow Garden",
@@ -3925,7 +4016,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_zahradkarska_kolonie": {
     "Title": "Zahr\u00E1dk\u00E1\u0159sk\u00E1 Kolonie",
@@ -3979,7 +4071,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_prizemi": {
     "Title": "P\u0159\u00EDzem\u00ED",
@@ -4028,7 +4121,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_holy_hole_to_hell": {
     "Title": "Holy Hole to Hell",
@@ -4075,7 +4169,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_samovrazedne_dvere": {
     "Title": "Samovra\u017Eedn\u00E9 dve\u0159e",
@@ -4123,7 +4218,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_schodiste_zz": {
     "Title": "Schodi\u0161t\u011B ZZ",
@@ -4173,7 +4269,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_dum_pana_brabce": {
     "Title": "D\u016Fm Pana Brabce",
@@ -4222,7 +4319,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_sloupek": {
     "Title": "Sloupek",
@@ -4270,7 +4368,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_namesti_u_vody": {
     "Title": "N\u00E1m\u011Bst\u00ED u Vody",
@@ -4332,7 +4431,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_schwarzenegger_house": {
     "Title": "Schwarzenegger House",
@@ -4388,7 +4488,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_satna": {
     "Title": "\u0160atna",
@@ -4437,7 +4538,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_carrot_farma": {
     "Title": "Carrot Farma",
@@ -4492,7 +4594,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_double_decker_house": {
     "Title": "Double Decker House",
@@ -4553,7 +4656,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_balkon_svate_nedele": {
     "Title": "Balk\u00F3n svat\u00E9 Ned\u011Ble",
@@ -4606,7 +4710,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_vytahovy_mustek": {
     "Title": "V\u00FDtahov\u00FD M\u016Fstek",
@@ -4654,7 +4759,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_zastavka": {
     "Title": "Zast\u00E1vka",
@@ -4706,7 +4812,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_ustredni_stredisko_beta": {
     "Title": "\u00DAst\u0159edn\u00ED st\u0159edisko Beta",
@@ -4763,7 +4870,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_kulna": {
     "Title": "K\u016Flna",
@@ -4810,7 +4918,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_pod_masou": {
     "Title": "Pod Masou",
@@ -4861,7 +4970,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_spy": {
     "Title": "Spy",
@@ -4909,7 +5019,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_katakomby": {
     "Title": "Katakomby",
@@ -4969,7 +5080,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_tranzit": {
     "Title": "Tranzit",
@@ -5021,7 +5133,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_hotel": {
     "Title": "Hotel",
@@ -5072,7 +5185,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_apartman_i": {
     "Title": "Apartm\u00E1n I",
@@ -5119,7 +5233,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_apartman_ii": {
     "Title": "Apartm\u00E1n II",
@@ -5166,7 +5281,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_apartman_iii": {
     "Title": "Apartm\u00E1n III",
@@ -5213,7 +5329,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_dragon_lair": {
     "Title": "Dragon Lair",
@@ -5267,7 +5384,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_kralovska_cesta": {
     "Title": "Kr\u00E1lovsk\u00E1 Cesta",
@@ -5315,7 +5433,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_ctverec": {
     "Title": "\u010Ctverec",
@@ -5368,7 +5487,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_zapadni_kridlo": {
     "Title": "Z\u00E1padn\u00ED K\u0159\u00EDdlo",
@@ -5419,7 +5539,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_severni_kridlo": {
     "Title": "Severn\u00ED K\u0159\u00EDdlo",
@@ -5469,7 +5590,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_jogurt": {
     "Title": "Jogurt",
@@ -5520,7 +5642,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_stin_3_podlazi": {
     "Title": "St\u00EDn 3. podla\u017E\u00ED",
@@ -5569,7 +5692,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_stin_2_podlazi": {
     "Title": "St\u00EDn 2. podla\u017E\u00ED",
@@ -5619,7 +5743,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_stin": {
     "Title": "St\u00EDn",
@@ -5669,7 +5794,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_schodiste_ss": {
     "Title": "Schodi\u0161t\u011B SS",
@@ -5717,7 +5843,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_nebe": {
     "Title": "Nebe",
@@ -5770,7 +5897,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_stena": {
     "Title": "St\u011Bna",
@@ -5819,7 +5947,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_stoupani": {
     "Title": "Stoup\u00E1n\u00ED",
@@ -5872,7 +6001,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_mustek": {
     "Title": "M\u016Fstek",
@@ -5922,7 +6052,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_vandula": {
     "Title": "Vandula",
@@ -5971,7 +6102,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_amazonsky_havirov": {
     "Title": "Amazonsk\u00FD Hav\u00ED\u0159ov",
@@ -6022,7 +6154,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_astra": {
     "Title": "Astra",
@@ -6070,7 +6203,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_trinacty_rok": {
     "Title": "T\u0159in\u00E1ct\u00FD Rok",
@@ -6117,7 +6251,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_kalina": {
     "Title": "Kalina",
@@ -6167,7 +6302,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_kajan": {
     "Title": "Kajan",
@@ -6215,7 +6351,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_latnat": {
     "Title": "Latnat",
@@ -6266,7 +6403,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_supina": {
     "Title": "\u0160upina",
@@ -6313,7 +6451,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_komule": {
     "Title": "Komule",
@@ -6360,7 +6499,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_liana": {
     "Title": "Li\u00E1na",
@@ -6411,7 +6551,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_silice": {
     "Title": "Silice",
@@ -6461,7 +6602,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_pequin": {
     "Title": "Pequin",
@@ -6510,7 +6652,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_hosta": {
     "Title": "Hosta",
@@ -6559,7 +6702,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_hrachor": {
     "Title": "Hrachor",
@@ -6609,7 +6753,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_rdesno": {
     "Title": "Rdesno",
@@ -6657,7 +6802,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_kokarda": {
     "Title": "Kokarda",
@@ -6707,7 +6853,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_brslen": {
     "Title": "Brslen",
@@ -6754,7 +6901,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_aloe": {
     "Title": "Aloe",
@@ -6805,7 +6953,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_javor": {
     "Title": "Javor",
@@ -6856,7 +7005,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_delfin_a_macka": {
     "Title": "Delf\u00EDn a Ma\u010Dka",
@@ -6905,7 +7055,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_gruyere": {
     "Title": "Gruyere",
@@ -6954,7 +7105,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_drevene_uhli": {
     "Title": "D\u0159ev\u011Bn\u00E9 Uhl\u00ED",
@@ -7003,7 +7155,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_zivocisne_uhli": {
     "Title": "\u017Divo\u010Di\u0161n\u00E9 Uhl\u00ED",
@@ -7050,7 +7203,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_mezonet": {
     "Title": "Mezonet",
@@ -7100,7 +7254,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_venkovni_schodiste": {
     "Title": "Venkovn\u00ED Schodi\u0161t\u011B",
@@ -7158,7 +7313,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_kamrlik": {
     "Title": "Kamrl\u00EDk",
@@ -7206,7 +7362,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_panget": {
     "Title": "Panget",
@@ -7255,7 +7412,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_sklad": {
     "Title": "Sklad",
@@ -7303,7 +7461,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_pasaz": {
     "Title": "Pas\u00E1\u017E",
@@ -7356,7 +7515,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_kralovske_abonma": {
     "Title": "Kr\u00E1lovsk\u00E9 Abonm\u00E1",
@@ -7408,7 +7568,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_guacamole": {
     "Title": "Guacamole",
@@ -7460,7 +7621,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_horni_nadrazi": {
     "Title": "Horn\u00ED N\u00E1dra\u017E\u00ED",
@@ -7510,7 +7672,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_zahradni_mesto": {
     "Title": "Zahradn\u00ED M\u011Bsto",
@@ -7559,7 +7722,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_autobusak": {
     "Title": "Autobus\u00E1k",
@@ -7609,7 +7773,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_dolni_nadrazi": {
     "Title": "Doln\u00ED N\u00E1dra\u017E\u00ED",
@@ -7665,7 +7830,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_zamecke_schody": {
     "Title": "Z\u00E1meck\u00E9 Schody",
@@ -7715,7 +7881,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_hlavni_koridor_i": {
     "Title": "Hlavn\u00ED Koridor I",
@@ -7773,7 +7940,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_hlavni_koridor_ii": {
     "Title": "Hlavn\u00ED Koridor II",
@@ -7838,7 +8006,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_tunel": {
     "Title": "Tunel",
@@ -7886,7 +8055,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_dum_zavisti": {
     "Title": "D\u016Fm Z\u00E1visti",
@@ -7935,7 +8105,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_pernikova_chaloupka": {
     "Title": "Pern\u00EDkov\u00E1 Chaloupka",
@@ -7986,7 +8157,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_potato_farma": {
     "Title": "Potato Farma",
@@ -8035,7 +8207,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_trucovna": {
     "Title": "Trucovna",
@@ -8083,7 +8256,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_koupaci_jezirko": {
     "Title": "Koupac\u00ED Jez\u00EDrko",
@@ -8131,8 +8305,15 @@
       "z": 1149
     },
     "patternleCompatible": true,
-    "redirect": "",
-    "tobeedited": false
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [
+      {
+        "stars": 5,
+        "author": "Hana Ve\u010De\u0159ov\u00E1",
+        "text": "skv\u011Bl\u00E9, m\u00E1lo lid\u00ED"
+      }
+    ]
   },
   "mi_pod_schody": {
     "Title": "Pod Schody",
@@ -8184,7 +8365,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_plantazove_kralovstvi": {
     "Title": "Plant\u00E1\u017Eov\u00E9 Kr\u00E1lovstv\u00ED",
@@ -8236,7 +8418,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_na_samote_u_vody": {
     "Title": "Na samot\u011B u vody",
@@ -8285,7 +8468,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_pod_schodama": {
     "Title": "Pod Schodama",
@@ -8345,7 +8529,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_mezipatro": {
     "Title": "Mezipatro",
@@ -8394,7 +8579,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_olafuv_dum": {
     "Title": "Olaf\u016Fv D\u016Fm",
@@ -8443,7 +8629,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_vratnice": {
     "Title": "Vr\u00E1tnice",
@@ -8490,7 +8677,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_dum_zvonika_glassimoda": {
     "Title": "D\u016Fm zvon\u00EDka Glassimoda",
@@ -8539,7 +8727,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_parkoviste": {
     "Title": "Parkovi\u0161t\u011B",
@@ -8588,7 +8777,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_podchod": {
     "Title": "Podchod",
@@ -8638,7 +8828,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_komurka": {
     "Title": "Kom\u016Frka",
@@ -8686,7 +8877,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_preddvor": {
     "Title": "Preddvor",
@@ -8740,7 +8932,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_zabory": {
     "Title": "Zabory",
@@ -8789,7 +8982,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_sobota": {
     "Title": "Sobota",
@@ -8840,7 +9034,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_predel": {
     "Title": "P\u0159ed\u011Bl",
@@ -8893,7 +9088,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_pristav": {
     "Title": "P\u0159\u00EDstav",
@@ -8945,7 +9141,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_ufo": {
     "Title": "UFO",
@@ -9003,7 +9200,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_chajda_pani_hlinene": {
     "Title": "Chajda pan\u00ED Hlin\u011Bn\u00E9",
@@ -9058,7 +9256,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_kabelkuv_kabinet": {
     "Title": "Kabelk\u016Fv Kabinet",
@@ -9106,7 +9305,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_suteren": {
     "Title": "Suter\u00E9n",
@@ -9155,7 +9355,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_blok_a": {
     "Title": "Blok A",
@@ -9204,7 +9405,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_blok_b": {
     "Title": "Blok B",
@@ -9252,7 +9454,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_down_the_rabbit_hole": {
     "Title": "Down the Rabbit Hole",
@@ -9303,7 +9506,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_the_bridge": {
     "Title": "The Bridge",
@@ -9383,7 +9587,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mm_the_bridge_1": {
     "Title": "Redirecting",
@@ -9429,7 +9634,8 @@
     },
     "patternleCompatible": true,
     "redirect": "mi_the_bridge",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mm_the_bridge_2": {
     "Title": "Redirecting",
@@ -9475,7 +9681,8 @@
     },
     "patternleCompatible": true,
     "redirect": "mi_the_bridge",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mm_the_bridge_3": {
     "Title": "Redirecting",
@@ -9521,7 +9728,8 @@
     },
     "patternleCompatible": true,
     "redirect": "mi_the_bridge",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mm_the_bridge_4": {
     "Title": "Redirecting",
@@ -9567,7 +9775,8 @@
     },
     "patternleCompatible": true,
     "redirect": "mi_the_bridge",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_the_crossing": {
     "Title": "The Crossing",
@@ -9632,7 +9841,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_the_detour": {
     "Title": "The Detour",
@@ -9699,7 +9909,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_w_vez_1_podlazi": {
     "Title": "W-V\u011B\u017E 1. podla\u017E\u00ED",
@@ -9749,7 +9960,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_w_vez_2_podlazi": {
     "Title": "W-V\u011B\u017E 2. podla\u017E\u00ED",
@@ -9800,7 +10012,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_w_vez_3_podlazi": {
     "Title": "W-V\u011B\u017E 3. podla\u017E\u00ED",
@@ -9849,7 +10062,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_svaty_vyt": {
     "Title": "Svat\u00FD V\u00FDt",
@@ -9904,7 +10118,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_kapsule": {
     "Title": "Kapsule",
@@ -9958,7 +10173,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_honda": {
     "Title": "Honda",
@@ -10010,7 +10226,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_chlev": {
     "Title": "Chl\u00E9v",
@@ -10061,7 +10278,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_arcanum": {
     "Title": "Arcanum",
@@ -10110,7 +10328,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_hlavni_trida": {
     "Title": "Hlavn\u00ED T\u0159\u00EDda",
@@ -10164,7 +10383,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_pultova_strecha": {
     "Title": "Pultov\u00E1 St\u0159echa",
@@ -10216,7 +10436,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_bily_strop": {
     "Title": "B\u00EDl\u00FD Strop",
@@ -10268,7 +10489,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_skrys": {
     "Title": "Skr\u00FD\u0161",
@@ -10315,7 +10537,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_kapitana_jarose": {
     "Title": "Kapit\u00E1na Jaro\u0161e",
@@ -10366,7 +10589,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_slavnostni_balkon": {
     "Title": "Slavnostn\u00ED Balk\u00F3n",
@@ -10413,7 +10637,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_kaplicka": {
     "Title": "Kapli\u010Dka",
@@ -10464,7 +10689,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_retarder": {
     "Title": "Retard\u00E9r",
@@ -10514,7 +10740,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_stupinek": {
     "Title": "Stup\u00EDnek",
@@ -10561,7 +10788,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_rozhrani": {
     "Title": "Rozhran\u00ED",
@@ -10620,7 +10848,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_v_vez_1_podlazi": {
     "Title": "V-V\u011B\u017E 1. podla\u017E\u00ED",
@@ -10674,7 +10903,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_v_vez_2_podlazi": {
     "Title": "V-V\u011B\u017E 2. podla\u017E\u00ED",
@@ -10727,7 +10957,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_v_vez_3_podlazi": {
     "Title": "V-V\u011B\u017E 3. podla\u017E\u00ED",
@@ -10780,7 +11011,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_villager_house": {
     "Title": "Villager House",
@@ -10834,7 +11066,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_villager_bridge": {
     "Title": "Villager Bridge",
@@ -10884,7 +11117,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_wheat_farma": {
     "Title": "Wheat Farma",
@@ -10937,7 +11171,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_bobuv_dum": {
     "Title": "Bob\u016Fv D\u016Fm",
@@ -10986,7 +11221,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "te_stehovani_narodu": {
     "Title": "St\u011Bhov\u00E1n\u00ED N\u00E1rod\u016F",
@@ -11034,7 +11270,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_spunt": {
     "Title": "\u0160punt",
@@ -11088,7 +11325,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_paranoia": {
     "Title": "Paranoia",
@@ -11136,7 +11374,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_deprese": {
     "Title": "Deprese",
@@ -11189,7 +11428,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_radost": {
     "Title": "Radost",
@@ -11243,7 +11483,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_ironie": {
     "Title": "Ironie",
@@ -11297,7 +11538,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_rizek": {
     "Title": "\u0158\u00EDzek",
@@ -11349,7 +11591,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_posse": {
     "Title": "Posse",
@@ -11398,7 +11641,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_russe": {
     "Title": "Russe",
@@ -11446,7 +11690,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_velehumry": {
     "Title": "Velehumry",
@@ -11495,7 +11740,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_humry": {
     "Title": "Humry",
@@ -11544,7 +11790,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_raky": {
     "Title": "Raky",
@@ -11591,7 +11838,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_dlouhy": {
     "Title": "Dlouh\u00FD",
@@ -11639,7 +11887,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_siroky": {
     "Title": "\u0160irok\u00FD",
@@ -11692,7 +11941,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_hluchonemy": {
     "Title": "Hluchon\u011Bm\u00FD",
@@ -11740,7 +11990,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_bystrozraky": {
     "Title": "Bystrozrak\u00FD",
@@ -11788,7 +12039,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_amfora": {
     "Title": "Amfora",
@@ -11836,7 +12088,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_baby_chef_office": {
     "Title": "Baby Chef Office",
@@ -11884,7 +12137,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_emfora": {
     "Title": "Emfora",
@@ -11932,7 +12186,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_tucik": {
     "Title": "Tu\u010D\u00EDk",
@@ -11982,7 +12237,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_kanc": {
     "Title": "Kanc",
@@ -12031,7 +12287,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_sadlo": {
     "Title": "S\u00E1dlo",
@@ -12078,7 +12335,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_tuk": {
     "Title": "Tuk",
@@ -12125,7 +12383,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_police": {
     "Title": "Police",
@@ -12173,7 +12432,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_levo": {
     "Title": "Levo",
@@ -12221,7 +12481,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_pravo": {
     "Title": "Pravo",
@@ -12269,7 +12530,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_lejno": {
     "Title": "Lejno",
@@ -12321,7 +12583,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_cervi_dira": {
     "Title": "\u010Cerv\u00ED D\u00EDra",
@@ -12372,7 +12635,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_dira_do_pekel": {
     "Title": "D\u00EDra do Pekel",
@@ -12436,7 +12700,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_hotel_gi_floor_ge": {
     "Title": "Hotel Gi Floor Ge",
@@ -12485,7 +12750,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_hotel_gi_floor_gi": {
     "Title": "Hotel Gi Floor Gi",
@@ -12538,7 +12804,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_balonky": {
     "Title": "Bal\u00F3nky",
@@ -12593,7 +12860,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_jizni_blok": {
     "Title": "Ji\u017En\u00ED Blok",
@@ -12651,7 +12919,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_le_pont": {
     "Title": "Le Pont",
@@ -12707,7 +12976,14 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": [
+      {
+        "stars": 2.5,
+        "author": "Gideon Traveller",
+        "text": "Chlouba cel\u00E9ho Gideona, kterou je nutn\u00E9 nav\u0161t\u00EDvit. D\u00E1vejte ale pozor p\u0159i lezen\u00ED do v\u00FD\u0161ek, nebo\u0165 jsem spadl skrz cel\u00FD Le Pont."
+      }
+    ]
   },
   "mi_vystavni": {
     "Title": "V\u00FDstavn\u00ED",
@@ -12756,7 +13032,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_hlava_statu": {
     "Title": "Hlava St\u00E1tu",
@@ -12803,7 +13080,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_kral": {
     "Title": "Kr\u00E1l",
@@ -12851,7 +13129,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_lusk": {
     "Title": "Lusk",
@@ -12899,7 +13178,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_kazeta": {
     "Title": "Kazeta",
@@ -12948,7 +13228,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_hnizdo": {
     "Title": "Hn\u00EDzdo",
@@ -13002,7 +13283,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_letove_pole": {
     "Title": "Letov\u00E9 Pole",
@@ -13050,7 +13332,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_parapet": {
     "Title": "Parapet",
@@ -13098,7 +13381,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_draci_rotunda": {
     "Title": "Dra\u010D\u00ED Rotunda",
@@ -13155,7 +13439,14 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": [
+      {
+        "stars": 4,
+        "author": "Jan Les\u00E1k",
+        "text": "st\u00E1le lep\u0161\u00ED a lep\u0161\u00ED"
+      }
+    ]
   },
   "mi_gauntlet": {
     "Title": "Gauntlet",
@@ -13202,7 +13493,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_mosta": {
     "Title": "Mosta",
@@ -13255,7 +13547,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_weaver_house": {
     "Title": "Weaver House",
@@ -13310,7 +13603,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "te_preusporadani_troji": {
     "Title": "P\u0159euspo\u0159\u00E1d\u00E1n\u00ED Tr\u00F3ji",
@@ -13362,7 +13656,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ct_loosova_vila": {
     "Title": "Loosova Vila",
@@ -13404,7 +13699,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ct_labyrint": {
     "Title": "Labyrint",
@@ -13446,7 +13742,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ok_bubenec": {
     "Title": "Bubene\u010D",
@@ -13489,7 +13786,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ok_sneci_raj": {
     "Title": "\u0160ne\u010D\u00ED R\u00E1j",
@@ -13532,7 +13830,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ok_labyrint": {
     "Title": "Labyrint",
@@ -13575,7 +13874,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ok_nexus": {
     "Title": "Nexus",
@@ -13618,7 +13918,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ok_preatrium": {
     "Title": "Preatrium",
@@ -13661,7 +13962,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_jezirko": {
     "Title": "Jez\u00EDrko",
@@ -13705,7 +14007,8 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_holic": {
     "Title": "Hol\u00ED\u010D",
@@ -13765,7 +14068,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_halusky": {
     "Title": "Halu\u0161ky",
@@ -13815,7 +14119,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_tamtam": {
     "Title": "Tamtam",
@@ -13864,7 +14169,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_la": {
     "Title": "La",
@@ -13914,7 +14220,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_arkada": {
     "Title": "Ark\u00E1da",
@@ -13968,7 +14275,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_nacleharna": {
     "Title": "Nacleh\u00E1rna",
@@ -14016,7 +14324,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_kho": {
     "Title": "Kho",
@@ -14064,7 +14373,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_quare": {
     "Title": "Quare",
@@ -14111,7 +14421,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_preatrium": {
     "Title": "Preatrium",
@@ -14169,7 +14480,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_atom": {
     "Title": "Atom",
@@ -14217,7 +14529,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_kryt": {
     "Title": "Kryt",
@@ -14265,7 +14578,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_vietnamska_ctvrt": {
     "Title": "Vietnamsk\u00E1 \u010Ctvr\u0165",
@@ -14313,7 +14627,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_hanojska_vez": {
     "Title": "Hanojsk\u00E1 V\u011B\u017E",
@@ -14360,7 +14675,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_loosova_vila": {
     "Title": "Loosova Vila",
@@ -14416,7 +14732,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_plaz": {
     "Title": "Pl\u00E1\u017E",
@@ -14464,7 +14781,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_jezirko": {
     "Title": "Jez\u00EDrko",
@@ -14513,7 +14831,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_skokansky_stav": {
     "Title": "Skokansk\u00FD Stav",
@@ -14561,7 +14880,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_minimum": {
     "Title": "Minimum",
@@ -14609,7 +14929,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_za_vodou": {
     "Title": "Za Vodou",
@@ -14659,7 +14980,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_kanal": {
     "Title": "Kan\u00E1l",
@@ -14714,7 +15036,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_dalnice": {
     "Title": "D\u00E1lnice",
@@ -14789,7 +15112,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mm_dalnice_1": {
     "Title": "Redirecting",
@@ -14835,7 +15159,8 @@
     },
     "patternleCompatible": true,
     "redirect": "mi_dalnice",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mm_dalnice_2": {
     "Title": "Redirecting",
@@ -14881,7 +15206,8 @@
     },
     "patternleCompatible": true,
     "redirect": "mi_dalnice",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mm_dalnice_3": {
     "Title": "Redirecting",
@@ -14927,7 +15253,8 @@
     },
     "patternleCompatible": true,
     "redirect": "mi_dalnice",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_pramice": {
     "Title": "Pramice",
@@ -14976,7 +15303,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ka_mistnosti_s_nazvy_podle_skutecnych_mist": {
     "Title": "M\u00EDstnosti s n\u00E1zvy podle skute\u010Dn\u00FDch m\u00EDst",
@@ -15073,7 +15401,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_na_nabrezi": {
     "Title": "Na N\u00E1b\u0159e\u017E\u00ED",
@@ -15129,7 +15458,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_k_nabrezi": {
     "Title": "K N\u00E1b\u0159e\u017E\u00ED",
@@ -15177,7 +15507,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_nekonecno": {
     "Title": "Nekone\u010Dno",
@@ -15229,7 +15560,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_rozbresk": {
     "Title": "Rozb\u0159esk",
@@ -15276,7 +15608,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_cervanky": {
     "Title": "\u010Cerv\u00E1nky",
@@ -15323,7 +15656,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_uplnek": {
     "Title": "\u00DApln\u011Bk",
@@ -15370,7 +15704,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_slunicko": {
     "Title": "Slun\u00ED\u010Dko",
@@ -15429,7 +15764,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_stopa": {
     "Title": "Stopa",
@@ -15477,7 +15813,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_triangl": {
     "Title": "Triangl",
@@ -15525,7 +15862,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_trigon": {
     "Title": "Trigon",
@@ -15576,7 +15914,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_delta": {
     "Title": "Delta",
@@ -15630,7 +15969,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_namornik": {
     "Title": "N\u00E1mo\u0159n\u00EDk",
@@ -15639,7 +15979,8 @@
     "Image_titles": [],
     "Bordering_rooms": [
       "mi_delta",
-      "mi_kroky"
+      "mi_kroky",
+      "mi_rimsa"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -15668,7 +16009,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "26/07/25: M\u00EDstnost\u00ED proch\u00E1z\u00ED [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha)"
+        "Content": "26/07/25: M\u00EDstnost\u00ED proch\u00E1z\u00ED [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha).\r\n08/08/25: M\u00EDstnost soused\u00ED s [\u0158\u00EDmsou](mi_rimsa)."
       }
     ],
     "image_id": 0,
@@ -15682,7 +16023,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_centrofrater": {
     "Title": "Centrofrater",
@@ -15730,7 +16072,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_ortofrater": {
     "Title": "Ortofrater",
@@ -15788,7 +16131,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_nexus": {
     "Title": "Nexus",
@@ -15839,7 +16183,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_na_mustku": {
     "Title": "Na M\u016Fstku",
@@ -15891,7 +16236,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_loze": {
     "Title": "L\u00F3\u017Ee",
@@ -15939,7 +16285,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_atrium": {
     "Title": "Atrium",
@@ -15995,7 +16342,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_urampa": {
     "Title": "Urampa",
@@ -16044,7 +16392,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_lava_show": {
     "Title": "Lava Show",
@@ -16091,7 +16440,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_garaz": {
     "Title": "Gar\u00E1\u017E",
@@ -16141,7 +16491,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_svatyne": {
     "Title": "Svatyn\u011B",
@@ -16190,7 +16541,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_vychodni_blok": {
     "Title": "V\u00FDchodn\u00ED Blok",
@@ -16242,7 +16594,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_nocni_klid": {
     "Title": "No\u010Dn\u00ED Klid",
@@ -16292,7 +16645,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_prace": {
     "Title": "Pr\u00E1ce",
@@ -16346,7 +16700,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_gideon": {
     "Title": "Gideon",
@@ -16392,13 +16747,20 @@
     "Empty": true,
     "numberOfRooms": 0,
     "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
+      "x": 322,
+      "y": 64,
+      "z": 1101
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": [
+      {
+        "stars": 3,
+        "author": "Gideon Traveller",
+        "text": "Ru\u0161n\u00E1 m\u00EDstnost a m\u00E1lo prostorn\u00E1. Doporu\u010Duji vyu\u017E\u00EDt p\u0159\u00EDstavn\u00ED m\u00EDstnost Atlas."
+      }
+    ]
   },
   "mi_katedra": {
     "Title": "Katedra",
@@ -16448,7 +16810,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_moje_malickost": {
     "Title": "Moje Mali\u010Dkost",
@@ -16498,7 +16861,14 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": [
+      {
+        "stars": 3.5,
+        "author": "Gideon Traveller",
+        "text": "Jsou to schody... Vid\u011Bl jsem i lep\u0161\u00ED."
+      }
+    ]
   },
   "mi_i_port": {
     "Title": "I-PORT",
@@ -16551,7 +16921,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_high_cross": {
     "Title": "High Cross",
@@ -16601,7 +16972,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_ah_fuck": {
     "Title": "Ah Fuck",
@@ -16649,7 +17021,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_formosa": {
     "Title": "Formosa",
@@ -16702,7 +17075,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_goiania": {
     "Title": "Goiania",
@@ -16752,7 +17126,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_neropolis": {
     "Title": "Neropolis",
@@ -16801,7 +17176,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_strop": {
     "Title": "Strop",
@@ -16849,7 +17225,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_komin": {
     "Title": "Kom\u00EDn",
@@ -16898,7 +17275,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_promena": {
     "Title": "Prom\u011Bna",
@@ -16946,7 +17324,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_orizona": {
     "Title": "Orizona",
@@ -16996,7 +17375,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_hraz": {
     "Title": "Hr\u00E1z",
@@ -17060,7 +17440,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mm_hraz_1": {
     "Title": "Redirecting",
@@ -17106,7 +17487,8 @@
     },
     "patternleCompatible": true,
     "redirect": "mi_hraz",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mm_hraz_2": {
     "Title": "Redirecting",
@@ -17152,7 +17534,8 @@
     },
     "patternleCompatible": true,
     "redirect": "mi_hraz",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mm_hraz_3": {
     "Title": "Redirecting",
@@ -17198,7 +17581,8 @@
     },
     "patternleCompatible": true,
     "redirect": "mi_hraz",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mm_hraz_4": {
     "Title": "Redirecting",
@@ -17244,7 +17628,8 @@
     },
     "patternleCompatible": true,
     "redirect": "mi_hraz",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mm_hraz_5": {
     "Title": "Redirecting",
@@ -17290,7 +17675,8 @@
     },
     "patternleCompatible": true,
     "redirect": "mi_hraz",
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_spirala": {
     "Title": "Spir\u00E1la",
@@ -17346,7 +17732,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_arboretum": {
     "Title": "Arboretum",
@@ -17395,7 +17782,14 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": [
+      {
+        "stars": 4.5,
+        "author": "Jan Les\u00E1k",
+        "text": "m\u00E1m r\u00E1d stromy"
+      }
+    ]
   },
   "mi_storm": {
     "Title": "Storm",
@@ -17442,7 +17836,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_shadow": {
     "Title": "Shadow",
@@ -17489,7 +17884,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_tairn": {
     "Title": "Tairn",
@@ -17536,7 +17932,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_andarna": {
     "Title": "Andarna",
@@ -17584,7 +17981,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_pila": {
     "Title": "Pila",
@@ -17633,7 +18031,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_flame": {
     "Title": "Flame",
@@ -17680,7 +18079,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_sgaeil": {
     "Title": "Sgaeil",
@@ -17727,7 +18127,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_pristavni_molo": {
     "Title": "P\u0159\u00EDstavn\u00ED Molo",
@@ -17782,7 +18183,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_vystup": {
     "Title": "V\u00FDstup",
@@ -17832,7 +18234,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_vytahova_sachta": {
     "Title": "V\u00FDtahov\u00E1 \u0160achta",
@@ -17893,7 +18296,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_vypln": {
     "Title": "V\u00FDpl\u0148",
@@ -17948,7 +18352,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_hrib": {
     "Title": "H\u0159ib",
@@ -17995,7 +18400,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_schodnice": {
     "Title": "Schodnice",
@@ -18044,7 +18450,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_atomovka": {
     "Title": "Atomovka",
@@ -18100,7 +18507,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_teraska": {
     "Title": "Ter\u00E1ska",
@@ -18152,7 +18560,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_plac": {
     "Title": "Plac",
@@ -18210,7 +18619,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_diagonala": {
     "Title": "Diagon\u00E1la",
@@ -18268,7 +18678,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_sin": {
     "Title": "S\u00ED\u0148",
@@ -18320,7 +18731,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_jama": {
     "Title": "J\u00E1ma",
@@ -18371,7 +18783,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_exit": {
     "Title": "Exit",
@@ -18419,7 +18832,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_labyrint": {
     "Title": "Labyrint",
@@ -18477,7 +18891,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_nocleharna_a": {
     "Title": "Nocleh\u00E1rna A",
@@ -18524,7 +18939,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_nocleharna_b": {
     "Title": "Nocleh\u00E1rna B",
@@ -18571,7 +18987,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_spojka": {
     "Title": "Spojka",
@@ -18628,7 +19045,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_pracovna": {
     "Title": "Pracovna",
@@ -18683,7 +19101,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_skytrail": {
     "Title": "Skytrail",
@@ -18733,7 +19152,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_bubenec": {
     "Title": "Bubene\u010D",
@@ -18783,7 +19203,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_troja": {
     "Title": "Tr\u00F3ja",
@@ -18798,7 +19219,8 @@
       "mi_atomovka",
       "mi_bubenec",
       "mi_teraska",
-      "mi_spojka"
+      "mi_spojka",
+      "mi_rimsa"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -18827,7 +19249,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "26/07/25: M\u00EDstnost\u00ED proch\u00E1z\u00ED [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha)"
+        "Content": "26/07/25: M\u00EDstnost\u00ED proch\u00E1z\u00ED [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha).\r\n08/08/25: M\u00EDstnost soused\u00ED s [\u0158\u00EDmsou](mi_rimsa)."
       }
     ],
     "image_id": 0,
@@ -18841,7 +19263,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_parek": {
     "Title": "P\u00E1rek",
@@ -18890,7 +19313,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_lednice": {
     "Title": "Lednice",
@@ -18938,7 +19362,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_okap": {
     "Title": "Okap",
@@ -18993,7 +19418,14 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": [
+      {
+        "stars": 5,
+        "author": "Jan Les\u00E1k",
+        "text": "doporu\u010Duji\r\nd\u00E1v\u00E1m p\u011Bt hv\u011Bzdi\u010Dek"
+      }
+    ]
   },
   "mi_listy": {
     "Title": "Listy",
@@ -19044,7 +19476,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_mrkev": {
     "Title": "Mrkev",
@@ -19104,7 +19537,14 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": [
+      {
+        "stars": 0.5,
+        "author": "Jan Les\u00E1k",
+        "text": "nem\u00E1m slov"
+      }
+    ]
   },
   "mi_mrkev_tunel": {
     "Title": "Mrkev Tunel",
@@ -19153,7 +19593,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_zavodni_okruh": {
     "Title": "Z\u00E1vodn\u00ED Okruh",
@@ -19210,7 +19651,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_prah": {
     "Title": "Pr\u00E1h",
@@ -19258,7 +19700,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_nadvori": {
     "Title": "N\u00E1dvo\u0159\u00ED",
@@ -19309,7 +19752,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_reka": {
     "Title": "\u0158eka",
@@ -19357,7 +19801,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_lom": {
     "Title": "Lom",
@@ -19413,7 +19858,14 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": [
+      {
+        "stars": 2,
+        "author": "Hana Ve\u010De\u0159ov\u00E1",
+        "text": "D\u0159\u00EDve skv\u011Bl\u00E9 m\u00EDsto na dovolenou. Stavba d\u00E1lni\u010Dn\u00EDho mostu, ale atmosf\u00E9ru zkazila."
+      }
+    ]
   },
   "mi_hradba": {
     "Title": "Hradba",
@@ -19461,7 +19913,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_nic": {
     "Title": "Nic",
@@ -19508,7 +19961,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_hradbb": {
     "Title": "Hradbb",
@@ -19556,7 +20010,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_nid": {
     "Title": "Nid",
@@ -19603,7 +20058,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_most": {
     "Title": "Most",
@@ -19656,7 +20112,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_expresionismus": {
     "Title": "Expresionismus",
@@ -19703,7 +20160,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_namesticko": {
     "Title": "N\u00E1m\u011Bst\u00ED\u010Dko",
@@ -19757,7 +20215,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_zlate_schodiste": {
     "Title": "Zlat\u00E9 Schodi\u0161t\u011B",
@@ -19815,7 +20274,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_veranda": {
     "Title": "Veranda",
@@ -19882,7 +20342,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_karotka": {
     "Title": "Karotka",
@@ -19945,7 +20406,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_audit": {
     "Title": "Audit",
@@ -19996,7 +20458,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_gate": {
     "Title": "Gat\u011B",
@@ -20051,7 +20514,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_smycka": {
     "Title": "Smy\u010Dka",
@@ -20112,7 +20576,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_strecha": {
     "Title": "St\u0159echa",
@@ -20160,7 +20625,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_lazne_panoraama": {
     "Title": "L\u00E1zn\u011B Panoraama",
@@ -20208,7 +20674,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_spojnice": {
     "Title": "Spojnice",
@@ -20256,7 +20723,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_pod_masou": {
     "Title": "Pod masou",
@@ -20304,7 +20772,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_stred": {
     "Title": "St\u0159ed",
@@ -20352,7 +20821,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_hlavni_trida": {
     "Title": "Hlavn\u00ED T\u0159\u00EDda",
@@ -20400,7 +20870,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_maly_pilir": {
     "Title": "Mal\u00FD Pil\u00ED\u0159",
@@ -20448,7 +20919,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_velky_pilir": {
     "Title": "Velk\u00FD Pil\u00ED\u0159",
@@ -20496,7 +20968,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_silo": {
     "Title": "Silo",
@@ -20544,7 +21017,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_prikop": {
     "Title": "P\u0159\u00EDkop",
@@ -20592,7 +21066,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_piratska_lod": {
     "Title": "Pir\u00E1tsk\u00E1 Lo\u010F",
@@ -20640,7 +21115,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_kahan": {
     "Title": "Kahan",
@@ -20688,7 +21164,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_mezipatro": {
     "Title": "Mezipatro",
@@ -20736,7 +21213,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_pavlac": {
     "Title": "Pavla\u010D",
@@ -20784,7 +21262,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_domy": {
     "Title": "Domy",
@@ -20832,7 +21311,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_zahradky": {
     "Title": "Zahr\u00E1dky",
@@ -20880,7 +21360,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_lanterna": {
     "Title": "Lanterna",
@@ -20928,7 +21409,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_beta": {
     "Title": "Beta",
@@ -20976,7 +21458,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_katakomby": {
     "Title": "Katakomby",
@@ -21024,7 +21507,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_pasaz": {
     "Title": "Pas\u00E1\u017E",
@@ -21072,7 +21556,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_hotel": {
     "Title": "Hotel",
@@ -21120,7 +21605,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_bambus": {
     "Title": "Bambus",
@@ -21168,7 +21654,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_doupe": {
     "Title": "Doup\u011B",
@@ -21216,7 +21703,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_kridlo": {
     "Title": "K\u0159\u00EDdlo",
@@ -21264,7 +21752,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_stin": {
     "Title": "St\u00EDn",
@@ -21312,7 +21801,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_vestibul": {
     "Title": "Vestibul",
@@ -21360,7 +21850,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_petrin": {
     "Title": "Pet\u0159\u00EDn",
@@ -21408,7 +21899,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_krcnov": {
     "Title": "Kr\u010Dnov",
@@ -21456,7 +21948,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_ledova": {
     "Title": "Ledov\u00E1",
@@ -21504,7 +21997,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_lilek": {
     "Title": "Lilek",
@@ -21552,7 +22046,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_sukulent": {
     "Title": "Sukulent",
@@ -21600,7 +22095,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_uhelsko": {
     "Title": "Uhelsko",
@@ -21648,7 +22144,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_kino": {
     "Title": "Kino",
@@ -21696,7 +22193,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_vytahova_sachta": {
     "Title": "V\u00FDtahov\u00E1 \u0160achta",
@@ -21744,7 +22242,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_autobusak": {
     "Title": "Autobus\u00E1k",
@@ -21792,7 +22291,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_koridory": {
     "Title": "Koridory",
@@ -21840,7 +22340,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_okruh": {
     "Title": "Okruh",
@@ -21888,7 +22389,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_na_vode": {
     "Title": "Na Vod\u011B",
@@ -21936,7 +22438,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_preddvor": {
     "Title": "Preddvor",
@@ -21984,7 +22487,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_predel": {
     "Title": "P\u0159ed\u011Bl",
@@ -22032,7 +22536,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_pristav": {
     "Title": "P\u0159\u00EDstav",
@@ -22080,7 +22585,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_kanal": {
     "Title": "Kan\u00E1l",
@@ -22128,7 +22634,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_suteren": {
     "Title": "Suter\u00E9n",
@@ -22176,7 +22683,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_dul": {
     "Title": "D\u016Fl",
@@ -22224,7 +22732,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_zamecke_schody": {
     "Title": "Z\u00E1meck\u00E9 Schody",
@@ -22272,7 +22781,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_w_vez": {
     "Title": "W V\u011B\u017E",
@@ -22320,7 +22830,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_hrad": {
     "Title": "Hrad",
@@ -22368,7 +22879,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_alfa": {
     "Title": "Alfa",
@@ -22416,7 +22928,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_arcanum": {
     "Title": "Arcanum",
@@ -22464,7 +22977,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_v_vez": {
     "Title": "V-V\u011B\u017E",
@@ -22512,7 +23026,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_vesnice": {
     "Title": "Vesnice",
@@ -22560,7 +23075,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_pisa": {
     "Title": "Pisa",
@@ -22608,7 +23124,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_pocity": {
     "Title": "Pocity",
@@ -22656,7 +23173,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_vtip": {
     "Title": "Vtip",
@@ -22704,7 +23222,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_humry": {
     "Title": "Humry",
@@ -22752,7 +23271,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_cimrman": {
     "Title": "Cimrman",
@@ -22800,7 +23320,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_byty_ga": {
     "Title": "Byty Ga",
@@ -22848,7 +23369,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_byty_ge": {
     "Title": "Byty Ge",
@@ -22896,7 +23418,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_byty_gi": {
     "Title": "Byty Gi",
@@ -22944,7 +23467,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_aula_ga": {
     "Title": "Aula Ga",
@@ -22992,7 +23516,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_veranda": {
     "Title": "Veranda",
@@ -23040,7 +23565,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_aula_ge": {
     "Title": "Aula Ge",
@@ -23088,7 +23614,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_aula_gi": {
     "Title": "Aula Gi",
@@ -23136,7 +23663,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_balonky": {
     "Title": "Bal\u00F3nky",
@@ -23184,7 +23712,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_bloky": {
     "Title": "Bloky",
@@ -23232,7 +23761,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_le_pont": {
     "Title": "Le Pont",
@@ -23280,7 +23810,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_unikove_schodiste": {
     "Title": "\u00DAnikov\u00E9 Schodi\u0161t\u011B",
@@ -23328,7 +23859,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_parapet": {
     "Title": "Parapet",
@@ -23376,7 +23908,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_rotunda": {
     "Title": "Rotunda",
@@ -23424,7 +23957,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_kvadrant": {
     "Title": "Kvadrant",
@@ -23472,7 +24006,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_fujara": {
     "Title": "Fujara",
@@ -23520,7 +24055,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_arkada": {
     "Title": "Ark\u00E1da",
@@ -23568,7 +24104,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_hala": {
     "Title": "Hala",
@@ -23616,7 +24153,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_preatrium": {
     "Title": "Preatrium",
@@ -23664,7 +24202,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_atom": {
     "Title": "Atom",
@@ -23712,7 +24251,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_vila": {
     "Title": "Vila",
@@ -23760,7 +24300,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_nabrezi": {
     "Title": "N\u00E1b\u0159e\u017E\u00ED",
@@ -23808,7 +24349,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_nekonecno": {
     "Title": "Nekone\u010Dno",
@@ -23856,7 +24398,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_pokoje": {
     "Title": "Pokoje",
@@ -23904,7 +24447,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_slunicko": {
     "Title": "Slun\u00ED\u010Dko",
@@ -23952,7 +24496,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_triangl": {
     "Title": "Triangl",
@@ -24000,7 +24545,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_trigon": {
     "Title": "Trigon",
@@ -24048,7 +24594,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_delta": {
     "Title": "Delta",
@@ -24096,7 +24643,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_namornik": {
     "Title": "N\u00E1mo\u0159n\u00EDk",
@@ -24144,7 +24692,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_nexus": {
     "Title": "Nexus",
@@ -24192,7 +24741,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_pulkruh": {
     "Title": "P\u016Flkruh",
@@ -24240,7 +24790,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_tvrz": {
     "Title": "Tvrz",
@@ -24288,7 +24839,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_obchod": {
     "Title": "Obchod",
@@ -24336,7 +24888,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_pri_vode": {
     "Title": "P\u0159i Vod\u011B",
@@ -24384,7 +24937,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_nad_vodou": {
     "Title": "Nad Vodou",
@@ -24432,7 +24986,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_mob_farma": {
     "Title": "Mob Farma",
@@ -24480,7 +25035,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_velho": {
     "Title": "Velho",
@@ -24528,7 +25084,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_nuevo": {
     "Title": "Nuevo",
@@ -24576,7 +25133,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_orizona": {
     "Title": "Orizona",
@@ -24624,7 +25182,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_dalnice": {
     "Title": "D\u00E1lnice",
@@ -24672,7 +25231,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_prah": {
     "Title": "Pr\u00E1h",
@@ -24720,7 +25280,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_hraz": {
     "Title": "Hr\u00E1z",
@@ -24768,7 +25329,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_spirala": {
     "Title": "Spir\u00E1la",
@@ -24816,7 +25378,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_jezdci": {
     "Title": "Jezdci",
@@ -24864,7 +25427,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_vstup": {
     "Title": "Vstup",
@@ -24912,7 +25476,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_papokoi": {
     "Title": "Papokoi",
@@ -24960,7 +25525,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_sklenik": {
     "Title": "Sklen\u00EDk",
@@ -25008,7 +25574,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_sin": {
     "Title": "S\u00ED\u0148",
@@ -25056,7 +25623,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_labyrint": {
     "Title": "Labyrint",
@@ -25104,7 +25672,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_bubenec": {
     "Title": "Bubene\u010D",
@@ -25152,7 +25721,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_troja": {
     "Title": "Tr\u00F3ja",
@@ -25200,7 +25770,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_buben": {
     "Title": "Buben",
@@ -25248,7 +25819,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_parek": {
     "Title": "P\u00E1rek",
@@ -25296,7 +25868,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_lednice": {
     "Title": "Lednice",
@@ -25344,7 +25917,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_listy": {
     "Title": "Listy",
@@ -25392,7 +25966,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_mrkev": {
     "Title": "Mrkev",
@@ -25440,7 +26015,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_tunel": {
     "Title": "Tunel",
@@ -25488,7 +26064,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_zavodni_okruh": {
     "Title": "Z\u00E1vodn\u00ED Okruh",
@@ -25536,7 +26113,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_lom": {
     "Title": "Lom",
@@ -25584,7 +26162,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_hradby": {
     "Title": "Hradby",
@@ -25632,7 +26211,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_expresionismus": {
     "Title": "Expresionismus",
@@ -25680,7 +26260,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_zlate_schodiste": {
     "Title": "Zlat\u00E9 Schodi\u0161t\u011B",
@@ -25728,7 +26309,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_smycka": {
     "Title": "Smy\u010Dka",
@@ -25776,7 +26358,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ok_smrk": {
     "Title": "Smrk",
@@ -25823,7 +26406,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ok_benatky": {
     "Title": "Ben\u00E1tky",
@@ -25870,7 +26454,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ok_obchodni_stredisko": {
     "Title": "Obchodn\u00ED St\u0159edisko",
@@ -25917,7 +26502,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ok_the_airship": {
     "Title": "The Airship",
@@ -25964,7 +26550,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ok_pilir": {
     "Title": "Pil\u00ED\u0159",
@@ -26011,7 +26598,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ok_silo": {
     "Title": "Silo",
@@ -26058,7 +26646,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ok_veveri": {
     "Title": "Veve\u0159\u00ED",
@@ -26105,7 +26694,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ok_dub": {
     "Title": "Dub",
@@ -26152,7 +26742,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ok_zahradkarska_kolonie": {
     "Title": "Zahr\u00E1dk\u00E1\u0159sk\u00E1 kolonie",
@@ -26199,7 +26790,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ok_dalnicni_kolonie": {
     "Title": "D\u00E1lni\u010Dn\u00ED Kolonie",
@@ -26246,7 +26838,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ok_doupe": {
     "Title": "Doup\u011B",
@@ -26293,7 +26886,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ok_kapsa": {
     "Title": "Kapsa",
@@ -26340,7 +26934,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ok_kridlo": {
     "Title": "K\u0159\u00EDdlo",
@@ -26387,7 +26982,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ok_sklenik": {
     "Title": "Sklen\u00EDk",
@@ -26434,7 +27030,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ok_pristav": {
     "Title": "P\u0159\u00EDstav",
@@ -26481,7 +27078,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ok_dul": {
     "Title": "D\u016Fl",
@@ -26528,7 +27126,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ok_pisa": {
     "Title": "Pisa",
@@ -26575,7 +27174,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ok_zelezna_lhota": {
     "Title": "\u017Delezn\u00E1 Lhota",
@@ -26622,7 +27222,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ok_nord": {
     "Title": "Nord",
@@ -26669,7 +27270,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ok_mrkev": {
     "Title": "Mrkev",
@@ -26716,7 +27318,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ok_ga": {
     "Title": "Ga",
@@ -26763,7 +27366,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ok_gi": {
     "Title": "Gi",
@@ -26810,7 +27414,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ok_balonky": {
     "Title": "Bal\u00F3nky",
@@ -26857,7 +27462,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ok_gandalf": {
     "Title": "Gandalf",
@@ -26904,7 +27510,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ok_rotunda": {
     "Title": "Rotunda",
@@ -26951,7 +27558,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ok_ctvrte_kridlo": {
     "Title": "\u010Ctvrt\u00E9 K\u0159\u00EDdlo",
@@ -26998,7 +27606,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ok_gulas": {
     "Title": "Gul\u00E1\u0161",
@@ -27045,7 +27654,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ok_atom": {
     "Title": "Atom",
@@ -27092,7 +27702,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ok_lednice": {
     "Title": "Lednice",
@@ -27139,7 +27750,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ok_nekonecno": {
     "Title": "Nekone\u010Dno",
@@ -27186,7 +27798,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ok_slunicko": {
     "Title": "Slun\u00ED\u010Dko",
@@ -27233,7 +27846,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ok_triangl": {
     "Title": "Triangl",
@@ -27280,7 +27894,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ok_hradiste": {
     "Title": "Hradi\u0161t\u011B",
@@ -27327,7 +27942,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ok_gideon": {
     "Title": "Gideon",
@@ -27374,7 +27990,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ok_mob_farma": {
     "Title": "Mob Farma",
@@ -27421,7 +28038,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ok_sud": {
     "Title": "Sud",
@@ -27468,7 +28086,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ok_troja": {
     "Title": "Tr\u00F3ja",
@@ -27515,7 +28134,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ok_podhoubi": {
     "Title": "Podhoub\u00ED",
@@ -27562,7 +28182,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ok_lom": {
     "Title": "Lom",
@@ -27609,7 +28230,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ok_expresionismus": {
     "Title": "Expresionismus",
@@ -27656,7 +28278,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ct_koren": {
     "Title": "Ko\u0159en",
@@ -27702,7 +28325,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ct_rybarska_kolonie": {
     "Title": "Ryb\u00E1\u0159sk\u00E1 Kolonie",
@@ -27748,7 +28372,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ct_kmen": {
     "Title": "Kmen",
@@ -27794,7 +28419,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ct_dalnicni_kolonie": {
     "Title": "D\u00E1lni\u010Dn\u00ED Kolonie",
@@ -27840,7 +28466,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ct_gideon": {
     "Title": "Gideon",
@@ -27886,7 +28513,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ct_zelezna_lhota": {
     "Title": "\u017Delezn\u00E1 Lhota",
@@ -27932,7 +28560,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ct_goias": {
     "Title": "Goias",
@@ -27978,7 +28607,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ct_mrkev": {
     "Title": "Mrkev",
@@ -28024,7 +28654,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ct_gi": {
     "Title": "Gi",
@@ -28070,7 +28701,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ct_gandalf": {
     "Title": "Gandalf",
@@ -28116,7 +28748,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ct_basgiath": {
     "Title": "Basgiath",
@@ -28162,7 +28795,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ct_troja": {
     "Title": "Tr\u00F3ja",
@@ -28208,7 +28842,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ct_vietnamska_ctvrt": {
     "Title": "Vietnamsk\u00E1 \u010Ctvr\u0165",
@@ -28254,7 +28889,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ct_lednice": {
     "Title": "Lednice",
@@ -28300,7 +28936,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ct_nekonecno": {
     "Title": "Nekone\u010Dno",
@@ -28346,7 +28983,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ct_triangl": {
     "Title": "Triangl",
@@ -28392,7 +29030,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ct_lom": {
     "Title": "Lom",
@@ -28438,7 +29077,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ct_expresionismus": {
     "Title": "Expresionismus",
@@ -28484,7 +29124,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ca_nove_dili": {
     "Title": "Nov\u00E9 Dil\u00ED",
@@ -28529,7 +29170,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ca_sibir": {
     "Title": "Sibi\u0159",
@@ -28574,7 +29216,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ca_troja": {
     "Title": "Tr\u00F3ja",
@@ -28619,7 +29262,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_lavka": {
     "Title": "L\u00E1vka",
@@ -28669,7 +29313,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_kroky": {
     "Title": "Kroky",
@@ -28724,7 +29369,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_ulita": {
     "Title": "Ulita",
@@ -28773,7 +29419,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_sneci_raj": {
     "Title": "\u0160ne\u010D\u00ED R\u00E1j",
@@ -28787,7 +29434,8 @@
       "mi_paradox",
       "mi_pracovna",
       "mi_lavka",
-      "mi_arkada"
+      "mi_arkada",
+      "mi_rimsa"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -28800,7 +29448,7 @@
     "Sections": [
       {
         "Title": "P\u0159ehled",
-        "Content": "\u0160ne\u010D\u00ED R\u00E1j je m\u00EDstnost ve [stejnojmenn\u00E9m bloku](bl_sneci_raj). Jedn\u00E1 se o \u010Dlenit\u00FD prostor se schodi\u0161t\u011Bm vedouc\u00EDm z [Ark\u00E1dy](mi_arkada) a \u010D\u00E1st\u00ED nad n\u00EDm, odkud vedou dal\u0161\u00ED \u010Dty\u0159i vchody. Jmenovit\u011B dve\u0159e na [L\u00E1vku](mi_lavka) a do [Pracovny](mi_pracovna), dvojit\u00E9 dve\u0159e do [Paradox](mi_paradox) a voln\u00FD vchod do zat\u00EDm nepojmenovan\u00E9 m\u00EDstnosti."
+        "Content": "\u0160ne\u010D\u00ED R\u00E1j je m\u00EDstnost ve [stejnojmenn\u00E9m bloku](bl_sneci_raj). Jedn\u00E1 se o \u010Dlenit\u00FD prostor se schodi\u0161t\u011Bm vedouc\u00EDm z [Ark\u00E1dy](mi_arkada) a \u010D\u00E1st\u00ED nad n\u00EDm, odkud vedou dal\u0161\u00ED \u010Dty\u0159i vchody. Jmenovit\u011B dve\u0159e na [L\u00E1vku](mi_lavka) a do [Pracovny](mi_pracovna), dvojit\u00E9 dve\u0159e do [Paradox](mi_paradox) a voln\u00FD vchod do [\u0158\u00EDmsy](mi_rimsa)."
       },
       {
         "Title": "N\u00E1zev",
@@ -28813,6 +29461,10 @@
       {
         "Title": "Zaj\u00EDmavost",
         "Content": "Jedn\u00E1 se o jedinou m\u00EDstnost ve [\u0160ne\u010D\u00EDm R\u00E1ji](bl_sneci_raj) s postel\u00ED."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "08/08/25: M\u00EDstnost soused\u00ED s [\u0158\u00EDmsou](mi_rimsa)."
       }
     ],
     "image_id": 0,
@@ -28826,7 +29478,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_paradox": {
     "Title": "Paradox",
@@ -28877,7 +29530,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_sneci_raj": {
     "Title": "\u0160ne\u010D\u00ED R\u00E1j",
@@ -28895,7 +29549,7 @@
     "Sections": [
       {
         "Title": "P\u0159ehled",
-        "Content": "\u0160ne\u010D\u00ED R\u00E1j je blok v [Gul\u00E1\u0161i](ok_gulas) tvo\u0159en p\u011Bti m\u00EDstnostmi postaven\u00FDmi v \u0159ad\u011B, ka\u017Ed\u00E1 navazuje jen na jednu nebo dv\u011B dal\u0161\u00ED. V \u0159ad\u011B se jedn\u00E1 o [Paradox](mi_paradox), [\u0160ne\u010D\u00ED R\u00E1j](mi_sneci_raj), [L\u00E1vka](mi_lavka), [Kroky](mi_kroky) a [Ulita](mi_ulita).\r\nBlok soused\u00ED s p\u00E1r dal\u0161\u00EDmi bloky mezi kter\u00E9 pat\u0159\u00ED: [Fujara](bl_fujara), [Bubene\u010D](bl_bubenec), [Ark\u00E1da](bl_arkada) a [N\u00E1mo\u0159n\u00EDk](bl_namornik). V\u0161echny tyto bloky jsou v \u010D\u00E1sti [Tr\u00F3ja](ca_troja)."
+        "Content": "\u0160ne\u010D\u00ED R\u00E1j je blok v [Gul\u00E1\u0161i](ok_gulas) tvo\u0159en \u0161esti m\u00EDstnostmi, z nich\u017E p\u011Bt je postaven\u00FDch v \u0159ad\u011B, ka\u017Ed\u00E1 navazuje jen na jednu nebo dv\u011B dal\u0161\u00ED. V \u0159ad\u011B se jedn\u00E1 o [Paradox](mi_paradox), [\u0160ne\u010D\u00ED R\u00E1j](mi_sneci_raj), [L\u00E1vka](mi_lavka), [Kroky](mi_kroky) a [Ulita](mi_ulita). Vyj\u00EDmkou je m\u00EDstnost [\u0158\u00EDmsa](mi_rimsa), je\u017E je neju\u017Eite\u010Dn\u011Bj\u0161\u00ED m\u00EDstnost\u00ED v bloku, nebo\u0165 p\u0159\u00EDmo soused\u00ED se [stromovou v\u011B\u017E\u00ED](ka_stromove_veze) a proch\u00E1z\u00ED n\u00ED [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha).\r\nBlok soused\u00ED s p\u00E1r dal\u0161\u00EDmi bloky mezi kter\u00E9 pat\u0159\u00ED: [Fujara](bl_fujara), [Bubene\u010D](bl_bubenec), [Ark\u00E1da](bl_arkada), [Buben](bl_buben) a [N\u00E1mo\u0159n\u00EDk](bl_namornik). V\u0161echny tyto bloky jsou v \u010D\u00E1sti [Tr\u00F3ja](ca_troja)."
       },
       {
         "Title": "N\u00E1zev",
@@ -28907,11 +29561,11 @@
       },
       {
         "Title": "Zaj\u00EDmavosti",
-        "Content": "Nejv\u011Bt\u0161\u00ED z m\u00EDstnost\u00ED v bloku m\u00E1 plochu pouh\u00FDch 23 blok\u016F \u010Dtvere\u010Dn\u00EDch."
+        "Content": "Nejv\u011Bt\u0161\u00ED z m\u00EDstnost\u00ED v bloku m\u00E1 plochu pouh\u00FDch 23 blok\u016F \u010Dtvere\u010Dn\u00EDch. (Toto bylo p\u0159ekon\u00E1no novou m\u00EDstnost\u00ED [\u0158\u00EDmsa](mi_rimsa)."
       },
       {
         "Title": "Aktuality",
-        "Content": "Zat\u00EDm \u017E\u00E1dn\u00E9 aktuality."
+        "Content": "08/08/25: Do bloku p\u0159id\u00E1na m\u00EDstnost [\u0158\u00EDmsa](mi_rimsa)."
       }
     ],
     "image_id": 0,
@@ -28925,7 +29579,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_puch": {
     "Title": "Puch",
@@ -28974,7 +29629,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_kronika": {
     "Title": "Kronika",
@@ -29024,7 +29680,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_zuch": {
     "Title": "\u017Duch",
@@ -29072,7 +29729,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_svihak": {
     "Title": "\u0160vih\u00E1k",
@@ -29121,7 +29779,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_vedomi": {
     "Title": "V\u011Bdom\u00ED",
@@ -29171,7 +29830,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_mozek": {
     "Title": "Mozek",
@@ -29218,7 +29878,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_micha": {
     "Title": "M\u00EDcha",
@@ -29266,7 +29927,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_mozek": {
     "Title": "Mozek",
@@ -29310,7 +29972,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_stavidlo": {
     "Title": "Stavidlo",
@@ -29358,7 +30021,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_pod_vrbou": {
     "Title": "Pod Vrbou",
@@ -29411,7 +30075,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_rybarna": {
     "Title": "Ryb\u00E1rna",
@@ -29459,7 +30124,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_po_hlave_dolu": {
     "Title": "Po Hlav\u011B Dol\u016F",
@@ -29509,7 +30175,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_josef": {
     "Title": "Josef",
@@ -29560,7 +30227,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_u_petra": {
     "Title": "U Petra",
@@ -29609,7 +30277,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_u_vrby": {
     "Title": "U Vrby",
@@ -29659,7 +30328,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_za_vrbou": {
     "Title": "Za Vrbou",
@@ -29709,7 +30379,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_hluboka": {
     "Title": "Hlubok\u00E1",
@@ -29756,7 +30427,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_sralkovsky_rybnik": {
     "Title": "Sr\u00E1lkovsk\u00FD Rybn\u00EDk",
@@ -29805,7 +30477,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_sopel": {
     "Title": "Sopel",
@@ -29852,7 +30525,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_povodi": {
     "Title": "Povod\u00ED",
@@ -29901,7 +30575,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_chrchel": {
     "Title": "Chrchel",
@@ -29948,7 +30623,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_bumblebee": {
     "Title": "Bumblebee",
@@ -29997,7 +30673,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_wc_mesita": {
     "Title": "WC Me\u0161ita",
@@ -30045,7 +30722,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_silhanek": {
     "Title": "\u0160ilh\u00E1nek",
@@ -30092,7 +30770,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_lazne_panoraama": {
     "Title": "L\u00E1zn\u011B Panoraama",
@@ -30145,7 +30824,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_balkon_ctvrtka": {
     "Title": "Balk\u00F3n \u010Ctvrtka",
@@ -30205,7 +30885,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_armory": {
     "Title": "Armory",
@@ -30260,7 +30941,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_dum_hloupeho_honzy": {
     "Title": "D\u016Fm hloup\u00E9ho Honzy",
@@ -30312,7 +30994,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "di_schodov": {
     "Title": "Schodov",
@@ -30359,7 +31042,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_tajna_mistnost": {
     "Title": "Tajn\u00E1 M\u00EDstnost",
@@ -30411,7 +31095,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "te_bordel_chestka": {
     "Title": "Bordel chestka",
@@ -30454,7 +31139,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_skryta_mistnost": {
     "Title": "Skryt\u00E1 M\u00EDsnost",
@@ -30507,7 +31193,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_tajna_chodba": {
     "Title": "Tajn\u00E1 Chodba",
@@ -30562,7 +31249,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "te_vesnicani_na_uteku": {
     "Title": "Vesni\u010Dani na \u00DAt\u011Bku",
@@ -30607,7 +31295,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_pulmesic": {
     "Title": "P\u016Flm\u011Bs\u00EDc",
@@ -30658,7 +31347,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_zazemi": {
     "Title": "Z\u00E1zem\u00ED",
@@ -30707,7 +31397,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_parket": {
     "Title": "Parket",
@@ -30760,7 +31451,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_tresen": {
     "Title": "T\u0159e\u0161e\u0148",
@@ -30813,7 +31505,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_pecka": {
     "Title": "Pecka",
@@ -30860,7 +31553,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_rajce": {
     "Title": "Raj\u010De",
@@ -30907,7 +31601,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_dvojcata": {
     "Title": "Dvoj\u010Data",
@@ -30966,7 +31661,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_prvni_dum": {
     "Title": "Prvn\u00ED D\u016Fm",
@@ -31022,7 +31718,14 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": [
+      {
+        "stars": 4,
+        "author": "Hralyb",
+        "text": "relativn\u011B dob\u0159e zachoval\u00E1 historick\u00E1 pam\u00E1tka"
+      }
+    ]
   },
   "mi_okruh": {
     "Title": "Okruh",
@@ -31091,7 +31794,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_ustredni_stredisko_alfa": {
     "Title": "\u00DAst\u0159edn\u00ED st\u0159edisko Alfa",
@@ -31152,7 +31856,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_vypikarna": {
     "Title": "Vyp\u00EDk\u00E1rna",
@@ -31205,7 +31910,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_vault": {
     "Title": "Vault",
@@ -31255,7 +31961,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_nkp": {
     "Title": "NKP",
@@ -31309,7 +32016,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "te_nepostizeny_ohnem": {
     "Title": "Neposti\u017Een\u00FD ohn\u011Bm",
@@ -31354,7 +32062,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_kolinko": {
     "Title": "Kol\u00EDnko",
@@ -31408,7 +32117,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_luka": {
     "Title": "Luka",
@@ -31465,7 +32175,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_tyran": {
     "Title": "Tyran",
@@ -31520,7 +32231,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_veta": {
     "Title": "Veta",
@@ -31575,7 +32287,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_kolt": {
     "Title": "Kolt",
@@ -31630,7 +32343,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_vyhlidka": {
     "Title": "Vyhl\u00EDdka",
@@ -31683,7 +32397,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_juka": {
     "Title": "Juka",
@@ -31739,7 +32454,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_cary": {
     "Title": "\u010C\u00E1ry",
@@ -31794,7 +32510,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_amulet": {
     "Title": "Amulet",
@@ -31847,7 +32564,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_atlas": {
     "Title": "Atlas",
@@ -31904,7 +32622,14 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": [
+      {
+        "stars": 4,
+        "author": "Gideon Traveller",
+        "text": "Lep\u0161\u00ED ze dvou p\u0159\u00EDstavn\u00EDch m\u00EDstnost\u00ED ve \u010Dtvrti. "
+      }
+    ]
   },
   "mi_mestecko": {
     "Title": "M\u011Bste\u010Dko",
@@ -31957,7 +32682,14 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": [
+      {
+        "stars": 1,
+        "author": "Gideon Traveller",
+        "text": "Z toho zelen\u00E9ho okna se m\u011B d\u011Bl\u00E1 \u0161patn\u011B."
+      }
+    ]
   },
   "mi_orisek": {
     "Title": "O\u0159\u00ED\u0161ek",
@@ -32007,7 +32739,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_obalovna": {
     "Title": "Obalovna",
@@ -32064,7 +32797,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_tkanicka": {
     "Title": "Tkani\u010Dka",
@@ -32120,7 +32854,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_pata": {
     "Title": "Pata",
@@ -32175,7 +32910,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_bazar": {
     "Title": "Bazar",
@@ -32223,7 +32959,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_podkrovi": {
     "Title": "Podkrov\u00ED",
@@ -32279,7 +33016,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_galerie": {
     "Title": "Galerie",
@@ -32337,7 +33075,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_chodba_ii": {
     "Title": "Chodba II",
@@ -32398,7 +33137,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_unikove_schodiste": {
     "Title": "\u00DAnikov\u00E9 Schodi\u0161t\u011B",
@@ -32466,7 +33206,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_magistrala": {
     "Title": "Magistr\u00E1la",
@@ -32519,7 +33260,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_statek": {
     "Title": "Statek",
@@ -32581,7 +33323,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_hospoda": {
     "Title": "Hospoda",
@@ -32630,7 +33373,19 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": [
+      {
+        "stars": 4,
+        "author": "Kluci z Papokoie",
+        "text": "dobr\u00E9 pivo"
+      },
+      {
+        "stars": 5,
+        "author": "Hralyb",
+        "text": "Neironicky nejhez\u010D\u00ED m\u00EDstnost v cel\u00E9m dom\u011B. Nav\u00EDc i skv\u011Bl\u00E1 lokace."
+      }
+    ]
   },
   "mi_hadice": {
     "Title": "Hadice",
@@ -32677,7 +33432,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_hriva": {
     "Title": "H\u0159\u00EDva",
@@ -32725,7 +33481,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_holubnik": {
     "Title": "Holubn\u00EDk",
@@ -32775,7 +33532,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_horizont": {
     "Title": "Horizont",
@@ -32828,7 +33586,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_hieroglyf": {
     "Title": "Hieroglyf",
@@ -32878,7 +33637,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_hyena": {
     "Title": "Hyena",
@@ -32926,7 +33686,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_halucinace": {
     "Title": "Halucinace",
@@ -32973,7 +33734,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_hrozen": {
     "Title": "Hrozen",
@@ -33021,7 +33783,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_horeniste": {
     "Title": "Ho\u0159eni\u0161t\u011B",
@@ -33071,7 +33834,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_hrob": {
     "Title": "Hrob",
@@ -33120,7 +33884,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_holinky": {
     "Title": "Hol\u00EDnky",
@@ -33169,7 +33934,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_hydrant": {
     "Title": "Hydrant",
@@ -33218,7 +33984,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_harfa": {
     "Title": "Harfa",
@@ -33267,7 +34034,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_harmonika": {
     "Title": "Harmonika",
@@ -33316,7 +34084,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_housle": {
     "Title": "Housle",
@@ -33364,7 +34133,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_nejvetsi_tma": {
     "Title": "Nejv\u011Bt\u0161\u00ED Tma",
@@ -33422,7 +34192,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_maja": {
     "Title": "M\u00E1ja",
@@ -33473,7 +34244,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_podlir": {
     "Title": "Podl\u00ED\u0159",
@@ -33526,7 +34298,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_kahan": {
     "Title": "Kahan",
@@ -33597,7 +34370,19 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": [
+      {
+        "stars": 3.5,
+        "author": "Hralyb",
+        "text": "Strom u\u017E tady roste (:"
+      },
+      {
+        "stars": 2,
+        "author": "Jan Les\u00E1k",
+        "text": "nerad dlouho \u010Dek\u00E1m"
+      }
+    ]
   },
   "mi_farmus_bambus": {
     "Title": "Farmus-Bambus",
@@ -33656,7 +34441,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_zmatek": {
     "Title": "Zmatek",
@@ -33719,7 +34505,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_konzole": {
     "Title": "Konzole",
@@ -33776,7 +34563,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_pavlac": {
     "Title": "Pavla\u010D",
@@ -33846,7 +34634,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_dum_margity_stehlikove": {
     "Title": "D\u016Fm Margity Stehl\u00EDkov\u00E9",
@@ -33897,7 +34686,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_zahradni_domek": {
     "Title": "Zahradn\u00ED domek",
@@ -33952,7 +34742,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_vez_1_podlazi": {
     "Title": "V\u011B\u017E 1. podla\u017E\u00ED",
@@ -34003,7 +34794,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_vez_2_podlazi": {
     "Title": "V\u011B\u017E 2. podla\u017E\u00ED",
@@ -34057,7 +34849,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_vez_3_podlazi": {
     "Title": "V\u011B\u017E 3. podla\u017E\u00ED",
@@ -34111,7 +34904,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_vez_4_podlazi": {
     "Title": "V\u011B\u017E 4. podla\u017E\u00ED",
@@ -34164,7 +34958,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_vez_5_podlazi": {
     "Title": "V\u011B\u017E 5. podla\u017E\u00ED",
@@ -34216,7 +35011,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_sauron": {
     "Title": "Sauron",
@@ -34271,7 +35067,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_vez": {
     "Title": "V\u011B\u017E",
@@ -34319,7 +35116,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_meda": {
     "Title": "M\u00E9\u010Fa",
@@ -34373,7 +35171,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_policka": {
     "Title": "Poli\u010Dka",
@@ -34428,7 +35227,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_kino_scala": {
     "Title": "Kino Scala",
@@ -34484,7 +35284,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_zakini": {
     "Title": "Z\u00E1kin\u00ED",
@@ -34538,7 +35339,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "os_kyticka": {
     "Title": "Kv\u011Btina z Armory",
@@ -34584,7 +35386,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "os_rustav_von_zelezo": {
     "Title": "Rustav von \u017Delezo",
@@ -34628,7 +35431,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "sp_armory_parez": {
     "Title": "Armory - Pa\u0159ez",
@@ -34673,7 +35477,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_padaci_most": {
     "Title": "Padac\u00ED Most",
@@ -34722,7 +35527,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_trh": {
     "Title": "Trh",
@@ -34772,7 +35578,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_most": {
     "Title": "Most",
@@ -34820,7 +35627,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_vrba": {
     "Title": "Vrba",
@@ -34868,7 +35676,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_suchanek": {
     "Title": "Such\u00E1nek",
@@ -34916,7 +35725,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_povodi": {
     "Title": "Povod\u00ED",
@@ -34964,7 +35774,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_silhanek": {
     "Title": "\u0160ilh\u00E1nek",
@@ -35012,7 +35823,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_tresen": {
     "Title": "T\u0159e\u0161e\u0148",
@@ -35060,7 +35872,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_dvojcata": {
     "Title": "Dvoj\u010Data",
@@ -35108,7 +35921,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_hospoda": {
     "Title": "Hospoda",
@@ -35156,7 +35970,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_horizont": {
     "Title": "Horizont",
@@ -35204,7 +36019,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_hrbaty_hrozen": {
     "Title": "Hrbat\u00FD Hrozen",
@@ -35252,7 +36068,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_pohrebiste": {
     "Title": "Poh\u0159ebi\u0161t\u011B",
@@ -35300,7 +36117,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_hudba": {
     "Title": "Hudba",
@@ -35348,7 +36166,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_meda": {
     "Title": "M\u00E9\u010Fa",
@@ -35396,7 +36215,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ok_loosova_vila": {
     "Title": "Loosova Vila",
@@ -35443,7 +36263,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ok_most": {
     "Title": "Most",
@@ -35490,7 +36311,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ok_mutenicke_rybniky": {
     "Title": "Mut\u011Bnick\u00E9 Rybn\u00EDky",
@@ -35537,7 +36359,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ok_herspice": {
     "Title": "Her\u0161pice",
@@ -35584,7 +36407,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ok_meda": {
     "Title": "M\u00E9\u010Fa",
@@ -35631,7 +36455,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "te_miss_parez": {
     "Title": "Miss Pa\u0159ez",
@@ -35675,7 +36500,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_telocvicna": {
     "Title": "T\u011Blocvi\u010Dna",
@@ -35732,7 +36558,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_zelezna_lhota": {
     "Title": "\u017Delezn\u00E1 Lhota",
@@ -35795,7 +36622,8 @@
     },
     "patternleCompatible": false,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_zelezna_lhota": {
     "Title": "\u017Delezn\u00E1 Lhota",
@@ -35843,7 +36671,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "te_parez_reference": {
     "Title": "Pa\u0159ez Reference",
@@ -35891,7 +36720,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_kvadrant_jezdcu": {
     "Title": "Kvadrant Jezdc\u016F",
@@ -35942,7 +36772,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_motor": {
     "Title": "Motor",
@@ -35991,7 +36822,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_hmla": {
     "Title": "Hmla",
@@ -36044,7 +36876,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_sklenik_zapad": {
     "Title": "Sklen\u00EDk Z\u00E1pad",
@@ -36105,7 +36938,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_sklenik_vychod": {
     "Title": "Sklen\u00EDk V\u00FDchod",
@@ -36159,7 +36993,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_hotel_gi_floor_ga": {
     "Title": "Hotel Gi Floor Ga",
@@ -36220,7 +37055,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "os_helena_jaklova": {
     "Title": "Helena Jaklov\u00E1",
@@ -36266,7 +37102,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_mestsky_okruh": {
     "Title": "M\u011Bstsk\u00FD Okruh",
@@ -36325,7 +37162,8 @@
     },
     "patternleCompatible": false,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_vstup": {
     "Title": "Vstup",
@@ -36383,7 +37221,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_pavilon": {
     "Title": "Pavilon",
@@ -36437,7 +37276,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_nevim_a_pece": {
     "Title": "Nev\u00EDm a Pece",
@@ -36488,7 +37328,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_papokoi": {
     "Title": "Papokoi",
@@ -36561,7 +37402,8 @@
     },
     "patternleCompatible": false,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_stair_heaven": {
     "Title": "Stair Heaven",
@@ -36623,7 +37465,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_rekreacni_zona": {
     "Title": "Rekrea\u010Dn\u00ED Z\u00F3na",
@@ -36678,7 +37521,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_tuba": {
     "Title": "Tuba",
@@ -36736,7 +37580,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_ptakopysk": {
     "Title": "Ptakopysk",
@@ -36791,7 +37636,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_dron": {
     "Title": "Dron",
@@ -36849,7 +37695,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_zoban": {
     "Title": "Zoban",
@@ -36905,7 +37752,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_kapusta": {
     "Title": "Kapusta",
@@ -36960,7 +37808,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_lilek": {
     "Title": "Lilek",
@@ -37017,7 +37866,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "as_hralyd": {
     "Title": "Hralyd",
@@ -37061,7 +37911,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_gideon_tunel": {
     "Title": "Gideon Tunel",
@@ -37114,7 +37965,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_the_overpass": {
     "Title": "The Overpass",
@@ -37185,7 +38037,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "os_vit_baudys": {
     "Title": "V\u00EDt Baudy\u0161",
@@ -37236,7 +38089,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "os_gideon": {
     "Title": "Gideon",
@@ -37281,7 +38135,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_gideonuv_dum": {
     "Title": "Gideon\u016Fv D\u016Fm",
@@ -37338,7 +38193,14 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": [
+      {
+        "stars": 5,
+        "author": "Gideon Traveller",
+        "text": "\u00DAtuln\u00E1 m\u00EDstnost s ve\u0161ker\u00FDm vybaven\u00EDm. Gideon je velmi pohostinn\u00FD p\u00E1n a nab\u00EDz\u00ED kvalitn\u00ED a levn\u00E9 n\u00E1stroje."
+      }
+    ]
   },
   "mi_lanterna": {
     "Title": "Lanterna",
@@ -37393,7 +38255,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_bulharska_vaza": {
     "Title": "Bulharsk\u00E1 V\u00E1za",
@@ -37449,7 +38312,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_zasuvka": {
     "Title": "Z\u00E1suvka",
@@ -37502,7 +38366,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_akvadukt": {
     "Title": "Akvadukt",
@@ -37556,7 +38421,14 @@
     },
     "patternleCompatible": false,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": [
+      {
+        "stars": 4,
+        "author": "Gideon Traveller",
+        "text": "Je to sice mimo moji rodnou \u010Dtvr\u0165, ale stoj\u00ED to za to."
+      }
+    ]
   },
   "bl_akvadukt": {
     "Title": "Akvadukt",
@@ -37604,7 +38476,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "as_papoko": {
     "Title": "Papoko",
@@ -37648,7 +38521,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_na_moste": {
     "Title": "Na Most\u011B",
@@ -37700,7 +38574,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_rozcesti": {
     "Title": "Rozcest\u00ED",
@@ -37756,7 +38631,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_rozcesti": {
     "Title": "Rozcest\u00ED",
@@ -37804,7 +38680,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_plaminek": {
     "Title": "Plam\u00EDnek",
@@ -37855,7 +38732,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_ventilator": {
     "Title": "Ventil\u00E1tor",
@@ -37903,7 +38781,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_hnilicko": {
     "Title": "Hnili\u010Dko",
@@ -37956,7 +38835,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_hala": {
     "Title": "Hala",
@@ -38015,7 +38895,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "ok_vietnamsky_okrsek": {
     "Title": "Vietnamsk\u00FD Okrsek",
@@ -38064,7 +38945,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "bl_vietnamsky_blok": {
     "Title": "Vietnamsk\u00FD Blok",
@@ -38114,7 +38996,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_buben": {
     "Title": "Buben",
@@ -38128,7 +39011,8 @@
     "Bordering_rooms": [
       "mi_troja",
       "mi_barka",
-      "mi_ctverec"
+      "mi_ctverec",
+      "mi_rimsa"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -38143,7 +39027,7 @@
     "Sections": [
       {
         "Title": "P\u0159ehled",
-        "Content": "Buben je m\u00EDstnost ve stejnojmenn\u00E9m [bloku](bl_buben). Jedn\u00E1 se o jedinou [stromovou v\u011B\u017E](ka_stromove_veze) v [Tr\u00F3ji](ca_troja). Je tvo\u0159ena hlavn\u00EDm podla\u017E\u00EDm a jedn\u00EDm ochozem, ze kter\u00E9ho vedou dve\u0159e do [\u010Ctverce](mi_ctverec) a [Barky](mi_barka). Z hlavn\u00EDho podla\u017E\u00ED, je\u017E je z\u00E1rove\u0148 i m\u00EDstem, kde vyr\u016Fst\u00E1 strom vedou dve\u0159e do m\u00EDstnosti [Tr\u00F3ja](mi_troja) a nach\u00E1z\u00ED se zde dvojice barel\u016F na uskladn\u011Bn\u00ED smrkov\u00FDch sazenic. Proch\u00E1z\u00ED tudy tak\u00E9 koleje [Mraven\u010D\u00ED Dr\u00E1hy](te_mravenci_draha)."
+        "Content": "Buben je m\u00EDstnost ve stejnojmenn\u00E9m [bloku](bl_buben). Jedn\u00E1 se o jedinou [stromovou v\u011B\u017E](ka_stromove_veze) v [Tr\u00F3ji](ca_troja). Je tvo\u0159ena hlavn\u00EDm podla\u017E\u00EDm a jedn\u00EDm ochozem, ze kter\u00E9ho vedou dve\u0159e do [\u010Ctverce](mi_ctverec) a [Barky](mi_barka). Z hlavn\u00EDho podla\u017E\u00ED, je\u017E je z\u00E1rove\u0148 i m\u00EDstem, kde vyr\u016Fst\u00E1 strom vedou dve\u0159e do m\u00EDstnosti [Tr\u00F3ja](mi_troja), voln\u00FD vchod do [\u0158\u00EDmsy](mi_rimsa) a nach\u00E1z\u00ED se zde dvojice barel\u016F na uskladn\u011Bn\u00ED smrkov\u00FDch sazenic. Proch\u00E1z\u00ED tudy tak\u00E9 koleje [Mraven\u010D\u00ED Dr\u00E1hy](te_mravenci_draha)."
       },
       {
         "Title": "N\u00E1zev",
@@ -38151,7 +39035,7 @@
       },
       {
         "Title": "Interi\u00E9r",
-        "Content": "Buben m\u00E1 p\u016Fdorys kruhu o vnit\u0159n\u00EDm pr\u016Fm\u011Bru deseti blok\u016F. Na ka\u017Ed\u00E9m ze \u010Dty\u0159 z\u00E1kladn\u00EDch sv\u011Btov\u00FDch stran jsou vysok\u00E1 dva bloky \u0161irok\u00E1 okna, kter\u00E1 se t\u00E1hnou a\u017E t\u011Bsn\u011B pod strop v\u011B\u017Ee. Po obou stran\u00E1ch oken jsou v pravideln\u00FDch intervalech rozm\u00EDst\u011Bny lou\u010De osv\u011Btluj\u00EDc\u00ED cel\u00FD prostor. Okno na severn\u00ED stran\u011B, je ale p\u0159eru\u0161eno podlahou a stropem m\u00EDstnosti [Barka](mi_barka) ale tak\u00E9 kolejemi [Mraven\u010D\u00ED Dr\u00E1hy](te_mravenci_draha). Nen\u00ED v\u0161ak jedin\u00FDm, v\u00FDchodn\u00ED okno je t\u00E9m\u011B\u0159 u podlahy p\u0159eru\u0161eno stropem m\u00EDstnosti [N\u00E1mo\u0159n\u00EDk](mi_namornik). Ka\u017Ed\u00E9 z oken je 35 blok\u016F vysok\u00E9 a dod\u00E1v\u00E1 Bubnu typick\u00FD vzhled.\r\nV m\u00EDstnosti se nach\u00E1z\u00ED dva crafting tably (jeden na ochozu), sv\u011Btle modr\u00E1 postel a dva barely. Oba barely jsou polo\u017Eeny v podlaze Bubnu. Na severn\u00ED st\u011Bn\u011B bl\u00EDzko sv\u011Btle modr\u00E9 postele je dva bloky vysok\u00FD v\u00FDklenek, kter\u00FDm proch\u00E1z\u00ED koleje [Mraven\u010D\u00ED Dr\u00E1hy](te_mravenci_draha), co\u017E znamen\u00E1 nejen zkr\u00E1cen\u00ED severn\u00EDho okna, ale i \u017Eeb\u0159\u00EDku, kter\u00FD je nejjednodu\u0161\u0161\u00EDm zp\u016Fsobem jak se dostat nahoru na ochoz. Ochoz je jeden blok \u0161irok\u00FD a obch\u00E1z\u00ED cel\u00FD obvod Bubnu. Dodr\u017Euje tak standartn\u00ED plochu 36 blok\u016F \u010Dtvere\u010Dn\u00EDch.\r\nStrop v\u011B\u017Ee nen\u00ED rovn\u00FD, je tvo\u0159en m\u011Blkou kopul\u00ED, je\u017E je nejvy\u0161\u0161\u00EDm bodem nejen v jak\u00E9koli [stromov\u00E9 v\u011B\u017Ei](ka_stromove_veze), ale tak\u00E9 nejvy\u0161\u0161\u00EDm bodem [Tr\u00F3ji](ca_troja)."
+        "Content": "Buben m\u00E1 p\u016Fdorys kruhu o vnit\u0159n\u00EDm pr\u016Fm\u011Bru deseti blok\u016F. Na ka\u017Ed\u00E9m ze \u010Dty\u0159 z\u00E1kladn\u00EDch sv\u011Btov\u00FDch stran jsou vysok\u00E1 dva bloky \u0161irok\u00E1 okna, kter\u00E1 se t\u00E1hnou a\u017E t\u011Bsn\u011B pod strop v\u011B\u017Ee. Po obou stran\u00E1ch oken jsou v pravideln\u00FDch intervalech rozm\u00EDst\u011Bny lou\u010De osv\u011Btluj\u00EDc\u00ED cel\u00FD prostor. Okno na severn\u00ED stran\u011B, je ale p\u0159eru\u0161eno podlahou a stropem m\u00EDstnosti [Barka](mi_barka) ale tak\u00E9 kolejemi [Mraven\u010D\u00ED Dr\u00E1hy](te_mravenci_draha). Nen\u00ED v\u0161ak jedin\u00FDm, v\u00FDchodn\u00ED okno je t\u00E9m\u011B\u0159 u podlahy p\u0159eru\u0161eno stropem m\u00EDstnosti [N\u00E1mo\u0159n\u00EDk](mi_namornik). Ka\u017Ed\u00E9 z oken je 35 blok\u016F vysok\u00E9 a dod\u00E1v\u00E1 Bubnu typick\u00FD vzhled.\r\nV m\u00EDstnosti se nach\u00E1z\u00ED dva crafting tably (jeden na ochozu), sv\u011Btle modr\u00E1 postel a dva barely. Oba barely jsou polo\u017Eeny v podlaze Bubnu. Na severn\u00ED st\u011Bn\u011B bl\u00EDzko sv\u011Btle modr\u00E9 postele je dva bloky vysok\u00FD v\u00FDklenek vedouc\u00ED do m\u00EDstnosti [\u0158\u00EDmsa](mi_rimsa), kter\u00FDm proch\u00E1z\u00ED koleje [Mraven\u010D\u00ED Dr\u00E1hy](te_mravenci_draha), co\u017E znamen\u00E1 nejen zkr\u00E1cen\u00ED severn\u00EDho okna, ale i \u017Eeb\u0159\u00EDku, kter\u00FD je nejjednodu\u0161\u0161\u00EDm zp\u016Fsobem jak se dostat nahoru na ochoz. Ochoz je jeden blok \u0161irok\u00FD a obch\u00E1z\u00ED cel\u00FD obvod Bubnu. Dodr\u017Euje tak standartn\u00ED plochu 36 blok\u016F \u010Dtvere\u010Dn\u00EDch.\r\nStrop v\u011B\u017Ee nen\u00ED rovn\u00FD, je tvo\u0159en m\u011Blkou kopul\u00ED, je\u017E je nejvy\u0161\u0161\u00EDm bodem nejen v jak\u00E9koli [stromov\u00E9 v\u011B\u017Ei](ka_stromove_veze), ale tak\u00E9 nejvy\u0161\u0161\u00EDm bodem [Tr\u00F3ji](ca_troja)."
       },
       {
         "Title": "Zaj\u00EDmavost",
@@ -38159,7 +39043,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "26/07/25: M\u00EDstnost\u00ED proch\u00E1z\u00ED [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha)"
+        "Content": "26/07/25: M\u00EDstnost\u00ED proch\u00E1z\u00ED [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha).\r\n08/08/25: M\u00EDstnost soused\u00ED s [\u0158\u00EDmsou](mi_rimsa)."
       }
     ],
     "image_id": 0,
@@ -38173,50 +39057,64 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": [
+      {
+        "stars": 3.5,
+        "author": "Jan Les\u00E1k",
+        "text": "Jedin\u00E1 stromov\u00E1 v\u011B\u017E v troj\u00ED, ale chyb\u00ED zde v\u00FDtah. Vyu\u017Eijte bl\u00EDzk\u00FD Okap."
+      }
+    ]
   },
   "bl_venkovni_schodiste": {
-            "Title": "Venkovní Schodiště",
-            "Type": "blok",
-            "Images": [],
-            "Image_titles": [],
-            "Bordering_rooms": [],
-            "Alternate_names": [],
-            "Metadata": {
-                "Název": "Venkovní Schodiště",
-                "Okrsek": "[Obchodní středisko](ok_obchodni_stredisko)",
-                "Čtvrť": "[Kmen](ct_kmen)",
-                "Část": "[Pařez](ca_parez)"
-            },
-            "Sections": [
-                {
-                    "Title": "Přehled",
-                    "Content": ""
-                },
-                {
-                    "Title": "Název",
-                    "Content": ""
-                },
-                {
-                    "Title": "Interiér",
-                    "Content": ""
-                },
-                {
-                    "Title": "Zajímavosti",
-                    "Content": ""
-                },
-                {
-                    "Title": "Aktuality",
-                    "Content": ""
-                }
-            ],
-            "image_id": 0,
-            "area": 0,
-            "Empty": true,
-            "numberOfRooms": 0,
-            "redirect": null,
-            "tobeedited": false
-            },
+    "Title": "Venkovn\u00ED Schodi\u0161t\u011B",
+    "Type": "blok",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Venkovn\u00ED Schodi\u0161t\u011B",
+      "Okrsek": "[Obchodn\u00ED st\u0159edisko](ok_obchodni_stredisko)",
+      "\u010Ctvr\u0165": "[Kmen](ct_kmen)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": ""
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": ""
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": ""
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": ""
+      },
+      {
+        "Title": "Aktuality",
+        "Content": ""
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": []
+  },
   "mi_basta": {
     "Title": "Ba\u0161ta",
     "Type": "m\u00EDstnost",
@@ -38265,7 +39163,8 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
   },
   "mi_barka": {
     "Title": "Barka",
@@ -38318,6 +39217,58 @@
     },
     "patternleCompatible": false,
     "redirect": null,
-    "tobeedited": false
+    "tobeedited": false,
+    "reviews": []
+  },
+  "mi_rimsa": {
+    "Title": "\u0158\u00EDmsa",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_sneci_raj",
+      "mi_buben",
+      "mi_troja",
+      "mi_namornik"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "\u0158\u00EDmsa",
+      "Blok": "[\u0160ne\u010D\u00ED R\u00E1j](bl_sneci_raj)",
+      "Okrsek": "[Gul\u00E1\u0161](ok_gulas)",
+      "\u010Ctvr\u0165": "[Tr\u00F3ja](ct_troja)",
+      "\u010C\u00E1st": "[Tr\u00F3ja](ca_troja)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 41,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 355,
+      "y": 89,
+      "z": 1133
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": []
   }
 }

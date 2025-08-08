@@ -524,12 +524,14 @@ public class WikiService
         Console.ResetColor();
     }
 
-    public void Analyze(Dictionary<string, WikiPage> dictionary){
+    public void Analyze(Dictionary<string, WikiPage> dictionary)
+    {
         var linksDict = new Dictionary<string, int>();
         var lengths = new Dictionary<string, int>();
         int total = 0;
         int articles = 0;
         int area = 0;
+        int reviews = 0;
         foreach (var key in dictionary.Keys)
         {
             if (!key.StartsWith("mm"))
@@ -576,6 +578,7 @@ public class WikiService
                         });
                     }
                 }
+                reviews += dictionary[key].reviews.Count;
             }
         }
         Console.WriteLine("area:" + area);
@@ -594,6 +597,8 @@ public class WikiService
         Console.ForegroundColor = ConsoleColor.Green;
         Console.WriteLine("Total of: " + total + " characters in " + articles + " articles.");
         Console.ResetColor();
+
+        Console.WriteLine("total reviews: " + reviews);
     }
 
     public Dictionary<string, WikiPage> GetPages()

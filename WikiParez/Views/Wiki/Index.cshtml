@@ -20,6 +20,32 @@
     aside.standart-background {
         background-color: #f5f5f5; 
     }
+    .star-container {
+        position: relative;
+        background-color: #eee;
+        padding-top: 40px; /* creates space at the top for the stars */
+        margin-bottom: 20px;
+    }
+
+    .star-strip {
+        position: absolute;
+        top: 0;
+        left: 50%;
+        transform: translateX(-50%);
+        display: flex;
+        gap: 4px;
+        padding: 8px 0;
+    }
+
+    .star-strip i {
+        color: gold;
+        font-size: 1.5em;
+        filter: drop-shadow(0 0 1px #000);
+    }
+
+    .other-content {
+        text-align: center;
+    }
 </style>
 
 @using System.Text.Json
@@ -29,6 +55,16 @@
     bool isPink = random.NextDouble() < 0.2 && @ViewBag.Slug == "mi_ordinace_pink_lady";
     bool isGreen = random.NextDouble() < 0.2 && @ViewBag.Slug == "mi_vert_ville";
     bool isOrange = random.NextDouble() < 0.2 && @ViewBag.Slug == "mi_oranjestad";
+    double rating = 0;
+    int full = 0;
+    bool half = false;
+    int empty = 5;
+    if (Model.review_count() > 0){
+        rating = Model.reviews[0].stars;
+        full = (int)rating;
+        half = (rating - full) >= 0.5;
+        empty = 5 - full - (half ? 1 : 0);
+    }
 }
 
 <style>
@@ -123,6 +159,32 @@
                         <td>@Model.numberOfRooms</td>
                     </tr>
                 }
+                @if (Model.review_count() > 0){
+                    <div class="star-container">
+                        <div id="starstrip" class="star-strip">
+                            @for (int i = 0; i < full; i++) {
+                                <i class="fa-solid fa-star"></i>
+                            }
+                            @if (half) {
+                                <i class="fa-solid fa-star-half-stroke"></i>
+                            }
+                            @for (int i = 0; i < empty; i++) {
+                                <i class="fa-regular fa-star"></i>
+                            }
+                        </div>
+
+                        <div class="other-content">
+                            <p id="review"><b>@Model.reviews[0].author</b><br/>@Model.reviews[0].text</p>
+                        </div>
+                        @if (Model.review_count() > 1){
+                            <div style="display: flex; flex-orientation: row; justify-content: center; align-items: center; font-size: 2em;">
+                                <button onclick="changeReview(-1)" style="border: none; background: none;">⬅️</button>
+                                <button onclick="changeAutoplay()" id="pause" style="border: none; background: none;">⏸️</button>
+                                <button onclick="changeReview(1)" style="border: none; background: none;">➡️</button>
+                            </div>
+                        }
+                    </div>
+                }
             </table>
             @using (Html.BeginForm("SendEmail", "Wiki", FormMethod.Post))
             {
@@ -138,17 +200,22 @@
     @section Scripts {
         <script>
             var slug = "@ViewBag.Slug";
+            let reviewinterval;
             document.addEventListener("DOMContentLoaded", function() {
                 console.log("hi");
                 let rn = Math.random();
                 if (rn < 0.2 && slug == "mi_dum_margity_stehlikove"){
                     window.location.href = "https://www.youtube.com/watch?v=NdqHolSeIfs";
                 }
+                reviewinterval = setInterval(() => changeReview(1, false), 2500);
             });
 
             const imageCount = @Model.image_count();
-            console.log("Image count: " + imageCount);
+            const reviewCount = @Model.review_count();
+            let reviews = @Html.Raw(Json.Serialize(Model.reviews));
             let currentImageID = @Model.image_id;
+            let currentReviewID = 0;
+            let reviewAutoPlay = true;
             function changeImage(direction){
                 currentImageID = (currentImageID + direction + imageCount)%imageCount;
                 document.getElementById("wikiimage").src = "/Images/" + images[currentImageID];
@@ -157,6 +224,54 @@
 
             const images = @Html.Raw(JsonSerializer.Serialize(Model.Images));
             const titles = @Html.Raw(JsonSerializer.Serialize(Model.Image_titles));
+
+            function changeAutoplay(){
+                if (reviewAutoPlay) stopAutoplay();
+                else startAutoplay();
+            }
+
+            function stopAutoplay(){
+                let pausebutton = document.getElementById("pause");
+                pausebutton.innerText = "▶️"
+                reviewAutoPlay = false;
+                clearInterval(reviewinterval);
+            }
+
+            function startAutoplay(){
+                let pausebutton = document.getElementById("pause");
+                pausebutton.innerText = "⏸️"
+                reviewAutoPlay = true;
+                reviewinterval = setInterval(() => changeReview(1, false), 2500);
+            }
+
+            function changeReview(direction, stopautoplay=true){
+                if (reviewCount <= 1) return;
+                if (stopautoplay) stopAutoplay();
+                currentReviewID = (currentReviewID + direction + reviewCount)%reviewCount;
+                let review = reviews[currentReviewID];
+                let rating = review.stars;
+                let full = Math.floor(rating);
+                let half = (rating - full) >= 0.5;
+                let empty = 5 - full - (half ? 1 : 0);
+                let starstrip = document.getElementById("starstrip");
+                starstrip.innerHTML = "";
+                for(let i = 0; i < full; i++){
+                    let star = document.createElement("i");
+                    star.classList.add("fa-solid", "fa-star");
+                    starstrip.appendChild(star);
+                }
+                if(half){
+                    let halfstar = document.createElement("i");
+                    halfstar.classList.add("fa-solid", "fa-star-half-stroke");
+                    starstrip.appendChild(halfstar);
+                }
+                for(let i = 0; i < empty; i++){
+                    let emptystar = document.createElement("i");
+                    emptystar.classList.add("fa-regular", "fa-star")
+                    starstrip.appendChild(emptystar);
+                }
+                document.getElementById("review").innerHTML = "<b>" + review.author + "</b><br>" + review.text;
+            }
         </script>
     }
 }
