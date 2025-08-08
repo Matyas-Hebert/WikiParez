@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "KuUXm4M9Be7E2+IaNrpDn9ae24Pd/1jsFDr+ryj/cpo=",
+  "Hash": "uoFRKbZjbYqCX7FeB6mSFqX09QgzjPOIn3z514l4leg=",
   "Source": "WikiParez",
   "BasePath": "_content/WikiParez",
   "Mode": "Default",
@@ -1022,25 +1022,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/Images/mi_dalnicni_prechod1.png"
-    },
-    {
-      "Identity": "/root/wikiparez/WikiParez/wwwroot/Images/mi_dining_room1.png",
-      "SourceId": "WikiParez",
-      "SourceType": "Discovered",
-      "ContentRoot": "/root/wikiparez/WikiParez/wwwroot/",
-      "BasePath": "_content/WikiParez",
-      "RelativePath": "Images/mi_dining_room1.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/Images/mi_dining_room1.png"
     },
     {
       "Identity": "/root/wikiparez/WikiParez/wwwroot/Images/mi_dira_do_pekel1.png",
@@ -5240,6 +5221,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/Images/mi_vault2.png"
+    },
+    {
+      "Identity": "/root/wikiparez/WikiParez/wwwroot/Images/mi_vecere1.png",
+      "SourceId": "WikiParez",
+      "SourceType": "Discovered",
+      "ContentRoot": "/root/wikiparez/WikiParez/wwwroot/",
+      "BasePath": "_content/WikiParez",
+      "RelativePath": "Images/mi_vecere1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Images/mi_vecere1.png"
     },
     {
       "Identity": "/root/wikiparez/WikiParez/wwwroot/Images/mi_vez_1_podlazi1.png",
