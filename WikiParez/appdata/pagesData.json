@@ -39331,5 +39331,102 @@
     "redirect": null,
     "tobeedited": false,
     "reviews": []
+  },
+  "te_hrad_parez": {
+    "Title": "Hrad Pa\u0159ez",
+    "Type": "hrad",
+    "Images": [],
+    "Image_titles": [
+      "HRAD PA\u0158EZ",
+      "MARIE A MATY\u00C1\u0160 U PA\u0158EZU",
+      "MARCELA A MARTIN NA PA\u0158EZU",
+      "MARIE, MATY\u00C1\u0160 A FREDY NA PA\u0158EZU",
+      "LIBU\u0160E A JI\u0158\u00CD NA PA\u0158EZU"
+    ],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Hrad Pa\u0159ez",
+      "V\u00FDstavba": "~1372",
+      "Zakladatel": "[Petr z Pa\u0159ezu](os_petr_z_parezu)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Pa\u0159ez je z\u0159\u00EDcenina hradu pobl\u00ED\u017E Pa\u0159ezsk\u00E9 Lhoty v okrese Ji\u010D\u00EDn. Nach\u00E1z\u00ED se u severoz\u00E1padn\u00EDho okraje Prachovsk\u00FDch skal v CHKO \u010Cesk\u00FD R\u00E1j. Jeho poz\u016Fstatky jsou chr\u00E1n\u011Bny jako [n\u00E1rodn\u00ED kulturn\u00ED pam\u00E1tka](mi_nkp)."
+      },
+      {
+        "Title": "Historie",
+        "Content": "Podle archeologick\u00FDch n\u00E1lez\u016F byl hrad Pa\u0159ez zalo\u017Een na konci \u010Dtrn\u00E1ct\u00E9ho stolet\u00ED. Prvn\u00ED p\u00EDsemn\u00E1 zm\u00EDnka poch\u00E1z\u00ED z roku 1403, kdy byl jako dr\u017Eitel uveden Jan z Pa\u0159ezu, je\u017E je pravd\u011Bpodobn\u011B potomkem [Petra z Pa\u0159ezu](os_petr_z_parezu), zakladatele hradu. Hrad nejsp\u00ED\u0161 zanikl u\u017E b\u011Bhem husitsk\u00FDch v\u00E1lek a v roce 1430 u\u017E byt definitivn\u011B z\u0159\u00EDceninou."
+      },
+      {
+        "Title": "V\u00FDlet",
+        "Content": "Dne 31. \u010Dervence 2025 se skupina \u0161esti osob \u2014 [Marie](os_marie_hebertova), [Maty\u00E1\u0161](os_matyas_hebertova), [Marcela](os_marcela_hebertova), [Martin](os_martin_hebert), [Libu\u0161e](os_libuse_jaklova) a [Ji\u0159\u00ED](os_jiri_jakl) a psa [Fredyho](os_fredy) \u2014 vydala na v\u00FDlet s hlavn\u00EDm c\u00EDlem nav\u0161t\u00EDvit hrad Pa\u0159ez. Program zahrnoval tak\u00E9 kr\u00E1tkou proch\u00E1zku do nedalek\u00FDch Prachovsk\u00FDch skal a rychlou zast\u00E1vku v Morcinov\u011B, mal\u00E9 osad\u011B, kter\u00E1 je sou\u010D\u00E1st\u00ED obce Lomnice nad Popelkou a katastr\u00E1ln\u00EDho \u00FAzem\u00ED Ko\u0161ov. Tuto vesnici zalo\u017Eil p\u011Btin\u00E1sobn\u00FD prad\u011Bd [Martina Heberta](os_martin_hebert)."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Archeologov\u00E9 v\u011B\u0159\u00ED, \u017Ee na Pa\u0159ezu byl \u017Eivot. Zat\u00EDm se to zkoum\u00E1. Zkoumaj\u00ED tam p\u016Fdu Pa\u0159ezu. Je tam akor\u00E1t hl\u00EDna."
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": []
+  },
+  "os_petr_z_parezu": {
+    "Title": "Petr z Pa\u0159ezu",
+    "Type": "secret",
+    "Images": [],
+    "Image_titles": [
+      "PETR Z PA\u0158EZU"
+    ],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Petr z Pa\u0159ezu",
+      "Syn": "Jan z Pa\u0159ezu",
+      "Narozen\u00ED": "~1345",
+      "Smrt": "~1422"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Petr z Pa\u0159ezu je historicky dolo\u017Een\u00E1 postava spojen\u00E1 s [hradem Pa\u0159ez](te_hrad_parez). Je pravd\u011Bpodobn\u00E9, \u017Ee se jednalo o zakladatele hradu a tak\u00E9 jeho majitele a spr\u00E1vce. "
+      },
+      {
+        "Title": "Obrana hradu",
+        "Content": "V roce 1419, kdy vypukly husitsk\u00E9 v\u00E1lky, byl p\u00E1nem [hradu Pa\u0159ez](te_hrad_parez). Petr proslul svou ne\u00FAstupnou obranou hradu. Nejslavn\u011Bj\u0161\u00ED je jeho st\u0159etnut\u00ED s vojsky Jana \u017Di\u017Eky v roce 1421. Pod veden\u00EDm Petra se pos\u00E1dka hradu Pa\u0159ez ubr\u00E1nila obl\u00E9h\u00E1n\u00ED dlouh\u00FDch \u0161est t\u00FDdn\u016F, p\u0159i\u010Dem\u017E odol\u00E1vala i nep\u0159etr\u017Eit\u00FDm \u00FAtok\u016Fm a palb\u011B z husitsk\u00FDch voz\u016F. Hrad Pa\u0159ez se d\u00EDky Petrov\u011B v\u016Fli a schopnostem stal jedn\u00EDm z posledn\u00EDch opevn\u011Bn\u00FDch m\u00EDst katolick\u00E9 \u0161lechty v ji\u017En\u00EDch \u010Cech\u00E1ch, co\u017E v\u00FDznamn\u011B zpomalilo postup husit\u016F v t\u00E9to oblasti. P\u0159esto\u017Ee byl nakonec hrad v roce 1422 dobyt a zni\u010Den, Petra z Pa\u0159ezu jeho state\u010Dn\u00FD odpor zapsal do d\u011Bjin \u010Desk\u00FDch v\u00E1lek. K obran\u011B obyvatel\u00E9 [Pa\u0159ezu](te_hrad_parez) vyu\u017E\u00EDvala tak\u00E9 Petr\u016Fv vyn\u00E1lez, nov\u00FD druh obrann\u00E9ho katapultu, kter\u00FD umo\u017E\u0148oval st\u0159elbu kamenn\u00FDch projektil\u016F do v\u00FDrazn\u011B v\u011Bt\u0161\u00ED vzd\u00E1lenost\u00ED a z vy\u0161\u0161\u00ED p\u0159esnost\u00ED. Po dobyt\u00ED hradu husit\u00E9 katapulty na\u0161li a techniku osvojily. Katapulty pot\u00E9 pou\u017E\u00EDvali p\u0159i dal\u0161\u00EDch ta\u017Een\u00EDch."
+      },
+      {
+        "Title": "U\u010Ditel",
+        "Content": "Petr z Pa\u0159ezu nebyl jen state\u010Dn\u00FDm p\u00E1nem hradu a vojev\u016Fdcem, ale tak\u00E9 v\u00FDznamn\u00FDm u\u010Dencem sv\u00E9 doby. Podle dochovan\u00FDch kronik a nov\u00FDch historick\u00FDch v\u00FDzkum\u016F byl Petr v ml\u00E1d\u00ED u\u010Ditelem a mentorem jednoho z nejv\u011Bt\u0161\u00EDch \u010Desk\u00FDch reform\u00E1tor\u016F \u2013 Jana Husa.\r\nJan Hus, je\u0161t\u011B jako mlad\u00FD kn\u011Bz studuj\u00EDc\u00ED na pra\u017Esk\u00E9 univerzit\u011B, na\u0161el v Petru z Pa\u0159ezu inspiraci a pevn\u00FD mor\u00E1ln\u00ED kompas. Petr, kter\u00FD se vzd\u011Bl\u00E1val v zahrani\u010D\u00ED, zejm\u00E9na na univerzit\u011B v Pa\u0159\u00ED\u017Ei, p\u0159inesl do \u010Cech nov\u00E9 my\u0161lenky o k\u0159es\u0165ansk\u00E9 spravedlnosti a kritiku c\u00EDrkevn\u00EDch praktik. Jeho u\u010Den\u00ED a osobn\u00ED p\u0159\u00EDstup siln\u011B ovlivnily mlad\u00E9ho Husa a formovaly jeho pozd\u011Bj\u0161\u00ED reformn\u00ED postoje."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "[Hrad Pa\u0159ez](te_hrad_parez) pravd\u011Bpodobn\u011B zanikl p\u00E1r dn\u00ED po Petrov\u011B smrti. Jeho syn Jan nem\u011Bl dostate\u010Dn\u00E9 schopnosti a znalosti k obran\u011B hradu."
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": []
   }
 }
