@@ -5292,7 +5292,8 @@
       "mi_farmus_bambus",
       "mi_kralovska_cesta",
       "mi_parapet",
-      "mi_zapadni_kridlo"
+      "mi_zapadni_kridlo",
+      "mi_pozemek"
     ],
     "Alternate_names": [
       "Dra\u010D\u00ED doup\u011B"
@@ -5320,6 +5321,10 @@
       {
         "Title": "Zaj\u00EDmavost",
         "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "17/08/25: M\u00EDstnost nov\u011B soused\u00ED s [Pozemkem](mi_pozemek)."
       }
     ],
     "image_id": 0,
@@ -5332,7 +5337,7 @@
       "z": 1136
     },
     "patternleCompatible": true,
-    "redirect": "",
+    "redirect": null,
     "tobeedited": false,
     "reviews": []
   },
@@ -6638,6 +6643,10 @@
       {
         "Title": "Zaj\u00EDmavost",
         "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "17/08/25: M\u00EDstnost nov\u011B soused\u00ED s [Moder\u00E1torem](mi_moderator)."
       }
     ],
     "image_id": 0,
@@ -6650,7 +6659,7 @@
       "z": 0
     },
     "patternleCompatible": true,
-    "redirect": "",
+    "redirect": null,
     "tobeedited": false,
     "reviews": []
   },
@@ -7113,7 +7122,8 @@
     "Images": [],
     "Image_titles": [],
     "Bordering_rooms": [
-      "mi_drevene_uhli"
+      "mi_drevene_uhli",
+      "mi_javor"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -7151,7 +7161,7 @@
       "z": 0
     },
     "patternleCompatible": true,
-    "redirect": "",
+    "redirect": null,
     "tobeedited": false,
     "reviews": []
   },
@@ -7589,7 +7599,7 @@
       "N\u00E1zev": "Horn\u00ED N\u00E1dra\u017E\u00ED",
       "Blok": "[Autobus\u00E1k](bl_autobusak)",
       "Okrsek": "[Sklen\u00EDk](ok_sklenik)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010Ctvr\u0165": "[Propast](ct_propast)",
       "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
     },
     "Sections": [
@@ -7639,7 +7649,7 @@
       "N\u00E1zev": "Zahradn\u00ED M\u011Bsto",
       "Blok": "[Autobus\u00E1k](bl_autobusak)",
       "Okrsek": "[Sklen\u00EDk](ok_sklenik)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010Ctvr\u0165": "[Propast](ct_propast)",
       "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
     },
     "Sections": [
@@ -7690,7 +7700,7 @@
       "N\u00E1zev": "Autobus\u00E1k",
       "Blok": "[Autobus\u00E1k](bl_autobusak)",
       "Okrsek": "[Sklen\u00EDk](ok_sklenik)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010Ctvr\u0165": "[Propast](ct_propast)",
       "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
     },
     "Sections": [
@@ -7742,7 +7752,7 @@
       "N\u00E1zev": "Doln\u00ED N\u00E1dra\u017E\u00ED",
       "Blok": "[Autobus\u00E1k](bl_autobusak)",
       "Okrsek": "[Sklen\u00EDk](ok_sklenik)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010Ctvr\u0165": "[Propast](ct_propast)",
       "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
       "\u00DA\u010Del": "terminus [Mraven\u010D\u00ED Dr\u00E1hy](te_mravenci_draha)."
     },
@@ -9005,7 +9015,7 @@
       "N\u00E1zev": "P\u0159ed\u011Bl",
       "Blok": "[P\u0159ed\u011Bl](bl_predel)",
       "Okrsek": "[Sklen\u00EDk](ok_sklenik)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010Ctvr\u0165": "[Propast](ct_propast)",
       "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
     },
     "Sections": [
@@ -9050,7 +9060,8 @@
       "mi_pristavni_molo",
       "mi_suteren",
       "mi_okruh",
-      "mi_kanal"
+      "mi_kanal",
+      "mi_pit_stop"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -14938,15 +14949,12 @@
     "Images": [],
     "Image_titles": [],
     "Bordering_rooms": [
-      "mi_veranda",
+      "mi_jezirko",
       "mi_pristav",
-      "mi_zavodni_okruh",
+      "mi_vytahova_sachta",
       "mi_pristavni_molo",
       "mi_okruh",
-      "mi_za_vodou",
-      "mi_vytahova_sachta",
-      "mi_jezirko",
-      "mi_smycka"
+      "mi_za_vodou"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -14972,6 +14980,10 @@
       {
         "Title": "Zaj\u00EDmavost",
         "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "17/08/25: Od m\u00EDstnosti odd\u011Blena m\u00EDstnost [Pit Stop](mi_pit_stop). Kan\u00E1l ji\u017E nesoused\u00ED s [Verandou](mi_veranda), [Z\u00E1vodn\u00EDm Okruhem](mi_zavodni_okruh) a [Smy\u010Dkou](mi_smycka)."
       }
     ],
     "image_id": 0,
@@ -18097,7 +18109,7 @@
     "Images": [],
     "Image_titles": [],
     "Bordering_rooms": [
-      "mi_lom",
+      "mi_lomena_cara",
       "mi_kapitana_jarose",
       "mi_okruh",
       "mi_vratnice",
@@ -18329,7 +18341,7 @@
       "N\u00E1zev": "H\u0159ib",
       "Blok": "[Papokoi](bl_papokoi)",
       "Okrsek": "[Sklen\u00EDk](ok_sklenik)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010Ctvr\u0165": "[Propast](ct_propast)",
       "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
     },
     "Sections": [
@@ -18379,7 +18391,7 @@
       "N\u00E1zev": "Schodnice",
       "Blok": "[Papokoi](bl_papokoi)",
       "Okrsek": "[Sklen\u00EDk](ok_sklenik)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010Ctvr\u0165": "[Propast](ct_propast)",
       "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
     },
     "Sections": [
@@ -18432,7 +18444,7 @@
       "N\u00E1zev": "Atomovka",
       "Blok": "[Papokoi](bl_papokoi)",
       "Okrsek": "[Sklen\u00EDk](ok_sklenik)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010Ctvr\u0165": "[Propast](ct_propast)",
       "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
     },
     "Sections": [
@@ -18489,7 +18501,7 @@
       "N\u00E1zev": "Ter\u00E1ska",
       "Blok": "[Papokoi](bl_papokoi)",
       "Okrsek": "[Sklen\u00EDk](ok_sklenik)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010Ctvr\u0165": "[Propast](ct_propast)",
       "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
     },
     "Sections": [
@@ -18544,7 +18556,7 @@
       "N\u00E1zev": "Plac",
       "Blok": "[Sklen\u00EDk](bl_sklenik)",
       "Okrsek": "[Sklen\u00EDk](ok_sklenik)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010Ctvr\u0165": "[Propast](ct_propast)",
       "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
     },
     "Sections": [
@@ -18603,7 +18615,7 @@
       "N\u00E1zev": "Diagon\u00E1la",
       "Blok": "[Sklen\u00EDk](bl_sklenik)",
       "Okrsek": "[Sklen\u00EDk](ok_sklenik)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010Ctvr\u0165": "[Propast](ct_propast)",
       "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
     },
     "Sections": [
@@ -19578,7 +19590,7 @@
       "mi_gideon",
       "mi_atlas",
       "mi_formosa",
-      "mi_kanal"
+      "mi_pit_stop"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -19605,6 +19617,10 @@
       {
         "Title": "Zaj\u00EDmavost",
         "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "17/08/25: Z\u00E1vodn\u00ED Okruh nov\u011B soused\u00ED s [Pit Stopem](mi_pit_stop) m\u00EDsto [Kan\u00E1lu](mi_kanal)."
       }
     ],
     "image_id": 0,
@@ -19687,7 +19703,7 @@
       "N\u00E1zev": "N\u00E1dvo\u0159\u00ED",
       "Blok": "[Sklen\u00EDk](bl_sklenik)",
       "Okrsek": "[Sklen\u00EDk](ok_sklenik)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010Ctvr\u0165": "[Propast](ct_propast)",
       "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
     },
     "Sections": [
@@ -19736,7 +19752,7 @@
       "N\u00E1zev": "\u0158eka",
       "Blok": "[Sklen\u00EDk](bl_sklenik)",
       "Okrsek": "[Sklen\u00EDk](ok_sklenik)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010Ctvr\u0165": "[Propast](ct_propast)",
       "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
     },
     "Sections": [
@@ -19780,7 +19796,7 @@
       "mi_kvadrant_jezdcu",
       "mi_hradba",
       "mi_hradbb",
-      "mi_pristavni_molo",
+      "mi_lomena_cara",
       "mi_meda"
     ],
     "Alternate_names": [],
@@ -19831,6 +19847,11 @@
         "stars": 2,
         "author": "Hana Ve\u010De\u0159ov\u00E1",
         "text": "D\u0159\u00EDve skv\u011Bl\u00E9 m\u00EDsto na dovolenou. Stavba d\u00E1lni\u010Dn\u00EDho mostu, ale atmosf\u00E9ru zkazila."
+      },
+      {
+        "stars": 4,
+        "author": "Jirka z Lomu",
+        "text": "Neskute\u010Dn\u00FD jak se Lom za ty roky zm\u011Bnil. Pamatuju si ho je\u0161t\u011B p\u0159ed za\u010D\u00E1tkem samotn\u00E9 t\u011B\u017Eby."
       }
     ]
   },
@@ -20252,7 +20273,7 @@
     "Bordering_rooms": [
       "mi_okruh",
       "mi_dira_do_pekel",
-      "mi_kanal",
+      "mi_pit_stop",
       "mi_the_bridge",
       "mi_mrkev_tunel",
       "mi_vytahovy_mustek",
@@ -20295,7 +20316,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "12/07/25: Nov\u00FD vchod do [Dvoj\u010Dat](mi_dvojcata).\r\n26/07/25: M\u00EDstnost\u00ED proch\u00E1z\u00ED [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha).\r\n26/07/25: M\u00EDstnost soused\u00ED s [Na N\u00E1b\u0159e\u017E\u00ED](mi_na_nabrezi)."
+        "Content": "12/07/25: Nov\u00FD vchod do [Dvoj\u010Dat](mi_dvojcata).\r\n26/07/25: M\u00EDstnost\u00ED proch\u00E1z\u00ED [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha).\r\n26/07/25: M\u00EDstnost soused\u00ED s [Na N\u00E1b\u0159e\u017E\u00ED](mi_na_nabrezi).\r\n17/08/25: Veranda nov\u011B soused\u00ED s [Pit Stopem](mi_pit_stop) m\u00EDsto [Kan\u00E1lu](mi_kanal)."
       }
     ],
     "image_id": 0,
@@ -20490,7 +20511,7 @@
     "Images": [],
     "Image_titles": [],
     "Bordering_rooms": [
-      "mi_kanal",
+      "mi_pit_stop",
       "mi_mrkev",
       "mi_gate",
       "mi_karotka",
@@ -20529,7 +20550,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "27/07/25: Smy\u010Dka nov\u011B soused\u00ED s [Atlasem](mi_atlas)."
+        "Content": "27/07/25: Smy\u010Dka nov\u011B soused\u00ED s [Atlasem](mi_atlas).\r\n17/08/25: Smy\u010Dka nov\u011B soused\u00ED s [Pit Stopem](mi_pit_stop) m\u00EDsto [Kan\u00E1lu](mi_kanal)."
       }
     ],
     "image_id": 0,
@@ -22227,7 +22248,7 @@
     "Metadata": {
       "N\u00E1zev": "Autobus\u00E1k",
       "Okrsek": "[Sklen\u00EDk](ok_sklenik)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010Ctvr\u0165": "[Propast](ct_propast)",
       "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
     },
     "Sections": [
@@ -22472,7 +22493,7 @@
     "Metadata": {
       "N\u00E1zev": "P\u0159ed\u011Bl",
       "Okrsek": "[Sklen\u00EDk](ok_sklenik)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010Ctvr\u0165": "[Propast](ct_propast)",
       "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
     },
     "Sections": [
@@ -25461,7 +25482,7 @@
     "Metadata": {
       "N\u00E1zev": "Papokoi",
       "Okrsek": "[Sklen\u00EDk](ok_sklenik)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010Ctvr\u0165": "[Propast](ct_propast)",
       "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
     },
     "Sections": [
@@ -25510,7 +25531,7 @@
     "Metadata": {
       "N\u00E1zev": "Sklen\u00EDk",
       "Okrsek": "[Sklen\u00EDk](ok_sklenik)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010Ctvr\u0165": "[Propast](ct_propast)",
       "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
     },
     "Sections": [
@@ -26966,7 +26987,7 @@
     "Alternate_names": [],
     "Metadata": {
       "N\u00E1zev": "Sklen\u00EDk",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010Ctvr\u0165": "[Propast](ct_propast)",
       "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
     },
     "Sections": [
@@ -26988,7 +27009,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": ""
+        "Content": "16/08/25: P\u0159est\u011Bhov\u00E1no z [Ko\u0159en](ct_koren) na [Propast](ct_propast)."
       }
     ],
     "image_id": 0,
@@ -33274,7 +33295,7 @@
       "N\u00E1zev": "Hospoda",
       "Blok": "[Hospoda](bl_hospoda)",
       "Okrsek": "[Her\u0161pice](ok_herspice)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010Ctvr\u0165": "[Propast](ct_propast)",
       "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
     },
     "Sections": [
@@ -33333,7 +33354,7 @@
       "N\u00E1zev": "Hadice",
       "Blok": "[Hospoda](bl_hospoda)",
       "Okrsek": "[Her\u0161pice](ok_herspice)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010Ctvr\u0165": "[Propast](ct_propast)",
       "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
     },
     "Sections": [
@@ -33381,7 +33402,7 @@
       "N\u00E1zev": "H\u0159\u00EDva",
       "Blok": "[Hospoda](bl_hospoda)",
       "Okrsek": "[Her\u0161pice](ok_herspice)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010Ctvr\u0165": "[Propast](ct_propast)",
       "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
       "\u00DA\u010Del": "Skeleton kon\u011B"
     },
@@ -33433,7 +33454,7 @@
       "N\u00E1zev": "Holubn\u00EDk",
       "Blok": "[Horizont](bl_horizont)",
       "Okrsek": "[Her\u0161pice](ok_herspice)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010Ctvr\u0165": "[Propast](ct_propast)",
       "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
     },
     "Sections": [
@@ -33487,7 +33508,7 @@
       "N\u00E1zev": "Horizont",
       "Blok": "[Horizont](bl_horizont)",
       "Okrsek": "[Her\u0161pice](ok_herspice)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010Ctvr\u0165": "[Propast](ct_propast)",
       "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
     },
     "Sections": [
@@ -33538,7 +33559,7 @@
       "N\u00E1zev": "Hieroglyf",
       "Blok": "[Horizont](bl_horizont)",
       "Okrsek": "[Her\u0161pice](ok_herspice)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010Ctvr\u0165": "[Propast](ct_propast)",
       "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
     },
     "Sections": [
@@ -33587,7 +33608,7 @@
       "N\u00E1zev": "Hyena",
       "Blok": "[Horizont](bl_horizont)",
       "Okrsek": "[Her\u0161pice](ok_herspice)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010Ctvr\u0165": "[Propast](ct_propast)",
       "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
     },
     "Sections": [
@@ -33635,7 +33656,7 @@
       "N\u00E1zev": "Halucinace",
       "Blok": "[Hrbat\u00FD Hrozen](bl_hrbaty_hrozen)",
       "Okrsek": "[Her\u0161pice](ok_herspice)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010Ctvr\u0165": "[Propast](ct_propast)",
       "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
     },
     "Sections": [
@@ -33684,7 +33705,7 @@
       "N\u00E1zev": "Hrozen",
       "Blok": "[Hrbat\u00FD Hrozen](bl_hrbaty_hrozen)",
       "Okrsek": "[Her\u0161pice](ok_herspice)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010Ctvr\u0165": "[Propast](ct_propast)",
       "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
     },
     "Sections": [
@@ -33735,7 +33756,7 @@
       "N\u00E1zev": "Ho\u0159eni\u0161t\u011B",
       "Blok": "[Poh\u0159ebi\u0161t\u011B](bl_pohrebiste)",
       "Okrsek": "[Her\u0161pice](ok_herspice)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010Ctvr\u0165": "[Propast](ct_propast)",
       "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
     },
     "Sections": [
@@ -33785,7 +33806,7 @@
       "N\u00E1zev": "Hrob",
       "Blok": "[Poh\u0159ebi\u0161t\u011B](bl_pohrebiste)",
       "Okrsek": "[Her\u0161pice](ok_herspice)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010Ctvr\u0165": "[Propast](ct_propast)",
       "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
     },
     "Sections": [
@@ -33835,7 +33856,7 @@
       "N\u00E1zev": "Hol\u00EDnky",
       "Blok": "[Poh\u0159ebi\u0161t\u011B](bl_pohrebiste)",
       "Okrsek": "[Her\u0161pice](ok_herspice)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010Ctvr\u0165": "[Propast](ct_propast)",
       "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
     },
     "Sections": [
@@ -33885,7 +33906,7 @@
       "N\u00E1zev": "Hydrant",
       "Blok": "[Poh\u0159ebi\u0161t\u011B](bl_pohrebiste)",
       "Okrsek": "[Her\u0161pice](ok_herspice)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010Ctvr\u0165": "[Propast](ct_propast)",
       "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
     },
     "Sections": [
@@ -33935,7 +33956,7 @@
       "N\u00E1zev": "Harfa",
       "Blok": "[Hudba](bl_hudba)",
       "Okrsek": "[Her\u0161pice](ok_herspice)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010Ctvr\u0165": "[Propast](ct_propast)",
       "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
     },
     "Sections": [
@@ -33985,7 +34006,7 @@
       "N\u00E1zev": "Harmonika",
       "Blok": "[Hudba](bl_hudba)",
       "Okrsek": "[Her\u0161pice](ok_herspice)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010Ctvr\u0165": "[Propast](ct_propast)",
       "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
     },
     "Sections": [
@@ -34034,7 +34055,7 @@
       "N\u00E1zev": "Housle",
       "Blok": "[Hudba](bl_hudba)",
       "Okrsek": "[Her\u0161pice](ok_herspice)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010Ctvr\u0165": "[Propast](ct_propast)",
       "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
     },
     "Sections": [
@@ -35105,7 +35126,13 @@
     "patternleCompatible": true,
     "redirect": null,
     "tobeedited": false,
-    "reviews": []
+    "reviews": [
+      {
+        "stars": 4,
+        "author": "Jirka z Lomu",
+        "text": "Mnoz\u00ED \u0159\u00EDkaj\u00ED \u017Ee d\u00E1lni\u010Dn\u00ED most kaz\u00ED atmosf\u00E9ru Lomu pod n\u00EDm. Za m\u011B ji je\u0161t\u011B vylep\u0161uje."
+      }
+    ]
   },
   "mi_policka": {
     "Title": "Poli\u010Dka",
@@ -35867,7 +35894,7 @@
     "Metadata": {
       "N\u00E1zev": "Hospoda",
       "Okrsek": "[Her\u0161pice](ok_herspice)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010Ctvr\u0165": "[Propast](ct_propast)",
       "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
     },
     "Sections": [
@@ -35916,7 +35943,7 @@
     "Metadata": {
       "N\u00E1zev": "Horizont",
       "Okrsek": "[Her\u0161pice](ok_herspice)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010Ctvr\u0165": "[Propast](ct_propast)",
       "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
     },
     "Sections": [
@@ -35965,7 +35992,7 @@
     "Metadata": {
       "N\u00E1zev": "Hrbat\u00FD Hrozen",
       "Okrsek": "[Her\u0161pice](ok_herspice)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010Ctvr\u0165": "[Propast](ct_propast)",
       "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
     },
     "Sections": [
@@ -36014,7 +36041,7 @@
     "Metadata": {
       "N\u00E1zev": "Poh\u0159ebi\u0161t\u011B",
       "Okrsek": "[Her\u0161pice](ok_herspice)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010Ctvr\u0165": "[Propast](ct_propast)",
       "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
     },
     "Sections": [
@@ -36063,7 +36090,7 @@
     "Metadata": {
       "N\u00E1zev": "Hudba",
       "Okrsek": "[Her\u0161pice](ok_herspice)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010Ctvr\u0165": "[Propast](ct_propast)",
       "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
     },
     "Sections": [
@@ -36304,7 +36331,7 @@
     "Alternate_names": [],
     "Metadata": {
       "N\u00E1zev": "Her\u0161pice",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010Ctvr\u0165": "[Propast](ct_propast)",
       "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
     },
     "Sections": [
@@ -36326,7 +36353,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": ""
+        "Content": "16/08/25: P\u0159est\u011Bhov\u00E1no z [Ko\u0159en](ct_koren) na [Propast](ct_propast)."
       }
     ],
     "image_id": 0,
@@ -36777,7 +36804,7 @@
       "N\u00E1zev": "Hmla",
       "Blok": "[Hrbat\u00FD Hrozen](bl_hrbaty_hrozen)",
       "Okrsek": "[Her\u0161pice](ok_herspice)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010Ctvr\u0165": "[Propast](ct_propast)",
       "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
     },
     "Sections": [
@@ -36834,7 +36861,7 @@
       "N\u00E1zev": "Sklen\u00EDk Z\u00E1pad",
       "Blok": "[Sklen\u00EDk](bl_sklenik)",
       "Okrsek": "[Sklen\u00EDk](ok_sklenik)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010Ctvr\u0165": "[Propast](ct_propast)",
       "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
       "\u00DA\u010Del": "terminus [Mraven\u010D\u00ED Dr\u00E1hy](te_mravenci_draha)."
     },
@@ -36890,7 +36917,7 @@
       "N\u00E1zev": "Sklen\u00EDk V\u00FDchod",
       "Blok": "[Sklen\u00EDk](bl_sklenik)",
       "Okrsek": "[Sklen\u00EDk](ok_sklenik)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010Ctvr\u0165": "[Propast](ct_propast)",
       "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
     },
     "Sections": [
@@ -37299,7 +37326,7 @@
       "N\u00E1zev": "Papokoi",
       "Blok": "[Papokoi](bl_papokoi)",
       "Okrsek": "[Sklen\u00EDk](ok_sklenik)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010Ctvr\u0165": "[Propast](ct_propast)",
       "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
     },
     "Sections": [
@@ -37940,7 +37967,7 @@
       "N\u00E1zev": "The Overpass",
       "Blok": "[Autobus\u00E1k](bl_autobusak)",
       "Okrsek": "[Sklen\u00EDk](ok_sklenik)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010Ctvr\u0165": "[Propast](ct_propast)",
       "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
     },
     "Sections": [
@@ -38951,7 +38978,8 @@
       "mi_troja",
       "mi_barka",
       "mi_ctverec",
-      "mi_rimsa"
+      "mi_rimsa",
+      "mi_kukatko"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -38982,7 +39010,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "26/07/25: M\u00EDstnost\u00ED proch\u00E1z\u00ED [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha).\r\n08/08/25: M\u00EDstnost soused\u00ED s [\u0158\u00EDmsou](mi_rimsa)."
+        "Content": "26/07/25: M\u00EDstnost\u00ED proch\u00E1z\u00ED [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha).\r\n08/08/25: M\u00EDstnost soused\u00ED s [\u0158\u00EDmsou](mi_rimsa).\r\n17/08/25: Od m\u00EDstnosti odd\u011Blena m\u00EDstnost [Kuk\u00E1tko](mi_kukatko)."
       }
     ],
     "image_id": 0,
@@ -39428,5 +39456,651 @@
     "redirect": null,
     "tobeedited": false,
     "reviews": []
-  }
+  },
+  "mi_pit_stop": {
+    "Title": "Pit Stop",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_pristav",
+      "mi_zavodni_okruh",
+      "mi_smycka",
+      "mi_veranda"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Pit Stop",
+      "Blok": "[Kan\u00E1l](bl_kanal)",
+      "Okrsek": "[P\u0159\u00EDstav](ok_pristav)",
+      "\u010Ctvr\u0165": "[Ryb\u00E1\u0159sk\u00E1 Kolonie](ct_rybarska_kolonie)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "17/08/25: Pit Stop vznikl odd\u011Blen\u00EDm od [Kan\u00E1lu](mi_kanal)."
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 317,
+      "y": 62,
+      "z": 1119
+    },
+    "patternleCompatible": false,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": []
+  },
+  "mi_lomena_cara": {
+    "Title": "Lomen\u00E1 \u010C\u00E1ra",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_lom",
+      "mi_pristavni_molo"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Lomen\u00E1 \u010C\u00E1ra",
+      "Blok": "[Lom](bl_lom)",
+      "Okrsek": "[Lom](ok_lom)",
+      "\u010Ctvr\u0165": "[Lom](ct_lom)",
+      "\u010C\u00E1st": "[Sibi\u0159](ca_sibir)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 256,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [
+      {
+        "stars": 4.5,
+        "author": "Jirka z Lomu",
+        "text": "R\u00E1d zde sed\u00E1v\u00E1m u vody."
+      }
+    ]
+  },
+  "mi_pozemek": {
+    "Title": "Pozemek",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_sucho",
+      "mi_dragon_lair"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Pozemek",
+      "Blok": "[Nemovitost](bl_nemovitost)",
+      "Okrsek": "[Doup\u011B](ok_doupe)",
+      "\u010Ctvr\u0165": "[Kmen](ct_kmen)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
+      "\u00DA\u010Del": "Farma na mrkve, obil\u00ED a brambory"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 540,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": []
+  },
+  "mi_sucho": {
+    "Title": "Sucho",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_pozemek",
+      "mi_dalka",
+      "mi_retez",
+      "mi_dno"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Sucho",
+      "Blok": "[Nemovitost](bl_nemovitost)",
+      "Okrsek": "[Doup\u011B](ok_doupe)",
+      "\u010Ctvr\u0165": "[Kmen](ct_kmen)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 50,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": []
+  },
+  "mi_retez": {
+    "Title": "\u0158et\u011Bz",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_sucho"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "\u0158et\u011Bz",
+      "Blok": "[Nemovitost](bl_nemovitost)",
+      "Okrsek": "[Doup\u011B](ok_doupe)",
+      "\u010Ctvr\u0165": "[Kmen](ct_kmen)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 21,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": []
+  },
+  "mi_dno": {
+    "Title": "Dno",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_zub",
+      "mi_sucho"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Dno",
+      "Blok": "[Nemovitost](bl_nemovitost)",
+      "Okrsek": "[Doup\u011B](ok_doupe)",
+      "\u010Ctvr\u0165": "[Kmen](ct_kmen)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 60,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": []
+  },
+  "mi_zub": {
+    "Title": "Zub",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_vicko",
+      "mi_dno"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Zub",
+      "Blok": "[Nemovitost](bl_nemovitost)",
+      "Okrsek": "[Doup\u011B](ok_doupe)",
+      "\u010Ctvr\u0165": "[Kmen](ct_kmen)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 8,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": []
+  },
+  "mi_vicko": {
+    "Title": "V\u00ED\u010Dko",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_zub",
+      "mi_mokro"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "V\u00ED\u010Dko",
+      "Blok": "[Nemovitost](bl_nemovitost)",
+      "Okrsek": "[Doup\u011B](ok_doupe)",
+      "\u010Ctvr\u0165": "[Kmen](ct_kmen)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 37,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 327,
+      "y": 123,
+      "z": 1117
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": []
+  },
+  "mi_mokro": {
+    "Title": "Mokro",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_dalka",
+      "mi_vicko"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Mokro",
+      "Blok": "[Nemovitost](bl_nemovitost)",
+      "Okrsek": "[Doup\u011B](ok_doupe)",
+      "\u010Ctvr\u0165": "[Kmen](ct_kmen)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 45,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 331,
+      "y": 122,
+      "z": 1123
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": []
+  },
+  "mi_dalka": {
+    "Title": "D\u00E1lka",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_sucho",
+      "mi_mokro"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "D\u00E1lka",
+      "Blok": "[Nemovitost](bl_nemovitost)",
+      "Okrsek": "[Doup\u011B](ok_doupe)",
+      "\u010Ctvr\u0165": "[Kmen](ct_kmen)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 22,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 336,
+      "y": 121,
+      "z": 1119
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [
+      {
+        "stars": 4.5,
+        "author": "Hana Ve\u010De\u0159ov\u00E1",
+        "text": "V\u00FDhled na dv\u011B v\u011B\u017Ee."
+      }
+    ]
+  },
+  "mi_kukatko": {
+    "Title": "Kuk\u00E1tko",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_buben"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Kuk\u00E1tko",
+      "Blok": "[Buben](bl_buben)",
+      "Okrsek": "[Tr\u00F3ja](ok_troja)",
+      "\u010Ctvr\u0165": "[Tr\u00F3ja](ct_troja)",
+      "\u010C\u00E1st": "[Tr\u00F3ja](ca_troja)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 48,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 356,
+      "y": 128,
+      "z": 1142
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [
+      {
+        "stars": 4,
+        "author": "Jan Les\u00E1k",
+        "text": "Moc hezk\u00E9 podkrov\u00ED (lep\u0161\u00ED ne\u017E v silu)."
+      }
+    ]
+  },
+  "bl_nemovitost": {
+            "Title": "Nemovitost",
+            "Type": "blok",
+            "Images": [],
+            "Image_titles": [],
+            "Bordering_rooms": [],
+            "Alternate_names": [],
+            "Metadata": {
+                "Název": "Nemovitost",
+                "Okrsek": "[Doupě](ok_doupe)",
+                "Čtvrť": "[Kmen](ct_kmen)",
+                "Část": "[Pařez](ca_parez)"
+            },
+            "Sections": [
+                {
+                    "Title": "Přehled",
+                    "Content": ""
+                },
+                {
+                    "Title": "Název",
+                    "Content": ""
+                },
+                {
+                    "Title": "Interiér",
+                    "Content": ""
+                },
+                {
+                    "Title": "Zajímavosti",
+                    "Content": ""
+                },
+                {
+                    "Title": "Aktuality",
+                    "Content": ""
+                }
+            ],
+            "image_id": 0,
+            "area": 0,
+            "Empty": false,
+            "numberOfRooms": 0,
+            "redirect": null,
+            "tobeedited": false
+            },
+"ct_propast": {
+            "Title": "Propast",
+            "Type": "čtvrť",
+            "Images": [],
+            "Image_titles": [],
+            "Bordering_rooms": [],
+            "Alternate_names": [],
+            "Metadata": {
+                "Název": "Propast",
+                "Část": "[Pařez](ca_parez)"
+            },
+            "Sections": [
+                {
+                    "Title": "Přehled",
+                    "Content": ""
+                },
+                {
+                    "Title": "Název",
+                    "Content": ""
+                },
+                {
+                    "Title": "Interiér",
+                    "Content": ""
+                },
+                {
+                    "Title": "Zajímavosti",
+                    "Content": ""
+                },
+                {
+                    "Title": "Aktuality",
+                    "Content": ""
+                }
+            ],
+            "image_id": 0,
+            "area": 0,
+            "Empty": false,
+            "numberOfRooms": 0,
+            "redirect": null,
+            "tobeedited": false
+            }
 }

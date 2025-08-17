@@ -58,22 +58,23 @@
 </div>
 
 <script>
-    function handleInputEnter(){
-        console.log("handleInputEnter triggered");
+    function handleInputEnter() {
         const table = document.querySelector("table");
-        let rows = Array.from(table.rows).slice(2);
+        const rows = Array.from(table.rows).slice(2);
+        const inputs = Array.from(table.rows[0].cells).map((_, i) => 
+            document.getElementById("input" + i)
+        );
+
         rows.forEach(row => {
             let match = true;
             for (let i = 0; i < row.cells.length; i++) {
-                let input = document.getElementById("input" + i);
-                let text = input ? input.value : "";
-                
-                if (text && !row.cells[i].innerText.toLowerCase().includes(text.toLowerCase())) {
+                const input = inputs[i];
+                const text = input ? input.value.trim().toLowerCase() : "";
+                if (text && !row.cells[i].textContent.toLowerCase().includes(text)) {
                     match = false;
                     break;
                 }
             }
-            console.log(match);
             row.style.display = match ? "" : "none";
         });
     }
