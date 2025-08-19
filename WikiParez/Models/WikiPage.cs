@@ -27,6 +27,8 @@ public class WikiPage
         return reviews.Count;
     }
 
+    public HashSet<string> utilities { get; set; } = new HashSet<string>();
+
     public WikiPage Clone()
     {
         WikiPage clone = (WikiPage)this.MemberwiseClone();
@@ -56,6 +58,7 @@ public class WikiPage
             y = this.coordinates.y,
             z = this.coordinates.z
         };
+        clone.utilities = new HashSet<string>(this.utilities);
 
         return clone;
     }

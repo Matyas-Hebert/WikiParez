@@ -40,3 +40,5 @@
 /root/wikiparez/WikiParez/bin/Debug/net8.0/appdata/splashtexts.txt
 /root/wikiparez/WikiParez/bin/Debug/net8.0/appdata/parezlescores.json
 /root/wikiparez/WikiParez/bin/Debug/net8.0/appdata/airatings.json
+/root/wikiparez/WikiParez/bin/Debug/net8.0/appdata/weird.json
+/root/wikiparez/WikiParez/bin/Debug/net8.0/appdata/testdata.json

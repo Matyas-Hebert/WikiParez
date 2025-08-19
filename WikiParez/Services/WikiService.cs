@@ -14,6 +14,7 @@ using System.Globalization;
 using Microsoft.AspNetCore.SignalR;
 using System.Numerics;
 using System.Linq;
+using System.Text;
 
 public class WikiService
 {
@@ -30,7 +31,7 @@ public class WikiService
 
     public WikiService(IHostEnvironment env)
     {
-        _path = Path.Combine(env.ContentRootPath, "appdata", "pagesData.json");
+        _path = Path.Combine(env.ContentRootPath, "appdata", "testdata.json");
         _pathsplash = Path.Combine(env.ContentRootPath, "appdata", "splashtexts.txt");
         _pathtopparezle = Path.Combine(env.ContentRootPath, "appdata", "parezlescores.json");
         Console.WriteLine(_path);
@@ -39,43 +40,29 @@ public class WikiService
         _onlyroomspages = LoadOnlyRoomPages();
         _simplifiedPages = GetSimplifiedDict();
         _patternlepages = LoadCoordinatesPages();
-        /**var max = 0;
-        var scores = new Dictionary<string, double>();
-        foreach (var room1 in _onlyroomspages.Keys)
+
+        /**if (File.Exists(_path))
         {
-            foreach (var room2 in _onlyroomspages.Keys)
+            var json = File.ReadAllText(Path.Combine(env.ContentRootPath, "appdata", "airatings.json"));
+            var dictionary = JsonSerializer.Deserialize<Dictionary<string, string>>(json) ?? new Dictionary<string, string>();
+            foreach (var key in dictionary.Keys)
             {
-                if (!DoesBorder(room1, room2) && room1 != room2)
+                if (_pages.ContainsKey(key))
                 {
-                    var paths = FindPaths(room1, room2);
-                    foreach (var path in paths)
+                    for (var i = 0; i < dictionary[key].Length / 3; i++)
                     {
-                        if (path.Count >= max)
-                        {
-                            max = path.Count;
-                            Console.WriteLine("found path with length: " + max + " " + room1 + " to " + room2);
-                        }
-                        var len = path.Count;
-                        foreach (var room in path)
-                        {
-                            if (!scores.ContainsKey(room))
-                            {
-                                scores[room] = 0;
-                            }
-                            if (room != room1 && room != room2)
-                            {
-                                scores[room] += 1.0f / len;
-                            }
-                        }
+                        var utility = dictionary[key].Substring(i * 3, 3);
+                        _pages[key].utilities.Add(utility);
                     }
                 }
             }
-        }
-
-        scores = scores.OrderByDescending(kvp => kvp.Value).ToDictionary(kvp => kvp.Key, kvp => kvp.Value);
-        foreach (var scorekey in scores.Keys)
-        {
-            Console.WriteLine("{\""+ _pages[scorekey].Title + "\"," + Math.Round(scores[scorekey], 2) + "},");
+            var options = new JsonSerializerOptions
+            {
+                WriteIndented = true
+            };
+            string jsonString = JsonSerializer.Serialize(_pages, options);
+            var bytes = Encoding.UTF8.GetBytes(jsonString);
+            File.WriteAllBytes(Path.Combine(env.ContentRootPath, "appdata", "testdata.json"), bytes);
         }**/
     }
 
@@ -623,7 +610,6 @@ public class WikiService
         };
         var dictionary = JsonSerializer.Deserialize<Dictionary<string, WikiPage>>(json, options) ?? new Dictionary<string, WikiPage>();
         Analyze(dictionary);
-
         foreach (var key in dictionary.Keys)
         {
             
@@ -658,6 +644,11 @@ public class WikiService
                     if (IsSubdivision(dataKey) && dictionary.Keys.Contains(slug))
                     {
                         dictionary[slug].area += dictionary[key].area;
+                        foreach (var item in dictionary[key].utilities)
+                        {
+                            dictionary[slug].utilities.Add(item);
+                        }
+                        dictionary[slug].utilities.Remove("Non");
                         if (dictionary[key].Type == "místnost") dictionary[slug].numberOfRooms++;
                         if (!dictionary[key].Empty)
                         {

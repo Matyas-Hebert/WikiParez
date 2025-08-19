@@ -140,6 +140,16 @@
             </figure>
             <h2 style="text-align: center;">Info</h2>
             <table>
+                @if (Model.utilities.Count > 0){
+                    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; padding-bottom: 25px; padding-top: 25px; background-color: rgb(188, 212, 197);">
+                        @foreach (string item in Model.utilities)
+                        {
+                            <div style="flex: 0 0 20%; text-align: center;">
+                                <img src="/Images/Icons/@(item).png" style="max-width: 100px;" />
+                            </div>
+                        }
+                    </div>
+                }
                 @foreach (var key in Model.Metadata.Keys)
                 {
                     <tr>

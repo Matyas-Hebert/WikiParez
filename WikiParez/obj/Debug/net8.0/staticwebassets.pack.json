@@ -9,6 +9,330 @@
       "PackagePath": "staticwebassets/Images/Autosaved (3).png:Zone.Identifier"
     },
     {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Ac8.png",
+      "PackagePath": "staticwebassets/Images/Icons/Ac8.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Anv.png",
+      "PackagePath": "staticwebassets/Images/Icons/Anv.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Arm.png",
+      "PackagePath": "staticwebassets/Images/Icons/Arm.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Ba1.png",
+      "PackagePath": "staticwebassets/Images/Icons/Ba1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Bar.png",
+      "PackagePath": "staticwebassets/Images/Icons/Bar.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Be1.png",
+      "PackagePath": "staticwebassets/Images/Icons/Be1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Be3.png",
+      "PackagePath": "staticwebassets/Images/Icons/Be3.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Bea.png",
+      "PackagePath": "staticwebassets/Images/Icons/Bea.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Bea.png:Zone.Identifier",
+      "PackagePath": "staticwebassets/Images/Icons/Bea.png:Zone.Identifier"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Bed.png",
+      "PackagePath": "staticwebassets/Images/Icons/Bed.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Bi8.png",
+      "PackagePath": "staticwebassets/Images/Icons/Bi8.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Bla.png",
+      "PackagePath": "staticwebassets/Images/Icons/Bla.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Bre.png",
+      "PackagePath": "staticwebassets/Images/Icons/Bre.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Ca1.png",
+      "PackagePath": "staticwebassets/Images/Icons/Ca1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Ca3.png",
+      "PackagePath": "staticwebassets/Images/Icons/Ca3.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Cam.png",
+      "PackagePath": "staticwebassets/Images/Icons/Cam.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Car.png",
+      "PackagePath": "staticwebassets/Images/Icons/Car.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Cau.png",
+      "PackagePath": "staticwebassets/Images/Icons/Cau.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Cc1.png",
+      "PackagePath": "staticwebassets/Images/Icons/Cc1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Ch1.png",
+      "PackagePath": "staticwebassets/Images/Icons/Ch1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Ch3.png",
+      "PackagePath": "staticwebassets/Images/Icons/Ch3.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Ch8.png",
+      "PackagePath": "staticwebassets/Images/Icons/Ch8.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Che.png",
+      "PackagePath": "staticwebassets/Images/Icons/Che.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Chi.png",
+      "PackagePath": "staticwebassets/Images/Icons/Chi.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Co1.png",
+      "PackagePath": "staticwebassets/Images/Icons/Co1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Co3.png",
+      "PackagePath": "staticwebassets/Images/Icons/Co3.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Com.png",
+      "PackagePath": "staticwebassets/Images/Icons/Com.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Cra.png",
+      "PackagePath": "staticwebassets/Images/Icons/Cra.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Da8.png",
+      "PackagePath": "staticwebassets/Images/Icons/Da8.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Do3.png",
+      "PackagePath": "staticwebassets/Images/Icons/Do3.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/En1.png",
+      "PackagePath": "staticwebassets/Images/Icons/En1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Enc.png",
+      "PackagePath": "staticwebassets/Images/Icons/Enc.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/End.png",
+      "PackagePath": "staticwebassets/Images/Icons/End.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Fle.png",
+      "PackagePath": "staticwebassets/Images/Icons/Fle.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Fle.png:Zone.Identifier",
+      "PackagePath": "staticwebassets/Images/Icons/Fle.png:Zone.Identifier"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Fo3.png",
+      "PackagePath": "staticwebassets/Images/Icons/Fo3.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Fr3.png",
+      "PackagePath": "staticwebassets/Images/Icons/Fr3.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Fur.png",
+      "PackagePath": "staticwebassets/Images/Icons/Fur.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Gh3.png",
+      "PackagePath": "staticwebassets/Images/Icons/Gh3.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Gl1.png",
+      "PackagePath": "staticwebassets/Images/Icons/Gl1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Gri.png",
+      "PackagePath": "staticwebassets/Images/Icons/Gri.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Ha3.png",
+      "PackagePath": "staticwebassets/Images/Icons/Ha3.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Ho3.png",
+      "PackagePath": "staticwebassets/Images/Icons/Ho3.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Ic2.png",
+      "PackagePath": "staticwebassets/Images/Icons/Ic2.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Ju8.png",
+      "PackagePath": "staticwebassets/Images/Icons/Ju8.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Ke1.png",
+      "PackagePath": "staticwebassets/Images/Icons/Ke1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Lav.png",
+      "PackagePath": "staticwebassets/Images/Icons/Lav.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Lec.png",
+      "PackagePath": "staticwebassets/Images/Icons/Lec.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Lec.png:Zone.Identifier",
+      "PackagePath": "staticwebassets/Images/Icons/Lec.png:Zone.Identifier"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Ll3.png",
+      "PackagePath": "staticwebassets/Images/Icons/Ll3.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Lod.png",
+      "PackagePath": "staticwebassets/Images/Icons/Lod.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Loo.png",
+      "PackagePath": "staticwebassets/Images/Icons/Loo.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Me1.png",
+      "PackagePath": "staticwebassets/Images/Icons/Me1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Mu3.png",
+      "PackagePath": "staticwebassets/Images/Icons/Mu3.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Net.png",
+      "PackagePath": "staticwebassets/Images/Icons/Net.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Non.png",
+      "PackagePath": "staticwebassets/Images/Icons/Non.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Non.png:Zone.Identifier",
+      "PackagePath": "staticwebassets/Images/Icons/Non.png:Zone.Identifier"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Oa8.png",
+      "PackagePath": "staticwebassets/Images/Icons/Oa8.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Orp.png",
+      "PackagePath": "staticwebassets/Images/Icons/Orp.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Pa3.png",
+      "PackagePath": "staticwebassets/Images/Icons/Pa3.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Pa8.png",
+      "PackagePath": "staticwebassets/Images/Icons/Pa8.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Pi3.png",
+      "PackagePath": "staticwebassets/Images/Icons/Pi3.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Po1.png",
+      "PackagePath": "staticwebassets/Images/Icons/Po1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Pu1.png",
+      "PackagePath": "staticwebassets/Images/Icons/Pu1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Ra2.png",
+      "PackagePath": "staticwebassets/Images/Icons/Ra2.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Sh3.png",
+      "PackagePath": "staticwebassets/Images/Icons/Sh3.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Sk3.png",
+      "PackagePath": "staticwebassets/Images/Icons/Sk3.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Smi.png",
+      "PackagePath": "staticwebassets/Images/Icons/Smi.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Smo.png",
+      "PackagePath": "staticwebassets/Images/Icons/Smo.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Sn3.png",
+      "PackagePath": "staticwebassets/Images/Icons/Sn3.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Sp8.png",
+      "PackagePath": "staticwebassets/Images/Icons/Sp8.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Sto.png",
+      "PackagePath": "staticwebassets/Images/Icons/Sto.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Sto.png:Zone.Identifier",
+      "PackagePath": "staticwebassets/Images/Icons/Sto.png:Zone.Identifier"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Su1.png",
+      "PackagePath": "staticwebassets/Images/Icons/Su1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Sw1.png",
+      "PackagePath": "staticwebassets/Images/Icons/Sw1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Tu3.png",
+      "PackagePath": "staticwebassets/Images/Icons/Tu3.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Vi3.png",
+      "PackagePath": "staticwebassets/Images/Icons/Vi3.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Wa2.png",
+      "PackagePath": "staticwebassets/Images/Icons/Wa2.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Wat.png",
+      "PackagePath": "staticwebassets/Images/Icons/Wat.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Wh1.png",
+      "PackagePath": "staticwebassets/Images/Icons/Wh1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Wo3.png",
+      "PackagePath": "staticwebassets/Images/Icons/Wo3.png"
+    },
+    {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Pařez.png:Zone.Identifier",
       "PackagePath": "staticwebassets/Images/Pařez.png:Zone.Identifier"
     },
@@ -317,6 +641,14 @@
       "PackagePath": "staticwebassets/Images/mi_hmla2.png"
     },
     {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_hnizdo1.png",
+      "PackagePath": "staticwebassets/Images/mi_hnizdo1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_hnizdo2.png",
+      "PackagePath": "staticwebassets/Images/mi_hnizdo2.png"
+    },
+    {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_holic1.png",
       "PackagePath": "staticwebassets/Images/mi_holic1.png"
     },
@@ -407,6 +739,18 @@
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_konzole1.png",
       "PackagePath": "staticwebassets/Images/mi_konzole1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_koreny1.png",
+      "PackagePath": "staticwebassets/Images/mi_koreny1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_koreny2.png",
+      "PackagePath": "staticwebassets/Images/mi_koreny2.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_koreny3.png",
+      "PackagePath": "staticwebassets/Images/mi_koreny3.png"
     },
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_kroky1.png",
@@ -507,6 +851,14 @@
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_motor1.png",
       "PackagePath": "staticwebassets/Images/mi_motor1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_mrkev1.png",
+      "PackagePath": "staticwebassets/Images/mi_mrkev1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_mrkev2.png",
+      "PackagePath": "staticwebassets/Images/mi_mrkev2.png"
     },
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_na_moste1.png",
@@ -699,6 +1051,14 @@
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_policka2.png",
       "PackagePath": "staticwebassets/Images/mi_policka2.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_pramice1.png",
+      "PackagePath": "staticwebassets/Images/mi_pramice1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_pramice2.png",
+      "PackagePath": "staticwebassets/Images/mi_pramice2.png"
     },
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_prechod1.png",
@@ -1155,6 +1515,18 @@
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_vypikarna2.png",
       "PackagePath": "staticwebassets/Images/mi_vypikarna2.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_vytahova_sachta1.png",
+      "PackagePath": "staticwebassets/Images/mi_vytahova_sachta1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_vytahova_sachta2.png",
+      "PackagePath": "staticwebassets/Images/mi_vytahova_sachta2.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_vytahova_sachta3.png",
+      "PackagePath": "staticwebassets/Images/mi_vytahova_sachta3.png"
     },
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_weaver_house1.png",
