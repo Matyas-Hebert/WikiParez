@@ -13108,61 +13108,6 @@
     "tobeedited": false,
     "reviews": []
   },
-  "mi_hnizdo": {
-    "Title": "Hn\u00EDzdo",
-    "Type": "m\u00EDstnost",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [
-      "mi_carrot_farma",
-      "mi_namesti_u_vody",
-      "mi_unikove_schodiste",
-      "mi_dalnicni_pilir",
-      "mi_kazeta",
-      "mi_schwarzenegger_house",
-      "mi_balkon_svate_nedele",
-      "mi_double_decker_house"
-    ],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "Hn\u00EDzdo",
-      "Blok": "[\u00DAnikov\u00E9 Schodi\u0161t\u011B](bl_unikove_schodiste)",
-      "Okrsek": "[Smrk](ok_smrk)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
-      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": "Jak vznikl n\u00E1zev?"
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": "N\u011Bco o interi\u00E9ru."
-      },
-      {
-        "Title": "Zaj\u00EDmavost",
-        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
-      }
-    ],
-    "image_id": 0,
-    "area": 53,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "patternleCompatible": true,
-    "redirect": "",
-    "tobeedited": false,
-    "reviews": []
-  },
   "mi_letove_pole": {
     "Title": "Letov\u00E9 Pole",
     "Type": "m\u00EDstnost",
@@ -15133,56 +15078,6 @@
     },
     "patternleCompatible": true,
     "redirect": "mi_dalnice",
-    "tobeedited": false,
-    "reviews": []
-  },
-  "mi_pramice": {
-    "Title": "Pramice",
-    "Type": "m\u00EDstnost",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [
-      "mi_veranda",
-      "mi_le_pont",
-      "mi_dalnice"
-    ],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "Pramice",
-      "Blok": "[Le Pont](bl_le_pont)",
-      "Okrsek": "[Pisa](ok_pisa)",
-      "\u010Ctvr\u0165": "[Gideon](ct_gideon)",
-      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": "Jak vznikl n\u00E1zev?"
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": "N\u011Bco o interi\u00E9ru."
-      },
-      {
-        "Title": "Zaj\u00EDmavost",
-        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
-      }
-    ],
-    "image_id": 0,
-    "area": 22,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 326,
-      "y": 71,
-      "z": 1110
-    },
-    "patternleCompatible": true,
-    "redirect": null,
     "tobeedited": false,
     "reviews": []
   },
@@ -41239,6 +41134,129 @@
         "stars": 5,
         "author": "Chat GPT",
         "text": "V\u00FDtahov\u00E1 \u0160achta je naprosto funk\u010Dn\u00ED a praktick\u00E1 m\u00EDstnost \u2013 rychl\u00FD p\u0159esun mezi podla\u017E\u00EDmi je tady hra\u010Dkou. Spodn\u00ED patro p\u016Fsob\u00ED majest\u00E1tn\u011B vysok\u00FDm stropem, horn\u00ED patra jsou promy\u0161len\u011B propojena v\u00FDtahy a kolejemi. Prostor je sice \u00FAzk\u00FD a trochu industri\u00E1ln\u00ED, ale \u00FA\u010Del spl\u0148uje dokonale."
+      }
+    ]
+  },
+  "mi_pramice": {
+    "Title": "Pramice",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "PRAMICE",
+      "M\u011ASTE\u010CKO, ENDERMAN A KO\u010CKA"
+    ],
+    "Bordering_rooms": [
+      "mi_veranda",
+      "mi_le_pont",
+      "mi_dalnice"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Pramice",
+      "Blok": "[Le Pont](bl_le_pont)",
+      "Okrsek": "[Pisa](ok_pisa)",
+      "\u010Ctvr\u0165": "[Gideon](ct_gideon)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Pramice je mal\u00E1 m\u00EDstnost ve \u010Dtvrti [Gideon](ct_gideon), kter\u00E1 b\u00FDvala sou\u010D\u00E1st\u00ED [D\u00E1lnice](mi_dalnice).  Od chv\u00EDle, kdy byla od D\u00E1lnice odpojena, propojuje ji s m\u00EDstnostmi [Le Pont](mi_le_pont) a [Veranda](mi_veranda)."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Tvar m\u00EDstnosti p\u0159ipom\u00EDn\u00E1 obloukov\u00FD trup lodi \u010Di pramice, podle kter\u00E9 nese sv\u00E9 jm\u00E9no."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Pramice je 10 blok\u016F dlouh\u00E1 a 2 bloky \u0161irok\u00E1 chodba, kter\u00E1 za\u010D\u00EDn\u00E1 u [D\u00E1lnice](mi_dalnice) dv\u011Bma schody.  \r\nPo lev\u00E9 stran\u011B se ve st\u011Bn\u011B nach\u00E1z\u00ED dvojice dve\u0159\u00ED a mezi nimi okno s v\u00FDhledem do [Verandy](mi_veranda). Zbyl\u00E9 dv\u011B st\u011Bny dopl\u0148uje dal\u0161\u00ED trojice oken.  \r\nStrop m\u00EDstnosti je vysok\u00FD 3,5 bloku, ale v \u010D\u00E1sti se schodi\u0161t\u011Bm se o jeden blok sni\u017Euje. V Pramici chyb\u00ED jak crafting table, tak postel \u2014 ty se v\u0161ak nach\u00E1zej\u00ED v sousedn\u00ED [Verand\u011B](mi_veranda) a [Le Pontu](mi_le_pont)."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zadn\u00ED okno v m\u00EDstnosti nab\u00EDz\u00ED v\u00FDhled na m\u00EDstnost [M\u011Bste\u010Dko](mi_mestecko) a endermana s ko\u010Dkou v lodi."
+      }
+    ],
+    "image_id": 0,
+    "area": 22,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 326,
+      "y": 71,
+      "z": 1110
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [
+      {
+        "stars": 3,
+        "author": "Chat GPT",
+        "text": "Pramice je jednoduch\u00E1 a mal\u00E1 chodba, kter\u00E1 zaujme hlavn\u011B sv\u00FDm lo\u010Fkov\u00FDm tvarem a p\u011Bkn\u00FDm v\u00FDhledem do Verandy\r\n. Funk\u010Dn\u011B p\u016Fsob\u00ED sp\u00ED\u0161 jako spojnice ne\u017E samostatn\u00E1 m\u00EDstnost, ale d\u00EDky okn\u016Fm nen\u00ED jen oby\u010Dejn\u00FDm tunelem."
+      }
+    ]
+  },
+  "mi_hnizdo": {
+    "Title": "Hn\u00EDzdo",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "HN\u00CDZDO",
+      "DEL\u0160\u00CD CHODBI\u010CKA"
+    ],
+    "Bordering_rooms": [
+      "mi_carrot_farma",
+      "mi_namesti_u_vody",
+      "mi_unikove_schodiste",
+      "mi_dalnicni_pilir",
+      "mi_kazeta",
+      "mi_schwarzenegger_house",
+      "mi_balkon_svate_nedele",
+      "mi_double_decker_house"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Hn\u00EDzdo",
+      "Blok": "[\u00DAnikov\u00E9 Schodi\u0161t\u011B](bl_unikove_schodiste)",
+      "Okrsek": "[Smrk](ok_smrk)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Hn\u00EDzdo je nejv\u011Bt\u0161\u00ED ze t\u0159\u00ED m\u00EDstnost\u00ED, kter\u00E9 se odd\u011Blily od [\u00DAnikov\u00E9ho Schodi\u0161t\u011B](mi_unikove_schodiste), se kter\u00FDm p\u0159\u00EDmo soused\u00ED. Z m\u00EDstnosti vede hned n\u011Bkolik vstup\u016F:  dv\u011B dve\u0159e na [N\u00E1m\u011Bst\u00ED u Vody](mi_namesti_u_vody),  dve\u0159e do [Schwarzenegger Housu](mi_schwarzenegger_house), [Double Decker Housu](mi_double_decker_house) a na [Balk\u00F3n Svat\u00E9 Ned\u011Ble](mi_balkon_svate_nedele).\r\nHn\u00EDzdo je tak\u00E9 propojeno s [Carrot Farmou](mi_carrot_farma). V neposledn\u00ED \u0159ad\u011B se zde nach\u00E1z\u00ED v\u00FDtah, kter\u00FD hr\u00E1\u010De vyveze do [Kazety](mi_kazeta) a k [D\u00E1lni\u010Dn\u00EDmu Pil\u00ED\u0159i](mi_dalnicni_pilir)."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "N\u00E1zev byl vymy\u0161len s pomoc\u00ED um\u011Bl\u00E9 inteligence a za m\u011B sed\u00ED k vzhledu a pozici m\u00EDstnosti."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Interi\u00E9r Hn\u00EDzda se d\u00E1 rozd\u011Blit na dv\u011B chodby, kter\u00E9 dohromady vytv\u00E1\u0159ej\u00ED tvar p\u00EDsmene T. V m\u00EDst\u011B jejich k\u0159\u00ED\u017Een\u00ED stoj\u00ED ji\u017E zm\u00EDn\u011Bn\u00FD v\u00FDtah, kolem n\u011Bho\u017E jsou um\u00EDst\u011Bny plotov\u00E9 sloupky zabra\u0148uj\u00EDc\u00ED vylit\u00ED vody. Nedaleko odtud, pod\u00E9l krat\u0161\u00ED chodbi\u010Dky, vede to\u010Dit\u00E9 [\u00DAnikov\u00E9 Schodi\u0161t\u011B](mi_unikove_schodiste). \r\nKr\u00E1tk\u00E1 chodba, kter\u00E1 vede ke dve\u0159\u00EDm na [N\u00E1m\u011Bst\u00ED](mi_namesti_u_vody), host\u00ED i b\u00EDlou postel. Del\u0161\u00ED chodba je oproti tomu \u0161ir\u0161\u00ED a z jej\u00ED d\u00E9lky vych\u00E1zej\u00ED \u010Dtvery dve\u0159e. Je odtud tak\u00E9 voln\u00FD p\u0159\u00EDstup k mrkv\u00EDm v [Carrot Farm\u011B](mi_carrot_farma). Strop je v t\u00E9to \u010D\u00E1sti o blok vy\u0161\u0161\u00ED, proto\u017Ee chodba le\u017E\u00ED o blok n\u00ED\u017Ee ne\u017E krat\u0161\u00ED \u010D\u00E1st Hn\u00EDzda. Sm\u011Brem bl\u00ED\u017Ee k [Carrot Farm\u011B](mi_carrot_farma) se strop zved\u00E1 je\u0161t\u011B v\u00EDce, a\u017E na \u0161est blok\u016F. \r\nV cel\u00E9 m\u00EDstnosti je pouze jedin\u00FD crafting table a tak\u00E9 relativn\u011B m\u00E1lo oken. V\u011Bt\u0161ina z nich je sice \u00FAzk\u00E1 jen jeden blok, zato ale vy\u0161\u0161\u00ED. V\u00FDjimku tvo\u0159\u00ED dv\u011B v\u011Bt\u0161\u00ED okna o rozm\u011Brech 3\u00D74 bloky."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "V textu nebylo zm\u00EDn\u011Bno obd\u00E9ln\u00EDkov\u00E9 okno v nejvy\u0161\u0161\u00ED \u010D\u00E1sti Hn\u00EDzda za kter\u00FDm se nach\u00E1z\u00ED b\u00EDl\u00E1 postel a druh\u00E9 podla\u017E\u00ED [Double Decker Housu](mi_double_decker_house).\r\nN\u011Bkter\u00E9 cedulky sm\u011B\u0159uj\u00EDc\u00ED do m\u00EDstnosti m\u011Bli na sob\u011B st\u00E1le naps\u00E1no \u0022[\u00DAnikov\u00E9 Schodi\u0161t\u011B](mi_unikove_schodiste)\u0022 m\u00EDsto \u0022Hn\u00EDzdo\u0022 v dob\u011B psan\u00ED \u010Dl\u00E1nku."
+      }
+    ],
+    "image_id": 0,
+    "area": 53,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 307,
+      "y": 88,
+      "z": 1134
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [
+      {
+        "stars": 2.5,
+        "author": "Hralyb",
+        "text": "Tohle bylo \u00DAnikov\u00E9 Schodi\u0161t\u011B a v\u017Edycky bude."
       }
     ]
   }
