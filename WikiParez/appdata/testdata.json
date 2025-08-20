@@ -17331,7 +17331,9 @@
       "Com",
       "Smi",
       "Bla",
-      "Orp"
+      "Orp",
+      "Bre",
+      "Vi3"
     ]
   },
   "mi_gideon": {
@@ -34198,7 +34200,8 @@
     "utilities": [
       "Cra",
       "Bed",
-      "Bar"
+      "Bar",
+      "Vi3"
     ]
   },
   "mi_hospoda": {
@@ -39267,7 +39270,8 @@
       "Smi",
       "Anv",
       "Smo",
-      "Fur"
+      "Fur",
+      "Vi3"
     ]
   },
   "mi_lanterna": {

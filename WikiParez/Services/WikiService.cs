@@ -31,7 +31,7 @@ public class WikiService
 
     public WikiService(IHostEnvironment env)
     {
-        _path = Path.Combine(env.ContentRootPath, "appdata", "testdata.json");
+        _path = Path.Combine(env.ContentRootPath, "appdata", "pagesData.json");
         _pathsplash = Path.Combine(env.ContentRootPath, "appdata", "splashtexts.txt");
         _pathtopparezle = Path.Combine(env.ContentRootPath, "appdata", "parezlescores.json");
         Console.WriteLine(_path);
