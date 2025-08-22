@@ -101,6 +101,9 @@
     <div class="text-center">
         <h1 class="display-4">Vítej na Pařez Wiki</h1>
         <p>Stránka o @Model.Type @Model.Title.</p>
+        @if (Model.tobeedited){
+            <p style="color: rgb(155, 63, 63); font-size: x-large;"><b>!!! TATO STRÁNKA MŮŽE OBSAHOVAT NEPLATNÉ NEBO ZASTARALÉ INFO !!!</b></p>
+        }
     </div>
 
     @if (ViewBag.Slug == "mi_villager_house" && random.NextDouble() < 0.30){
