@@ -15,6 +15,8 @@ using Microsoft.AspNetCore.SignalR;
 using System.Numerics;
 using System.Linq;
 using System.Text;
+using AspNetCoreGeneratedDocument;
+using Microsoft.AspNetCore.Components.Web;
 
 public class WikiService
 {
@@ -25,6 +27,7 @@ public class WikiService
     private Dictionary<string, WikiPage> _onlyroomspages;
     private Dictionary<string, SimplifiedWikiPage> _simplifiedPages;
     private Dictionary<string, Coordinates> _patternlepages;
+    private Dictionary<string, VlaklePage> _vlaklepages;
 
     private int finishedPages = 0;
     private int totalpages = 0;
@@ -40,30 +43,7 @@ public class WikiService
         _onlyroomspages = LoadOnlyRoomPages();
         _simplifiedPages = GetSimplifiedDict();
         _patternlepages = LoadCoordinatesPages();
-
-        /**if (File.Exists(_path))
-        {
-            var json = File.ReadAllText(Path.Combine(env.ContentRootPath, "appdata", "airatings.json"));
-            var dictionary = JsonSerializer.Deserialize<Dictionary<string, string>>(json) ?? new Dictionary<string, string>();
-            foreach (var key in dictionary.Keys)
-            {
-                if (_pages.ContainsKey(key))
-                {
-                    for (var i = 0; i < dictionary[key].Length / 3; i++)
-                    {
-                        var utility = dictionary[key].Substring(i * 3, 3);
-                        _pages[key].utilities.Add(utility);
-                    }
-                }
-            }
-            var options = new JsonSerializerOptions
-            {
-                WriteIndented = true
-            };
-            string jsonString = JsonSerializer.Serialize(_pages, options);
-            var bytes = Encoding.UTF8.GetBytes(jsonString);
-            File.WriteAllBytes(Path.Combine(env.ContentRootPath, "appdata", "testdata.json"), bytes);
-        }**/
+        _vlaklepages = LoadVlaklePages();
     }
 
     public Dictionary<string, double> GetTopParezleRooms()
@@ -148,6 +128,39 @@ public class WikiService
         }
         //Console.WriteLine(i + "rooms");
         return coords;
+    }
+
+    private Dictionary<string, VlaklePage> LoadVlaklePages()
+    {
+        var vlaklepages = new Dictionary<string, VlaklePage>();
+        var forbiddenrooms = new List<string>();
+        forbiddenrooms.AddRange(["mi_dalnice", "mi_dalnicni_pilir", "mi_hraz", "mi_the_bridge", "mi_the_overpass", "mi_vytahova_sachta", "mi_pristav", "mi_pit_stop", "mi_kanal", "mi_pristavni_molo", "mi_smycka", "mi_jezirko", "mi_koupaci_jezirko"]);
+        foreach (var pagekey in _pages.Keys)
+        {
+            var page = _pages[pagekey];
+            if (page.Type == "místnost" && pagekey.StartsWith("mi"))
+            {
+                vlaklepages[pagekey] = new VlaklePage
+                {
+                    Title = page.Title,
+                    Bordering_rooms = new List<string>(),
+                    utilities = page.utilities
+                };
+                foreach (var borderingroom in page.Bordering_rooms)
+                {
+                    if (!forbiddenrooms.Contains(borderingroom) && _pages[borderingroom].Bordering_rooms.Contains(pagekey))
+                    {
+                        vlaklepages[pagekey].Bordering_rooms.Add(borderingroom);
+                    }
+                }
+            }
+        }
+        return vlaklepages;
+    }
+
+    public Dictionary<string, VlaklePage> GetVlaklePages()
+    {
+        return _vlaklepages;
     }
 
     public Dictionary<string, Coordinates> GetNCoordinates(int n)

@@ -1,0 +1,177 @@
+<style>
+    html, body {
+    margin: 0;
+    padding: 0;
+    }
+    main, .container {
+    margin: 0;
+    padding: 0;
+    max-width: none;
+    }
+</style>
+
+@if (Model != null){
+    <div style="width:100vw; height:100vh; display: flex; flex-orientation: horizontal;">
+        <svg style="background-color: rgb(217, 255, 192); flex: 4;"></svg>
+        <div style="flex: 1; min-width: 450px;">
+            <button style="border-radius: 50%; height: 25px; width: 25px; background-color: red;"></button>
+        </div>
+    </div>
+    <button onclick="addBorderingRoom()"></button>
+}
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script>
+    var rooms = @Html.Raw(Json.Serialize(Model));
+    var nodes = [];
+    addRandomRoom();
+    var links = [];
+    var lines = [
+    { color: "red", nodes: [] }
+    ];
+    let isMouseDown = false;
+    var lastX, lastY;
+
+    var highlightedNode = "";
+
+    function addRandomRoom(){
+        let keys = Object.keys(rooms);
+        let len = keys.length;
+        var rand = Math.floor(Math.random() * len);
+        nodes.push( {id: keys[rand], name: rooms[keys[rand]].title} );
+    }
+
+    function addBorderingRoom(){
+        while(true){
+            let rand = Math.floor(Math.random() * nodes.length);
+            let node = nodes[rand];
+            let borderingRooms = rooms[node.id].bordering_rooms;
+            let randBorderingRoom = borderingRooms[Math.floor(Math.random() * borderingRooms.length)];
+            if (!isIDInNodes(randBorderingRoom)){
+                nodes.push( {id: randBorderingRoom, name: rooms[randBorderingRoom].title} );
+                let newRoomBorderingRooms = rooms[randBorderingRoom].bordering_rooms;
+                nodes.forEach(n => {
+                    if (newRoomBorderingRooms.includes(n.id)){
+                        links.push( {source: randBorderingRoom, target: n.id, lines: ["blue"]} );
+                    }
+                });
+                break;
+            }
+        }
+        simulate();
+        render();
+    }
+
+    function isIDInNodes(id) {
+        return nodes.some(n => n.id === id);
+    }
+
+    function simulate(){
+        var qssvg = document.querySelector("svg");
+        const rect = qssvg.getBoundingClientRect();
+        let width = rect.width;
+        let height = rect.height;
+        var svg = d3.select("svg");
+        var simulation = d3.forceSimulation(nodes)
+        .force("link", d3.forceLink(links).id(d => d.id).distance(100))
+        .force("charge", d3.forceManyBody().strength(-2000))
+        .force("center", d3.forceCenter(width/2, height/2))
+        .force("x", d3.forceX(width/2).strength(0.1))
+        .force("y", d3.forceY(height/2).strength(0.1));
+        document.querySelector("svg").innerHTML = "";
+
+        for (let i = 0; i < 300; i++) simulation.tick();
+        simulation.stop();
+
+        svg.on("mouseup", function(event) {
+            isMouseDown = false;
+            const [x, y] = d3.pointer(event, this);
+            render();
+        });
+        svg.on("mousedown", function(event) {
+            isMouseDown = true;
+            const [x, y] = d3.pointer(event, this);
+            lastX = x;
+            lastY = y;
+        });
+        svg.on("mousemove", function(event) {
+            if (!isMouseDown) return;
+            const [x, y] = d3.pointer(event, this);
+            nodes.forEach(n => {
+                console.log(n);
+                console.log("position of node: ", n.x, n.y);
+                console.log("current position: ", x, y);
+                console.log("last position: ", lastX, lastY);
+                n.x += (x - lastX);
+                n.y += (y - lastY);
+            });
+            lastX = x;
+            lastY = y;
+            render();
+        });
+
+        console.log("Final node positions:");
+        nodes.forEach(n => console.log(n.id, n.x, n.y));
+    }
+
+    function render(){
+        var svg = d3.select("svg");
+        let linkSelection = svg.selectAll("line").data(links);
+        let linkEnter = linkSelection.enter()
+            .append("line")
+            .attr("stroke", d => d.lines.length > 0 ? d.lines[0] : "black")
+            .attr("stroke-width", d => d.lines.length > 0 ? 8 : 1);
+        linkEnter.merge(linkSelection)
+            .attr("x1", d => d.source.x)
+            .attr("y1", d => d.source.y)
+            .attr("x2", d => d.target.x)
+            .attr("y2", d => d.target.y)
+            .attr("class", "link");
+
+        let linkHitbox = svg.selectAll(".link-hitbox").data(links);
+        let linkHitboxEnter = linkHitbox.enter()
+            .append("line")
+            .attr("class", "link-hitbox")
+            .attr("stroke", "transparent")
+            .attr("stroke-width", 10)
+            .style("cursor", "pointer")
+            .on("click", function(event, d) {
+                d3.select(this)
+                .attr("stroke", "red");
+                d.lines = ["red"];
+            });
+        
+        linkHitboxEnter.merge(linkHitbox)
+            .attr("x1", d => d.source.x)
+            .attr("y1", d => d.source.y)
+            .attr("x2", d => d.target.x)
+            .attr("y2", d => d.target.y);
+
+        let nodeGroups = svg.selectAll(".node-group").data(nodes);
+        let nodeGroupsEnter = nodeGroups.enter()
+            .append("g")
+            .attr("class", "node-group")
+            .on("click", (event, d) => alert("Clicked: " + d.id));
+
+        nodeGroupsEnter.append("circle")
+            .attr("r", 20)
+            .attr("fill", "steelblue");
+
+        nodeGroupsEnter.append("text")
+            .attr("text-anchor", "middle")
+            .attr("font-size", "12px")
+            .attr("fill", "white")
+            .attr("stroke", "black")
+            .attr("stroke-width", 0.5);
+
+        let nodeGroupsUpdate = nodeGroupsEnter.merge(nodeGroups);
+
+        nodeGroupsUpdate.select("circle")
+            .attr("cx", d => d.x)
+            .attr("cy", d => d.y);
+
+        nodeGroupsUpdate.select("text")
+            .attr("x", d => d.x)
+            .attr("y", d => d.y - 25)
+            .text(d => d.name);
+    }
+</script>

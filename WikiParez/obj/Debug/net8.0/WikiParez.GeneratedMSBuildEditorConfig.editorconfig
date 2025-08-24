@@ -46,6 +46,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvR2FtZS9QYXR0ZXJubGUvUGF0dGVybmxlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[/root/wikiparez/WikiParez/Views/Game/Vlakle/Vlakle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvR2FtZS9WbGFrbGUvVmxha2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/root/wikiparez/WikiParez/Views/Home/Ideas.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JZGVhcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

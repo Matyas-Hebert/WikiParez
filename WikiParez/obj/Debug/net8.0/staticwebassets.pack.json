@@ -837,6 +837,22 @@
       "PackagePath": "staticwebassets/Images/mi_mestsky_okruh2.png"
     },
     {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_moderator1.png",
+      "PackagePath": "staticwebassets/Images/mi_moderator1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_moderator2.png",
+      "PackagePath": "staticwebassets/Images/mi_moderator2.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_moderator3.png",
+      "PackagePath": "staticwebassets/Images/mi_moderator3.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_moderator4.png",
+      "PackagePath": "staticwebassets/Images/mi_moderator4.png"
+    },
+    {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_mostiste1.png",
       "PackagePath": "staticwebassets/Images/mi_mostiste1.png"
     },

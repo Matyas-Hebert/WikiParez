@@ -646,7 +646,9 @@
     "redirect": null,
     "tobeedited": false,
     "reviews": [],
-    "utilities": ["Bea"]
+    "utilities": [
+      "Bea"
+    ]
   },
   "os_marcela_hebertova": {
     "Title": "Marcela Hebertov\u00E1",
@@ -41858,60 +41860,6 @@
       "Cra"
     ]
   },
-  "mi_moderator": {
-    "Title": "Moder\u00E1tor",
-    "Type": "m\u00EDstnost",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [
-      "mi_kukatko",
-      "mi_hosta"
-    ],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "Moder\u00E1tor",
-      "Blok": "[Lilek](bl_lilek) a [Buben](bl_buben)",
-      "Okrsek": "[K\u0159\u00EDdlo](ok_kridlo) a [Tr\u00F3ja](ok_troja)",
-      "\u010Ctvr\u0165": "[Kmen](ct_kmen) a [Tr\u00F3ja](ct_troja)",
-      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez) a [Tr\u00F3ja](ca_troja)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": "Jak vznikl n\u00E1zev?"
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": "N\u011Bco o interi\u00E9ru."
-      },
-      {
-        "Title": "Zaj\u00EDmavost",
-        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
-      }
-    ],
-    "image_id": 0,
-    "area": 0,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 345,
-      "y": 130,
-      "z": 1164
-    },
-    "patternleCompatible": false,
-    "redirect": null,
-    "tobeedited": false,
-    "reviews": [],
-    "utilities": [
-      "Cra",
-      "Bed",
-      "Bar"
-    ]
-  },
   "mm_moderator_1": {
     "Title": "Redirecting",
     "Type": "m\u00EDstnost",
@@ -43763,7 +43711,10 @@
     "redirect": null,
     "tobeedited": false,
     "reviews": [],
-    "utilities": ["Cra", "Lav"]
+    "utilities": [
+      "Cra",
+      "Lav"
+    ]
   },
   "mi_stopa": {
     "Title": "Stopa",
@@ -43817,6 +43768,65 @@
     "reviews": [],
     "utilities": [
       "Non"
+    ]
+  },
+  "mi_moderator": {
+    "Title": "Moder\u00E1tor",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "MODER\u00C1TOR",
+      "ROVN\u00C1 \u010C\u00C1ST",
+      "ZAOBLEN\u00C1 \u010C\u00C1ST",
+      "KOUTEK"
+    ],
+    "Bordering_rooms": [
+      "mi_kukatko",
+      "mi_hosta"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Moder\u00E1tor",
+      "Blok": "[Lilek](bl_lilek) a [Buben](bl_buben)",
+      "Okrsek": "[K\u0159\u00EDdlo](ok_kridlo) a [Tr\u00F3ja](ok_troja)",
+      "\u010Ctvr\u0165": "[Kmen](ct_kmen) a [Tr\u00F3ja](ct_troja)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez) a [Tr\u00F3ja](ca_troja)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Moder\u00E1tor je dlouh\u00E1 chodba a most spojuj\u00EDc\u00ED m\u00EDstnosti [Kuk\u00E1tko](mi_kukatko) a [Hosta](mi_hosta), je\u017E se nach\u00E1zej\u00ED ve dvou r\u016Fzn\u00FDch \u010D\u00E1stech domu. Kv\u016Fli tomu je i Moder\u00E1tor rozd\u011Blen na dv\u011B \u010D\u00E1sti mezi dva bloky ve dvou r\u016Fzn\u00FDch \u010D\u00E1stech."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Moder\u00E1tor je velk\u00E1 m\u00EDstnost na rozd\u00EDl od bl\u00EDzk\u00E9 [Hosty](mi_hosta)."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Moder\u00E1tor je rozd\u011Blen na dv\u011B odli\u0161n\u00E9 \u010D\u00E1sti. Prvn\u00ED tvo\u0159\u00ED rovn\u00E1, dva bloky \u0161irok\u00E1 chodba, jej\u00ED\u017E vzhled \u010D\u00E1ste\u010Dn\u011B p\u0159ipom\u00EDn\u00E1 [Akvadukt](mi_akvadukt). Pravideln\u011B se zde st\u0159\u00EDdaj\u00ED \u010Dtvercov\u00E1 okna s n\u00EDzk\u00FDmi, jeden blok vysok\u00FDmi nezasklen\u00FDmi otvory. Tento cel\u00FD \u00FAsek le\u017E\u00ED v bloku [Lilek](bl_lilek), a tedy v r\u00E1mci [K\u0159\u00EDdla](ok_kridlo). Zven\u010D\u00ED je podp\u00EDr\u00E1n sloupem, kter\u00FD je jako jedin\u00FD podp\u00EDr\u00E1 konstrukci Moder\u00E1tora.\r\nPo t\u0159iceti dvou bloc\u00EDch se chodba st\u00E1\u010D\u00ED doleva a p\u0159ech\u00E1z\u00ED do \u010Dtvrtkruhu. Na jeho za\u010D\u00E1tku se nach\u00E1z\u00ED mal\u00FD koutek s postel\u00ED, crafting tablem a barelem. Tento prostor vznikl roz\u0161\u00ED\u0159en\u00EDm chodby na dvojn\u00E1sobnou \u0161\u00ED\u0159ku, aby byl pr\u016Fchod p\u0159\u00EDjemn\u011Bj\u0161\u00ED. Okna jsou zde rozm\u00EDst\u011Bna pouze v rovn\u00FDch \u00FAsec\u00EDch st\u011Bn, a proto jich je nejv\u00EDce na za\u010D\u00E1tku a konci \u010Dtvrtkruhu.  \r\nCel\u00FD Moder\u00E1tor zakon\u010Duje kr\u00E1tk\u00E9 schodi\u0161t\u011B sm\u011B\u0159uj\u00EDc\u00ED dol\u016F do horn\u00ED \u010D\u00E1sti v\u011B\u017Ee Buben, do m\u00EDstnosti [Kuk\u00E1tko](mi_kukatko). Moder\u00E1tor m\u00E1 v\u00FD\u0161ku t\u0159i a p\u016Fl bloku a je osv\u011Btlen ruditov\u00FDmi lampami zapu\u0161t\u011Bn\u00FDmi v podlaze, kter\u00E9 jsou viditeln\u00E9 i zvenku."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Moder\u00E1tor v\u00FDrazn\u011B sn\u00ED\u017Eil d\u016Fle\u017Eitost [Venkovn\u00EDho Schodi\u0161t\u011B](mi_venkovni_schodiste), je\u017E bylo jedin\u00FDm zp\u016Fsobem jak se dostat do [K\u0159\u00EDdla](ok_kridlo)."
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 345,
+      "y": 130,
+      "z": 1164
+    },
+    "patternleCompatible": false,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": [
+      "Cra",
+      "Bed",
+      "Bar"
     ]
   }
 }

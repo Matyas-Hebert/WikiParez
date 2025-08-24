@@ -158,6 +158,13 @@ namespace WikiParez.Controllers
         }
 
         [HttpGet]
+        [Route("Game/Vlakle")]
+        public IActionResult Vlakle()
+        {
+            return View("Vlakle/Vlakle", _wikiService.GetVlaklePages());
+        }
+
+        [HttpGet]
         [Route("Game/Patternle/6")]
         public IActionResult Patternle6()
         {
