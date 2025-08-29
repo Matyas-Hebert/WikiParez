@@ -1,22 +1,4 @@
 Building...
-/root/wikiparez/WikiParez/Services/WikiService.cs(80,31): warning CS8604: Possible null reference argument for parameter 'key' in 'WikiPage Dictionary<string, WikiPage>.this[string key]'. [/root/wikiparez/WikiParez/WikiParez.csproj]
-/root/wikiparez/WikiParez/Controllers/WikiController.cs(45,38): warning CS8602: Dereference of a possibly null reference. [/root/wikiparez/WikiParez/WikiParez.csproj]
-/root/wikiparez/WikiParez/Controllers/WikiController.cs(60,51): warning CS8604: Possible null reference argument for parameter 'slug' in 'WikiPage? WikiService.GetPageBySlug(string slug)'. [/root/wikiparez/WikiParez/WikiParez.csproj]
-/root/wikiparez/WikiParez/Controllers/WikiController.cs(61,38): warning CS8602: Dereference of a possibly null reference. [/root/wikiparez/WikiParez/WikiParez.csproj]
-/root/wikiparez/WikiParez/Controllers/WikiController.cs(74,38): warning CS8602: Dereference of a possibly null reference. [/root/wikiparez/WikiParez/WikiParez.csproj]
-/root/wikiparez/WikiParez/Controllers/WikiController.cs(94,38): warning CS8602: Dereference of a possibly null reference. [/root/wikiparez/WikiParez/WikiParez.csproj]
-/root/wikiparez/WikiParez/Controllers/WikiController.cs(106,32): warning CS8600: Converting null literal or possible null value to non-nullable type. [/root/wikiparez/WikiParez/WikiParez.csproj]
-/root/wikiparez/WikiParez/Controllers/WikiController.cs(107,32): warning CS8600: Converting null literal or possible null value to non-nullable type. [/root/wikiparez/WikiParez/WikiParez.csproj]
-/root/wikiparez/WikiParez/Controllers/GameController.cs(26,43): warning CS8602: Dereference of a possibly null reference. [/root/wikiparez/WikiParez/WikiParez.csproj]
-/root/wikiparez/WikiParez/Controllers/GameController.cs(40,51): warning CS8604: Possible null reference argument for parameter 'item' in 'void List<WikiPage>.Add(WikiPage item)'. [/root/wikiparez/WikiParez/WikiParez.csproj]
-/root/wikiparez/WikiParez/Controllers/GameController.cs(46,51): warning CS8604: Possible null reference argument for parameter 'item' in 'void List<WikiPage>.Add(WikiPage item)'. [/root/wikiparez/WikiParez/WikiParez.csproj]
-/root/wikiparez/WikiParez/Controllers/GameController.cs(66,46): warning CS8604: Possible null reference argument for parameter 'item' in 'void List<WikiPage>.Add(WikiPage item)'. [/root/wikiparez/WikiParez/WikiParez.csproj]
-/root/wikiparez/WikiParez/Controllers/GameController.cs(66,53): warning CS8604: Possible null reference argument for parameter 'item' in 'void List<WikiPage>.Add(WikiPage item)'. [/root/wikiparez/WikiParez/WikiParez.csproj]
-/root/wikiparez/WikiParez/Services/WikiService.cs(319,34): warning CS8604: Possible null reference argument for parameter 'item' in 'void List<string>.Add(string item)'. [/root/wikiparez/WikiParez/WikiParez.csproj]
-/root/wikiparez/WikiParez/Controllers/GameController.cs(254,25): warning CS8602: Dereference of a possibly null reference. [/root/wikiparez/WikiParez/WikiParez.csproj]
-/root/wikiparez/WikiParez/Controllers/GameController.cs(255,25): warning CS8602: Dereference of a possibly null reference. [/root/wikiparez/WikiParez/WikiParez.csproj]
-/root/wikiparez/WikiParez/Controllers/GameController.cs(294,46): warning CS8604: Possible null reference argument for parameter 'item' in 'void List<WikiPage>.Add(WikiPage item)'. [/root/wikiparez/WikiParez/WikiParez.csproj]
-/root/wikiparez/WikiParez/Controllers/GameController.cs(294,53): warning CS8604: Possible null reference argument for parameter 'item' in 'void List<WikiPage>.Add(WikiPage item)'. [/root/wikiparez/WikiParez/WikiParez.csproj]
 info: Microsoft.Hosting.Lifetime[14]
       Now listening on: http://localhost:5268
 info: Microsoft.Hosting.Lifetime[0]
@@ -101,6 +83,7 @@ mi_beetroot_farma: 1349
 mi_ropna_plosina_b: 1329
 mi_dum_margity_stehlikove: 1329
 mi_plaminek: 1323
+mi_moderator: 1312
 mi_hvezda: 1302
 mi_armory: 1300
 bl_ropna_plosina: 1299
@@ -112,6 +95,7 @@ mi_holic: 1267
 mi_kino_scala: 1258
 mi_policka: 1250
 mi_vedomi: 1245
+mi_velehumry: 1245
 mi_lokace: 1211
 mi_balkon_ctvrtka: 1211
 mi_zakini: 1206
@@ -147,6 +131,7 @@ mi_vault: 1001
 mi_magistrala: 984
 mi_hlidkovaci_kos: 983
 mi_tajna_mistnost: 981
+mi_stoupani: 981
 mi_kroky: 970
 mi_weaver_house: 949
 mi_paluba: 946
@@ -179,6 +164,7 @@ mi_podlir: 752
 mi_gideon_tunel: 748
 mi_pramice: 747
 mi_motor: 741
+mi_zastavka: 738
 mi_paradox: 707
 mi_vez_5_podlazi: 701
 mi_vez_2_podlazi: 664
@@ -204,7 +190,7 @@ ok_sneci_raj: 376
 ka_by_kiki: 359
 mi_ulita: 349
 bl_jezirko: 329
-229506/229506 (1)
+233782/233782 (1)
 links
 ca_parez: 436
 ca_nove_dili: 173
@@ -212,35 +198,37 @@ ct_koren: 158
 ct_kmen: 121
 ca_troja: 117
 ct_troja: 67
+te_mravenci_draha: 66
 ct_rybarska_kolonie: 65
 ca_sibir: 65
-te_mravenci_draha: 64
 ct_propast: 53
 ok_veveri: 43
+ok_kridlo: 43
 ok_dub: 43
 ok_gulas: 42
 ok_smrk: 41
-ok_kridlo: 41
 ct_goias: 41
 ok_benatky: 39
 bl_vez: 39
 mi_the_airship: 35
 ct_basgiath: 34
+mi_dalnicni_pilir: 34
 ct_gideon: 32
-mi_dalnicni_pilir: 31
-ct_zelezna_lhota: 30
+ct_zelezna_lhota: 31
 ct_gi: 30
+mi_dalnice: 28
 ct_dalnicni_kolonie: 28
 mi_silo: 27
-mi_dalnice: 27
 ct_gandalf: 26
 ok_obchodni_stredisko: 25
 ok_loosova_vila: 25
 mi_ropna_plosina: 24
 ok_herspice: 24
 mi_the_bridge: 22
+mi_zelezna_lhota: 22
 ok_zahradkarska_kolonie: 22
 ok_mutenicke_rybniky: 22
+mi_the_crossing: 21
 ok_the_airship: 21
 ok_doupe: 21
 ct_vietnamska_ctvrt: 21
@@ -250,11 +238,9 @@ mi_pavlac: 20
 bl_v_vez: 20
 ct_mrkev: 20
 mi_beetroot_farma: 19
-mi_the_crossing: 19
 ka_stromove_veze: 19
 mi_ulice_schodova: 18
 mi_spojnice: 18
-mi_zelezna_lhota: 18
 ok_zelezna_lhota: 18
 ct_nekonecno: 18
 mi_unikove_schodiste: 17
@@ -269,6 +255,7 @@ mi_hvezda: 16
 sp_orp: 16
 mi_dvojcata: 16
 ok_kapsa: 16
+bl_vestibul: 15
 mi_the_detour: 15
 mi_kahan: 15
 ct_expresionismus: 15
@@ -276,7 +263,6 @@ mi_hraz: 15
 ok_dalnicni_kolonie: 15
 ct_triangl: 15
 beacon_parez: 14
-bl_vestibul: 14
 bl_hlavni_trida: 14
 mi_dolni_nadrazi: 14
 mi_statek: 14
@@ -291,6 +277,7 @@ bl_viden: 13
 mi_viden: 13
 ok_pisa: 13
 ok_gideon: 13
+mi_vypln: 13
 mi_oranjestad: 12
 mi_double_decker_house: 12
 ok_pilir: 12
@@ -302,7 +289,7 @@ ok_atom: 12
 bl_vila: 12
 bl_sneci_raj: 12
 mi_plac: 12
-mi_vypln: 12
+mi_akvadukt: 12
 bl_barvy: 11
 mi_schodiste_tt: 11
 mi_mestsky_okruh: 11
@@ -320,8 +307,8 @@ ok_triangl: 11
 mi_rimsa: 11
 bl_papokoi: 11
 ok_most: 11
+mi_papokoi: 11
 os_gideon: 11
-mi_akvadukt: 11
 mi_ordinace_pink_lady: 10
 mi_dobra_voda: 10
 mi_draci_rotunda: 10
@@ -332,13 +319,12 @@ bl_piratska_lod: 10
 bl_koridory: 10
 mi_troja: 10
 os_krystof_baudys: 10
+bl_lilek: 10
 mi_preatrium: 10
 ok_troja: 10
-mi_papokoi: 10
 mi_sklenik_vychod: 10
 bl_ropna_plosina: 9
 mi_lodzie: 9
-bl_lilek: 9
 ok_vietnamsky_okrsek: 9
 ok_hradiste: 9
 ok_sud: 9
@@ -380,6 +366,7 @@ mi_balkon_ctvrtka: 8
 mi_pod_schodama: 8
 mi_plaminek: 8
 mi_na_moste: 8
+te_iron_golem_farma: 8
 mi_schodiste_aa: 7
 mi_nether: 7
 mi_pristavni_molo: 7
@@ -411,6 +398,7 @@ mi_kanal: 7
 mi_gideonuv_dum: 7
 mi_nevim_a_pece: 7
 mi_tranzit: 7
+mi_venkovni_schodiste: 7
 mi_rudakuv_dum: 6
 mi_parsley_attic: 6
 mi_pultova_strecha: 6
@@ -449,11 +437,10 @@ mi_sauron: 6
 os_kyticka: 6
 mi_kralici_dira: 6
 mi_potato_farma: 6
-mi_venkovni_schodiste: 6
 mi_zmatek: 6
-te_iron_golem_farma: 6
 mi_diagonala: 6
 mi_vystup: 6
+mi_humry: 6
 mi_the_terrass: 5
 mi_rubec: 5
 mi_balkon_svate_nedele: 5
@@ -471,6 +458,7 @@ mi_paluba: 5
 bl_katakomby: 5
 mi_ctverec: 5
 mi_zastavka: 5
+mi_podlir: 5
 bl_petrin: 5
 bl_kino: 5
 mi_orisek: 5
@@ -499,6 +487,7 @@ mi_vypikarna: 5
 mi_carrot_farma: 5
 mi_sobota: 5
 mi_vez_5_podlazi: 5
+mi_predel: 5
 bl_rozcesti: 5
 mi_lom: 5
 mi_tresen: 5
@@ -516,7 +505,6 @@ mi_pod_masou: 4
 mi_dira_do_pekel: 4
 mi_okap: 4
 mi_ufo: 4
-mi_podlir: 4
 mi_pod_vrbou: 4
 mi_hmla: 4
 mi_konska_sila: 4
@@ -544,6 +532,7 @@ mi_veta: 4
 mi_le_pont: 4
 mi_os: 4
 mi_pit_stop: 4
+mi_kolt: 4
 ok_mob_farma: 4
 ok_podhoubi: 4
 bl_hradby: 4
@@ -565,6 +554,7 @@ os_vit_baudys: 4
 mi_autobusak: 4
 mi_karotka: 4
 mi_parek: 4
+mi_kukatko: 4
 mi_micha: 4
 te_hrad_parez: 4
 mi_vecere: 3
@@ -631,7 +621,6 @@ bl_hospoda: 3
 bl_hudba: 3
 mi_arcanum: 3
 mi_zahradkarska_kolonie: 3
-mi_predel: 3
 sp_armory_parez: 3
 os_rustav_von_zelezo: 3
 bl_zelezna_lhota: 3
@@ -721,7 +710,6 @@ bl_lanterna: 2
 os_josef_suchanek: 2
 mi_audit: 2
 mi_dum_pana_brabce: 2
-mi_kukatko: 2
 mi_jizni_blok: 2
 mi_vychodni_blok: 2
 mi_mozek: 2
@@ -732,6 +720,9 @@ ok_prazce: 2
 bl_mrkev: 2
 beacon_nove_dili: 2
 mi_nekonecno: 2
+mi_hosta: 2
+mi_i_port: 2
+mi_stena: 2
 di_schodov: 1
 mi_smashy_house: 1
 mi_paranoia: 1
@@ -765,7 +756,6 @@ mi_plaz: 1
 mi_skokansky_stav: 1
 mi_rybarna: 1
 mi_po_hlave_dolu: 1
-mi_kolt: 1
 mi_tuba: 1
 mi_horni_nadrazi: 1
 mi_neropolis: 1
@@ -840,8 +830,9 @@ mi_uplnek: 1
 mi_rozbresk: 1
 mi_cervanky: 1
 pa_nove_dili: 1
-5235/5282 (0.991101855357819)
-Total of: 229506 characters in 777 articles.
+mi_raky: 1
+5279/5326 (0.9911753661284266)
+Total of: 233782 characters in 777 articles.
 total reviews: 41
 info: Microsoft.Hosting.Lifetime[0]
       Application is shutting down...

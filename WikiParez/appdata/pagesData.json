@@ -4236,7 +4236,7 @@
     "Images": [],
     "Image_titles": [],
     "Bordering_rooms": [
-      "mi_holy_hole_to_hell",
+      "mi_posvatna_jama",
       "mi_samovrazedne_dvere",
       "mi_prizemi",
       "mi_stredove_namesti",
@@ -4341,57 +4341,6 @@
       "Cra",
       "Bed",
       "Bar"
-    ]
-  },
-  "mi_holy_hole_to_hell": {
-    "Title": "Holy Hole to Hell",
-    "Type": "m\u00EDstnost",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [
-      "mi_bobuv_dum"
-    ],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "Holy Hole to Hell",
-      "Blok": "[Zahr\u00E1dky](bl_zahradky)",
-      "Okrsek": "[Zahr\u00E1dk\u00E1\u0159sk\u00E1 kolonie](ok_zahradkarska_kolonie)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
-      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": "Jak vznikl n\u00E1zev?"
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": "N\u011Bco o interi\u00E9ru."
-      },
-      {
-        "Title": "Zaj\u00EDmavost",
-        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
-      }
-    ],
-    "image_id": 0,
-    "area": 0,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "patternleCompatible": true,
-    "redirect": "",
-    "tobeedited": false,
-    "reviews": [],
-    "utilities": [
-      "Non"
     ]
   },
   "mi_samovrazedne_dvere": {
@@ -5025,62 +4974,6 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false,
-    "reviews": [],
-    "utilities": [
-      "Non"
-    ]
-  },
-  "mi_zastavka": {
-    "Title": "Zast\u00E1vka",
-    "Type": "m\u00EDstnost",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [
-      "mi_dalnicni_pilir",
-      "mi_podlir"
-    ],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "Zast\u00E1vka",
-      "Blok": "[Mal\u00FD Pil\u00ED\u0159](bl_maly_pilir)",
-      "Okrsek": "[Pil\u00ED\u0159](ok_pilir)",
-      "\u010Ctvr\u0165": "[D\u00E1lni\u010Dn\u00ED Kolonie](ct_dalnicni_kolonie)",
-      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": "Jak vznikl n\u00E1zev?"
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": "N\u011Bco o interi\u00E9ru."
-      },
-      {
-        "Title": "Zaj\u00EDmavost",
-        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
-      },
-      {
-        "Title": "Aktuality",
-        "Content": "27/07/25: Po kraji m\u00EDstnosti vede [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha)."
-      }
-    ],
-    "image_id": 0,
-    "area": 17,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 333,
-      "y": 93,
-      "z": 1105
-    },
-    "patternleCompatible": true,
-    "redirect": null,
     "tobeedited": false,
     "reviews": [],
     "utilities": [
@@ -6210,70 +6103,12 @@
     "Empty": true,
     "numberOfRooms": 0,
     "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
+      "x": 323,
+      "y": 84,
+      "z": 1118
     },
     "patternleCompatible": true,
-    "redirect": "",
-    "tobeedited": false,
-    "reviews": [],
-    "utilities": [
-      "Cra",
-      "Bed"
-    ]
-  },
-  "mi_stoupani": {
-    "Title": "Stoup\u00E1n\u00ED",
-    "Type": "m\u00EDstnost",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [
-      "mi_dalnice",
-      "mi_predel",
-      "mi_kolt",
-      "mi_the_crossing",
-      "mi_papokoi",
-      "mi_vypln",
-      "mi_stena"
-    ],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "Stoup\u00E1n\u00ED",
-      "Blok": "[Vestibul](bl_vestibul)",
-      "Okrsek": "[D\u00E1lni\u010Dn\u00ED Kolonie](ok_dalnicni_kolonie)",
-      "\u010Ctvr\u0165": "[D\u00E1lni\u010Dn\u00ED Kolonie](ct_dalnicni_kolonie)",
-      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": "Jak vznikl n\u00E1zev?"
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": "N\u011Bco o interi\u00E9ru."
-      },
-      {
-        "Title": "Zaj\u00EDmavost",
-        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
-      }
-    ],
-    "image_id": 0,
-    "area": 38,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "patternleCompatible": true,
-    "redirect": "",
+    "redirect": null,
     "tobeedited": false,
     "reviews": [],
     "utilities": [
@@ -6323,12 +6158,12 @@
     "Empty": true,
     "numberOfRooms": 0,
     "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
+      "x": 324,
+      "y": 89,
+      "z": 1114
     },
     "patternleCompatible": true,
-    "redirect": "",
+    "redirect": null,
     "tobeedited": false,
     "reviews": [],
     "utilities": [
@@ -12384,61 +12219,6 @@
       "Cra"
     ]
   },
-  "mi_velehumry": {
-    "Title": "Velehumry",
-    "Type": "m\u00EDstnost",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [
-      "mi_i_port",
-      "mi_zelezna_lhota",
-      "mi_humry"
-    ],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "Velehumry",
-      "Blok": "[Humry](bl_humry)",
-      "Okrsek": "[\u017Delezn\u00E1 Lhota](ok_zelezna_lhota)",
-      "\u010Ctvr\u0165": "[\u017Delezn\u00E1 Lhota](ct_zelezna_lhota)",
-      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": "Jak vznikl n\u00E1zev?"
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": "N\u011Bco o interi\u00E9ru."
-      },
-      {
-        "Title": "Zaj\u00EDmavost",
-        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
-      }
-    ],
-    "image_id": 0,
-    "area": 38,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "patternleCompatible": true,
-    "redirect": "",
-    "tobeedited": false,
-    "reviews": [],
-    "utilities": [
-      "Cra",
-      "Bed",
-      "Bar"
-    ]
-  },
   "mi_humry": {
     "Title": "Humry",
     "Type": "m\u00EDstnost",
@@ -12480,12 +12260,12 @@
     "Empty": true,
     "numberOfRooms": 0,
     "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
+      "x": 353,
+      "y": 58,
+      "z": 1072
     },
     "patternleCompatible": true,
-    "redirect": "",
+    "redirect": null,
     "tobeedited": false,
     "reviews": [],
     "utilities": [
@@ -12533,12 +12313,12 @@
     "Empty": true,
     "numberOfRooms": 0,
     "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
+      "x": 353,
+      "y": 54,
+      "z": 1071
     },
     "patternleCompatible": true,
-    "redirect": "",
+    "redirect": null,
     "tobeedited": false,
     "reviews": [],
     "utilities": [
@@ -33187,9 +32967,9 @@
     "Empty": false,
     "numberOfRooms": 0,
     "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
+      "x": 313,
+      "y": 74,
+      "z": 1131
     },
     "patternleCompatible": true,
     "redirect": null,
@@ -37021,7 +36801,9 @@
       "mi_karotka",
       "mi_jizni_blok"
     ],
-    "Alternate_names": [],
+    "Alternate_names": [
+      "TR\u017DNICE"
+    ],
     "Metadata": {
       "N\u00E1zev": "Trh",
       "Blok": "[Listy](bl_listy)",
@@ -43827,6 +43609,240 @@
       "Cra",
       "Bed",
       "Bar"
+    ]
+  },
+  "mi_zastavka": {
+    "Title": "Zast\u00E1vka",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "ZAST\u00C1VKA"
+    ],
+    "Bordering_rooms": [
+      "mi_dalnicni_pilir",
+      "mi_podlir"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Zast\u00E1vka",
+      "Blok": "[Mal\u00FD Pil\u00ED\u0159](bl_maly_pilir)",
+      "Okrsek": "[Pil\u00ED\u0159](ok_pilir)",
+      "\u010Ctvr\u0165": "[D\u00E1lni\u010Dn\u00ED Kolonie](ct_dalnicni_kolonie)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Zast\u00E1vka je mal\u00E1 m\u00EDstnost hned vedle [D\u00E1lni\u010Dn\u00EDho Pil\u00ED\u0159e](mi_dalnicni_pilir), kter\u00E1 byla d\u0159\u00EDve jeho sou\u010D\u00E1st\u00ED. Na Zast\u00E1vku vede kr\u00E1tk\u00E9 schodi\u0161t\u011B z [Podl\u00ED\u0159e](mi_podlir)."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "N\u00E1zev odpov\u00EDd\u00E1 nejen vzhledu m\u00EDstnosti ale i jej\u00EDmu \u00FA\u010Delu. M\u00EDstnost se nach\u00E1z\u00ED jak u [ledov\u00E9 d\u00E1lnice](mi_dalnicni_pilir) tak u [Mraven\u010D\u00ED Dr\u00E1hy](te_mravenci_draha)."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Zast\u00E1vce chyb\u00ED p\u0159edn\u00ED st\u011Bna, co\u017E umo\u017E\u0148uje snadn\u00FD p\u0159\u00EDstup k [D\u00E1lni\u010Dn\u00EDmu Pil\u00ED\u0159i](mi_dalnicni_pilir). Zadn\u00ED st\u011Bnu host\u00ED t\u0159i okna, kter\u00E1 jsou vpravo d\u00EDky schodi\u0161ti vy\u0161\u0161\u00ED. Prav\u00E1 st\u011Bna je postavena z trapd\u00F3r\u016F a schod\u016F. Tak vypadala i st\u011Bna lev\u00E1 a\u017E do doby, kdy ji nahradily koleje [Mraven\u010D\u00ED Dr\u00E1hy](te_mravenci_draha) a sloupek.\r\nZast\u00E1vka je t\u0159i bloky vysok\u00E1 a je osv\u011Btlena dvojic\u00ED lou\u010D\u00ED, kter\u00E9 se nach\u00E1zej\u00ED mezi v\u00FD\u0161e zm\u00EDn\u011Bn\u00FDmi okny."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Neb\u00FDt schodi\u0161t\u011B byla by plocha zast\u00E1vky o 40% v\u011Bt\u0161\u00ED."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "27/07/25: Po kraji m\u00EDstnosti vede [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha)."
+      }
+    ],
+    "image_id": 0,
+    "area": 17,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 333,
+      "y": 93,
+      "z": 1105
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": [
+      "Non"
+    ]
+  },
+  "mi_posvatna_jama": {
+    "Title": "Posv\u00E1tn\u00E1 J\u00E1ma",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_bobuv_dum"
+    ],
+    "Alternate_names": [
+      "Holy Hole to Hell"
+    ],
+    "Metadata": {
+      "N\u00E1zev": "Posv\u00E1tn\u00E1 J\u00E1ma",
+      "Blok": "[Zahr\u00E1dky](bl_zahradky)",
+      "Okrsek": "[Zahr\u00E1dk\u00E1\u0159sk\u00E1 kolonie](ok_zahradkarska_kolonie)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "29/08/25: P\u0159ejmenov\u00E1no z Holy Hole to Hell na Posv\u00E1tn\u00E1 J\u00E1ma."
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 323,
+      "y": 80,
+      "z": 1146
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": [
+      "Non"
+    ]
+  },
+  "mi_velehumry": {
+    "Title": "Velehumry",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "VELEHUMRY"
+    ],
+    "Bordering_rooms": [
+      "mi_i_port",
+      "mi_zelezna_lhota",
+      "mi_humry"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Velehumry",
+      "Blok": "[Humry](bl_humry)",
+      "Okrsek": "[\u017Delezn\u00E1 Lhota](ok_zelezna_lhota)",
+      "\u010Ctvr\u0165": "[\u017Delezn\u00E1 Lhota](ct_zelezna_lhota)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Velehumry jsou mal\u00E1 m\u00EDstnost v [\u017Delezn\u00E9 Lhot\u011B](ct_zelezna_lhota) soused\u00EDc\u00ED s [I-Portem](mi_i_port), [\u017Deleznou Lhotou](mi_zelezna_lhota) a [Humry](mi_humry). Do [\u017Delezn\u00E9 Lhoty](mi_zelezna_lhota) a [I-Portu](mi_i_port) vedou dve\u0159e a do [Humr\u016F](mi_humry) se d\u00E1 dostat schodi\u0161t\u011Bm sm\u011Brem dol\u016F.\r\nStejn\u011B jako ostatn\u00ED m\u00EDstnosti bloku [Humry](mi_humry) jsou Velehumry ovlivn\u011Bny bl\u00EDzkou [Iron Golem Farmou](te_iron_golem_farma). To jde p\u0159edev\u0161\u00EDm pozorovat na podlaze, kter\u00E1 je kompletn\u011B spawn proofnut\u00E1."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "N\u00E1zev podobn\u011B jak je to i u bl\u00EDzk\u00FDch m\u00EDstnost\u00ED [Humry](mi_humry) a [Raky](mi_raky) byl inspirov\u00E1n n\u00E1zvem obce \u0022Habry\u0022 na Vyso\u010Din\u011B. Bylo zvoleno podobn\u00E9 slovo, nebo\u0165 se m\u00EDstnosti nach\u00E1z\u00ED \u010D\u00E1ste\u010Dn\u011B \u010Di kompletn\u011B pod hladinou mo\u0159e."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Velehumry jsou nejprostorn\u011Bj\u0161\u00ED m\u00EDstnost\u00ED bloku [Humry](mi_humry), p\u0159edev\u0161\u00EDm d\u00EDky tomu, \u017Ee vypl\u0148uj\u00ED prostor pod schodi\u0161t\u011Bm v [\u017Delezn\u00E9 Lhot\u011B](mi_zelezna_lhota). Strop zde dosahuje v\u00FD\u0161ky a\u017E dev\u00EDti blok\u016F, co\u017E je v ostatn\u00EDch m\u00EDstnostech bloku nev\u00EDdan\u00E9.  \r\nV m\u00EDstnost se nach\u00E1z\u00ED celkem 11 oken r\u016Fzn\u00FDch velikost\u00ED, kter\u00E1 t\u00E9m\u011B\u0159 \u00FApln\u011B vypl\u0148uj\u00ED voln\u00E9 plochy ve st\u011Bn\u00E1ch. Jedin\u00E1 st\u011Bna t\u00E9m\u011B\u0159 bez oken je spole\u010Dn\u00E1 se [\u017Deleznou Lhotou](mi_zelezna_lhota), do n\u00ED\u017E je zasazen crafting table a dva barely.  \r\nPodlaha je pokryta b\u00EDl\u00FDm kobercem, kter\u00FD zabra\u0148uje spawnov\u00E1n\u00ED Iron Golem\u016F mimo [farmu](te_iron_golem_farma). B\u00EDl\u00FD koberec z\u00E1rove\u0148 barevn\u011B dopl\u0148uje b\u00EDlou postel um\u00EDst\u011Bnou v rohu m\u00EDstnosti."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Jeden z barel\u016F je postaven nad schodi\u0161t\u011Bm do [Humr\u016F](mi_humry) a proto je na n\u011Bm z boku polo\u017Een trapdoor."
+      }
+    ],
+    "image_id": 0,
+    "area": 38,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 353,
+      "y": 62,
+      "z": 1071
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": [
+      "Cra",
+      "Bed",
+      "Bar"
+    ]
+  },
+  "mi_stoupani": {
+    "Title": "Stoup\u00E1n\u00ED",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "STOUP\u00C1N\u00CD",
+      "KOUTEK",
+      "MEZIPATRO"
+    ],
+    "Bordering_rooms": [
+      "mi_dalnice",
+      "mi_predel",
+      "mi_kolt",
+      "mi_the_crossing",
+      "mi_papokoi",
+      "mi_vypln",
+      "mi_stena"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Stoup\u00E1n\u00ED",
+      "Blok": "[Vestibul](bl_vestibul)",
+      "Okrsek": "[D\u00E1lni\u010Dn\u00ED Kolonie](ok_dalnicni_kolonie)",
+      "\u010Ctvr\u0165": "[D\u00E1lni\u010Dn\u00ED Kolonie](ct_dalnicni_kolonie)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Stoup\u00E1n\u00ED je to\u010Dit\u00E9 schodi\u0161t\u011B ve [Vestibulu](bl_vestibul) propojuj\u00EDc\u00ED sedm m\u00EDstnost\u00ED. Od nejn\u00ED\u017Ee polo\u017Een\u00E9 se jedn\u00E1 o [D\u00E1lnici](mi_dalnice), [P\u0159ed\u011Bl](mi_predel), [Kolt](mi_kolt), [The Crossing](mi_the_crossing), [V\u00FDpl\u0148](mi_vypln), [Papokoi](mi_papokoi) a [St\u011Bnu](mi_stena).\r\nJedn\u00E1 se o vcelku u\u017Eite\u010Dn\u00E9 schodi\u0161t\u011B, kter\u00E9 je ale m\u00E1lo vyu\u017E\u00EDvan\u00E9."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "V\u00E1\u017En\u011B tohle mus\u00EDm vysv\u011Btlovat?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Je\u0161t\u011B p\u0159ed za\u010D\u00E1tkem samotn\u00E9ho schodi\u0161t\u011B se nach\u00E1z\u00ED mal\u00FD koutek s tmav\u011B \u0161edou postel\u00ED, um\u00EDst\u011Bnou p\u0159\u00EDmo pod schody. Schodi\u0161t\u011B za\u010D\u00EDn\u00E1 u dve\u0159\u00ED vedouc\u00EDch na [P\u0159ed\u011Bl](mi_predel) a pokra\u010Duje osm blok\u016F v\u00FD\u0161e. P\u0159ibli\u017En\u011B v polovin\u011B se nach\u00E1z\u00ED d\u016Fle\u017Eit\u00E9 mezipatro se dve\u0159mi do m\u00EDstnosti [Kolt](mi_kolt), vchodem na [The Crossing](mi_the_crossing) a crafting tablem.  \r\nSt\u011Bny zde i v dal\u0161\u00ED \u010D\u00E1sti schodi\u0161t\u011B zdob\u00ED nemal\u00E9 mno\u017Estv\u00ED trapd\u00F3r\u016F, za nimi\u017E se nach\u00E1zej\u00ED m\u00EDstnosti [Kolt](mi_kolt) a [St\u011Bna](mi_stena). Druh\u00FD crafting table je t\u00E9m\u011B\u0159 u konce schodi\u0161t\u011B, kter\u00E9 je zakon\u010Deno trojic\u00ED dve\u0159\u00ED na mal\u00E9m mezipat\u0159e.  \r\nZa zm\u00EDnku stoj\u00ED tak\u00E9 mno\u017Estv\u00ED oken r\u016Fzn\u00FDch tvar\u016F \u2013 krom\u011B \u010Dtvercov\u00FDch a obd\u00E9ln\u00EDkov\u00FDch se zde nach\u00E1zej\u00ED i lichob\u011B\u017En\u00EDkov\u00E1 \u010Di rohov\u00E1 okna."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Stoup\u00E1n\u00ED je skv\u011Bl\u00FD adept na titul nejdivn\u011Bj\u0161\u00ED m\u00EDstnosti."
+      }
+    ],
+    "image_id": 0,
+    "area": 38,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 324,
+      "y": 76,
+      "z": 1119
+    },
+    "patternleCompatible": false,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": [
+      "Cra",
+      "Bed"
     ]
   }
 }
