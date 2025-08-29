@@ -47,33 +47,52 @@
 <div class="container">
     <div style="flex: 1;">
         <input value="" id="startroom" class="input-box" placeholder="Start typing..." oninput="filterRooms('startroom')">
-        <input id="endroom" class="input-box" placeholder="Start typing..." oninput="filterRooms('endroom')">
+        <input value="" id="endroom" class="input-box" placeholder="Start typing..." oninput="filterRooms('endroom')">
         <input type="hidden" id="endroom2" class="input-box" placeholder="Start typing..." oninput="filterRooms('endroom2')">
         <input type="hidden" id="endroom3" class="input-box" placeholder="Start typing..." oninput="filterRooms('endroom3')">
         <input type="hidden" id="endroom4" class="input-box" placeholder="Start typing..." oninput="filterRooms('endroom4')">
+        <button onclick="play()" style="width: 100%;">HRÁT</button>
     </div>
     <div id="room-dropdown" class="dropdown"></div>
 </div>
 
 <script>
   const rooms = @Html.Raw(Json.Serialize(Model));
+  var startroom = "";
+  var endroom = "";
 
   function filterRooms(inputid) {
-    const input = document.getElementById(inputid).value.toLowerCase().replace(/[\s\-\,\.]/g, '');
+    //const input = document.getElementById(inputid).value.toLowerCase().replace(/[\s\-\,\.]/g, '');
+    const input = document.getElementById(inputid).value.toLowerCase()
+            .replace(/[\s\-\,\.]/g, '')
+            .normalize('NFD').replace(/[\u0300-\u036f]/g, '');
     const dropdown = document.getElementById('room-dropdown');
     dropdown.innerHTML = '';
 
     for (let key in rooms) {
-      let title = rooms[key].title.toLowerCase().replace(/[\s\-\,\.]/g, '');
+      //let title = rooms[key].title.toLowerCase().replace(/[\s\-\,\.]/g, '');
+      let title = rooms[key].title.toLowerCase()
+            .replace(/[\s\-\,\.]/g, '')
+            .normalize('NFD').replace(/[\u0300-\u036f]/g, '');
       if (title.startsWith(input)) {
         const item = document.createElement('div');
         item.className = 'dropdown-item';
         item.textContent = rooms[key].title;
         item.onclick = () => {
           document.getElementById(inputid).value = rooms[key].title;
+          if (inputid == "startroom") startroom = key;
+          if (inputid == "endroom") endroom = key;
         };
         dropdown.appendChild(item);
       }
+    }
+  }
+
+  function play(){
+    if (startroom != "" && endroom != ""){
+      var baseUrl = '@Url.Action("Parezle", "Game")';
+      var customUrl = baseUrl + "?start=" + encodeURIComponent(startroom) + "&end=" + encodeURIComponent(endroom);
+      window.location.href = customUrl;
     }
   }
 </script>

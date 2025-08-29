@@ -51,7 +51,7 @@
                 let newRoomBorderingRooms = rooms[randBorderingRoom].bordering_rooms;
                 nodes.forEach(n => {
                     if (newRoomBorderingRooms.includes(n.id)){
-                        links.push( {source: randBorderingRoom, target: n.id, lines: ["blue"]} );
+                        links.push( {source: randBorderingRoom, target: n.id, lines: ["blue", "red", "green"]} );
                     }
                 });
                 break;
@@ -115,31 +115,55 @@
 
     function render(){
         var svg = d3.select("svg");
-        let linkSelection = svg.selectAll("line").data(links);
+
+        // expand links into multiple colored segments
+        let expandedLinks = links.flatMap(link =>
+            link.lines.map((color, i) => ({
+                source: link.source,
+                target: link.target,
+                color: color,
+                index: i,
+                total: link.lines.length
+            }))
+        );
+
+        // bind expanded links
+        let linkSelection = svg.selectAll(".link").data(expandedLinks);
+
+        // enter
         let linkEnter = linkSelection.enter()
             .append("line")
-            .attr("stroke", d => d.lines.length > 0 ? d.lines[0] : "black")
-            .attr("stroke-width", d => d.lines.length > 0 ? 8 : 1);
+            .attr("class", "link")
+
+        console.log(linkSelection.length);
+        // update + merge
         linkEnter.merge(linkSelection)
+            .attr("stroke", d => d.color)
+            .attr("stroke-width", d => {
+                let base = 12; // total width
+                return base - d.index * (base / d.total);
+            })
             .attr("x1", d => d.source.x)
             .attr("y1", d => d.source.y)
             .attr("x2", d => d.target.x)
-            .attr("y2", d => d.target.y)
-            .attr("class", "link");
+            .attr("y2", d => d.target.y);
 
+        // EXIT cleanup
+        linkSelection.exit().remove();
+
+        // hitboxes (still one per link)
         let linkHitbox = svg.selectAll(".link-hitbox").data(links);
         let linkHitboxEnter = linkHitbox.enter()
             .append("line")
             .attr("class", "link-hitbox")
             .attr("stroke", "transparent")
-            .attr("stroke-width", 10)
+            .attr("stroke-width", 20)
             .style("cursor", "pointer")
             .on("click", function(event, d) {
-                d3.select(this)
-                .attr("stroke", "red");
-                d.lines = ["red"];
+                d.lines.push("red"); // add another color
+                render(); // redraw to show new parallel line
             });
-        
+
         linkHitboxEnter.merge(linkHitbox)
             .attr("x1", d => d.source.x)
             .attr("y1", d => d.source.y)

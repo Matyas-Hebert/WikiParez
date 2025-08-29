@@ -181,6 +181,8 @@
 <script>
     var rooms = @Html.Raw(Json.Serialize(Model));
     var alreadyguessed = ["@ViewBag.Start"];
+    var startingroom = "@ViewBag.Start";
+    var endingroom = "@ViewBag.End";
     var guesses = ["@ViewBag.Start"];
     var guessesfromend = ["@ViewBag.End"];
     var selectedKey = "";
@@ -403,7 +405,7 @@
         copyBtn.style.borderRadius = '8px';
         copyBtn.style.cursor = 'pointer';
         copyBtn.onclick = function() {
-            navigator.clipboard.writeText("Kroky: ||" + numberofguesses + "||\nChyby: ||" + mistakes + "||\nNápovědy: ||" + hints + "||\nZpět: ||" + undos + "||\nOtočení: ||" + turns + "||\nCesta: ||" + yourguesses + "||\nSkóre: ||" + score + "||\nPlay on: https://parezwiki.onrender.com/Game/Parezle");
+            navigator.clipboard.writeText("Kroky: ||" + numberofguesses + "||\nChyby: ||" + mistakes + "||\nNápovědy: ||" + hints + "||\nZpět: ||" + undos + "||\nOtočení: ||" + turns + "||\nCesta: ||" + yourguesses + "||\nSkóre: ||" + score + "||\nHrej zde: https://parezwiki.onrender.com/Game/Parezle/?start=" + startingroom + "&end=" + endingroom);
         };
         floatingDiv.appendChild(document.createElement('br'));
         floatingDiv.appendChild(copyBtn);

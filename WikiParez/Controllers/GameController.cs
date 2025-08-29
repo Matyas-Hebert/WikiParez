@@ -249,6 +249,17 @@ namespace WikiParez.Controllers
         }
 
         [HttpGet]
+        [Route("Game/Parezle")]
+        public IActionResult Parezle(string start, string end)
+        {
+            ViewBag.Start = start;
+            ViewBag.End = end;
+            ViewBag.ShortestPath = _wikiService.FindPath(start, end);
+            ViewBag.Text = "CUSTOM PAŘEZLE";
+            return View("Parezle/Parezle", _wikiService.GetParezlePages());
+        }
+
+        [HttpGet]
         [Route("Game/Parezle/Custom")]
         public IActionResult CustomParezle()
         {
