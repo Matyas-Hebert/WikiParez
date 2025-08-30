@@ -2,7 +2,7 @@ import json
 import re
 
 # 1. Load pagesData.json
-with open("pagesData.json", encoding="utf-8") as f:
+with open("Wikiparez/appdata/pagesData.json", encoding="utf-8") as f:
     pages = json.load(f)
 
 # 2. Filter only room pages
