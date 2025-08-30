@@ -2,7 +2,7 @@ import json
 import re
 
 # 1. Load pagesData.json
-with open("Wikiparez/appdata/pagesData.json", encoding="utf-8") as f:
+with open("WikiParez/appdata/pagesData.json", encoding="utf-8") as f:
     pages = json.load(f)
 
 # 2. Filter only room pages
@@ -27,7 +27,7 @@ for key, page in only_room_pages.items():
     }
 
 # 4. Write to parezlepages.json
-with open("parezlepages.json", "w", encoding="utf-8") as f:
+with open("WikiParez/appdata/parezlepages.json", "w", encoding="utf-8") as f:
     json.dump(parezle_pages, f, ensure_ascii=False, indent=2)
 
 print("Saved parezlepages.json successfully!")
