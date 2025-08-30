@@ -1,0 +1,33 @@
+import json
+import re
+
+# 1. Load pagesData.json
+with open("pagesData.json", encoding="utf-8") as f:
+    pages = json.load(f)
+
+# 2. Filter only room pages
+only_room_pages = {k: v for k, v in pages.items() if v.get("Type") == "místnost" and k.startswith("mi")}
+
+# 3. Transform to ParezlePage-like structure
+def get_name_from_link(s):
+    match = re.match(r"\[([^\]]+)\]\([^)]+\)", s)
+    if match:
+        return match.group(1)
+    return s
+
+parezle_pages = {}
+for key, page in only_room_pages.items():
+    parezle_pages[key] = {
+        "Title": page.get("Title"),
+        "Bordering_rooms": page.get("Bordering_rooms", []),
+        "Blok": get_name_from_link(page.get("Metadata", {}).get("Blok", "")),
+        "Okrsek": get_name_from_link(page.get("Metadata", {}).get("Okrsek", "")),
+        "Ctvrt": get_name_from_link(page.get("Metadata", {}).get("Čtvrť", "")),
+        "Cast": get_name_from_link(page.get("Metadata", {}).get("Část", ""))
+    }
+
+# 4. Write to parezlepages.json
+with open("parezlepages.json", "w", encoding="utf-8") as f:
+    json.dump(parezle_pages, f, ensure_ascii=False, indent=2)
+
+print("Saved parezlepages.json successfully!")
