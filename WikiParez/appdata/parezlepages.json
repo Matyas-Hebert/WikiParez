@@ -1,4 +1,5 @@
 {
+  "version": "1.2",
   "mi_rudakuv_dum": {
     "Title": "Ruďákův dům",
     "Bordering_rooms": [
@@ -1121,7 +1122,8 @@
       "mi_dalnicni_pilir",
       "mi_le_pont",
       "mi_konska_sila",
-      "mi_salon"
+      "mi_salon",
+      "mi_pod_drnem"
     ],
     "Blok": "Doupě",
     "Okrsek": "Doupě",
@@ -1166,7 +1168,8 @@
       "mi_horni_nadrazi",
       "mi_magistrala",
       "mi_statek",
-      "mi_kombucha"
+      "mi_kombucha",
+      "mi_jost"
     ],
     "Blok": "Křídlo",
     "Okrsek": "Kapsa",
@@ -1656,7 +1659,8 @@
       "mi_autobusak",
       "mi_jogurt",
       "mi_zahradni_mesto",
-      "mi_guacamole"
+      "mi_guacamole",
+      "mi_jost"
     ],
     "Blok": "Autobusák",
     "Okrsek": "Horní Propust",
@@ -1669,7 +1673,8 @@
       "mi_severni_kridlo",
       "mi_horni_nadrazi",
       "mi_ctverec",
-      "mi_kadere"
+      "mi_kadere",
+      "mi_mezi_okny"
     ],
     "Blok": "Autobusák",
     "Okrsek": "Horní Propust",
@@ -1727,7 +1732,8 @@
       "mi_kaplicka",
       "mi_smashy_house",
       "mi_rozhrani",
-      "mi_okruh"
+      "mi_okruh",
+      "mi_agama"
     ],
     "Blok": "Koridory",
     "Okrsek": "Dub",
@@ -2293,7 +2299,8 @@
     "Bordering_rooms": [
       "mi_preatrium",
       "mi_vystup",
-      "mi_nejvetsi_tma"
+      "mi_nejvetsi_tma",
+      "mi_atrapa"
     ],
     "Blok": "Arcanum",
     "Okrsek": "Veveří",
@@ -2871,7 +2878,8 @@
       "mi_predel",
       "mi_hotel_gi_floor_gi",
       "mi_padaci_most",
-      "mi_dalnicni_pilir"
+      "mi_dalnicni_pilir",
+      "mi_kurnik"
     ],
     "Blok": "Balónky",
     "Okrsek": "Balónky",
@@ -3148,10 +3156,12 @@
       "mi_loosova_vila",
       "mi_vstup",
       "mi_atom",
-      "mi_arcanum"
+      "mi_arcanum",
+      "mi_past",
+      "mi_plomba"
     ],
     "Blok": "Preatrium",
-    "Okrsek": "Atom",
+    "Okrsek": "Preatrium",
     "Ctvrt": "Vietnamská Čtvrť",
     "Cast": "Trója"
   },
@@ -3162,7 +3172,7 @@
       "mi_kryt"
     ],
     "Blok": "Atom",
-    "Okrsek": "Atom",
+    "Okrsek": "Preatrium",
     "Ctvrt": "Vietnamská Čtvrť",
     "Cast": "Trója"
   },
@@ -3173,7 +3183,7 @@
       "mi_loosova_vila"
     ],
     "Blok": "Atom",
-    "Okrsek": "Atom",
+    "Okrsek": "Preatrium",
     "Ctvrt": "Vietnamská Čtvrť",
     "Cast": "Trója"
   },
@@ -3181,7 +3191,8 @@
     "Title": "Vietnamská Čtvrť",
     "Bordering_rooms": [
       "mi_hanojska_vez",
-      "mi_v_vez_1_podlazi"
+      "mi_v_vez_1_podlazi",
+      "mi_mez"
     ],
     "Blok": "Vietnamský Blok",
     "Okrsek": "Vietnamský Okrsek",
@@ -3395,7 +3406,8 @@
     "Title": "Triangl",
     "Bordering_rooms": [
       "mi_trigon",
-      "mi_nexus"
+      "mi_nexus",
+      "mi_mez"
     ],
     "Blok": "Triangl",
     "Okrsek": "Triangl",
@@ -3805,12 +3817,12 @@
     "Title": "Spirála",
     "Bordering_rooms": [
       "mi_draci_rotunda",
-      "mi_flame",
+      "mi_flam",
       "mi_sgaeil",
       "mi_andarna",
       "mi_tairn",
-      "mi_shadow",
-      "mi_storm",
+      "mi_sleh",
+      "mi_strom",
       "mi_gauntlet",
       "mi_kvadrant_jezdcu",
       "mi_arboretum"
@@ -3827,26 +3839,6 @@
       "mi_spirala"
     ],
     "Blok": "Spirála",
-    "Okrsek": "Čtvrté Křídlo",
-    "Ctvrt": "Basgiath",
-    "Cast": "Sibiř"
-  },
-  "mi_storm": {
-    "Title": "Storm",
-    "Bordering_rooms": [
-      "mi_spirala"
-    ],
-    "Blok": "Jezdci",
-    "Okrsek": "Čtvrté Křídlo",
-    "Ctvrt": "Basgiath",
-    "Cast": "Sibiř"
-  },
-  "mi_shadow": {
-    "Title": "Shadow",
-    "Bordering_rooms": [
-      "mi_spirala"
-    ],
-    "Blok": "Jezdci",
     "Okrsek": "Čtvrté Křídlo",
     "Ctvrt": "Basgiath",
     "Cast": "Sibiř"
@@ -3878,16 +3870,6 @@
       "mi_andarna",
       "mi_byt_chudaka_kterej_nema_rad_kluby",
       "mi_klub"
-    ],
-    "Blok": "Jezdci",
-    "Okrsek": "Čtvrté Křídlo",
-    "Ctvrt": "Basgiath",
-    "Cast": "Sibiř"
-  },
-  "mi_flame": {
-    "Title": "Flame",
-    "Bordering_rooms": [
-      "mi_spirala"
     ],
     "Blok": "Jezdci",
     "Okrsek": "Čtvrté Křídlo",
@@ -4354,7 +4336,8 @@
   "mi_nid": {
     "Title": "Nid",
     "Bordering_rooms": [
-      "mi_hradbb"
+      "mi_hradbb",
+      "mi_agama"
     ],
     "Blok": "Hradby",
     "Okrsek": "Lom",
@@ -4407,7 +4390,8 @@
       "mi_vytahova_sachta",
       "mi_guacamole",
       "mi_kahan",
-      "mi_zakini"
+      "mi_zakini",
+      "mi_oknilok"
     ],
     "Blok": "Zlaté Schodiště",
     "Okrsek": "Veveří",
@@ -5397,7 +5381,8 @@
   "mi_hadice": {
     "Title": "Hadice",
     "Bordering_rooms": [
-      "mi_hospoda"
+      "mi_hospoda",
+      "mi_u_zabradli"
     ],
     "Blok": "Hospoda",
     "Okrsek": "Heršpice",
@@ -6321,7 +6306,8 @@
     "Bordering_rooms": [
       "mi_preatrium",
       "mi_loosova_vila",
-      "mi_vystup"
+      "mi_vystup",
+      "mi_mez"
     ],
     "Blok": "Hala",
     "Okrsek": "Vietnamský Okrsek",
@@ -6574,7 +6560,8 @@
       "mi_predsalonek",
       "mi_the_overpass",
       "mi_dalnicni_pilir",
-      "mi_halusky"
+      "mi_halusky",
+      "mi_u_zabradli"
     ],
     "Blok": "JZD",
     "Okrsek": "Horní Propust",
@@ -6599,10 +6586,11 @@
     "Bordering_rooms": [
       "mi_salon",
       "mi_konska_sila",
-      "mi_kadere"
+      "mi_kadere",
+      "mi_pod_drnem"
     ],
     "Blok": "JZD",
-    "Okrsek": "Skleník",
+    "Okrsek": "Horní Propust",
     "Ctvrt": "Propast",
     "Cast": "Pařez"
   },
@@ -6611,7 +6599,8 @@
     "Bordering_rooms": [
       "mi_ctverec",
       "mi_draci_doupe",
-      "mi_predsalonek"
+      "mi_predsalonek",
+      "mi_pod_drnem"
     ],
     "Blok": "JZD",
     "Okrsek": "Horní Propust",
@@ -6755,7 +6744,8 @@
       "mi_panget",
       "mi_zlate_schodiste",
       "mi_policka",
-      "mi_pavlac"
+      "mi_pavlac",
+      "mi_oknilok"
     ],
     "Blok": "Výtahová Šachta",
     "Okrsek": "Veveří",
@@ -6904,5 +6894,173 @@
     "Okrsek": "Dálniční Kolonie",
     "Ctvrt": "Dálniční Kolonie",
     "Cast": "Pařez"
+  },
+  "mi_past": {
+    "Title": "Past",
+    "Bordering_rooms": [
+      "mi_preatrium",
+      "mi_plomba"
+    ],
+    "Blok": "Kampa",
+    "Okrsek": "Preatrium",
+    "Ctvrt": "Vietnamská Čtvrť",
+    "Cast": "Trója"
+  },
+  "mi_plomba": {
+    "Title": "Plomba",
+    "Bordering_rooms": [
+      "mi_preatrium",
+      "mi_past",
+      "mi_atrapa"
+    ],
+    "Blok": "Kampa",
+    "Okrsek": "Preatrium",
+    "Ctvrt": "Vietnamská Čtvrť",
+    "Cast": "Trója"
+  },
+  "mi_atrapa": {
+    "Title": "Atrapa",
+    "Bordering_rooms": [
+      "mi_plomba",
+      "mi_amalgam",
+      "mi_mez",
+      "mi_arcanum"
+    ],
+    "Blok": "Kampa",
+    "Okrsek": "Preatrium",
+    "Ctvrt": "Vietnamská Čtvrť",
+    "Cast": "Trója"
+  },
+  "mi_amalgam": {
+    "Title": "Amalgám",
+    "Bordering_rooms": [
+      "mi_atrapa"
+    ],
+    "Blok": "Kampa",
+    "Okrsek": "Preatrium",
+    "Ctvrt": "Vietnamská Čtvrť",
+    "Cast": "Trója"
+  },
+  "mi_mez": {
+    "Title": "Mez",
+    "Bordering_rooms": [
+      "mi_hala",
+      "mi_atrapa",
+      "mi_vietnamska_ctvrt",
+      "mi_triangl"
+    ],
+    "Blok": "Vietnamský Blok",
+    "Okrsek": "Vietnamský Okrsek",
+    "Ctvrt": "Vietnamská Čtvrť",
+    "Cast": "Trója"
+  },
+  "mi_agama": {
+    "Title": "Agama",
+    "Bordering_rooms": [
+      "mi_nid",
+      "mi_hlavni_koridor_i"
+    ],
+    "Blok": "Mosty",
+    "Okrsek": "Lom",
+    "Ctvrt": "Lom",
+    "Cast": "Sibiř"
+  },
+  "mi_oknilok": {
+    "Title": "Oknilok",
+    "Bordering_rooms": [
+      "mi_zlate_schodiste",
+      "mi_vytahova_sachta"
+    ],
+    "Blok": "Reverze",
+    "Okrsek": "Trója",
+    "Ctvrt": "Trója",
+    "Cast": "Trója"
+  },
+  "mi_flam": {
+    "Title": "Flám",
+    "Bordering_rooms": [
+      "mi_spirala"
+    ],
+    "Blok": "Jezdci",
+    "Okrsek": "Čtvrté Křídlo",
+    "Ctvrt": "Basgiath",
+    "Cast": "Sibiř"
+  },
+  "mi_strom": {
+    "Title": "Strom",
+    "Bordering_rooms": [
+      "mi_spirala"
+    ],
+    "Blok": "Jezdci",
+    "Okrsek": "Čtvrté Křídlo",
+    "Ctvrt": "Basgiath",
+    "Cast": "Sibiř"
+  },
+  "mi_sleh": {
+    "Title": "Šleh",
+    "Bordering_rooms": [
+      "mi_spirala"
+    ],
+    "Blok": "Jezdci",
+    "Okrsek": "Čtvrté Křídlo",
+    "Ctvrt": "Basgiath",
+    "Cast": "Sibiř"
+  },
+  "mi_pod_drnem": {
+    "Title": "Pod Drnem",
+    "Bordering_rooms": [
+      "mi_ctverec",
+      "mi_salon",
+      "mi_predsalonek"
+    ],
+    "Blok": "JZD",
+    "Okrsek": "Horní Propust",
+    "Ctvrt": "Propast",
+    "Cast": "Pařez"
+  },
+  "mi_mezi_okny": {
+    "Title": "Mezi Okny",
+    "Bordering_rooms": [
+      "mi_horni_nadrazi",
+      "mi_zahradni_mesto"
+    ],
+    "Blok": "Autobusák",
+    "Okrsek": "Horní Propust",
+    "Ctvrt": "Propast",
+    "Cast": "Pařez"
+  },
+  "mi_jost": {
+    "Title": "Jošt",
+    "Bordering_rooms": [
+      "mi_jogurt",
+      "mi_horni_nadrazi",
+      "mi_u_zabradli"
+    ],
+    "Blok": "Autobusák",
+    "Okrsek": "Horní Propust",
+    "Ctvrt": "Propast",
+    "Cast": "Pařez"
+  },
+  "mi_u_zabradli": {
+    "Title": "U Zábradlí",
+    "Bordering_rooms": [
+      "mi_hadice",
+      "mi_konska_sila",
+      "mi_jost"
+    ],
+    "Blok": "Autobusák",
+    "Okrsek": "Horní Propust",
+    "Ctvrt": "Propast",
+    "Cast": "Pařez"
+  },
+  "mi_kurnik": {
+    "Title": "Kurník",
+    "Bordering_rooms": [
+      "mi_balonky"
+    ],
+    "Blok": "Balónky",
+    "Okrsek": "Balónky",
+    "Ctvrt": "Gi",
+    "Cast": "Nové Dilí"
   }
 }

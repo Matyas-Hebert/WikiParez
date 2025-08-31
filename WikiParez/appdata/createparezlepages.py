@@ -16,6 +16,7 @@ def get_name_from_link(s):
     return s
 
 parezle_pages = {}
+parezle_pages["version"] = input("enter version")
 for key, page in only_room_pages.items():
     parezle_pages[key] = {
         "Title": page.get("Title"),
