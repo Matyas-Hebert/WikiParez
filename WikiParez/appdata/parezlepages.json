@@ -1,5 +1,5 @@
 {
-  "version": "1.2",
+  "version": "1.2.1",
   "mi_rudakuv_dum": {
     "Title": "Ruďákův dům",
     "Bordering_rooms": [
@@ -4949,7 +4949,8 @@
   "mi_pecka": {
     "Title": "Pecka",
     "Bordering_rooms": [
-      "mi_tresen"
+      "mi_tresen",
+      "mi_gekon"
     ],
     "Blok": "Třešeň",
     "Okrsek": "Most",
@@ -6414,7 +6415,8 @@
     "Title": "Lomená Čára",
     "Bordering_rooms": [
       "mi_lom",
-      "mi_pristavni_molo"
+      "mi_pristavni_molo",
+      "mi_gekon"
     ],
     "Blok": "Lom",
     "Okrsek": "Lom",
@@ -6960,7 +6962,7 @@
       "mi_nid",
       "mi_hlavni_koridor_i"
     ],
-    "Blok": "Mosty",
+    "Blok": "Ještěrky",
     "Okrsek": "Lom",
     "Ctvrt": "Lom",
     "Cast": "Sibiř"
@@ -7062,5 +7064,16 @@
     "Okrsek": "Balónky",
     "Ctvrt": "Gi",
     "Cast": "Nové Dilí"
+  },
+  "mi_gekon": {
+    "Title": "Gekon",
+    "Bordering_rooms": [
+      "mi_lomena_cara",
+      "mi_pecka"
+    ],
+    "Blok": "Ještěrky",
+    "Okrsek": "Lom",
+    "Ctvrt": "Lom",
+    "Cast": "Sibiř"
   }
 }

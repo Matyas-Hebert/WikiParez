@@ -2434,7 +2434,7 @@
     "Sections": [
       {
         "Title": "P\u0159ehled",
-        "Content": "D\u00E1lni\u010Dn\u00ED Pil\u00ED\u0159 nebo tak\u00E9 Pil\u00ED\u0159 je ledov\u00E1 d\u00E1lnice skl\u00E1d\u00E1j\u00EDc\u00ED se ze t\u0159\u00ED \u010D\u00E1st\u00ED. Velk\u00E9ho pil\u00ED\u0159e ze kter\u00E9ho se odd\u011Bluje Mal\u00FD Pil\u00ED\u0159. A ledov\u00E9 cesty na [Airshipu](bl_the_airship), kter\u00E1 je napojena na Mal\u00FD Pil\u00ED\u0159.\r\nVelk\u00FD Pil\u00ED\u0159, s celkovou d\u00E9lkou 54 blok\u016F, spojuje [\u017Deleznou Lhotu](ct_zelezna_lhota) s [Tr\u00F3jou](mi_troja) a [Overpassem](mi_the_overpass). V [\u017Delezn\u00E9 Lhot\u011B](ct_zelezna_lhota) soused\u00ED Velk\u00FD Pil\u00ED\u0159 s [Paranoiou](mi_paranoia) a s [Pr\u00E1hem](mi_prah), schodi\u0161t\u011Bm vedouc\u00EDm z [Hr\u00E1ze](mi_hraz). Velk\u00FD Pil\u00ED\u0159 tak\u00E9 proch\u00E1z\u00ED skrz [Okap](mi_okap) naproti kter\u00E9mu je v\u00FDtah spojuj\u00EDc\u00ED D\u00E1lni\u010Dn\u00ED Pil\u00ED\u0159 se [\u010Ctvercem](mi_ctverec) a s [Ufem](mi_ufo). Hned za v\u00FDtahem je odbo\u010Dka vpravo naz\u00FDv\u00E1n\u00E1 Mal\u00FD Pil\u00ED\u0159. U \u017Eelezn\u00E9 lhoty je tak\u00E9 v\u00FDstupn\u00ED v\u00FDtah vedouc\u00ED z m\u00EDstnost\u00ED [\u017Delezn\u00E1 Lhota](mi_zelezna_lhota) a [Hr\u00E1z](mi_hraz).\r\nMal\u00FD Pil\u00ED\u0159 s d\u00E9lkou 51 blok\u016F kon\u010D\u00ED v [Silu](mi_silo). Po cest\u011B existuje n\u011Bkolik n\u00E1stupn\u00EDch stanic z m\u00EDstnost\u00ED. Mezi n\u011B pat\u0159\u00ED: [Zast\u00E1vka](mi_zastavka), [V\u00FDtahov\u00FD M\u016Fstek](mi_vytahovy_mustek), [Dvoj\u010Data](mi_dvojcata), [Bal\u00F3nky](mi_balonky), [Katakomby](mi_katakomby), [Sil\u00E1k](mi_silak). Na Mal\u00FD Pil\u00ED\u0159 tak\u00E9 vede dvojice v\u00FDtah\u016F a to z [Verandy](mi_veranda) a z [Sila](mi_silo).\r\nD\u00E1lni\u010Dn\u00ED Pil\u00ED\u0159 na [Airshipu](bl_the_airship) je o blok n\u00ED\u017Ee n\u011B\u017E Velk\u00FD a Mal\u00FD Pil\u00ED\u0159. Nen\u00ED proto mo\u017En\u00E9 jet z [Airshipu](mi_the_airship) na Mal\u00FD Pil\u00ED\u0159 bez zast\u00E1vky. Celkov\u00E1 d\u00E9lka t\u00E9to \u010D\u00E1sti je 31 blok\u016F a asi v polovin\u011B je p\u0159eru\u0161ena [D\u00E1lni\u010Dn\u00EDm P\u0159echodem](mi_dalnicni_prechod), kter\u00FD d\u011Bl\u00ED D\u00E1lni\u010Dn\u00ED Pil\u00ED\u0159 na dv\u011B nespojit\u00E9 \u010D\u00E1sti. Kone\u010Dn\u00E1 D\u00E1lni\u010Dn\u00EDho Pil\u00ED\u0159e je hned pod [Spojnic\u00ED](mi_spojnice) na [Airshipu](mi_the_airship). Hned vedle d\u00E1lnice je zde v\u00FDstup z v\u00FDtahu vedouc\u00ED z [Hlavn\u00EDho Koridoru II](mi_hlavni_koridor_ii)."
+        "Content": "D\u00E1lni\u010Dn\u00ED Pil\u00ED\u0159 nebo tak\u00E9 Pil\u00ED\u0159 je ledov\u00E1 d\u00E1lnice skl\u00E1d\u00E1j\u00EDc\u00ED se ze t\u0159\u00ED \u010D\u00E1st\u00ED. Velk\u00E9ho pil\u00ED\u0159e ze kter\u00E9ho se odd\u011Bluje Mal\u00FD Pil\u00ED\u0159. A ledov\u00E9 cesty na [Airshipu](bl_the_airship), kter\u00E1 je napojena na Mal\u00FD Pil\u00ED\u0159.\r\nVelk\u00FD Pil\u00ED\u0159, s celkovou d\u00E9lkou 54 blok\u016F, spojuje [\u017Deleznou Lhotu](ct_zelezna_lhota) s [Tr\u00F3jou](mi_troja) a [Overpassem](mi_the_overpass). V [\u017Delezn\u00E9 Lhot\u011B](ct_zelezna_lhota) soused\u00ED Velk\u00FD Pil\u00ED\u0159 s [Paranoiou](mi_paranoia) a s [Pr\u00E1hem](mi_prah), schodi\u0161t\u011Bm vedouc\u00EDm z [Hr\u00E1ze](mi_hraz). Velk\u00FD Pil\u00ED\u0159 tak\u00E9 proch\u00E1z\u00ED skrz [Okap](mi_okap) naproti kter\u00E9mu je v\u00FDtah spojuj\u00EDc\u00ED D\u00E1lni\u010Dn\u00ED Pil\u00ED\u0159 se [\u010Ctvercem](mi_ctverec) a s [Ufem](mi_ufo) a pobl\u00ED\u017E [Tr\u00F3ji](mi_troja) soused\u00ED s [Hmlou](mi_hmla) a [Holubn\u00EDkem](mi_holubnik). Hned za v\u00FDtahem je odbo\u010Dka vpravo naz\u00FDv\u00E1n\u00E1 Mal\u00FD Pil\u00ED\u0159. U \u017Eelezn\u00E9 lhoty je tak\u00E9 v\u00FDstupn\u00ED v\u00FDtah vedouc\u00ED z m\u00EDstnost\u00ED [\u017Delezn\u00E1 Lhota](mi_zelezna_lhota) a [Hr\u00E1z](mi_hraz).\r\nMal\u00FD Pil\u00ED\u0159 s d\u00E9lkou 51 blok\u016F kon\u010D\u00ED v [Silu](mi_silo). Po cest\u011B existuje n\u011Bkolik n\u00E1stupn\u00EDch stanic z m\u00EDstnost\u00ED. Mezi n\u011B pat\u0159\u00ED: [Ko\u0148sk\u00E1 S\u00EDla](mi_konska_sila), [Zast\u00E1vka](mi_zastavka), [V\u00FDtahov\u00FD M\u016Fstek](mi_vytahovy_mustek), [Dvoj\u010Data](mi_dvojcata), [Bal\u00F3nky](mi_balonky), [Katakomby](mi_katakomby), [Sil\u00E1k](mi_silak). Na Mal\u00FD Pil\u00ED\u0159 tak\u00E9 vede dvojice v\u00FDtah\u016F a to z [Verandy](mi_veranda) a z [Sila](mi_silo). Za [Zast\u00E1vkou](mi_zastavka) skrz d\u00E1lnici proch\u00E1z\u00ED koleje [Mraven\u010D\u00ED Dr\u00E1hy](te_mravenci_draha) d\u00EDky n\u00ED\u017E D\u00E1lni\u010Dn\u00ED Pil\u00ED\u0159 soused\u00ED s [Doln\u00EDm N\u00E1dra\u017E\u00EDm](mi_dolni_nadrazi).\r\nD\u00E1lni\u010Dn\u00ED Pil\u00ED\u0159 na [Airshipu](bl_the_airship) je o blok n\u00ED\u017Ee n\u011B\u017E Velk\u00FD a Mal\u00FD Pil\u00ED\u0159. Nen\u00ED proto mo\u017En\u00E9 jet z [Airshipu](mi_the_airship) na Mal\u00FD Pil\u00ED\u0159 bez zast\u00E1vky. Celkov\u00E1 d\u00E9lka t\u00E9to \u010D\u00E1sti je 31 blok\u016F a asi v polovin\u011B je p\u0159eru\u0161ena [D\u00E1lni\u010Dn\u00EDm P\u0159echodem](mi_dalnicni_prechod), kter\u00FD d\u011Bl\u00ED D\u00E1lni\u010Dn\u00ED Pil\u00ED\u0159 na dv\u011B nespojit\u00E9 \u010D\u00E1sti. Kone\u010Dn\u00E1 D\u00E1lni\u010Dn\u00EDho Pil\u00ED\u0159e je hned pod [Spojnic\u00ED](mi_spojnice) na [Airshipu](mi_the_airship). Hned vedle d\u00E1lnice je zde v\u00FDstup z v\u00FDtahu vedouc\u00ED z [Hlavn\u00EDho Koridoru II](mi_hlavni_koridor_ii)."
       },
       {
         "Title": "N\u00E1zev",
@@ -2442,7 +2442,7 @@
       },
       {
         "Title": "Interi\u00E9r",
-        "Content": "V\u011Bt\u0161ina ledov\u00E9 d\u00E1lnice nen\u00ED zast\u0159e\u0161ena, ale i p\u0159es to se takov\u00E1 m\u00EDsta najdou. Jedinou zast\u0159e\u0161enou cestou na Velk\u00E9m Pil\u00ED\u0159i je pas\u00E1\u017E skrz [Okap](mi_okap). Vedle Mal\u00E9ho Pil\u00ED\u0159e je postavena zast\u0159e\u0161en\u00E1 m\u00EDstnost se schodi\u0161t\u011Bm vedouc\u00EDho z [Podl\u00ED\u0159e](mi_podlir) nazvan\u00E1 [Zast\u00E1vka](mi_zastavka). Tato zast\u0159e\u0161en\u00E1 \u010D\u00E1st pat\u0159\u00ED do D\u00E1lni\u010Dn\u00EDho Pil\u00ED\u0159e a p\u0159ipom\u00EDn\u00E1 zast\u00E1vku hromadn\u00E9 dopravy. D\u00E1le je zde otev\u0159en\u00FD vchod na [V\u00FDtahov\u00FD M\u016Fstek](mi_vytahovy_mustek) a v\u00FDstup z v\u00FDtahu z [Verandy](mi_veranda). Z t\u00E9to m\u00EDstnosti se d\u00E1 dve\u0159mi dostat na \u010D\u00E1st na [Airshipu](bl_the_airship). Mal\u00FD Pil\u00ED\u0159 d\u00E1le pokra\u010Duje pod kr\u00E1tk\u00FDm podjezdem u vstupu do [Bal\u00F3nk\u016F](mi_balonky) a o kus d\u00E1le se nach\u00E1zej\u00ED schody ke [Katakomb\u00E1m](mi_katakomby). \u010C\u00E1st na [Airshipu](bl_the_airship) je t\u00E9m\u011B\u0159 cel\u00E1 zast\u0159e\u0161ena.\r\nCel\u00E1 d\u00E1lnice je postavena ze stla\u010Den\u00E9ho ledu a na ka\u017Ed\u00E9m bloku je postaveno tla\u010D\u00EDtku jako prevence proti monstr\u016Fm. Okraje d\u00E1lnice jsou postaveny z p\u016Flblok\u016F krom\u011B ojedin\u011Bl\u00FDch ms\u00EDt na [Airshipu](bl_the_airship), kde byly pou\u017Eity trapd\u00F3ry. Cel\u00E1 d\u00E9lka v\u0161ech pil\u00ED\u0159\u016F je osv\u011Btlena lou\u010Demi.\r\nNa \u00FAzem\u00ED D\u00E1lni\u010Dn\u00EDho Pil\u00ED\u0159e je pouze jedin\u00FD crafting tablem pobl\u00ED\u017E vstupu do [Bal\u00F3nk\u016F](mi_balonky). Nen\u00ED zde v\u0161ak \u017E\u00E1dn\u00FD barel ani postel."
+        "Content": "V\u011Bt\u0161ina ledov\u00E9 d\u00E1lnice nen\u00ED zast\u0159e\u0161ena, ale i p\u0159es to se takov\u00E1 m\u00EDsta najdou. Jedinou zast\u0159e\u0161enou cestou na Velk\u00E9m Pil\u00ED\u0159i je pas\u00E1\u017E skrz [Okap](mi_okap). Vedle Mal\u00E9ho Pil\u00ED\u0159e je postavena zast\u0159e\u0161en\u00E1 m\u00EDstnost se schodi\u0161t\u011Bm vedouc\u00EDho z [Podl\u00ED\u0159e](mi_podlir) nazvan\u00E1 [Zast\u00E1vka](mi_zastavka). Tato zast\u0159e\u0161en\u00E1 \u010D\u00E1st pat\u0159ila do D\u00E1lni\u010Dn\u00EDho Pil\u00ED\u0159e a p\u0159ipom\u00EDn\u00E1 zast\u00E1vku hromadn\u00E9 dopravy. D\u00E1le je zde otev\u0159en\u00FD vchod na [V\u00FDtahov\u00FD M\u016Fstek](mi_vytahovy_mustek) a v\u00FDstup z v\u00FDtahu z [Verandy](mi_veranda). Z t\u00E9to m\u00EDstnosti se d\u00E1 dve\u0159mi dostat na \u010D\u00E1st na [Airshipu](bl_the_airship). Mal\u00FD Pil\u00ED\u0159 d\u00E1le pokra\u010Duje pod kr\u00E1tk\u00FDm podjezdem u vstupu do [Bal\u00F3nk\u016F](mi_balonky) a o kus d\u00E1le se nach\u00E1zej\u00ED schody ke [Katakomb\u00E1m](mi_katakomby). \u010C\u00E1st na [Airshipu](bl_the_airship) je t\u00E9m\u011B\u0159 cel\u00E1 zast\u0159e\u0161ena.\r\n\u010C\u00E1st Velk\u00FD Pil\u00ED\u0159 pobl\u00ED\u017E [Tr\u00F3ji](mi_troja) je o dva bloky roz\u0161\u00ED\u0159ena kv\u016Fli nov\u011B vybudovan\u00FDm [Her\u0161pic\u00EDm](ok_herspice).\r\nCel\u00E1 d\u00E1lnice je postavena ze stla\u010Den\u00E9ho ledu a na ka\u017Ed\u00E9m bloku je postaveno tla\u010D\u00EDtku jako prevence proti monstr\u016Fm. Okraje d\u00E1lnice jsou postaveny z p\u016Flblok\u016F krom\u011B ojedin\u011Bl\u00FDch ms\u00EDt na [Airshipu](bl_the_airship), kde byly pou\u017Eity trapd\u00F3ry. Cel\u00E1 d\u00E9lka v\u0161ech pil\u00ED\u0159\u016F je osv\u011Btlena lou\u010Demi.\r\nNa \u00FAzem\u00ED D\u00E1lni\u010Dn\u00EDho Pil\u00ED\u0159e je pouze jedin\u00FD crafting tablem pobl\u00ED\u017E vstupu do [Bal\u00F3nk\u016F](mi_balonky). Nen\u00ED zde v\u0161ak \u017E\u00E1dn\u00FD barel ani postel."
       },
       {
         "Title": "Zaj\u00EDmavosti",
@@ -2458,13 +2458,13 @@
     "Empty": false,
     "numberOfRooms": 0,
     "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
+      "x": 349,
+      "y": 93,
+      "z": 1107
     },
-    "patternleCompatible": true,
+    "patternleCompatible": false,
     "redirect": null,
-    "tobeedited": true,
+    "tobeedited": false,
     "reviews": [
       {
         "stars": 4.5,
@@ -3026,7 +3026,7 @@
       },
       {
         "Title": "Interi\u00E9r",
-        "Content": "Ka\u017Ed\u00E1 stromov\u00E1 v\u011B\u017E m\u00E1 ve st\u0159edu sv\u00E9 podlahy \u010Dtve\u0159ici podzol\u016F s vyrostl\u00FDm stromem a nebo zasazen\u00FDmi sazeni\u010Dkami. D\u00E1le je zde v\u017Edy jeden \u010Di v\u00EDce barel\u016F s p\u0159ebyte\u010Dn\u00FDmi sazenicemi, d\u0159evem, kostn\u00ED mou\u010Dkou \u010Di n\u00E1stroji a s jedinou vyj\u00EDmkou velik\u00E1 okna. Vyj\u00EDmkou je samozd\u0159ejm\u011B [Mrkev](mi_mrkev), nebo\u0165 se jedn\u00E1 o jedinou stromovou v\u011B\u017E v podzem\u00ED. V ka\u017Ed\u00E9 v\u011B\u017Ei je tak\u00E9 \u017Eeb\u0159\u00EDk \u010Di p\u0159istav\u011Bn\u00FD v\u00FDtah, kter\u00FD umo\u017E\u0148uje jednoduch\u00FD zp\u016Fsob jak se dostat do koruny strom\u016F."
+        "Content": "Ka\u017Ed\u00E1 stromov\u00E1 v\u011B\u017E m\u00E1 ve st\u0159edu sv\u00E9 podlahy \u010Dtve\u0159ici podzol\u016F s vyrostl\u00FDm stromem a nebo zasazen\u00FDmi sazeni\u010Dkami. D\u00E1le je zde v\u017Edy jeden \u010Di v\u00EDce barel\u016F s p\u0159ebyte\u010Dn\u00FDmi sazenicemi, d\u0159evem, kostn\u00ED mou\u010Dkou \u010Di n\u00E1stroji a s jedinou vyj\u00EDmkou velik\u00E1 okna. Vyj\u00EDmkou je samozd\u0159ejm\u011B [Mrkev](mi_mrkev), nebo\u0165 se jedn\u00E1 o jedinou stromovou v\u011B\u017E v podzem\u00ED. V ka\u017Ed\u00E9 v\u011B\u017Ei je tak\u00E9 \u017Eeb\u0159\u00EDk \u010Di p\u0159istav\u011Bn\u00FD v\u00FDtah, kter\u00FD umo\u017E\u0148uje jednoduch\u00FD zp\u016Fsob jak se dostat do koruny strom\u016F.\r\nVe v\u011B\u017E\u00EDch [Sila](mi_silo) a [Dra\u010D\u00ED Rotundy](mi_draci_rotunda) lze nal\u00E9zt odpadn\u00ED roury spole\u010Dnosti [ORP](sp_orp)."
       },
       {
         "Title": "Zaj\u00EDmavost",
@@ -3043,8 +3043,8 @@
       "z": 0
     },
     "patternleCompatible": true,
-    "redirect": "",
-    "tobeedited": true,
+    "redirect": null,
+    "tobeedited": false,
     "reviews": [],
     "utilities": []
   },
@@ -15171,7 +15171,9 @@
       "mi_v_vez_1_podlazi",
       "mi_mez"
     ],
-    "Alternate_names": [],
+    "Alternate_names": [
+      "vietnamsk\u00E1 m\u00EDstnost"
+    ],
     "Metadata": {
       "N\u00E1zev": "Vietnamsk\u00E1 \u010Ctvr\u0165",
       "Blok": "[Vietnamsk\u00FD Blok](bl_vietnamsky_blok)",
@@ -20366,7 +20368,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "27/07/25: Nov\u00FD v\u00FDtah vedouc\u00ED na [M\u00E9\u010Fu](mi_meda)."
+        "Content": "27/07/25: Nov\u00FD v\u00FDtah vedouc\u00ED na [M\u00E9\u010Fu](mi_meda).\n01/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Gekon](mi_gekon)."
       }
     ],
     "image_id": 0,
@@ -32332,7 +32334,8 @@
     "Images": [],
     "Image_titles": [],
     "Bordering_rooms": [
-      "mi_tresen"
+      "mi_tresen",
+      "mi_gekon"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -32358,6 +32361,10 @@
       {
         "Title": "Zaj\u00EDmavost",
         "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "01/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Gekon](mi_gekon)."
       }
     ],
     "image_id": 0,
@@ -39178,7 +39185,7 @@
     "Sections": [
       {
         "Title": "P\u0159ehled",
-        "Content": "The Overpass je nejv\u00FD\u0161e polo\u017Een\u00E1 z chodeb pojmenovan\u00FDch prefixem \u201EThe\u201C. Slou\u017E\u00ED jako propojen\u00ED mezi m\u00EDstnostmi [Pu\u010Dmeloun Farma](mi_pucmeloun_farma) a [Guacamole](mi_guacamole), a d\u00EDky sv\u00E9mu rozsahu i v\u00FD\u0161kov\u00E9 \u010Dlenitosti tvo\u0159\u00ED jednu z d\u016Fle\u017Eit\u011Bj\u0161\u00EDch dopravn\u00EDch tepen v dom\u011B.\r\nChodba se rozprost\u00EDr\u00E1 na dvou v\u00FD\u0161kov\u00FDch \u00FArovn\u00EDch, mezi nimi\u017E vede schodi\u0161t\u011B.  \r\nPrvn\u00ED podla\u017E\u00ED nab\u00EDz\u00ED p\u0159\u00EDstup do n\u011Bkolika kl\u00ED\u010Dov\u00FDch m\u00EDstnost\u00ED \u2013 krom\u011B dve\u0159\u00ED do [Poli\u010Dky](mi_policka), [V\u00FDtahov\u00E9 \u0160achty](mi_vytahova_sachta) a [St\u0159echy](mi_strecha) odtud vedou tak\u00E9 schody dol\u016F do [Spojky](mi_spojka). D\u016Fle\u017Eit\u00FDm prvkem je \u017Eelezni\u010Dn\u00ED pr\u016Fjezd sm\u011B\u0159uj\u00EDc\u00ED ke [Skokansk\u00FDm M\u016Fstk\u016Fm](mi_skokanske_mustky), p\u0159i\u010Dem\u017E tato \u010D\u00E1st chodby proch\u00E1z\u00ED kolem [Doln\u00EDho N\u00E1dra\u017E\u00ED](mi_dolni_nadrazi), termin\u00E1ln\u00ED stanice v\u0161ech linek [Mraven\u010D\u00ED Dr\u00E1hy](te_mravenci_draha).\r\nDruh\u00E9 podla\u017E\u00ED m\u00E1 tvar podkovy a vede okolo [Autobus\u00E1ku](mi_autobusak), p\u0159i\u010Dem\u017E zde nalezneme vstupy do [\u00DAst\u0159edn\u00EDho St\u0159ediska Beta](mi_ustredni_stredisko_beta), [Hospody](mi_hospoda) i [V\u00FDtahov\u00E9 \u0160achty](mi_vytahova_sachta). Z t\u00E9to \u00FArovn\u011B se d\u00E1 sej\u00EDt schodi\u0161t\u011Bm k [D\u00E1lni\u010Dn\u00EDmu Pil\u00ED\u0159i](mi_dalnicni_pilir), [Tr\u00F3je](mi_troja) nebo [Ter\u00E1sce](mi_teraska). P\u0159\u00EDmo uprost\u0159ed chodby stoj\u00ED plotov\u00E1 konstrukce zvan\u00E1 [H\u0159\u00EDva](mi_hriva), kde jsou p\u0159iv\u00E1z\u00E1ni skeleton kon\u011B. Na sam\u00E9m konci chodby pak stoup\u00E1 schodi\u0161t\u011B vzh\u016Fru do [Guacamole](mi_guacamole).\r\nM\u00EDstnost d\u0159\u00EDve pat\u0159ila do p\u011Bti r\u016Fzn\u00FDch blok\u016F ale pozd\u011Bji byla za\u0159azena do bloku [Autobus\u00E1k](bl_autobusak), nebo\u0165 vede okolo dvou m\u00EDstnost\u00ED v n\u011Bm."
+        "Content": "The Overpass je nejv\u00FD\u0161e polo\u017Een\u00E1 z chodeb pojmenovan\u00FDch prefixem \u201EThe\u201C. Slou\u017E\u00ED jako propojen\u00ED mezi m\u00EDstnostmi [Pu\u010Dmeloun Farma](mi_pucmeloun_farma) a [Guacamole](mi_guacamole), a d\u00EDky sv\u00E9mu rozsahu i v\u00FD\u0161kov\u00E9 \u010Dlenitosti tvo\u0159\u00ED jednu z d\u016Fle\u017Eit\u011Bj\u0161\u00EDch dopravn\u00EDch tepen v dom\u011B.\r\nChodba se rozprost\u00EDr\u00E1 na dvou v\u00FD\u0161kov\u00FDch \u00FArovn\u00EDch, mezi nimi\u017E vede schodi\u0161t\u011B.  \r\nPrvn\u00ED podla\u017E\u00ED nab\u00EDz\u00ED p\u0159\u00EDstup do n\u011Bkolika kl\u00ED\u010Dov\u00FDch m\u00EDstnost\u00ED \u2013 krom\u011B dve\u0159\u00ED do [Poli\u010Dky](mi_policka), [V\u00FDtahov\u00E9 \u0160achty](mi_vytahova_sachta) a [St\u0159echy](mi_strecha) odtud vedou tak\u00E9 schody dol\u016F do [Spojky](mi_spojka). D\u016Fle\u017Eit\u00FDm prvkem je \u017Eelezni\u010Dn\u00ED pr\u016Fjezd sm\u011B\u0159uj\u00EDc\u00ED ke [Skokansk\u00FDm M\u016Fstk\u016Fm](mi_skokanske_mustky), p\u0159i\u010Dem\u017E tato \u010D\u00E1st chodby proch\u00E1z\u00ED kolem [Doln\u00EDho N\u00E1dra\u017E\u00ED](mi_dolni_nadrazi), termin\u00E1ln\u00ED stanice v\u0161ech linek [Mraven\u010D\u00ED Dr\u00E1hy](te_mravenci_draha).\r\nDruh\u00E9 podla\u017E\u00ED m\u00E1 tvar podkovy a vede okolo [Autobus\u00E1ku](mi_autobusak), p\u0159i\u010Dem\u017E zde nalezneme vstupy do [\u00DAst\u0159edn\u00EDho St\u0159ediska Beta](mi_ustredni_stredisko_beta), [Hospody](mi_hospoda), [V\u00FDtahov\u00E9 \u0160achty](mi_vytahova_sachta) nebo ke [Ko\u0148sk\u00E9 S\u00EDle](mi_konska_sila). Z t\u00E9to \u00FArovn\u011B se d\u00E1 sej\u00EDt schodi\u0161t\u011Bm k [D\u00E1lni\u010Dn\u00EDmu Pil\u00ED\u0159i](mi_dalnicni_pilir), [Tr\u00F3je](mi_troja) nebo [Ter\u00E1sce](mi_teraska). P\u0159\u00EDmo uprost\u0159ed chodby stoj\u00ED plotov\u00E1 konstrukce zvan\u00E1 [H\u0159\u00EDva](mi_hriva), kde jsou p\u0159iv\u00E1z\u00E1ni skeleton kon\u011B. Na sam\u00E9m konci chodby pak stoup\u00E1 schodi\u0161t\u011B vzh\u016Fru do [Guacamole](mi_guacamole).\r\nM\u00EDstnost d\u0159\u00EDve pat\u0159ila do p\u011Bti r\u016Fzn\u00FDch blok\u016F ale pozd\u011Bji byla za\u0159azena do bloku [Autobus\u00E1k](bl_autobusak), nebo\u0165 vede okolo dvou m\u00EDstnost\u00ED v n\u011Bm."
       },
       {
         "Title": "N\u00E1zev",
@@ -39186,7 +39193,7 @@
       },
       {
         "Title": "Interi\u00E9r",
-        "Content": "Interi\u00E9r Overpassu je velmi rozmanit\u00FD a prom\u011Bnliv\u00FD. Horn\u00ED podla\u017E\u00ED nen\u00ED zast\u0159e\u0161eno, co\u017E umo\u017E\u0148uje p\u0159\u00EDm\u00FD v\u00FDhled na oblohu. Chodba zde b\u00FDv\u00E1 dva a\u017E t\u0159i bloky \u0161irok\u00E1, av\u0161ak v n\u011Bkter\u00FDch m\u00EDstech se \u0161\u00ED\u0159ka v\u00FDrazn\u011B li\u0161\u00ED. Nap\u0159\u00EDklad d\u00EDky konstrukci [Her\u0161pic](ok_herspice) byla \u010D\u00E1st Overpassu roz\u0161\u00ED\u0159ena. Naopak existuj\u00ED i extr\u00E9mn\u011B \u00FAzk\u00E9 \u00FAseky \u2013 jako \u201Emost\u201C, kter\u00FD je oplocen z obou stran a prakticky zde z\u016Fst\u00E1v\u00E1 jen asi 1,8 bloku pr\u016Fchoz\u00ED \u0161\u00ED\u0159ky. V\u00FDstupn\u00ED v\u00FDtah z [Lanterny](mi_lanterna) je obklopen tak t\u011Bsn\u011B, \u017Ee kolem n\u011Bj vede pouze jednoblokov\u00FD pr\u016Fchod (ten vznikl a\u017E po v\u00FDstavb\u011B [Autobus\u00E1ku](mi_autobusak).\r\nChodba se op\u011Bt roz\u0161i\u0159uje v \u010D\u00E1sti, kde odbo\u010Duje vlevo sm\u011Brem k [Tr\u00F3je](mi_troja) \u2013 zde je a\u017E \u0161est blok\u016F \u0161irok\u00E1, p\u0159i\u010Dem\u017E schodi\u0161t\u011B dol\u016F m\u00E1 \u0161\u00ED\u0159ku jen dva bloky. Vedle tohoto schodi\u0161t\u011B se nach\u00E1z\u00ED je\u0161t\u011B jedno \u00FAzk\u00E9 schodi\u0161t\u011B na [Ter\u00E1sku](mi_teraska), kter\u00E9 je pova\u017Eov\u00E1no za jedno z nejhor\u0161\u00EDch v dom\u011B \u2013 snad pouze schodi\u0161t\u011B v [Dvoj\u010Datech](mi_dvojcata) je hor\u0161\u00ED. K [Tr\u00F3je](mi_troja) vede je\u0161t\u011B dal\u0161\u00ED, av\u0161ak pouze jednoblokov\u00E9 schodi\u0161t\u011B nach\u00E1zej\u00EDc\u00ED se o kousek d\u00E1l.\r\nNa \u00FApln\u00E9m konci horn\u00EDho patra se nach\u00E1z\u00ED mal\u00FD v\u00FDklenek s \u010Dervenou postel\u00ED a crafting tablem. Naproti jsou zbytky plotov\u00E9ho z\u00E1bradl\u00ED, kter\u00E9 d\u0159\u00EDve chr\u00E1nilo proti p\u00E1du \u2013 dnes ji\u017E zbyte\u010Dn\u00E9, nebo\u0165 zde stoj\u00ED [Autobus\u00E1k](mi_autobusak).\r\nSchodi\u0161t\u011B do doln\u00EDho patra m\u00E1 d\u00E9lku p\u011Bti blok\u016F. To je oproti horn\u00EDmu v\u00EDce obestav\u011Bn\u00E9 a zast\u0159e\u0161en\u00E9 r\u016Fznorod\u00FDmi m\u00EDstnostmi. Z prav\u00E9 st\u011Bny zde vyb\u00EDhaj\u00ED i okna, co\u017E nen\u00ED pro horn\u00ED patro b\u011B\u017En\u00E9 (v\u00FDjimkou jsou propojen\u00ED s [V\u00FDtahovou \u0160achtou](mi_vytahova_sachta), [Doln\u00EDm N\u00E1dra\u017E\u00EDm](mi_dolni_nadrazi) a [Hospodou](mi_hospoda)). Okna v doln\u00ED \u010D\u00E1sti b\u00FDvaj\u00ED velk\u00E1 \u2013 \u010Dasto a\u017E 4x4 bloky.\r\nStropy dosahuj\u00ED v\u00FD\u0161ky alespo\u0148 p\u011Bti blok\u016F, ale v n\u011Bkter\u00FDch m\u00EDstech, nap\u0159\u00EDklad u schodi\u0161t\u011B do horn\u00EDho podla\u017E\u00ED, mohou b\u00FDt vysok\u00E9 a\u017E 12 blok\u016F. Touto spodn\u00ED \u010D\u00E1st\u00ED nap\u0159\u00ED\u010D proch\u00E1z\u00ED \u017Eeleznice [Mraven\u010D\u00ED Dr\u00E1hy](te_mravenci_draha).\r\nU konce chodby vede dvoublokov\u00E9 schodi\u0161t\u011B dol\u016F do [Spojky](mi_spojka) a v\u0161e je zakon\u010Deno dve\u0159mi do [Pu\u010Dmeloun Farmy](mi_pucmeloun_farma), kter\u00E9 jsou zaj\u00EDmav\u011B obestav\u011Bn\u00E9 trapdoory slou\u017E\u00EDc\u00EDmi jako provizorn\u00ED ze\u010F.\r\nJe d\u016Fle\u017Eit\u00E9 zm\u00EDnit, \u017Ee m\u00EDstnosti [Doln\u00ED N\u00E1dra\u017E\u00ED](mi_dolni_nadrazi) a [Autobus\u00E1k](mi_autobusak) jsou o jeden blok v\u00FD\u0161e ne\u017E Overpass, tak\u017Ee k ob\u011Bma vede sch\u016Fdek."
+        "Content": "Interi\u00E9r Overpassu je velmi rozmanit\u00FD a prom\u011Bnliv\u00FD. Horn\u00ED podla\u017E\u00ED nen\u00ED zast\u0159e\u0161eno, co\u017E umo\u017E\u0148uje p\u0159\u00EDm\u00FD v\u00FDhled na oblohu. Chodba zde b\u00FDv\u00E1 dva a\u017E t\u0159i bloky \u0161irok\u00E1, av\u0161ak v n\u011Bkter\u00FDch m\u00EDstech se \u0161\u00ED\u0159ka v\u00FDrazn\u011B li\u0161\u00ED. Nap\u0159\u00EDklad d\u00EDky konstrukci [Her\u0161pic](ok_herspice) byla \u010D\u00E1st Overpassu roz\u0161\u00ED\u0159ena. Naopak existuj\u00ED i extr\u00E9mn\u011B \u00FAzk\u00E9 \u00FAseky \u2013 jako \u201Emost\u201C, kter\u00FD je oplocen z obou stran a prakticky zde z\u016Fst\u00E1v\u00E1 jen asi 1,8 bloku pr\u016Fchoz\u00ED \u0161\u00ED\u0159ky. V\u00FDstupn\u00ED v\u00FDtah z [Lanterny](mi_lanterna) je obklopen tak t\u011Bsn\u011B, \u017Ee kolem n\u011Bj vede pouze jednoblokov\u00FD pr\u016Fchod (ten vznikl a\u017E po v\u00FDstavb\u011B [Autobus\u00E1ku](mi_autobusak). Za [Lanternou](mi_lanterna) byl ale prostor v polovin\u011B srpna roz\u0161\u00ED\u0159en a Overpassu byl tak darov\u00E1n p\u0159\u00EDstup ke schodi\u0161ti [Ko\u0148sk\u00E1 S\u00EDla](mi_konska_sila).\r\nChodba se op\u011Bt roz\u0161i\u0159uje v \u010D\u00E1sti, kde odbo\u010Duje vlevo sm\u011Brem k [Tr\u00F3je](mi_troja) \u2013 zde je a\u017E \u0161est blok\u016F \u0161irok\u00E1, p\u0159i\u010Dem\u017E schodi\u0161t\u011B dol\u016F m\u00E1 \u0161\u00ED\u0159ku jen dva bloky. Vedle tohoto schodi\u0161t\u011B se nach\u00E1z\u00ED je\u0161t\u011B jedno \u00FAzk\u00E9 schodi\u0161t\u011B na [Ter\u00E1sku](mi_teraska), kter\u00E9 je pova\u017Eov\u00E1no za jedno z nejhor\u0161\u00EDch v dom\u011B \u2013 snad pouze schodi\u0161t\u011B v [Dvoj\u010Datech](mi_dvojcata) je hor\u0161\u00ED. K [Tr\u00F3je](mi_troja) vede je\u0161t\u011B dal\u0161\u00ED, av\u0161ak pouze jednoblokov\u00E9 schodi\u0161t\u011B nach\u00E1zej\u00EDc\u00ED se o kousek d\u00E1l.\r\nNa \u00FApln\u00E9m konci horn\u00EDho patra se nach\u00E1z\u00ED mal\u00FD v\u00FDklenek s \u010Dervenou postel\u00ED a crafting tablem. Naproti jsou zbytky plotov\u00E9ho z\u00E1bradl\u00ED, kter\u00E9 d\u0159\u00EDve chr\u00E1nilo proti p\u00E1du \u2013 dnes ji\u017E zbyte\u010Dn\u00E9, nebo\u0165 zde stoj\u00ED [Autobus\u00E1k](mi_autobusak).\r\nSchodi\u0161t\u011B do doln\u00EDho patra m\u00E1 d\u00E9lku p\u011Bti blok\u016F. To je oproti horn\u00EDmu v\u00EDce obestav\u011Bn\u00E9 a zast\u0159e\u0161en\u00E9 r\u016Fznorod\u00FDmi m\u00EDstnostmi. Z prav\u00E9 st\u011Bny zde vyb\u00EDhaj\u00ED i okna, co\u017E nen\u00ED pro horn\u00ED patro b\u011B\u017En\u00E9 (v\u00FDjimkou jsou propojen\u00ED s [V\u00FDtahovou \u0160achtou](mi_vytahova_sachta), [Doln\u00EDm N\u00E1dra\u017E\u00EDm](mi_dolni_nadrazi) a [Hospodou](mi_hospoda)). Okna v doln\u00ED \u010D\u00E1sti b\u00FDvaj\u00ED velk\u00E1 \u2013 \u010Dasto a\u017E 4x4 bloky.\r\nStropy dosahuj\u00ED v\u00FD\u0161ky alespo\u0148 p\u011Bti blok\u016F, ale v n\u011Bkter\u00FDch m\u00EDstech, nap\u0159\u00EDklad u schodi\u0161t\u011B do horn\u00EDho podla\u017E\u00ED, mohou b\u00FDt vysok\u00E9 a\u017E 12 blok\u016F. Touto spodn\u00ED \u010D\u00E1st\u00ED nap\u0159\u00ED\u010D proch\u00E1z\u00ED \u017Eeleznice [Mraven\u010D\u00ED Dr\u00E1hy](te_mravenci_draha).\r\nU konce chodby vede dvoublokov\u00E9 schodi\u0161t\u011B dol\u016F do [Spojky](mi_spojka) a v\u0161e je zakon\u010Deno dve\u0159mi do [Pu\u010Dmeloun Farmy](mi_pucmeloun_farma), kter\u00E9 jsou zaj\u00EDmav\u011B obestav\u011Bn\u00E9 trapdoory slou\u017E\u00EDc\u00EDmi jako provizorn\u00ED ze\u010F.\r\nJe d\u016Fle\u017Eit\u00E9 zm\u00EDnit, \u017Ee m\u00EDstnosti [Doln\u00ED N\u00E1dra\u017E\u00ED](mi_dolni_nadrazi) a [Autobus\u00E1k](mi_autobusak) jsou o jeden blok v\u00FD\u0161e ne\u017E Overpass, tak\u017Ee k ob\u011Bma vede sch\u016Fdek."
       },
       {
         "Title": "Zaj\u00EDmavosti",
@@ -39198,17 +39205,17 @@
       }
     ],
     "image_id": 0,
-    "area": 272,
+    "area": 282,
     "Empty": false,
     "numberOfRooms": 0,
     "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
+      "x": 339,
+      "y": 99,
+      "z": 1132
     },
-    "patternleCompatible": true,
+    "patternleCompatible": false,
     "redirect": null,
-    "tobeedited": true,
+    "tobeedited": false,
     "reviews": [],
     "utilities": [
       "Cra",
@@ -40821,9 +40828,13 @@
     "Image_titles": [],
     "Bordering_rooms": [
       "mi_lom",
-      "mi_pristavni_molo"
+      "mi_pristavni_molo",
+      "mi_gekon"
     ],
-    "Alternate_names": [],
+    "Alternate_names": [
+      "P\u011Btist\u00E1 m\u00EDstnost",
+      "500. m\u00EDstnost"
+    ],
     "Metadata": {
       "N\u00E1zev": "Lomen\u00E1 \u010C\u00E1ra",
       "Blok": "[Lom](bl_lom)",
@@ -40846,7 +40857,7 @@
       },
       {
         "Title": "Zaj\u00EDmavost",
-        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+        "Content": "Lomen\u00E1 \u010C\u00E1ra je p\u011Btistou m\u00EDstnost\u00ED v dom\u011B."
       }
     ],
     "image_id": 0,
@@ -41594,7 +41605,9 @@
       "mi_halusky",
       "mi_u_zabradli"
     ],
-    "Alternate_names": [],
+    "Alternate_names": [
+      "ko\u0148sk\u00E1 dr\u00E1ha"
+    ],
     "Metadata": {
       "N\u00E1zev": "Ko\u0148sk\u00E1 S\u00EDla",
       "Blok": "[JZD](bl_jzd)",
@@ -41710,7 +41723,7 @@
     "Metadata": {
       "N\u00E1zev": "P\u0159edsal\u00F3nek",
       "Blok": "[JZD](bl_jzd)",
-      "Okrsek": "[Horní Propust](ok_horni_propust)",
+      "Okrsek": "[Horn\u00ED Propust](ok_horni_propust)",
       "\u010Ctvr\u0165": "[Propast](ct_propast)",
       "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
     },
@@ -43811,7 +43824,9 @@
       "mi_past",
       "mi_atrapa"
     ],
-    "Alternate_names": [],
+    "Alternate_names": [
+      "blomba"
+    ],
     "Metadata": {
       "N\u00E1zev": "Plomba",
       "Blok": "[Kampa](bl_kampa)",
@@ -44027,7 +44042,7 @@
     "Alternate_names": [],
     "Metadata": {
       "N\u00E1zev": "Agama",
-      "Blok": "[Mosty](bl_mosty)",
+      "Blok": "[Je\u0161t\u011Brky](bl_jesterky)",
       "Okrsek": "[Lom](ok_lom)",
       "\u010Ctvr\u0165": "[Lom](ct_lom)",
       "\u010C\u00E1st": "[Sibi\u0159](ca_sibir)"
@@ -44074,7 +44089,9 @@
       "mi_zlate_schodiste",
       "mi_vytahova_sachta"
     ],
-    "Alternate_names": [],
+    "Alternate_names": [
+      "reverzn\u00ED kol\u00EDnko"
+    ],
     "Metadata": {
       "N\u00E1zev": "Oknilok",
       "Blok": "[Reverze](bl_reverze)",
@@ -44349,8 +44366,7 @@
     "tobeedited": false,
     "reviews": [],
     "utilities": [
-      "Cra",
-      null
+      "Cra"
     ]
   },
   "mi_mezi_okny": {
@@ -44559,170 +44575,254 @@
     "utilities": []
   },
   "bl_kampa": {
-            "Title": "Kampa",
-            "Type": "blok",
-            "Images": [],
-            "Image_titles": [],
-            "Bordering_rooms": [],
-            "Alternate_names": [],
-            "Metadata": {
-                "Název": "Kampa",
-                "Okrsek": "[Preatrium](ok_preatrium)",
-                "Čtvrť": "[Vietnamská Čtvrť](ct_vietnamska_ctvrt)",
-                "Část": "[Trója](ca_troja)"
-            },
-            "Sections": [
-                {
-                    "Title": "Přehled",
-                    "Content": ""
-                },
-                {
-                    "Title": "Název",
-                    "Content": ""
-                },
-                {
-                    "Title": "Interiér",
-                    "Content": ""
-                },
-                {
-                    "Title": "Zajímavosti",
-                    "Content": ""
-                },
-                {
-                    "Title": "Aktuality",
-                    "Content": ""
-                }
-            ],
-            "image_id": 0,
-            "area": 0,
-            "Empty": false,
-            "numberOfRooms": 0,
-            "redirect": null,
-            "tobeedited": false
-            },
-"bl_mosty": {
-            "Title": "Mosty",
-            "Type": "blok",
-            "Images": [],
-            "Image_titles": [],
-            "Bordering_rooms": [],
-            "Alternate_names": [],
-            "Metadata": {
-                "Název": "Mosty",
-                "Okrsek": "[Lom](ok_lom)",
-                "Čtvrť": "[Lom](ct_lom)",
-                "Část": "[Sibiř](ca_sibir)"
-            },
-            "Sections": [
-                {
-                    "Title": "Přehled",
-                    "Content": ""
-                },
-                {
-                    "Title": "Název",
-                    "Content": ""
-                },
-                {
-                    "Title": "Interiér",
-                    "Content": ""
-                },
-                {
-                    "Title": "Zajímavosti",
-                    "Content": ""
-                },
-                {
-                    "Title": "Aktuality",
-                    "Content": ""
-                }
-            ],
-            "image_id": 0,
-            "area": 0,
-            "Empty": false,
-            "numberOfRooms": 0,
-            "redirect": null,
-            "tobeedited": false
-            },
-"bl_reverze": {
-            "Title": "Reverze",
-            "Type": "blok",
-            "Images": [],
-            "Image_titles": [],
-            "Bordering_rooms": [],
-            "Alternate_names": [],
-            "Metadata": {
-                "Název": "Reverze",
-                "Okrsek": "[Trója](ok_troja)",
-                "Čtvrť": "[Trója](ct_troja)",
-                "Část": "[Trója](ca_troja)"
-            },
-            "Sections": [
-                {
-                    "Title": "Přehled",
-                    "Content": ""
-                },
-                {
-                    "Title": "Název",
-                    "Content": ""
-                },
-                {
-                    "Title": "Interiér",
-                    "Content": ""
-                },
-                {
-                    "Title": "Zajímavosti",
-                    "Content": ""
-                },
-                {
-                    "Title": "Aktuality",
-                    "Content": ""
-                }
-            ],
-            "image_id": 0,
-            "area": 0,
-            "Empty": false,
-            "numberOfRooms": 0,
-            "redirect": null,
-            "tobeedited": false
-            },
-"ok_horni_propust": {
-            "Title": "Horní Propust",
-            "Type": "okrsek",
-            "Images": [],
-            "Image_titles": [],
-            "Bordering_rooms": [],
-            "Alternate_names": [],
-            "Metadata": {
-                "Název": "Horní Propust",
-                "Čtvrť": "[Propast](ct_propast)",
-                "Část": "[Pařez](ca_parez)"
-            },
-            "Sections": [
-                {
-                    "Title": "Přehled",
-                    "Content": ""
-                },
-                {
-                    "Title": "Název",
-                    "Content": ""
-                },
-                {
-                    "Title": "Interiér",
-                    "Content": ""
-                },
-                {
-                    "Title": "Zajímavosti",
-                    "Content": ""
-                },
-                {
-                    "Title": "Aktuality",
-                    "Content": ""
-                }
-            ],
-            "image_id": 0,
-            "area": 0,
-            "Empty": false,
-            "numberOfRooms": 0,
-            "redirect": null,
-            "tobeedited": false
-            }
+    "Title": "Kampa",
+    "Type": "blok",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Kampa",
+      "Okrsek": "[Preatrium](ok_preatrium)",
+      "\u010Ctvr\u0165": "[Vietnamsk\u00E1 \u010Ctvr\u0165](ct_vietnamska_ctvrt)",
+      "\u010C\u00E1st": "[Tr\u00F3ja](ca_troja)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": ""
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": ""
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": ""
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": ""
+      },
+      {
+        "Title": "Aktuality",
+        "Content": ""
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": []
+  },
+  "bl_reverze": {
+    "Title": "Reverze",
+    "Type": "blok",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Reverze",
+      "Okrsek": "[Tr\u00F3ja](ok_troja)",
+      "\u010Ctvr\u0165": "[Tr\u00F3ja](ct_troja)",
+      "\u010C\u00E1st": "[Tr\u00F3ja](ca_troja)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": ""
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": ""
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": ""
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": ""
+      },
+      {
+        "Title": "Aktuality",
+        "Content": ""
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": []
+  },
+  "ok_horni_propust": {
+    "Title": "Horn\u00ED Propust",
+    "Type": "okrsek",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Horn\u00ED Propust",
+      "\u010Ctvr\u0165": "[Propast](ct_propast)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": ""
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": ""
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": ""
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": ""
+      },
+      {
+        "Title": "Aktuality",
+        "Content": ""
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": []
+  },
+  "bl_jesterky": {
+    "Title": "Je\u0161t\u011Brky",
+    "Type": "blok",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [
+      "Mosty"
+    ],
+    "Metadata": {
+      "N\u00E1zev": "Je\u0161t\u011Brky",
+      "Okrsek": "[Lom](ok_lom)",
+      "\u010Ctvr\u0165": "[Lom](ct_lom)",
+      "\u010C\u00E1st": "[Sibi\u0159](ca_sibir)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": ""
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": ""
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": ""
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": ""
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "01/09/25: P\u0159ejmenov\u00E1no z Mosty na Je\u0161t\u011B\u010Dky."
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": []
+  },
+  "mi_gekon": {
+    "Title": "Gekon",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_lomena_cara",
+      "mi_pecka"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Gekon",
+      "Blok": "[Je\u0161t\u011Brky](bl_jesterky)",
+      "Okrsek": "[Lom](ok_lom)",
+      "\u010Ctvr\u0165": "[Lom](ct_lom)",
+      "\u010C\u00E1st": "[Sibi\u0159](ca_sibir)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 42,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 302,
+      "y": 64,
+      "z": 1184
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": []
+  }
 }
