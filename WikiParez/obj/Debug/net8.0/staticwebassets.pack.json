@@ -1397,6 +1397,30 @@
       "PackagePath": "staticwebassets/Images/mi_the_airship5.png"
     },
     {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_the_bridge1.png",
+      "PackagePath": "staticwebassets/Images/mi_the_bridge1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_the_bridge2.png",
+      "PackagePath": "staticwebassets/Images/mi_the_bridge2.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_the_bridge3.png",
+      "PackagePath": "staticwebassets/Images/mi_the_bridge3.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_the_bridge4.png",
+      "PackagePath": "staticwebassets/Images/mi_the_bridge4.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_the_bridge5.png",
+      "PackagePath": "staticwebassets/Images/mi_the_bridge5.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_the_bridge6.png",
+      "PackagePath": "staticwebassets/Images/mi_the_bridge6.png"
+    },
+    {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_the_overpass1.png",
       "PackagePath": "staticwebassets/Images/mi_the_overpass1.png"
     },

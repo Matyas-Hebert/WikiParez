@@ -9893,284 +9893,6 @@
       "Fur"
     ]
   },
-  "mi_the_bridge": {
-    "Title": "The Bridge",
-    "Type": "m\u00EDstnost",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [
-      "mi_alej",
-      "mi_na_ochozu",
-      "mi_vyloha",
-      "mi_koreny",
-      "mi_laborator",
-      "mi_zamecke_schody",
-      "mi_v_vez_1_podlazi",
-      "mi_vytahova_sachta",
-      "mi_na_mustku",
-      "mi_predel",
-      "mi_diagonala",
-      "mi_preddvor",
-      "mi_sobota",
-      "mi_wheat_farma",
-      "mi_villager_bridge",
-      "mi_the_crossing",
-      "mi_vypikarna",
-      "mi_sloupek",
-      "mi_hlavni_koridor_ii",
-      "mi_vez_2_podlazi",
-      "mi_dalnice",
-      "mi_zabory",
-      "mi_veranda",
-      "mi_villager_house",
-      "mi_bily_strop",
-      "mi_silo",
-      "mi_dobra_voda",
-      "mi_rozhrani",
-      "mi_mestsky_okruh",
-      "mi_dvojcata"
-    ],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "The Bridge",
-      "Blok": "[Z\u00E1meck\u00E9 Schody](bl_zamecke_schody), [Vestibul](bl_vestibul), [St\u0159ed](bl_stred) a [V\u011B\u017E](bl_vez)",
-      "Okrsek": "[D\u00E1lni\u010Dn\u00ED Kolonie](ok_dalnicni_kolonie), [Veve\u0159\u00ED](ok_veveri) a [Smrk](ok_smrk)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren) a [D\u00E1lni\u010Dn\u00ED Kolonie](ct_dalnicni_kolonie)",
-      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": "Jak vznikl n\u00E1zev?"
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": "N\u011Bco o interi\u00E9ru."
-      },
-      {
-        "Title": "Zaj\u00EDmavost",
-        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
-      },
-      {
-        "Title": "Aktuality",
-        "Content": "19/06/25: Od The Bridge byla odd\u011Blena m\u00EDstnost [V\u00FDloha](mi_vyloha).\r\n12/07/25: Nov\u00FD vchod do [Dvoj\u010Dat](mi_dvojcata).\r\n24/07/25: M\u00EDstnost\u00ED proch\u00E1z\u00ED [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha)."
-      }
-    ],
-    "image_id": 0,
-    "area": 0,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "patternleCompatible": true,
-    "redirect": null,
-    "tobeedited": false,
-    "reviews": [],
-    "utilities": [
-      "Cra",
-      "Bed",
-      "Bar"
-    ]
-  },
-  "mm_the_bridge_1": {
-    "Title": "Redirecting",
-    "Type": "m\u00EDsnost",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "Redirecting",
-      "Blok": "[Vestibul](bl_vestibul)",
-      "Okrsek": "[D\u00E1lni\u010Dn\u00ED Kolonie](ok_dalnicni_kolonie)",
-      "\u010Ctvr\u0165": "[D\u00E1lni\u010Dn\u00ED Kolonie](ct_dalnicni_kolonie)",
-      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
-      "Multi": "[The Bridge](mi_the_bridge)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": "Jak vznikl n\u00E1zev?"
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": "N\u011Bco o interi\u00E9ru."
-      },
-      {
-        "Title": "Zaj\u00EDmavost",
-        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
-      }
-    ],
-    "image_id": 0,
-    "area": 152,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "patternleCompatible": true,
-    "redirect": "mi_the_bridge",
-    "tobeedited": false,
-    "reviews": [],
-    "utilities": []
-  },
-  "mm_the_bridge_2": {
-    "Title": "Redirecting",
-    "Type": "m\u00EDstnost",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "Redirecting",
-      "Blok": "[V\u011B\u017E](bl_vez)",
-      "Okrsek": "[Veve\u0159\u00ED](ok_veveri)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
-      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
-      "Multi": "[The Bridge](mi_the_bridge)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": "Jak vznikl n\u00E1zev?"
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": "N\u011Bco o interi\u00E9ru."
-      },
-      {
-        "Title": "Zaj\u00EDmavost",
-        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
-      }
-    ],
-    "image_id": 0,
-    "area": 45,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "patternleCompatible": true,
-    "redirect": "mi_the_bridge",
-    "tobeedited": false,
-    "reviews": [],
-    "utilities": []
-  },
-  "mm_the_bridge_3": {
-    "Title": "Redirecting",
-    "Type": "m\u00EDstnost",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "Redirecting",
-      "Blok": "[Z\u00E1meck\u00E9 Schody](bl_zamecke_schody)",
-      "Okrsek": "[Veve\u0159\u00ED](ok_veveri)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
-      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
-      "Multi": "[The Bridge](mi_the_bridge)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": "Jak vznikl n\u00E1zev?"
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": "N\u011Bco o interi\u00E9ru."
-      },
-      {
-        "Title": "Zaj\u00EDmavost",
-        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
-      }
-    ],
-    "image_id": 0,
-    "area": 73,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "patternleCompatible": true,
-    "redirect": "mi_the_bridge",
-    "tobeedited": false,
-    "reviews": [],
-    "utilities": []
-  },
-  "mm_the_bridge_4": {
-    "Title": "Redirecting",
-    "Type": "m\u00EDstnost",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "Redirecting",
-      "Blok": "[St\u0159ed](bl_stred)",
-      "Okrsek": "[Smrk](ok_smrk)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
-      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
-      "Multi": "[The Bridge](mi_the_bridge)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": "Jak vznikl n\u00E1zev?"
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": "N\u011Bco o interi\u00E9ru."
-      },
-      {
-        "Title": "Zaj\u00EDmavost",
-        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
-      }
-    ],
-    "image_id": 0,
-    "area": 60,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "patternleCompatible": true,
-    "redirect": "mi_the_bridge",
-    "tobeedited": false,
-    "reviews": [],
-    "utilities": []
-  },
   "mi_the_crossing": {
     "Title": "The Crossing",
     "Type": "m\u00EDstnost",
@@ -44821,6 +44543,291 @@
     },
     "patternleCompatible": true,
     "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": []
+  },
+  "mi_the_bridge": {
+    "Title": "The Bridge",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "\u010C\u00C1ST VE VESTIBULU",
+      "\u010C\u00C1ST U V\u011A\u017D\u011A",
+      "POHLED NA VILLAGER BRIDGE",
+      "\u010C\u00C1ST U Z\u00C1MECK\u00DDCH SCHOD\u016E",
+      "\u010C\u00C1ST V BLOKU ST\u0158ED",
+      "KONEC THE BRIDGE"
+    ],
+    "Bordering_rooms": [
+      "mi_alej",
+      "mi_na_ochozu",
+      "mi_vyloha",
+      "mi_koreny",
+      "mi_laborator",
+      "mi_zamecke_schody",
+      "mi_v_vez_1_podlazi",
+      "mi_vytahova_sachta",
+      "mi_na_mustku",
+      "mi_predel",
+      "mi_diagonala",
+      "mi_preddvor",
+      "mi_sobota",
+      "mi_wheat_farma",
+      "mi_villager_bridge",
+      "mi_the_crossing",
+      "mi_vypikarna",
+      "mi_sloupek",
+      "mi_hlavni_koridor_ii",
+      "mi_vez_2_podlazi",
+      "mi_dalnice",
+      "mi_zabory",
+      "mi_veranda",
+      "mi_villager_house",
+      "mi_bily_strop",
+      "mi_silo",
+      "mi_dobra_voda",
+      "mi_rozhrani",
+      "mi_mestsky_okruh",
+      "mi_dvojcata"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "The Bridge",
+      "Blok": "[Z\u00E1meck\u00E9 Schody](bl_zamecke_schody), [Vestibul](bl_vestibul), [St\u0159ed](bl_stred) a [V\u011B\u017E](bl_vez)",
+      "Okrsek": "[D\u00E1lni\u010Dn\u00ED Kolonie](ok_dalnicni_kolonie), [Veve\u0159\u00ED](ok_veveri) a [Smrk](ok_smrk)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren) a [D\u00E1lni\u010Dn\u00ED Kolonie](ct_dalnicni_kolonie)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "The Bridge je dlouh\u00E1 chodba zasahuj\u00EDc\u00ED do \u010Dty\u0159 blok\u016F, t\u0159\u00ED okrsk\u016F, dvou \u010Dtvrt\u00ED a jedn\u00E9 \u010D\u00E1sti. Nach\u00E1z\u00ED se ve t\u0159et\u00EDm podla\u017E\u00ED [Pa\u0159ezu](ca_parez) a propojuje v\u00EDce ne\u017E dvacet dev\u011Bt m\u00EDstnost\u00ED.  \r\nP\u016Fvodn\u011B byla jen chodbou na okraji domu, ale postupn\u011B ji obklopily des\u00EDtky m\u00EDstnost\u00ED a dnes je kompletn\u011B zast\u0159e\u0161en\u00E1 ze v\u0161ech stran. Je typick\u00E1 t\u00EDm, \u017Ee je po v\u011Bt\u0161inu d\u00E9lky \u0161irok\u00E1 jen dva bloky a vysok\u00E1 obvykle maxim\u00E1ln\u011B t\u0159i bloky. D\u00EDky sv\u00E9 d\u00E9lce a poloze v jedn\u00E9 z nejd\u016Fle\u017Eit\u011Bj\u0161\u00EDch \u010D\u00E1st\u00ED domu se stala p\u00E1te\u0159\u00ED propojuj\u00EDc\u00ED velk\u00E9 mno\u017Estv\u00ED m\u00EDstnost\u00ED. N\u011Bkter\u00E9 jej\u00ED \u00FAseky jsou zn\u00E1m\u00E9 v\u00EDce, jin\u00E9 m\u00E9n\u011B, ale celek tvo\u0159\u00ED nejd\u016Fle\u017Eit\u011Bj\u0161\u00ED spojovac\u00ED chodbu cel\u00E9 stavby."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "The bridge je anglick\u00FD v\u00FDraz, je\u017E znamen\u00E1 \u0022most\u0022. Je pravd\u011Bpodobn\u00E9, \u017Ee v prehistorick\u00FDch dob\u00E1ch, kdy byla m\u00EDstnost vystav\u011Bna byl The Bridge opravdu mostem. To je ale nemo\u017En\u00E9 dok\u00E1zat. Jist\u00E9 je ale, \u017Ee The Bridge ji\u017E mostem nen\u00ED."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "The Bridge je rozd\u011Blen do \u010Dty\u0159 \u010D\u00E1st\u00ED, p\u0159i\u010Dem\u017E ka\u017Ed\u00E1 z nich se nach\u00E1z\u00ED v jin\u00E9m bloku.\r\n\u010C\u00E1st ve [Vestibulu](bl_vestibul) za\u010D\u00EDn\u00E1 u [Rozhran\u00ED](mi_rozhrani) a pokra\u010Duje pod\u00E9l [D\u00E1lnice](mi_dalnice), ke kter\u00E9 vedou schody. P\u0159ed schody je mal\u00FD prostor se dv\u011Bmi \u010Derven\u00FDmi postelemi \u2013 jedin\u00FDmi postelemi na Bridgi. Tato \u010D\u00E1st se nach\u00E1z\u00ED p\u0159\u00EDmo pod ledem [M\u011Bstsk\u00E9ho Okruhu](mi_mestsky_okruh), co\u017E zd\u016Fraz\u0148uje \u017Ee se nach\u00E1z\u00EDme v [D\u00E1lni\u010Dn\u00ED Kolonii](ct_dalnicni_kolonie). Z t\u00E9to \u010D\u00E1sti tak\u00E9 vedou dve\u0159e do [stromov\u00E9 v\u011B\u017Ee](te_stromove_veze) [Sila](mi_silo), schodi\u0161t\u011B k [M\u011Bstsk\u00E9mu Okruhu](mi_mestsky_okruh) a tak\u00E9 p\u0159\u00EDstup na [Crossing](mi_the_crossing), kter\u00FD je s Bridgem \u00FAzce spojen.\r\n\u010C\u00E1st ve [V\u011B\u017Ei](bl_vez) je v\u00FDrazn\u011B schodi\u0161\u0165ov\u00E1 a m\u011Bn\u00ED vzhled cel\u00E9 chodby. Schody nejprve vedou dol\u016F, kde se Bridge rozd\u011Bluje: vlevo k [D\u00E1lnici](mi_dalnice), [Z\u00E1bor\u00E1m](mi_zabory) a na [Verandu](mi_veranda), rovn\u011B ke dve\u0159\u00EDm op\u011Bt k [D\u00E1lnici](mi_dalnice) a vpravo kolem vstupu do [druh\u00E9ho podla\u017E\u00ED V\u011B\u017Ee](mi_vez_2_podlazi). Naproti tomuto vchodu stoj\u00ED v cest\u011B [Sloupek by kiki](mi_sloupek) a schody dol\u016F na [Hlavn\u00ED Koridor](mi_hlavni_koridor_ii). N\u00E1sleduj\u00ED zak\u0159iven\u00E9 schody nahoru, kter\u00E9 vystoupaj\u00ED v\u00FD\u0161 ne\u017E \u010D\u00E1st ve [Vestibulu](bl_vestibul). Toto m\u00EDsto je pravd\u011Bpodobn\u011B nejzn\u00E1m\u011Bj\u0161\u00ED \u010D\u00E1st\u00ED cel\u00E9 chodby \u2013 The Bridge vede kolem dve\u0159\u00ED do [Vyp\u00EDk\u00E1rny](mi_vypikarna), schod\u016F na [Crossing](mi_the_crossing) a vstupu na [Villager Bridge](mi_villager_bridge). Naproti n\u011Bmu se nach\u00E1z\u00ED ve zdi nevyu\u017Eit\u00FD barel, kter\u00FD zna\u010D\u00ED konec t\u00E9to \u010D\u00E1sti.\r\n\u010C\u00E1st v bloku [Z\u00E1meck\u00E9 Schody](bl_zamecke_schody) je tvo\u0159ena rovnou chodbou p\u0159eru\u0161enou zhruba v polovin\u011B mal\u00FDm sch\u016Fdkem. Na za\u010D\u00E1tek vede to\u010Dit\u00E9 schodi\u0161t\u011B z [P\u0159edddvoru](mi_preddvor). Tato \u010D\u00E1st m\u00E1 jednoduch\u00E9 pravidlo \u2013 v\u0161echny vstupy se nach\u00E1zej\u00ED vlevo, zat\u00EDmco vpravo jsou jen st\u011Bny bez dve\u0159\u00ED. Nejprve je vlevo velk\u00FD otev\u0159en\u00FD pr\u016Fchod na [P\u0159ed\u011Bl](mi_predel) a [Diagon\u00E1lu](mi_diagonala). Na konci pr\u016Fchodu se k Bridgi p\u0159ipojuj\u00ED koleje [Mraven\u010D\u00ED Dr\u00E1hy](te_mravenci_draha), kter\u00E9 pokra\u010Duj\u00ED ho doprov\u00E1zej\u00ED a\u017E na jeho konec. Kousek d\u00E1l se vlevo nach\u00E1z\u00ED dal\u0161\u00ED otev\u0159en\u00FD vchod a to [Na M\u016Fstek](mi_na_mustku) a mal\u00FD m\u016Fstek do [V\u00FDtahov\u00E9 \u0160achty](mi_vytahova_sachta). Zbytek lev\u00E9 strany vypl\u0148uj\u00ED [Z\u00E1meck\u00E9 Schody](mi_zamecke_schody), kter\u00E9 vedou sm\u011Brem dol\u016F. \u010C\u00E1st The Bridge vedouc\u00ED kolem nich nen\u00ED oplocena, ale p\u00E1d na schody je n\u00EDzk\u00FD a tak nehroz\u00ED zran\u011Bn\u00ED hr\u00E1\u010De. Naproti nim je jedin\u00FD vchod nach\u00E1zej\u00EDc\u00ED se na prav\u00E9 stran\u011B, branka [Na Ochoz](mi_na_ochozu). \r\n\u010C\u00E1st v bloku [St\u0159ed](bl_stred) je specifick\u00E1 t\u00EDm, \u017Ee vlevo le\u017E\u00ED m\u00EDstnosti [Ko\u0159eny](mi_koreny) a [V\u00FDloha](mi_vyloha), kter\u00E9 byly kdysi sou\u010D\u00E1st\u00ED Bridge, ale pozd\u011Bji byly odd\u011Bleny. P\u0159\u00EDstup do nich z\u016Fstal voln\u00FD, bez st\u011Bny. Napravo se nach\u00E1z\u00ED dlouh\u00FD plot s n\u011Bkolika brankami [Na Ochoz](mi_na_ochozu). Na samotn\u00E9m konci se chodba roz\u0161i\u0159uje z p\u016Fvodn\u00EDch dvou blok\u016F a\u017E na \u010Dty\u0159n\u00E1sobek. [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha) zde zat\u00E1\u010D\u00ED vlevo a pokra\u010Duje strm\u011B nahoru na [Alej](mi_alej). Vpravo se nach\u00E1z\u00ED \u017Eeb\u0159\u00EDk na onu [Alej](mi_alej) a posledn\u00ED branka [Na Ochoz](mi_na_ochozu).\r\nCel\u00FD prostor The Bridge je dob\u0159e osv\u011Btlen a to v\u00FDhradn\u011B lou\u010Demi. Mezi standartn\u00EDmi lou\u010Demi m\u016F\u017Eeme nal\u00E9zt tak\u00E9 lou\u010De ruditov\u00E9 slou\u017E\u00EDc\u00ED k nap\u00E1jen\u00ED kolej\u00ED [Mraven\u010D\u00ED Dr\u00E1hy](te_mravenci_draha)."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Na pomez\u00ED mezi bloky [Z\u00E1meck\u00E9 Schody](bl_zamecke_schody) a [St\u0159ed](bl_stred) lze ve strop\u011B zahl\u00E9dnout pr\u00E1\u0161kov\u00FD sn\u00EDh z podlahy [druh\u00E9ho podla\u017E\u00ED V-V\u011B\u017Ee](mi_v_vez_2_podlazi).\r\nThe Bridge soused\u00ED se t\u0159iceti m\u00EDstnostmi, co\u017E je nejvy\u0161\u0161\u00ED po\u010Det sousedn\u00EDch m\u00EDstnost\u00ED."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "19/06/25: Od The Bridge byla odd\u011Blena m\u00EDstnost [V\u00FDloha](mi_vyloha).\r\n12/07/25: Nov\u00FD vchod do [Dvoj\u010Dat](mi_dvojcata).\r\n24/07/25: M\u00EDstnost\u00ED proch\u00E1z\u00ED [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha)."
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": [
+      "Cra",
+      "Bed",
+      "Bar"
+    ]
+  },
+  "mm_the_bridge_1": {
+    "Title": "Redirecting",
+    "Type": "m\u00EDsnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Redirecting",
+      "Blok": "[Vestibul](bl_vestibul)",
+      "Okrsek": "[D\u00E1lni\u010Dn\u00ED Kolonie](ok_dalnicni_kolonie)",
+      "\u010Ctvr\u0165": "[D\u00E1lni\u010Dn\u00ED Kolonie](ct_dalnicni_kolonie)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
+      "Multi": "[The Bridge](mi_the_bridge)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 152,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": "mi_the_bridge",
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": []
+  },
+  "mm_the_bridge_2": {
+    "Title": "Redirecting",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Redirecting",
+      "Blok": "[V\u011B\u017E](bl_vez)",
+      "Okrsek": "[Veve\u0159\u00ED](ok_veveri)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
+      "Multi": "[The Bridge](mi_the_bridge)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 45,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": "mi_the_bridge",
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": []
+  },
+  "mm_the_bridge_3": {
+    "Title": "Redirecting",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Redirecting",
+      "Blok": "[Z\u00E1meck\u00E9 Schody](bl_zamecke_schody)",
+      "Okrsek": "[Veve\u0159\u00ED](ok_veveri)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
+      "Multi": "[The Bridge](mi_the_bridge)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 73,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": "mi_the_bridge",
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": []
+  },
+  "mm_the_bridge_4": {
+    "Title": "Redirecting",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Redirecting",
+      "Blok": "[St\u0159ed](bl_stred)",
+      "Okrsek": "[Smrk](ok_smrk)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
+      "Multi": "[The Bridge](mi_the_bridge)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 60,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": "mi_the_bridge",
     "tobeedited": false,
     "reviews": [],
     "utilities": []
