@@ -705,6 +705,30 @@
       "PackagePath": "staticwebassets/Images/mi_kahan4.png"
     },
     {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_katakomby1.png",
+      "PackagePath": "staticwebassets/Images/mi_katakomby1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_katakomby2.png",
+      "PackagePath": "staticwebassets/Images/mi_katakomby2.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_katakomby3.png",
+      "PackagePath": "staticwebassets/Images/mi_katakomby3.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_katakomby4.png",
+      "PackagePath": "staticwebassets/Images/mi_katakomby4.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_katakomby5.png",
+      "PackagePath": "staticwebassets/Images/mi_katakomby5.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_katakomby6.png",
+      "PackagePath": "staticwebassets/Images/mi_katakomby6.png"
+    },
+    {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_kino_scala1.png",
       "PackagePath": "staticwebassets/Images/mi_kino_scala1.png"
     },

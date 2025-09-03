@@ -1022,25 +1022,6 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez"
   },
-  "mi_katakomby": {
-    "Title": "Katakomby",
-    "Bordering_rooms": [
-      "mi_the_detour",
-      "mi_dalnicni_pilir",
-      "mi_chodba_ii",
-      "mi_podkrovi",
-      "mi_stair_heaven",
-      "mi_stin",
-      "mi_jogurt",
-      "mi_ustredni_stredisko_beta",
-      "mi_spojnice",
-      "mi_tranzit"
-    ],
-    "Blok": "Katakomby",
-    "Okrsek": "Dálniční Kolonie",
-    "Ctvrt": "Dálniční Kolonie",
-    "Cast": "Pařez"
-  },
   "mi_tranzit": {
     "Title": "Tranzit",
     "Bordering_rooms": [
@@ -7074,6 +7055,25 @@
     "Blok": "Zámecké Schody",
     "Okrsek": "Dálniční Kolonie",
     "Ctvrt": "Kořen",
+    "Cast": "Pařez"
+  },
+  "mi_katakomby": {
+    "Title": "Katakomby",
+    "Bordering_rooms": [
+      "mi_the_detour",
+      "mi_dalnicni_pilir",
+      "mi_chodba_ii",
+      "mi_podkrovi",
+      "mi_stair_heaven",
+      "mi_stin",
+      "mi_jogurt",
+      "mi_ustredni_stredisko_beta",
+      "mi_spojnice",
+      "mi_tranzit"
+    ],
+    "Blok": "Katakomby",
+    "Okrsek": "Dálniční Kolonie",
+    "Ctvrt": "Dálniční Kolonie",
     "Cast": "Pařez"
   }
 }

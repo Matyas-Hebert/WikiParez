@@ -5140,72 +5140,6 @@
       "Cra"
     ]
   },
-  "mi_katakomby": {
-    "Title": "Katakomby",
-    "Type": "m\u00EDstnost",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [
-      "mi_the_detour",
-      "mi_dalnicni_pilir",
-      "mi_chodba_ii",
-      "mi_podkrovi",
-      "mi_stair_heaven",
-      "mi_stin",
-      "mi_jogurt",
-      "mi_ustredni_stredisko_beta",
-      "mi_spojnice",
-      "mi_tranzit"
-    ],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "Katakomby",
-      "Blok": "[Katakomby](bl_katakomby)",
-      "Okrsek": "[D\u00E1lni\u010Dn\u00ED Kolonie](ok_dalnicni_kolonie)",
-      "\u010Ctvr\u0165": "[D\u00E1lni\u010Dn\u00ED Kolonie](ct_dalnicni_kolonie)",
-      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": "Jak vznikl n\u00E1zev?"
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": "N\u011Bco o interi\u00E9ru."
-      },
-      {
-        "Title": "Zaj\u00EDmavost",
-        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
-      },
-      {
-        "Title": "Aktuality",
-        "Content": "19/07/25: Schody do [Sila](mi_silo) nov\u011B vedou do [Podkrov\u00ED](mi_podkrovi)."
-      }
-    ],
-    "image_id": 0,
-    "area": 293,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "patternleCompatible": true,
-    "redirect": null,
-    "tobeedited": false,
-    "reviews": [],
-    "utilities": [
-      "Cra",
-      "Bed",
-      "Bar"
-    ]
-  },
   "mi_tranzit": {
     "Title": "Tranzit",
     "Type": "m\u00EDstnost",
@@ -44831,5 +44765,78 @@
     "tobeedited": false,
     "reviews": [],
     "utilities": []
+  },
+  "mi_katakomby": {
+    "Title": "Katakomby",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "KOSTNICE",
+      "TLA\u010C\u00CDTKA",
+      "BAR",
+      "PROSTOR",
+      "TO\u010CIT\u00C9 SCHODI\u0160T\u011A",
+      "UHELN\u00C1 CHODBA"
+    ],
+    "Bordering_rooms": [
+      "mi_the_detour",
+      "mi_dalnicni_pilir",
+      "mi_chodba_ii",
+      "mi_podkrovi",
+      "mi_stair_heaven",
+      "mi_stin",
+      "mi_jogurt",
+      "mi_ustredni_stredisko_beta",
+      "mi_spojnice",
+      "mi_tranzit"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Katakomby",
+      "Blok": "[Katakomby](bl_katakomby)",
+      "Okrsek": "[D\u00E1lni\u010Dn\u00ED Kolonie](ok_dalnicni_kolonie)",
+      "\u010Ctvr\u0165": "[D\u00E1lni\u010Dn\u00ED Kolonie](ct_dalnicni_kolonie)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Katakomby jsou rozs\u00E1hl\u00E1 m\u00EDstnost tvo\u0159en\u00E1 komplexn\u00EDm syst\u00E9mem chodeb a schodi\u0161\u0165, nach\u00E1zej\u00EDc\u00ED se ve stejnojmenn\u00E9m [bloku](bl_katakomby). Cel\u00FD prostor lze rozd\u011Blit na \u0161est podm\u00EDstnost\u00ED, kter\u00E9 jsou vz\u00E1jemn\u011B propojen\u00E9 i napojen\u00E9 na okoln\u00ED m\u00EDstnosti.  \r\nCelkov\u011B Katakomby p\u016Fsob\u00ED jako jedna velk\u00E1, ale z\u00E1rove\u0148 detailn\u011B \u010Dlen\u011Bn\u00E1 struktura. Jejich rozd\u011Blen\u00ED na \u010D\u00E1sti usnad\u0148uje pochopen\u00ED jejich slo\u017Eitosti, i kdy\u017E samotn\u00FD prostor funguje jako propojen\u00FD celek. Ka\u017Ed\u00E1 z jejich \u010D\u00E1st\u00ED ale funguje jako samostatn\u00E1 m\u00EDstnost, nebo\u0165 v\u011Bt\u0161ina z nich vlastn\u00ED crafting table a \u010Dasto i barel a postel. U ka\u017Ed\u00E9 je jasn\u011B definovan\u00E9 co k n\u00ED pat\u0159\u00ED a co ne, a proto rozd\u011Blen\u00ED Katakomb na v\u00EDce m\u00EDstnost\u00ED nen\u00ED zcela vylou\u010Deno. Kdyby ka\u017Ed\u00E1 z \u010D\u00E1st\u00ED Katakomb byla vlastn\u00ED m\u00EDstnost\u00ED pojmenoval bych je asi takto: \u0022Malopodla\u017E\u00ED\u0022, \u0022Uheln\u00E1 Chodba\u0022, \u0022To\u010Dit\u00E9 Schodi\u0161t\u011B\u0022, \u0022Prostor\u0022, \u0022Tla\u010D\u00EDtka\u0022 a \u0022Kostnice\u0022."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Nev\u00EDm... Prost\u011B to k tomu sed\u011Blo. Mo\u017En\u00E1 to n\u011Bkomu nebude d\u00E1vat smysl, ale n\u00E1zev se k m\u00EDstnosti n\u00E1ramn\u011B hod\u00ED."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Nejni\u017E\u0161\u00EDm bodem Katakomb je chodba, kter\u00E1 za\u010D\u00EDn\u00E1 u [Detouru](mi_the_detour). Tato chodba je dva bloky \u0161irok\u00E1 a na v\u011Bt\u0161in\u011B jej\u00ED d\u00E9lky se nach\u00E1z\u00ED schodi\u0161t\u011B sm\u011B\u0159uj\u00EDc\u00ED do vy\u0161\u0161\u00EDch \u010D\u00E1st\u00ED Katakomb. Na za\u010D\u00E1tku je crafting table, barel a dva trapdoory za nimi\u017E se nach\u00E1z\u00ED \u0022tajn\u00FD\u0022 koutek m\u00EDstnosti [The Detour](mi_the_detour). Uprost\u0159ed t\u00E9to chodby mal\u00E9 rozcest\u00ED spole\u010Dn\u011B i s roz\u0161\u00ED\u0159en\u00EDm chodby. Vlevo se nach\u00E1zej\u00ED dve\u0159e vedouc\u00ED k [D\u00E1lni\u010D\u00EDmu Pil\u00ED\u0159i](mi_dalnicni_pilir) a napravo je za\u010D\u00E1tek to\u010Dit\u00E9ho schodi\u0161t\u011B a crafting table.\r\nToto to\u010Dit\u00E9 schodi\u0161t\u011B je tvo\u0159eno p\u011Bti sekcemi a tedy \u010Dty\u0159mi mezipatry. V prvn\u00EDm mezipat\u0159e se nach\u00E1zej\u00ED dve\u0159e do [druh\u00E9 Chodby](mi_chodba_ii), u kter\u00FDch je z n\u011Bjak\u00E9ho d\u016Fvodu i tla\u010D\u00EDtko a pl\u016Ftek s v\u00FDhledem na podobn\u011B komplikovanou m\u00EDstnost [The Detour](mi_the_detour). Schodi\u0161t\u011B d\u00E1le pokra\u010Duje k druh\u00E9mu mezipatru odkud vedou kr\u00E1tk\u00E9 schody na [Podkrov\u00ED](mi_podkrovi). Ve t\u0159et\u00ED sekci se schodi\u0161t\u011B zu\u017Euje jen na jeden blok. Na t\u0159et\u00EDm mezipat\u0159e je mo\u017Enost vyu\u017E\u00EDt dve\u0159e nebo voln\u00FD vchod do Katakomb, ano z Katakomb vedou dve\u0159e do Katakomb. Do \u010D\u00E1st\u00ED kam vedou tyto vchody se vr\u00E1t\u00EDme za chv\u00EDli. Naproti voln\u00E9mu vchodu je plot br\u00E1n\u00EDc\u00ED proti p\u00E1du o dv\u011B mezipodla\u017E\u00ED n\u00ED\u017Ee. Posledn\u00ED mezipatro to\u010Dit\u00E9ho schodi\u0161t\u011B je pouze o blok v\u00FD\u0161e jak to t\u0159et\u00ED. Je zde velk\u00E9 okno s p\u011Bkn\u00FDm v\u00FDhledem, crafting table ve st\u011Bn\u011B a o dva bloky v\u00FD\u0161e polo\u017Een\u00FD stup\u00EDnek se sv\u011Btle modrou postel\u00ED za z\u00E1st\u011Bnou tvo\u0159enou trapdoory. Ze stup\u00EDnku vedou dve\u0159e do [Stair Heavenu](mi_stair_heaven). Je zde tak\u00E9 pl\u016Ftek za n\u00EDm\u017E je \u010D\u00E1st p\u0159\u00EDstupn\u00E1 z p\u0159ede\u0161l\u00E9ho mezipatra. Cel\u00E9 to\u010Dit\u00E9 schodi\u0161t\u011B je ukon\u010Deno dve\u0159mi do [St\u00EDnu](mi_stin) a velk\u00FDm rohov\u00FDm oknem.\r\nZa dve\u0159mi na t\u0159et\u00EDm mezipodla\u017E\u00ED to\u010Dit\u00E9ho schodi\u0161t\u011B se nach\u00E1z\u00ED chodba, tak\u00E9 sou\u010D\u00E1st\u00ED Katakomb, je\u017E sv\u00FDm vzhledem p\u0159ipom\u00EDn\u00E1 m\u00EDstnosti [Chodba](mi_chodba) a [Chodba II](mi_chodba_ii). Chodba spojuje t\u0159i m\u00EDstnosti, jmenovit\u011B [Podkrov\u00ED](mi_podkrovi), [Stair Heaven](mi_stair_heaven) a [Tranzit](mi_tranzit). Mezi dve\u0159mi do [Stair Heavenu](mi_stair_heaven) a [Tranzitu](mi_tranzit) se nach\u00E1z\u00ED trojice barel\u016F a uheln\u00FD blok. U dve\u0159\u00ED do [Podkrov\u00ED](mi_podkrovi) je polo\u017Eena \u017Elut\u00E1 postel a nad n\u00ED ve strop\u011B je vid\u011Bt spodek r\u016F\u017Eov\u00E9 postele v m\u00EDstnosti [St\u00EDn](mi_stin). Chodba je zakon\u010Dena schody dol\u016F do dal\u0161\u00ED z \u010D\u00E1st\u00ED Katakomb.\r\nTato \u010D\u00E1st se nach\u00E1z\u00ED na konci schodi\u0161t\u011B vedouc\u00EDho z [The Detouru](mi_the_detour) popsan\u00E9ho v prvn\u00EDm odstavci tohoto textu. Krom\u011B dvou postel\u00ED, dvou barel\u016F a dvou crafting tabl\u016F jsou zde dve\u0159e na [Spojnici](mi_spojnice) op\u011Bt s tla\u010D\u00EDtkem, dve\u0159e do [Bety](mi_ustredni_stredisko_beta) tak\u00E9 s tla\u010D\u00EDtkem. Vedle dve\u0159\u00ED do st\u0159ediska je kr\u00E1tk\u00E9 schodi\u0161t\u011B vedouc\u00ED pod\u00E9l st\u011Bny a nad v\u00FD\u0161e zm\u00EDn\u011Bn\u00FDmi barely vedouc\u00ED do dal\u0161\u00ED z \u010D\u00E1st\u00ED Katakomb, o kter\u00E9 bude \u0159e\u010D v dal\u0161\u00EDm odstavci. Naproti nim je pl\u016Ftek za n\u00EDm\u017E je \u010D\u00E1st m\u00EDstnosti [The Detour](mi_the_detour).\r\nDal\u0161\u00ED a p\u0159edposledn\u00ED \u010D\u00E1st\u00ED Katakomb je mal\u00E9 mezipatro s \u0161esti barely a crafting tablem ve st\u011Bn\u011B. Tyto \u00FA\u010Delov\u00E9 bloky zab\u00EDraj\u00ED celou d\u00E9lku tohoto mezipatra. Nad barely je dva bloky vysok\u00E9 okno a za n\u00EDm m\u00EDstnost [Jogurt](mi_jogurt), kam tak\u00E9 vedou kr\u00E1tk\u00E9 schody. Na druh\u00E9 stran\u011B mezipatra je nezasklen\u00FD otvor s pl\u016Ftkem, je\u017E nab\u00EDz\u00ED v\u00FDhled na [Le Pont](mi_le_pont). Nalevo od otvoru je posledn\u00ED schodi\u0161t\u011B o kter\u00E9m bude v tomto textu \u0159e\u010D vedouc\u00ED do \u0161est\u00E9 a posledn\u00ED \u010D\u00E1sti Katakomb.\r\nTou je velk\u00FD otev\u0159en\u00FD prostor s vysok\u00FDmi stropy, mno\u017Estv\u00EDm oken a r\u016Fzn\u00FDch pl\u016Ftk\u016F. Za jedn\u00EDm z t\u011Bchto pl\u016Ftk\u016F je nap\u0159\u00EDklad ji\u017E v\u00EDcekr\u00E1t zmi\u0148ovan\u00E1 d\u00EDra na jej\u00EDm\u017E dn\u011B je [The Detour](mi_the_detour). Nap\u0159\u00ED\u010D velk\u00E9 plo\u0161e vedou z t\u00E9to \u010D\u00E1st\u00ED jedin\u00E9 dve\u0159e a to do [St\u00EDnu](mi_stin). Krom nich se sem d\u00E1 dostat schody z v\u00FD\u0161e zm\u00EDn\u011Bn\u00E9ho mezipatra s mnoha barely \u010Di dv\u011Bma r\u016Fzn\u00FDmi vchody z to\u010Dit\u00E9ho schodi\u0161t\u011B \u010Di chodbi\u010Dkou s uheln\u00FDm blokem."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Na cedulce u dve\u0159\u00ED na [Chodbu II](mi_chodba_ii) bylo chybn\u011B naps\u00E1no \u0022[Galerie](mi_galerie)\u0022.\r\nUheln\u00FD blok se nach\u00E1z\u00ED pouze ve dvou m\u00EDstnostech v dom\u011B. V Katakomb\u00E1ch a v [D\u0159ev\u011Bn\u00E9m Uhl\u00ED](mi_drevene_uhli)."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "19/07/25: Schody do [Sila](mi_silo) nov\u011B vedou do [Podkrov\u00ED](mi_podkrovi)."
+      }
+    ],
+    "image_id": 0,
+    "area": 293,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": [
+      "Cra",
+      "Bed",
+      "Bar"
+    ]
   }
 }
