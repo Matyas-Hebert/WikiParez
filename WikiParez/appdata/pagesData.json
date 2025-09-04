@@ -10431,65 +10431,6 @@
       "Bar"
     ]
   },
-  "mi_hlavni_trida": {
-    "Title": "Hlavn\u00ED T\u0159\u00EDda",
-    "Type": "m\u00EDstnost",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [
-      "mi_okruh",
-      "mi_hlavni_koridor_ii",
-      "mi_kaplicka",
-      "mi_kapitana_jarose",
-      "mi_pultova_strecha",
-      "mi_mostiste",
-      "mi_silo",
-      "mi_dira_do_pekel"
-    ],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "Hlavn\u00ED T\u0159\u00EDda",
-      "Blok": "[Hlavn\u00ED T\u0159\u00EDda](bl_hlavni_trida)",
-      "Okrsek": "[Ben\u00E1tky](ok_benatky)",
-      "\u010Ctvr\u0165": "[Ryb\u00E1\u0159sk\u00E1 Kolonie](ct_rybarska_kolonie)",
-      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": "Jak vznikl n\u00E1zev?"
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": "N\u011Bco o interi\u00E9ru."
-      },
-      {
-        "Title": "Zaj\u00EDmavost",
-        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
-      }
-    ],
-    "image_id": 0,
-    "area": 88,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "patternleCompatible": true,
-    "redirect": "",
-    "tobeedited": false,
-    "reviews": [],
-    "utilities": [
-      "Cra",
-      "Bed"
-    ]
-  },
   "mi_pultova_strecha": {
     "Title": "Pultov\u00E1 St\u0159echa",
     "Type": "m\u00EDstnost",
@@ -44801,7 +44742,7 @@
     "Sections": [
       {
         "Title": "P\u0159ehled",
-        "Content": "Katakomby jsou rozs\u00E1hl\u00E1 m\u00EDstnost tvo\u0159en\u00E1 komplexn\u00EDm syst\u00E9mem chodeb a schodi\u0161\u0165, nach\u00E1zej\u00EDc\u00ED se ve stejnojmenn\u00E9m [bloku](bl_katakomby). Cel\u00FD prostor lze rozd\u011Blit na \u0161est podm\u00EDstnost\u00ED, kter\u00E9 jsou vz\u00E1jemn\u011B propojen\u00E9 i napojen\u00E9 na okoln\u00ED m\u00EDstnosti.  \r\nCelkov\u011B Katakomby p\u016Fsob\u00ED jako jedna velk\u00E1, ale z\u00E1rove\u0148 detailn\u011B \u010Dlen\u011Bn\u00E1 struktura. Jejich rozd\u011Blen\u00ED na \u010D\u00E1sti usnad\u0148uje pochopen\u00ED jejich slo\u017Eitosti, i kdy\u017E samotn\u00FD prostor funguje jako propojen\u00FD celek. Ka\u017Ed\u00E1 z jejich \u010D\u00E1st\u00ED ale funguje jako samostatn\u00E1 m\u00EDstnost, nebo\u0165 v\u011Bt\u0161ina z nich vlastn\u00ED crafting table a \u010Dasto i barel a postel. U ka\u017Ed\u00E9 je jasn\u011B definovan\u00E9 co k n\u00ED pat\u0159\u00ED a co ne, a proto rozd\u011Blen\u00ED Katakomb na v\u00EDce m\u00EDstnost\u00ED nen\u00ED zcela vylou\u010Deno. Kdyby ka\u017Ed\u00E1 z \u010D\u00E1st\u00ED Katakomb byla vlastn\u00ED m\u00EDstnost\u00ED pojmenoval bych je asi takto: \u0022Malopodla\u017E\u00ED\u0022, \u0022Uheln\u00E1 Chodba\u0022, \u0022To\u010Dit\u00E9 Schodi\u0161t\u011B\u0022, \u0022Prostor\u0022, \u0022Tla\u010D\u00EDtka\u0022 a \u0022Kostnice\u0022."
+        "Content": "Katakomby jsou rozs\u00E1hl\u00E1 m\u00EDstnost tvo\u0159en\u00E1 komplexn\u00EDm syst\u00E9mem chodeb a schodi\u0161\u0165, nach\u00E1zej\u00EDc\u00ED se ve stejnojmenn\u00E9m [bloku](bl_katakomby). Cel\u00FD prostor lze rozd\u011Blit na \u0161est podm\u00EDstnost\u00ED, kter\u00E9 jsou vz\u00E1jemn\u011B propojen\u00E9 i napojen\u00E9 na okoln\u00ED m\u00EDstnosti.  \r\nCelkov\u011B Katakomby p\u016Fsob\u00ED jako jedna velk\u00E1, ale z\u00E1rove\u0148 detailn\u011B \u010Dlen\u011Bn\u00E1 struktura. Jejich rozd\u011Blen\u00ED na \u010D\u00E1sti usnad\u0148uje pochopen\u00ED jejich slo\u017Eitosti, i kdy\u017E samotn\u00FD prostor funguje jako propojen\u00FD celek. Ka\u017Ed\u00E1 z jejich \u010D\u00E1st\u00ED ale funguje jako samostatn\u00E1 m\u00EDstnost, nebo\u0165 v\u011Bt\u0161ina z nich vlastn\u00ED crafting table a \u010Dasto i barel a postel. U ka\u017Ed\u00E9 je jasn\u011B definovan\u00E9 co k n\u00ED pat\u0159\u00ED a co ne, a proto rozd\u011Blen\u00ED Katakomb na v\u00EDce m\u00EDstnost\u00ED nen\u00ED zcela vylou\u010Deno. Kdyby ka\u017Ed\u00E1 z \u010D\u00E1st\u00ED Katakomb byla vlastn\u00ED m\u00EDstnost\u00ED pojmenoval bych je asi takto: \u0022Bar\u0022, \u0022Uheln\u00E1 Chodba\u0022, \u0022To\u010Dit\u00E9 Schodi\u0161t\u011B\u0022, \u0022Prostor\u0022, \u0022Tla\u010D\u00EDtka\u0022 a \u0022Kostnice\u0022."
       },
       {
         "Title": "N\u00E1zev",
@@ -44837,6 +44778,69 @@
       "Cra",
       "Bed",
       "Bar"
+    ]
+  },
+  "mi_hlavni_trida": {
+    "Title": "Hlavn\u00ED T\u0159\u00EDda",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "HLAVN\u00CD T\u0158\u00CDDA",
+      "KONCOVKA",
+      "ENDERMAN"
+    ],
+    "Bordering_rooms": [
+      "mi_okruh",
+      "mi_hlavni_koridor_ii",
+      "mi_kaplicka",
+      "mi_kapitana_jarose",
+      "mi_pultova_strecha",
+      "mi_mostiste",
+      "mi_silo",
+      "mi_dira_do_pekel"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Hlavn\u00ED T\u0159\u00EDda",
+      "Blok": "[Hlavn\u00ED T\u0159\u00EDda](bl_hlavni_trida)",
+      "Okrsek": "[Ben\u00E1tky](ok_benatky)",
+      "\u010Ctvr\u0165": "[Ryb\u00E1\u0159sk\u00E1 Kolonie](ct_rybarska_kolonie)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Hlavn\u00ED T\u0159\u00EDda je chodba spojuj\u00EDc\u00ED [Silo](mi_silo) s [Kapli\u010Dkou](mi_kaplicka). Nach\u00E1z\u00ED se ve stejnojmenn\u00E9m [bloku](bl_hlavni_trida) a krom\u011B dvou v\u00FD\u0161e zm\u00EDn\u011Bn\u00FDch m\u00EDstnost\u00ED soused\u00ED s \u0161esti dal\u0161\u00EDmi, mezi ty nejdule\u017Eit\u011Bj\u0161\u00ED pat\u0159\u00ED [Silo](mi_silo), [Okruh](mi_okruh) nebo [Hlavn\u00ED Koridor II](mi_hlavni_koridor_ii). "
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jedna ze sousedn\u00EDch m\u00EDstnost\u00ED, [Kapit\u00E1na Jaro\u0161e](mi_kapitana_jarose) byla pojmenov\u00E1na podle jedn\u00E9 T\u0158\u00CDDY v m\u011Bst\u011B Brn\u011B."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Interi\u00E9r Hlavn\u00ED T\u0159\u00EDdy je vizu\u00E1ln\u011B rozd\u011Blen na dv\u011B \u010D\u00E1sti. Severn\u00ED \u010D\u00E1st je rovnou chodbou s n\u00EDzk\u00FDm stropem zakon\u010Dena dve\u0159mi do [Sila](mi_silo). U t\u011Bchto dve\u0159\u00ED je polo\u017Een jedin\u00FD crafting table v m\u00EDstnosti a pl\u016Ftek za n\u00EDm\u017E je [D\u00EDra do Pekel](mi_dira_do_pekel), kam tak\u00E9 vedou dve\u0159e. Dal\u0161\u00ED dvojice dve\u0159\u00ED se nach\u00E1z\u00ED o p\u00E1r blok\u016F d\u00E1le, jedn\u00E1 se o dve\u0159e na [Okruh](mi_okruh) a dvojit\u00E9 dve\u0159e do [Mosti\u0161t\u011B](mi_mostiste). Tato n\u00EDzkostrop\u00E1 \u010D\u00E1st je zakon\u010Dena schody nahoru na [Pultovou St\u0159echu](mi_pultova_strecha). Krom\u011B dve\u0159\u00ED je zde tak\u00E9 velk\u00E9 mno\u017Estv\u00ED oken, ze kter\u00FDch lze pozorovat [Okruh](mi_okruh) \u010Di vodu [P\u0159\u00EDstavn\u00EDho Mola](mi_pristavni_molo).\r\nV druh\u00E9, ji\u017En\u00ED \u010D\u00E1sti je strop dvakr\u00E1t tak vy\u0161\u0161\u00ED. Hned na za\u010D\u00E1tku je b\u00EDl\u00E1 postel a naproti n\u00ED dvojice schodi\u0161\u0165, dol\u016F na [Okruh](mi_okruh) a nahoru na [Hlavn\u00ED Koridor II](mi_hlavni_koridor_ii). Chodba se pot\u00E9 st\u00E1\u010D\u00ED doprava a nepokra\u010Duje rovn\u011B, nebo\u0165 je zde st\u011Bna spole\u010Dn\u00E1 s [Kapli\u010Dkou](mi_kaplicka) a [Kapit\u00E1nem Jaro\u0161em](mi_kapitana_jarose), do kter\u00FDch vedou na konci chodby schody. Tato st\u011Bna host\u00ED nejv\u011Bt\u0161\u00ED okno v m\u00EDstnosti a z\u00E1rove\u0148 je na ni p\u0159ilepen mal\u00FD oplocen\u00FD balk\u00F3nek nazvan\u00FD [Stup\u00EDnek](mi_stupinek). Konec chodby a s n\u00ED i [Hlavn\u00ED T\u0159\u00EDdy](mi_hlavni_trida) je obohacen mnoha okny a pl\u016Ftkem za n\u00EDm\u017E jde pozorovat kan\u00E1l [P\u0159\u00EDstavn\u00EDho Mola](mi_pristavni_molo)"
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Na schodech vedouc\u00EDch z [Kapit\u00E1na Jaro\u0161e](mi_kapitana_jarose) je ji\u017E n\u011Bjakou dobu zasekl\u00FD enderman."
+      }
+    ],
+    "image_id": 0,
+    "area": 88,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 297,
+      "y": 68,
+      "z": 1128
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": [
+      "Cra",
+      "Bed"
     ]
   }
 }

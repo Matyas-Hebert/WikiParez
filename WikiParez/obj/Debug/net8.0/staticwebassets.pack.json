@@ -613,6 +613,18 @@
       "PackagePath": "staticwebassets/Images/mi_hala3.png"
     },
     {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_hlavni_trida1.png",
+      "PackagePath": "staticwebassets/Images/mi_hlavni_trida1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_hlavni_trida2.png",
+      "PackagePath": "staticwebassets/Images/mi_hlavni_trida2.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_hlavni_trida3.png",
+      "PackagePath": "staticwebassets/Images/mi_hlavni_trida3.png"
+    },
+    {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_hlidkovaci_kos1.png",
       "PackagePath": "staticwebassets/Images/mi_hlidkovaci_kos1.png"
     },

@@ -2249,23 +2249,6 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez"
   },
-  "mi_hlavni_trida": {
-    "Title": "Hlavní Třída",
-    "Bordering_rooms": [
-      "mi_okruh",
-      "mi_hlavni_koridor_ii",
-      "mi_kaplicka",
-      "mi_kapitana_jarose",
-      "mi_pultova_strecha",
-      "mi_mostiste",
-      "mi_silo",
-      "mi_dira_do_pekel"
-    ],
-    "Blok": "Hlavní Třída",
-    "Okrsek": "Benátky",
-    "Ctvrt": "Rybářská Kolonie",
-    "Cast": "Pařez"
-  },
   "mi_pultova_strecha": {
     "Title": "Pultová Střecha",
     "Bordering_rooms": [
@@ -7074,6 +7057,23 @@
     "Blok": "Katakomby",
     "Okrsek": "Dálniční Kolonie",
     "Ctvrt": "Dálniční Kolonie",
+    "Cast": "Pařez"
+  },
+  "mi_hlavni_trida": {
+    "Title": "Hlavní Třída",
+    "Bordering_rooms": [
+      "mi_okruh",
+      "mi_hlavni_koridor_ii",
+      "mi_kaplicka",
+      "mi_kapitana_jarose",
+      "mi_pultova_strecha",
+      "mi_mostiste",
+      "mi_silo",
+      "mi_dira_do_pekel"
+    ],
+    "Blok": "Hlavní Třída",
+    "Okrsek": "Benátky",
+    "Ctvrt": "Rybářská Kolonie",
     "Cast": "Pařez"
   }
 }
