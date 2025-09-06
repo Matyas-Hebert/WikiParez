@@ -23,6 +23,7 @@ public class WikiService
     private readonly string _path;
     private readonly string _pathsplash;
     private readonly string _pathtopparezle;
+    private readonly string _pathtooldparezle;
     private Dictionary<string, WikiPage> _pages;
     private Dictionary<string, WikiPage> _onlyroomspages;
     private Dictionary<string, SimplifiedWikiPage> _simplifiedPages;
@@ -37,31 +38,65 @@ public class WikiService
         _path = Path.Combine(env.ContentRootPath, "appdata", "pagesData.json");
         _pathsplash = Path.Combine(env.ContentRootPath, "appdata", "splashtexts.txt");
         _pathtopparezle = Path.Combine(env.ContentRootPath, "appdata", "parezlescores.json");
-        Console.WriteLine(_path);
-        Console.WriteLine(_pathsplash);
+        _pathtooldparezle = Path.Combine(env.ContentRootPath, "appdata", "oldparezlescores.json");
         _pages = LoadPages();
         _onlyroomspages = LoadOnlyRoomPages();
         _simplifiedPages = GetSimplifiedDict();
         _patternlepages = LoadCoordinatesPages();
         _vlaklepages = LoadVlaklePages();
     }
+    
 
-    public Dictionary<string, double> GetTopParezleRooms()
+    public Dictionary<string, string> GetTopParezleRooms()
     {
-        var json = File.ReadAllText(_pathtopparezle);
-        Console.WriteLine(json);
-        var result = new Dictionary<string, double>();
+        // Read and parse the first JSON
+        var json1 = File.ReadAllText(_pathtopparezle);
+        var result = new Dictionary<string, string>();
+        var posMap1 = new Dictionary<string, int>();
 
-        using var document = JsonDocument.Parse(json);
-        var root = document.RootElement;
+        using var document1 = JsonDocument.Parse(json1);
+        var root1 = document1.RootElement;
 
-        foreach (var element in root.EnumerateArray())
+        // Map keys to positions in the first JSON and populate initial result
+        int index1 = 0;
+        foreach (var element in root1.EnumerateArray())
         {
-            var name = _pages[element[0].GetString()].Title;
-            var score = element[1].GetSingle();
+            string key = element[0].GetString();
+            posMap1[key] = index1++;
+            string name = _pages[key]?.Title;
             if (name != null)
-                result[name] = Math.Round(score,0);
+            {
+                double score = element[1].GetSingle();
+                result[name] = Math.Round(score, 0).ToString(); // Store rounded score temporarily
+            }
         }
+
+        var json2 = File.ReadAllText(_pathtooldparezle);
+        var posMap2 = new Dictionary<string, int>();
+
+        using var document2 = JsonDocument.Parse(json2);
+        var root2 = document2.RootElement;
+
+        int index2 = 0;
+        foreach (var element in root2.EnumerateArray())
+        {
+            string key = element[0].GetString();
+            posMap2[key] = index2++;
+        }
+
+        foreach (var key in posMap1.Keys)
+        {
+            string name = _pages[key]?.Title;
+            if (name != null && result.ContainsKey(name))
+            {
+                int pos1 = posMap1[key];
+                int posDifference = posMap2.ContainsKey(key) ? pos1 - posMap2[key] : 0;
+                if (posDifference == 0) result[name] += "🟰";
+                if (posDifference < 0) result[name] += "🔼" + (-posDifference).ToString();
+                if (posDifference > 0) result[name] += "🔻" + posDifference.ToString();
+            }
+        }
+
         return result;
     }
 

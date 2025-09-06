@@ -43,3 +43,4 @@
 /root/wikiparez/WikiParez/bin/Debug/net8.0/appdata/weird.json
 /root/wikiparez/WikiParez/bin/Debug/net8.0/appdata/testdata.json
 /root/wikiparez/WikiParez/bin/Debug/net8.0/appdata/parezlepages.json
+/root/wikiparez/WikiParez/bin/Debug/net8.0/appdata/oldparezlescores.json
