@@ -1,5 +1,5 @@
 {
-  "version": "1.2.1",
+  "version": "1.3",
   "mi_rudakuv_dum": {
     "Title": "Ruďákův dům",
     "Bordering_rooms": [
@@ -2586,7 +2586,7 @@
     ],
     "Blok": "Cimrman",
     "Okrsek": "Mrkev",
-    "Ctvrt": "Mrkev",
+    "Ctvrt": "Dužina",
     "Cast": "Nové Dilí"
   },
   "mi_siroky": {
@@ -2597,7 +2597,7 @@
     ],
     "Blok": "Cimrman",
     "Okrsek": "Mrkev",
-    "Ctvrt": "Mrkev",
+    "Ctvrt": "Dužina",
     "Cast": "Nové Dilí"
   },
   "mi_hluchonemy": {
@@ -2608,7 +2608,7 @@
     ],
     "Blok": "Cimrman",
     "Okrsek": "Mrkev",
-    "Ctvrt": "Mrkev",
+    "Ctvrt": "Dužina",
     "Cast": "Nové Dilí"
   },
   "mi_bystrozraky": {
@@ -2619,7 +2619,7 @@
     ],
     "Blok": "Cimrman",
     "Okrsek": "Mrkev",
-    "Ctvrt": "Mrkev",
+    "Ctvrt": "Dužina",
     "Cast": "Nové Dilí"
   },
   "mi_amfora": {
@@ -2804,7 +2804,8 @@
       "mi_hotel_gi_floor_gi",
       "mi_padaci_most",
       "mi_dalnicni_pilir",
-      "mi_kurnik"
+      "mi_kurnik",
+      "mi_on"
     ],
     "Blok": "Balónky",
     "Okrsek": "Balónky",
@@ -2835,7 +2836,8 @@
       "mi_hotel_gi_floor_gi",
       "mi_pramice",
       "mi_veranda",
-      "mi_audit"
+      "mi_audit",
+      "mi_privoz"
     ],
     "Blok": "Le Pont",
     "Okrsek": "Pisa",
@@ -3493,7 +3495,9 @@
       "mi_jizni_blok",
       "mi_puch",
       "mi_zuch",
-      "mi_kronika"
+      "mi_kronika",
+      "mi_piskovna",
+      "mi_padaci_most"
     ],
     "Blok": "Tvrz",
     "Okrsek": "Hradiště",
@@ -3731,7 +3735,8 @@
       "mi_josef",
       "mi_u_petra",
       "mi_sralkovsky_rybnik",
-      "mi_povodi"
+      "mi_povodi",
+      "mi_piskovna"
     ],
     "Blok": "Velký Pilíř",
     "Okrsek": "Pilíř",
@@ -4138,11 +4143,12 @@
   "mi_listy": {
     "Title": "Listy",
     "Bordering_rooms": [
-      "mi_kronika"
+      "mi_kronika",
+      "mi_piskovna"
     ],
     "Blok": "Listy",
-    "Okrsek": "Mrkev",
-    "Ctvrt": "Mrkev",
+    "Okrsek": "Pískovna",
+    "Ctvrt": "Dužina",
     "Cast": "Nové Dilí"
   },
   "mi_mrkev_tunel": {
@@ -4154,7 +4160,7 @@
     ],
     "Blok": "Tunel",
     "Okrsek": "Podhoubí",
-    "Ctvrt": "Mrkev",
+    "Ctvrt": "Dužina",
     "Cast": "Nové Dilí"
   },
   "mi_zavodni_okruh": {
@@ -4173,7 +4179,7 @@
     ],
     "Blok": "Závodní Okruh",
     "Okrsek": "Podhoubí",
-    "Ctvrt": "Mrkev",
+    "Ctvrt": "Dužina",
     "Cast": "Nové Dilí"
   },
   "mi_prah": {
@@ -4219,7 +4225,8 @@
       "mi_hradba",
       "mi_hradbb",
       "mi_lomena_cara",
-      "mi_meda"
+      "mi_meda",
+      "mi_karoserie"
     ],
     "Blok": "Lom",
     "Okrsek": "Lom",
@@ -4389,11 +4396,12 @@
       "mi_mrkev",
       "mi_hotel_gi_floor_ga",
       "mi_gideon",
-      "mi_smycka"
+      "mi_smycka",
+      "mi_piskovna"
     ],
     "Blok": "Smyčka",
     "Okrsek": "Mrkev",
-    "Ctvrt": "Mrkev",
+    "Ctvrt": "Dužina",
     "Cast": "Nové Dilí"
   },
   "mi_smycka": {
@@ -4409,11 +4417,12 @@
       "mi_hraz",
       "mi_hotel_gi_floor_ga",
       "mi_gideon",
-      "mi_atlas"
+      "mi_atlas",
+      "mi_piskovna"
     ],
     "Blok": "Smyčka",
     "Okrsek": "Mrkev",
-    "Ctvrt": "Mrkev",
+    "Ctvrt": "Dužina",
     "Cast": "Nové Dilí"
   },
   "mi_lavka": {
@@ -4517,7 +4526,8 @@
     "Bordering_rooms": [
       "mi_zuch",
       "mi_svatyne",
-      "mi_garaz"
+      "mi_garaz",
+      "mi_piskovna"
     ],
     "Blok": "Tvrz",
     "Okrsek": "Hradiště",
@@ -4662,7 +4672,8 @@
     "Bordering_rooms": [
       "mi_pod_vrbou",
       "mi_sopel",
-      "mi_hraz"
+      "mi_hraz",
+      "mi_piskovna"
     ],
     "Blok": "Povodí",
     "Okrsek": "Mutěnické Rybníky",
@@ -5202,7 +5213,8 @@
       "mi_katakomby",
       "mi_chodba_ii",
       "mi_galerie",
-      "mi_jama_pekelna"
+      "mi_jama_pekelna",
+      "mi_on"
     ],
     "Blok": "Silo",
     "Okrsek": "Silo",
@@ -5772,9 +5784,9 @@
       "mi_karotka",
       "mi_jizni_blok"
     ],
-    "Blok": "Listy",
+    "Blok": "Smyčka",
     "Okrsek": "Mrkev",
-    "Ctvrt": "Mrkev",
+    "Ctvrt": "Dužina",
     "Cast": "Nové Dilí"
   },
   "mi_telocvicna": {
@@ -6316,7 +6328,8 @@
       "mi_katakomby",
       "mi_the_overpass",
       "mi_kulna",
-      "mi_spojnice"
+      "mi_spojnice",
+      "mi_on"
     ],
     "Blok": "Beta",
     "Okrsek": "The Airship",
@@ -6634,7 +6647,7 @@
     ],
     "Blok": "Mrkev",
     "Okrsek": "Mrkev",
-    "Ctvrt": "Mrkev",
+    "Ctvrt": "Dužina",
     "Cast": "Nové Dilí"
   },
   "mi_koreny": {
@@ -6651,7 +6664,8 @@
       "mi_nejvetsi_tma",
       "mi_hlavni_koridor_i",
       "mi_pod_schodama",
-      "mi_pulmesic"
+      "mi_pulmesic",
+      "mi_bezdomovec"
     ],
     "Blok": "Mezipatro",
     "Okrsek": "Dub",
@@ -6714,7 +6728,9 @@
       "mi_draci_rotunda",
       "mi_zmatek",
       "mi_lom",
-      "mi_alej"
+      "mi_alej",
+      "mi_bezdomovec",
+      "mi_karoserie"
     ],
     "Blok": "Méďa",
     "Okrsek": "Méďa",
@@ -7033,7 +7049,8 @@
       "mi_dobra_voda",
       "mi_rozhrani",
       "mi_mestsky_okruh",
-      "mi_dvojcata"
+      "mi_dvojcata",
+      "mi_bezdomovec"
     ],
     "Blok": "Zámecké Schody",
     "Okrsek": "Dálniční Kolonie",
@@ -7052,7 +7069,9 @@
       "mi_jogurt",
       "mi_ustredni_stredisko_beta",
       "mi_spojnice",
-      "mi_tranzit"
+      "mi_tranzit",
+      "mi_on",
+      "mi_ona"
     ],
     "Blok": "Katakomby",
     "Okrsek": "Dálniční Kolonie",
@@ -7074,6 +7093,103 @@
     "Blok": "Hlavní Třída",
     "Okrsek": "Benátky",
     "Ctvrt": "Rybářská Kolonie",
+    "Cast": "Pařez"
+  },
+  "mi_bezdomovec": {
+    "Title": "Bezdomovec",
+    "Bordering_rooms": [
+      "mi_the_bridge",
+      "mi_koreny",
+      "mi_meda"
+    ],
+    "Blok": "Mezipatro",
+    "Okrsek": "Dub",
+    "Ctvrt": "Kořen",
+    "Cast": "Pařez"
+  },
+  "mi_karoserie": {
+    "Title": "Karosérie",
+    "Bordering_rooms": [
+      "mi_chladic",
+      "mi_kapota",
+      "mi_lom",
+      "mi_meda"
+    ],
+    "Blok": "Podvozek",
+    "Okrsek": "Méďa",
+    "Ctvrt": "Lom",
+    "Cast": "Sibiř"
+  },
+  "mi_kapota": {
+    "Title": "Kapota",
+    "Bordering_rooms": [
+      "mi_karoserie"
+    ],
+    "Blok": "Podvozek",
+    "Okrsek": "Méďa",
+    "Ctvrt": "Lom",
+    "Cast": "Sibiř"
+  },
+  "mi_chladic": {
+    "Title": "Chladič",
+    "Bordering_rooms": [
+      "mi_karoserie"
+    ],
+    "Blok": "Podvozek",
+    "Okrsek": "Méďa",
+    "Ctvrt": "Lom",
+    "Cast": "Sibiř"
+  },
+  "mi_piskovna": {
+    "Title": "Pískovna",
+    "Bordering_rooms": [
+      "mi_listy",
+      "mi_hraz",
+      "mi_sralkovsky_rybnik",
+      "mi_smycka",
+      "mi_svihak",
+      "mi_garaz",
+      "mi_privoz"
+    ],
+    "Blok": "Pískovna",
+    "Okrsek": "Pískovna",
+    "Ctvrt": "Dužina",
+    "Cast": "Nové Dilí"
+  },
+  "mi_privoz": {
+    "Title": "Přívoz",
+    "Bordering_rooms": [
+      "mi_le_pont",
+      "mi_piskovna"
+    ],
+    "Blok": "Pískovna",
+    "Okrsek": "Pískovna",
+    "Ctvrt": "Dužina",
+    "Cast": "Nové Dilí"
+  },
+  "mi_on": {
+    "Title": "On",
+    "Bordering_rooms": [
+      "mi_podkrovi",
+      "mi_balonky",
+      "mi_ustredni_stredisko_beta",
+      "mi_katakomby",
+      "mi_ona"
+    ],
+    "Blok": "Milenci",
+    "Okrsek": "Dálniční Kolonie",
+    "Ctvrt": "Dálniční Kolonie",
+    "Cast": "Pařez"
+  },
+  "mi_ona": {
+    "Title": "Ona",
+    "Bordering_rooms": [
+      "mi_on",
+      "mi_katakomby"
+    ],
+    "Blok": "Milenci",
+    "Okrsek": "Dálniční Kolonie",
+    "Ctvrt": "Dálniční Kolonie",
     "Cast": "Pařez"
   }
 }

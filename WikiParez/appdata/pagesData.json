@@ -11956,7 +11956,7 @@
       "N\u00E1zev": "Dlouh\u00FD",
       "Blok": "[Cimrman](bl_cimrman)",
       "Okrsek": "[Mrkev](ok_mrkev)",
-      "\u010Ctvr\u0165": "[Mrkev](ct_mrkev)",
+      "\u010Ctvr\u0165": "[Du\u017Eina](ct_duzina)",
       "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
     },
     "Sections": [
@@ -12008,7 +12008,7 @@
       "N\u00E1zev": "\u0160irok\u00FD",
       "Blok": "[Cimrman](bl_cimrman)",
       "Okrsek": "[Mrkev](ok_mrkev)",
-      "\u010Ctvr\u0165": "[Mrkev](ct_mrkev)",
+      "\u010Ctvr\u0165": "[Du\u017Eina](ct_duzina)",
       "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)",
       "\u00DA\u010Del": "Odpadn\u00ED roura ORP"
     },
@@ -12066,7 +12066,7 @@
       "N\u00E1zev": "Hluchon\u011Bm\u00FD",
       "Blok": "[Cimrman](bl_cimrman)",
       "Okrsek": "[Mrkev](ok_mrkev)",
-      "\u010Ctvr\u0165": "[Mrkev](ct_mrkev)",
+      "\u010Ctvr\u0165": "[Du\u017Eina](ct_duzina)",
       "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
     },
     "Sections": [
@@ -12118,7 +12118,7 @@
       "N\u00E1zev": "Bystrozrak\u00FD",
       "Blok": "[Cimrman](bl_cimrman)",
       "Okrsek": "[Mrkev](ok_mrkev)",
-      "\u010Ctvr\u0165": "[Mrkev](ct_mrkev)",
+      "\u010Ctvr\u0165": "[Du\u017Eina](ct_duzina)",
       "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
     },
     "Sections": [
@@ -12990,7 +12990,8 @@
       "mi_hotel_gi_floor_gi",
       "mi_padaci_most",
       "mi_dalnicni_pilir",
-      "mi_kurnik"
+      "mi_kurnik",
+      "mi_on"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -13020,7 +13021,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "22/06/25: P\u0159id\u00E1na n\u00E1stupn\u00ED plo\u0161ina a mal\u00FD ochoz.\r\n27/07/25: Skrz m\u00EDstnost vede [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha). Mal\u00FD Ochoz p\u0159idan\u00FD p\u0159ed m\u011Bs\u00EDcem byl pro dr\u00E1hu vyu\u017Eit.\r\n27/07/25: M\u00EDstnost napojena na syst\u00E9m odpadn\u00EDch rour [ORP](sp_orp).\r\n28/07/25: Od Bal\u00F3nk\u016F odd\u011Blena m\u00EDstnost [Padac\u00ED Most](mi_padaci_most). Syst\u00E9m odpadn\u00EDch rour zm\u00EDn\u011Bn\u00FD v\u00FD\u0161e n\u00E1le\u017E\u00ED [Padac\u00EDmu Mostu](mi_padaci_most).\n31/08/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Kurn\u00EDk](mi_kurnik)."
+        "Content": "22/06/25: P\u0159id\u00E1na n\u00E1stupn\u00ED plo\u0161ina a mal\u00FD ochoz.\r\n27/07/25: Skrz m\u00EDstnost vede [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha). Mal\u00FD Ochoz p\u0159idan\u00FD p\u0159ed m\u011Bs\u00EDcem byl pro dr\u00E1hu vyu\u017Eit.\r\n27/07/25: M\u00EDstnost napojena na syst\u00E9m odpadn\u00EDch rour [ORP](sp_orp).\r\n28/07/25: Od Bal\u00F3nk\u016F odd\u011Blena m\u00EDstnost [Padac\u00ED Most](mi_padaci_most). Syst\u00E9m odpadn\u00EDch rour zm\u00EDn\u011Bn\u00FD v\u00FD\u0161e n\u00E1le\u017E\u00ED [Padac\u00EDmu Mostu](mi_padaci_most).\n31/08/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Kurn\u00EDk](mi_kurnik).\n06/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [On](mi_on)."
       }
     ],
     "image_id": 0,
@@ -13114,7 +13115,8 @@
       "mi_hotel_gi_floor_gi",
       "mi_pramice",
       "mi_veranda",
-      "mi_audit"
+      "mi_audit",
+      "mi_privoz"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -13143,7 +13145,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "30/06/25: Od m\u00EDstnosti se odd\u011Blila uli\u010Dka zvan\u00E1 [V\u00FDstavn\u00ED](mi_vystavni).\r\n03/07/25: Vchod k [D\u00E1lnici](mi_dalnice) nov\u011B do [Pramice](mi_pramice)."
+        "Content": "30/06/25: Od m\u00EDstnosti se odd\u011Blila uli\u010Dka zvan\u00E1 [V\u00FDstavn\u00ED](mi_vystavni).\r\n03/07/25: Vchod k [D\u00E1lnici](mi_dalnice) nov\u011B do [Pramice](mi_pramice).\n06/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [P\u0159\u00EDvoz](mi_privoz)."
       }
     ],
     "image_id": 0,
@@ -16596,7 +16598,9 @@
       "mi_jizni_blok",
       "mi_puch",
       "mi_zuch",
-      "mi_kronika"
+      "mi_kronika",
+      "mi_piskovna",
+      "mi_padaci_most"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -16622,6 +16626,10 @@
       {
         "Title": "Zaj\u00EDmavost",
         "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "06/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [P\u00EDskovna](mi_piskovna) a s [Padac\u00EDm Mostem](mi_padaci_most)."
       }
     ],
     "image_id": 0,
@@ -17633,7 +17641,8 @@
       "mi_josef",
       "mi_u_petra",
       "mi_sralkovsky_rybnik",
-      "mi_povodi"
+      "mi_povodi",
+      "mi_piskovna"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -17663,7 +17672,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "07/07/25: Voln\u00FD p\u0159\u00EDstup k rybn\u00EDk\u016Fm [Josef](mi_josef) a [U Petra](mi_u_petra).\r\n07/07/25: P\u0159\u00EDstup ke [Sr\u00E1lkovsk\u00E9mu Rybn\u00EDku](mi_sralkovsky_rybnik) a na [Povod\u00ED](mi_povodi)."
+        "Content": "07/07/25: Voln\u00FD p\u0159\u00EDstup k rybn\u00EDk\u016Fm [Josef](mi_josef) a [U Petra](mi_u_petra).\r\n07/07/25: P\u0159\u00EDstup ke [Sr\u00E1lkovsk\u00E9mu Rybn\u00EDku](mi_sralkovsky_rybnik) a na [Povod\u00ED](mi_povodi).\n06/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [P\u00EDskovna](mi_piskovna)."
       }
     ],
     "image_id": 0,
@@ -19594,14 +19603,15 @@
     "Images": [],
     "Image_titles": [],
     "Bordering_rooms": [
-      "mi_kronika"
+      "mi_kronika",
+      "mi_piskovna"
     ],
     "Alternate_names": [],
     "Metadata": {
       "N\u00E1zev": "Listy",
       "Blok": "[Listy](bl_listy)",
-      "Okrsek": "[Mrkev](ok_mrkev)",
-      "\u010Ctvr\u0165": "[Mrkev](ct_mrkev)",
+      "Okrsek": "[P\u00EDskovna](ok_piskovna)",
+      "\u010Ctvr\u0165": "[Du\u017Eina](ct_duzina)",
       "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
     },
     "Sections": [
@@ -19623,7 +19633,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "08/07/25: Listy kone\u010Dn\u011B soused\u00ED s m\u00EDstnost\u00ED... (s [Kronikou](mi_kronika)"
+        "Content": "08/07/25: Listy kone\u010Dn\u011B soused\u00ED s m\u00EDstnost\u00ED... (s [Kronikou](mi_kronika)\r\n06/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [P\u00EDskovna](mi_piskovna)."
       }
     ],
     "image_id": 0,
@@ -19658,7 +19668,7 @@
       "N\u00E1zev": "Mrkev Tunel",
       "Blok": "[Tunel](bl_tunel)",
       "Okrsek": "[Podhoub\u00ED](ok_podhoubi)",
-      "\u010Ctvr\u0165": "[Mrkev](ct_mrkev)",
+      "\u010Ctvr\u0165": "[Du\u017Eina](ct_duzina)",
       "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
     },
     "Sections": [
@@ -19719,7 +19729,7 @@
       "N\u00E1zev": "Z\u00E1vodn\u00ED Okruh",
       "Blok": "[Z\u00E1vodn\u00ED Okruh](bl_zavodni_okruh)",
       "Okrsek": "[Podhoub\u00ED](ok_podhoubi)",
-      "\u010Ctvr\u0165": "[Mrkev](ct_mrkev)",
+      "\u010Ctvr\u0165": "[Du\u017Eina](ct_duzina)",
       "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)",
       "\u00DA\u010Del": "Ledov\u00E1 d\u00E1lnice"
     },
@@ -19935,7 +19945,8 @@
       "mi_hradba",
       "mi_hradbb",
       "mi_lomena_cara",
-      "mi_meda"
+      "mi_meda",
+      "mi_karoserie"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -19965,7 +19976,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "27/07/25: Nov\u00FD v\u00FDtah vedouc\u00ED na [M\u00E9\u010Fu](mi_meda).\n01/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Gekon](mi_gekon)."
+        "Content": "27/07/25: Nov\u00FD v\u00FDtah vedouc\u00ED na [M\u00E9\u010Fu](mi_meda).\n01/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Gekon](mi_gekon).\n06/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Karos\u00E9rie](mi_karoserie)."
       }
     ],
     "image_id": 0,
@@ -20645,14 +20656,15 @@
       "mi_mrkev",
       "mi_hotel_gi_floor_ga",
       "mi_gideon",
-      "mi_smycka"
+      "mi_smycka",
+      "mi_piskovna"
     ],
     "Alternate_names": [],
     "Metadata": {
       "N\u00E1zev": "Gat\u011B",
       "Blok": "[Smy\u010Dka](bl_smycka)",
       "Okrsek": "[Mrkev](ok_mrkev)",
-      "\u010Ctvr\u0165": "[Mrkev](ct_mrkev)",
+      "\u010Ctvr\u0165": "[Du\u017Eina](ct_duzina)",
       "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)",
       "\u00DA\u010Del": "Odpadn\u00ED roura ORP"
     },
@@ -20675,7 +20687,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "27/07/25: M\u00EDstnost napojena na syst\u00E9m odpadn\u00EDch rour [ORP](sp_orp)."
+        "Content": "27/07/25: M\u00EDstnost napojena na syst\u00E9m odpadn\u00EDch rour [ORP](sp_orp).\r\n06/09/25: M\u00EDstnost nov\u011B soused\u00ED s [P\u00EDskovnou](mi_piskovna)."
       }
     ],
     "image_id": 0,
@@ -20712,14 +20724,15 @@
       "mi_hraz",
       "mi_hotel_gi_floor_ga",
       "mi_gideon",
-      "mi_atlas"
+      "mi_atlas",
+      "mi_piskovna"
     ],
     "Alternate_names": [],
     "Metadata": {
       "N\u00E1zev": "Smy\u010Dka",
       "Blok": "[Smy\u010Dka](bl_smycka)",
       "Okrsek": "[Mrkev](ok_mrkev)",
-      "\u010Ctvr\u0165": "[Mrkev](ct_mrkev)",
+      "\u010Ctvr\u0165": "[Du\u017Eina](ct_duzina)",
       "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
     },
     "Sections": [
@@ -20741,7 +20754,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "27/07/25: Smy\u010Dka nov\u011B soused\u00ED s [Atlasem](mi_atlas).\r\n17/08/25: Smy\u010Dka nov\u011B soused\u00ED s [Pit Stopem](mi_pit_stop) m\u00EDsto [Kan\u00E1lu](mi_kanal)."
+        "Content": "27/07/25: Smy\u010Dka nov\u011B soused\u00ED s [Atlasem](mi_atlas).\r\n17/08/25: Smy\u010Dka nov\u011B soused\u00ED s [Pit Stopem](mi_pit_stop) m\u00EDsto [Kan\u00E1lu](mi_kanal).\n06/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [P\u00EDskovna](mi_piskovna)."
       }
     ],
     "image_id": 0,
@@ -23528,7 +23541,7 @@
     "Metadata": {
       "N\u00E1zev": "Cimrman",
       "Okrsek": "[Mrkev](ok_mrkev)",
-      "\u010Ctvr\u0165": "[Mrkev](ct_mrkev)",
+      "\u010Ctvr\u0165": "[Du\u017Eina](ct_duzina)",
       "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
     },
     "Sections": [
@@ -26227,8 +26240,8 @@
     "Alternate_names": [],
     "Metadata": {
       "N\u00E1zev": "Listy",
-      "Okrsek": "[Mrkev](ok_mrkev)",
-      "\u010Ctvr\u0165": "[Mrkev](ct_mrkev)",
+      "Okrsek": "[P\u00EDskovna](ok_piskovna)",
+      "\u010Ctvr\u0165": "[Du\u017Eina](ct_duzina)",
       "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
     },
     "Sections": [
@@ -26250,7 +26263,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": ""
+        "Content": "06/09/25: Blok p\u0159esunut z okrsku [Mrkev](ok_mrkev) do okrsku [P\u00EDskovna](ok_piskovna)."
       }
     ],
     "image_id": 0,
@@ -26278,7 +26291,7 @@
     "Metadata": {
       "N\u00E1zev": "Mrkev",
       "Okrsek": "[Mrkev](ok_mrkev)",
-      "\u010Ctvr\u0165": "[Mrkev](ct_mrkev)",
+      "\u010Ctvr\u0165": "[Du\u017Eina](ct_duzina)",
       "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
     },
     "Sections": [
@@ -26328,7 +26341,7 @@
     "Metadata": {
       "N\u00E1zev": "Tunel",
       "Okrsek": "[Podhoub\u00ED](ok_podhoubi)",
-      "\u010Ctvr\u0165": "[Mrkev](ct_mrkev)",
+      "\u010Ctvr\u0165": "[Du\u017Eina](ct_duzina)",
       "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
     },
     "Sections": [
@@ -26378,7 +26391,7 @@
     "Metadata": {
       "N\u00E1zev": "Z\u00E1vodn\u00ED Okruh",
       "Okrsek": "[Podhoub\u00ED](ok_podhoubi)",
-      "\u010Ctvr\u0165": "[Mrkev](ct_mrkev)",
+      "\u010Ctvr\u0165": "[Du\u017Eina](ct_duzina)",
       "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
     },
     "Sections": [
@@ -26628,7 +26641,7 @@
     "Metadata": {
       "N\u00E1zev": "Smy\u010Dka",
       "Okrsek": "[Mrkev](ok_mrkev)",
-      "\u010Ctvr\u0165": "[Mrkev](ct_mrkev)",
+      "\u010Ctvr\u0165": "[Du\u017Eina](ct_duzina)",
       "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
     },
     "Sections": [
@@ -27608,7 +27621,7 @@
     "Alternate_names": [],
     "Metadata": {
       "N\u00E1zev": "Mrkev",
-      "\u010Ctvr\u0165": "[Mrkev](ct_mrkev)",
+      "\u010Ctvr\u0165": "[Du\u017Eina](ct_duzina)",
       "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
     },
     "Sections": [
@@ -28441,7 +28454,7 @@
     "Alternate_names": [],
     "Metadata": {
       "N\u00E1zev": "Podhoub\u00ED",
-      "\u010Ctvr\u0165": "[Mrkev](ct_mrkev)",
+      "\u010Ctvr\u0165": "[Du\u017Eina](ct_duzina)",
       "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
     },
     "Sections": [
@@ -28876,54 +28889,6 @@
     "Alternate_names": [],
     "Metadata": {
       "N\u00E1zev": "Goias",
-      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": ""
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": ""
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": ""
-      },
-      {
-        "Title": "Zaj\u00EDmavosti",
-        "Content": ""
-      },
-      {
-        "Title": "Aktuality",
-        "Content": ""
-      }
-    ],
-    "image_id": 0,
-    "area": 0,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "patternleCompatible": true,
-    "redirect": null,
-    "tobeedited": false,
-    "reviews": [],
-    "utilities": []
-  },
-  "ct_mrkev": {
-    "Title": "Mrkev",
-    "Type": "\u010Dtvr\u0165",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "Mrkev",
       "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
     },
     "Sections": [
@@ -30085,7 +30050,8 @@
     "Bordering_rooms": [
       "mi_zuch",
       "mi_svatyne",
-      "mi_garaz"
+      "mi_garaz",
+      "mi_piskovna"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -30111,6 +30077,10 @@
       {
         "Title": "Zaj\u00EDmavost",
         "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "06/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [P\u00EDskovna](mi_piskovna)."
       }
     ],
     "image_id": 0,
@@ -30776,7 +30746,8 @@
     "Bordering_rooms": [
       "mi_pod_vrbou",
       "mi_sopel",
-      "mi_hraz"
+      "mi_hraz",
+      "mi_piskovna"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -30802,6 +30773,10 @@
       {
         "Title": "Zaj\u00EDmavost",
         "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "06/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [P\u00EDskovna](mi_piskovna)."
       }
     ],
     "image_id": 0,
@@ -33503,7 +33478,8 @@
       "mi_katakomby",
       "mi_chodba_ii",
       "mi_galerie",
-      "mi_jama_pekelna"
+      "mi_jama_pekelna",
+      "mi_on"
     ],
     "Alternate_names": [
       "HORN\u00CD PODLA\u017D\u00CD SILA"
@@ -33518,7 +33494,7 @@
     "Sections": [
       {
         "Title": "P\u0159ehled",
-        "Content": "Podkrov\u00ED je m\u00EDstnost v p\u016Fvodn\u00EDm nejvy\u0161\u0161\u00EDm pat\u0159e [Sila](mi_silo) odkud sem vede \u017Eeb\u0159\u00EDk. Vedou odtud schody nahoru do [Stair Heaven](mi_stair_heaven) a dvojice schodi\u0161\u0165 do [Katakomb](mi_katakomby). Tak\u00E9 je Podkrov\u00ED p\u0159\u00EDmo propojeno s [Galeri\u00ED](mi_galerie) a hned nad koncem \u017Eeb\u0159\u00EDkem jsou dve\u0159e na [Chodbu \u010D\u00EDslo 2](mi_chodba_ii). V neposledn\u00ED \u0159ad\u011B se zde nach\u00E1z\u00ED pod\u00E9ln\u00E1 d\u00EDra o rozm\u011Brech 6x1 bloku nesouc\u00ED jm\u00E9no [J\u00E1ma Pekeln\u00E1](mi_jama_pekelna)."
+        "Content": "Podkrov\u00ED je m\u00EDstnost v p\u016Fvodn\u00EDm nejvy\u0161\u0161\u00EDm pat\u0159e [Sila](mi_silo) odkud sem vede \u017Eeb\u0159\u00EDk. Vedou odtud schody nahoru do [Stair Heaven](mi_stair_heaven) a dvojice schodi\u0161\u0165 do [Katakomb](mi_katakomby). Tak\u00E9 je Podkrov\u00ED p\u0159\u00EDmo propojeno s [Galeri\u00ED](mi_galerie) a hned nad koncem \u017Eeb\u0159\u00EDkem jsou dve\u0159e na [Chodbu \u010D\u00EDslo 2](mi_chodba_ii). V neposledn\u00ED \u0159ad\u011B se zde nach\u00E1z\u00ED pod\u00E9ln\u00E1 d\u00EDra o rozm\u011Brech 6x1 bloku nesouc\u00ED jm\u00E9no [J\u00E1ma Pekeln\u00E1](mi_jama_pekelna) a dve\u0159e do [N\u011Bho](mi_on)."
       },
       {
         "Title": "N\u00E1zev",
@@ -33526,11 +33502,15 @@
       },
       {
         "Title": "Interi\u00E9r",
-        "Content": "M\u00EDstnost m\u00E1 kopulovit\u00FD strop o v\u00FD\u0161ce maxim\u00E1ln\u011B p\u011Bti blok\u016F a vcelku otev\u0159en\u00FD interi\u00E9r. Z prost\u0159edka m\u00EDstnosti vede dvojice schod\u016F vedouc\u00EDch do [Stair Heaven](mi_stair_heaven) a [Katakomb](mi_katakomby). Pod nimi je um\u00EDst\u011Bn jedin\u00FD crafting table v m\u00EDstnosti a trojice barel\u016F. Mezi dv\u011Bmi schodi\u0161t\u011Bmi do [Katakomb](mi_katakomby) je tak\u00E9 polo\u017Eena sv\u011Btle \u0161ed\u00E1 postel. Cel\u00FD prostor je osv\u011Btlen lou\u010Demi a neobsahuje \u017E\u00E1dn\u00E1 okna."
+        "Content": "M\u00EDstnost m\u00E1 kopulovit\u00FD strop o v\u00FD\u0161ce maxim\u00E1ln\u011B p\u011Bti blok\u016F a vcelku otev\u0159en\u00FD interi\u00E9r. Z prost\u0159edka m\u00EDstnosti vede dvojice schod\u016F vedouc\u00EDch do [Stair Heaven](mi_stair_heaven) a [Katakomb](mi_katakomby). Pod nimi je um\u00EDst\u011Bn jedin\u00FD crafting table v m\u00EDstnosti a trojice barel\u016F. Mezi dv\u011Bmi schodi\u0161t\u011Bmi do [Katakomb](mi_katakomby) a dve\u0159mi do [N\u011Bho](mi_on) je tak\u00E9 polo\u017Eena sv\u011Btle \u0161ed\u00E1 postel. Cel\u00FD prostor je osv\u011Btlen lou\u010Demi a neobsahuje \u017E\u00E1dn\u00E1 okna."
       },
       {
         "Title": "Zaj\u00EDmavost",
         "Content": "V jednom z barel\u016F m\u016F\u017Eeme naj\u00EDt sv\u011Btle \u0161edou vlnu, t\u0159i stringy, 16 vajec a \u010Dty\u0159i k\u016F\u017Ee.\r\nPodkrov\u00ED d\u0159\u00EDv b\u00FDvalo sou\u010D\u00E1st\u00ED [Sila](mi_silo)."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "06/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [On](mi_on)."
       }
     ],
     "image_id": 0,
@@ -36198,9 +36178,9 @@
     ],
     "Metadata": {
       "N\u00E1zev": "Trh",
-      "Blok": "[Listy](bl_listy)",
+      "Blok": "[Smy\u010Dka](bl_smycka)",
       "Okrsek": "[Mrkev](ok_mrkev)",
-      "\u010Ctvr\u0165": "[Mrkev](ct_mrkev)",
+      "\u010Ctvr\u0165": "[Du\u017Eina](ct_duzina)",
       "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
     },
     "Sections": [
@@ -40202,7 +40182,8 @@
       "mi_katakomby",
       "mi_the_overpass",
       "mi_kulna",
-      "mi_spojnice"
+      "mi_spojnice",
+      "mi_on"
     ],
     "Alternate_names": [
       "Beta",
@@ -40219,7 +40200,7 @@
     "Sections": [
       {
         "Title": "P\u0159ehled",
-        "Content": "\u00DAst\u0159edn\u00ED St\u0159edisko Beta nebo Beta je kancel\u00E1\u0159 bloku [Beta](bl_beta) a z\u00E1rove\u0148 d\u016Fle\u017Eit\u011Bj\u0161\u00ED ze dvou \u00FAst\u0159edn\u00ED st\u0159edisek v dom\u011B. M\u00EDstnost se skl\u00E1d\u00E1 ze dvou podla\u017E\u00ED spojen\u00FDch schodi\u0161t\u011Bm. V ni\u017E\u0161\u00EDm podla\u017E\u00ED je p\u011Bstov\u00E1no obil\u00ED a v horn\u00EDm je enchantovac\u00ED st\u016Fl, kovadlina a mnoho dal\u0161\u00EDch u\u017Eite\u010Dn\u00FDch blok\u016F.\r\nZ Bety vede celkem osm vchod\u016F jmenovit\u011B dve\u0159e na [Overpass](mi_the_overpass), do [Katakomb](mi_katakomby) a [Double Decker Housu](mi_double_decker_house) a na [St\u0159echu](mi_strecha), voln\u00E9 vchody na [Spojnici](mi_spojnice), [Detour](mi_the_detour) a [V\u00FDtahov\u00FD M\u016Fstek](mi_vytahovy_mustek). V neposledn\u00ED \u0159ad\u011B tak\u00E9 \u017Eeb\u0159\u00EDk do [K\u016Flny](mi_kulny), je\u017E je druh\u00E1 m\u00EDstnost bloku [Beta](bl_beta)."
+        "Content": "\u00DAst\u0159edn\u00ED St\u0159edisko Beta nebo Beta je kancel\u00E1\u0159 bloku [Beta](bl_beta) a z\u00E1rove\u0148 d\u016Fle\u017Eit\u011Bj\u0161\u00ED ze dvou \u00FAst\u0159edn\u00ED st\u0159edisek v dom\u011B. M\u00EDstnost se skl\u00E1d\u00E1 ze dvou podla\u017E\u00ED spojen\u00FDch schodi\u0161t\u011Bm. V ni\u017E\u0161\u00EDm podla\u017E\u00ED je p\u011Bstov\u00E1no obil\u00ED a v horn\u00EDm je enchantovac\u00ED st\u016Fl, kovadlina a mnoho dal\u0161\u00EDch u\u017Eite\u010Dn\u00FDch blok\u016F.\r\nZ Bety vede celkem dev\u011Bt vchod\u016F jmenovit\u011B dve\u0159e na [Overpass](mi_the_overpass), do [Katakomb](mi_katakomby), [N\u011Bho](mi_on) a [Double Decker Housu](mi_double_decker_house) a na [St\u0159echu](mi_strecha), voln\u00E9 vchody na [Spojnici](mi_spojnice), [Detour](mi_the_detour) a [V\u00FDtahov\u00FD M\u016Fstek](mi_vytahovy_mustek). V neposledn\u00ED \u0159ad\u011B tak\u00E9 \u017Eeb\u0159\u00EDk do [K\u016Flny](mi_kulny), je\u017E je druh\u00E1 m\u00EDstnost bloku [Beta](bl_beta)."
       },
       {
         "Title": "N\u00E1zev",
@@ -40232,6 +40213,10 @@
       {
         "Title": "Zaj\u00EDmavosti",
         "Content": "Jen jeden z barel\u016F u enchantovac\u00EDho stolu m\u00E1 \u00FA\u010Del (slou\u017E\u00ED na uskladn\u011Bn\u00ED lapisu).\r\nNen\u00ED mo\u017En\u00E9 proj\u00EDt prvn\u00EDm podla\u017E\u00EDm Bety bez sebr\u00E1n\u00ED vejcete (za p\u0159edpokladu, \u017Ee m\u00E1te m\u00EDsto v invent\u00E1\u0159i samozd\u0159ejm\u011B)."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "06/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [On](mi_on)."
       }
     ],
     "image_id": 0,
@@ -42217,7 +42202,7 @@
       "N\u00E1zev": "Mrkev",
       "Blok": "[Mrkev](bl_mrkev)",
       "Okrsek": "[Mrkev](ok_mrkev)",
-      "\u010Ctvr\u0165": "[Mrkev](ct_mrkev)",
+      "\u010Ctvr\u0165": "[Du\u017Eina](ct_duzina)",
       "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)",
       "\u00DA\u010Del": "Strom",
       "Kategorie": "[Stromov\u00E1 v\u011B\u017E](ka_stromove_veze)"
@@ -42225,7 +42210,7 @@
     "Sections": [
       {
         "Title": "P\u0159ehled",
-        "Content": "Mrkev je [stromov\u00E1 v\u011B\u017E](ka_stromove_veze) ve stejnojmenn\u00E9m [bloku](bl_mrkev), [okrsku](ok_mrkev) a [\u010Dtvrti](ct_mrkev).  M\u00EDstnost je cel\u00E1 postavena z oran\u017Eov\u00E9ho betonu a podobn\u011B jako ledovec se jej\u00ED v\u011Bt\u0161ina skr\u00FDv\u00E1 pod hladinou mo\u0159e.  Jej\u00ED spodn\u00ED \u010D\u00E1st se nav\u00EDc nach\u00E1z\u00ED pod samotn\u00FDm dnem.\r\nNa ka\u017Ed\u00E9 ze \u010Dty\u0159 stran vedou do Mrkve dvojit\u00E9 dve\u0159e. Dvoje z nich sm\u011B\u0159uj\u00ED do [Smy\u010Dky](mi_smycka), dal\u0161\u00ED pak na [Karotku](mi_karotka) a do [Gat\u00ED](mi_gate). \u010Cty\u0159i bloky pod ka\u017Ed\u00FDmi dve\u0159mi se nach\u00E1z\u00ED voln\u00FD vstup do chodeb v bloku [Cimrman](bl_cimrman), kter\u00E9 propojuj\u00ED Mrkev se [Z\u00E1vodn\u00EDm Okruhem](mi_zavodni_okruh).\r\nVe spodn\u00ED \u010D\u00E1sti je prostor ur\u010Den\u00FD pro r\u016Fst velk\u00FDch smrk\u016F. Odtud vedou je\u0161t\u011B jedny dve\u0159e, tentokr\u00E1t do [Mrkev Tunelu](mi_mrkev_tunel).  \r\nVe strop\u011B m\u00EDstnosti je um\u00EDst\u011Bn [beacon](beacon_nove_dili), kter\u00FD do prost\u0159ed\u00ED \u00FApln\u011B nezapad\u00E1. Jeho paprsky maj\u00ED barvu mrkve a vych\u00E1zej\u00ED p\u0159\u00EDmo ze st\u0159edu v\u011B\u017Ee."
+        "Content": "Mrkev je [stromov\u00E1 v\u011B\u017E](ka_stromove_veze) ve stejnojmenn\u00E9m [bloku](bl_mrkev) a [okrsku](ok_mrkev).  M\u00EDstnost je cel\u00E1 postavena z oran\u017Eov\u00E9ho betonu a podobn\u011B jako ledovec se jej\u00ED v\u011Bt\u0161ina skr\u00FDv\u00E1 pod hladinou mo\u0159e.  Jej\u00ED spodn\u00ED \u010D\u00E1st se nav\u00EDc nach\u00E1z\u00ED pod samotn\u00FDm dnem.\r\nNa ka\u017Ed\u00E9 ze \u010Dty\u0159 stran vedou do Mrkve dvojit\u00E9 dve\u0159e. Dvoje z nich sm\u011B\u0159uj\u00ED do [Smy\u010Dky](mi_smycka), dal\u0161\u00ED pak na [Karotku](mi_karotka) a do [Gat\u00ED](mi_gate). \u010Cty\u0159i bloky pod ka\u017Ed\u00FDmi dve\u0159mi se nach\u00E1z\u00ED voln\u00FD vstup do chodeb v bloku [Cimrman](bl_cimrman), kter\u00E9 propojuj\u00ED Mrkev se [Z\u00E1vodn\u00EDm Okruhem](mi_zavodni_okruh).\r\nVe spodn\u00ED \u010D\u00E1sti je prostor ur\u010Den\u00FD pro r\u016Fst velk\u00FDch smrk\u016F. Odtud vedou je\u0161t\u011B jedny dve\u0159e, tentokr\u00E1t do [Mrkev Tunelu](mi_mrkev_tunel).  \r\nVe strop\u011B m\u00EDstnosti je um\u00EDst\u011Bn [beacon](beacon_nove_dili), kter\u00FD do prost\u0159ed\u00ED \u00FApln\u011B nezapad\u00E1. Jeho paprsky maj\u00ED barvu mrkve a vych\u00E1zej\u00ED p\u0159\u00EDmo ze st\u0159edu v\u011B\u017Ee."
       },
       {
         "Title": "N\u00E1zev",
@@ -42290,7 +42275,8 @@
       "mi_nejvetsi_tma",
       "mi_hlavni_koridor_i",
       "mi_pod_schodama",
-      "mi_pulmesic"
+      "mi_pulmesic",
+      "mi_bezdomovec"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -42319,7 +42305,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "19/06/25: P\u0159esunuta ze [St\u0159edu](bl_stred) do [Mezipatra](bl_mezipatro).\r\n12/07/25: Nov\u00FD vchod do [P\u016Flm\u011Bs\u00EDce](mi_pulmesic).\r\n07/08/25: V\u00FDtah vede do [Ba\u0161ty](mi_basta) m\u00EDsto [Venkovn\u00EDho Schodi\u0161t\u011B](mi_venkovni_schodiste)."
+        "Content": "19/06/25: P\u0159esunuta ze [St\u0159edu](bl_stred) do [Mezipatra](bl_mezipatro).\r\n12/07/25: Nov\u00FD vchod do [P\u016Flm\u011Bs\u00EDce](mi_pulmesic).\r\n07/08/25: V\u00FDtah vede do [Ba\u0161ty](mi_basta) m\u00EDsto [Venkovn\u00EDho Schodi\u0161t\u011B](mi_venkovni_schodiste).\n06/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Bezdomovec](mi_bezdomovec)."
       }
     ],
     "image_id": 0,
@@ -42568,7 +42554,9 @@
       "mi_draci_rotunda",
       "mi_zmatek",
       "mi_lom",
-      "mi_alej"
+      "mi_alej",
+      "mi_bezdomovec",
+      "mi_karoserie"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -42582,7 +42570,7 @@
     "Sections": [
       {
         "Title": "P\u0159ehled",
-        "Content": "M\u00E9\u010Fa je most, kter\u00FD host\u00ED \u017Eeleznici [Mraven\u010D\u00ED Dr\u00E1hy](te_mravenci_draha) a z\u00E1rove\u0148 ledovou d\u00E1lnici.  \r\nLedov\u00E1 d\u00E1lnice za\u010D\u00EDn\u00E1 v m\u00EDstnosti [Zmatek](mi_zmatek) a stejn\u011B jako \u017Eeleznice sm\u011B\u0159uje ke [stromov\u00E9 v\u011B\u017Ei](ka_stromove_veze) [Dra\u010D\u00ED Rotund\u011B](mi_draci_rotunda), kde most kon\u010D\u00ED. \u017Deleznice v\u0161ak na rozd\u00EDl od d\u00E1lnice neza\u010D\u00EDn\u00E1 ve [Zmatku](mi_zmatek), ale pokra\u010Duje a\u017E do vy\u0161\u0161\u00EDch pater [Pa\u0159ezu](ca_parez).  \r\nKrom\u011B dvou kone\u010Dn\u00FDch m\u00EDstnost\u00ED je M\u00E9\u010Fa propojen i kr\u00E1tk\u00FDm m\u016Fstkem s [Alej\u00ED](mi_alej), kudy vede jedna z dal\u0161\u00EDch linek [Mraven\u010D\u00ED Dr\u00E1hy](te_mravenci_draha).  \r\nSamotn\u00FD most m\u00E1 tvar p\u00EDsmene L. V m\u00EDst\u011B zat\u00E1\u010Dky se nach\u00E1z\u00ED vstupn\u00ED i v\u00FDstupn\u00ED v\u00FDtah, kter\u00FD vede z a k [Lomu](mi_lom)."
+        "Content": "M\u00E9\u010Fa je most, kter\u00FD host\u00ED \u017Eeleznici [Mraven\u010D\u00ED Dr\u00E1hy](te_mravenci_draha) a z\u00E1rove\u0148 ledovou d\u00E1lnici.  \r\nLedov\u00E1 d\u00E1lnice za\u010D\u00EDn\u00E1 v m\u00EDstnosti [Zmatek](mi_zmatek) a stejn\u011B jako \u017Eeleznice sm\u011B\u0159uje ke [stromov\u00E9 v\u011B\u017Ei](ka_stromove_veze) [Dra\u010D\u00ED Rotund\u011B](mi_draci_rotunda), kde most kon\u010D\u00ED. \u017Deleznice v\u0161ak na rozd\u00EDl od d\u00E1lnice neza\u010D\u00EDn\u00E1 ve [Zmatku](mi_zmatek), ale pokra\u010Duje a\u017E do vy\u0161\u0161\u00EDch pater [Pa\u0159ezu](ca_parez).  \r\nKrom\u011B dvou kone\u010Dn\u00FDch m\u00EDstnost\u00ED je M\u00E9\u010Fa propojen i kr\u00E1tk\u00FDm m\u016Fstkem s [Alej\u00ED](mi_alej), kudy vede jedna z dal\u0161\u00EDch linek [Mraven\u010D\u00ED Dr\u00E1hy](te_mravenci_draha), ale tak\u00E9 s [Bezdomovcem](mi_bezdomovec) kr\u00E1tk\u00FDmi schody.  \r\nSamotn\u00FD most m\u00E1 tvar p\u00EDsmene L. V m\u00EDst\u011B zat\u00E1\u010Dky se nach\u00E1z\u00ED vstupn\u00ED i v\u00FDstupn\u00ED v\u00FDtah, kter\u00FD vede z a k [Lomu](mi_lom)."
       },
       {
         "Title": "N\u00E1zev",
@@ -42590,7 +42578,7 @@
       },
       {
         "Title": "Interi\u00E9r",
-        "Content": "Most M\u00E9\u010Fa nen\u00ED zast\u0159e\u0161en a m\u00E1 \u0161\u00ED\u0159ku 6 blok\u016F. Je tvo\u0159en dvoublokovou ledovou d\u00E1lnic\u00ED, kolej\u00ED, krajn\u00EDmi okraji a pruhem slab\u016F odd\u011Bluj\u00EDc\u00EDch \u017Eeleznici od d\u00E1lnice.  \r\nNa slabech jsou v nepravideln\u00FDch intervalech um\u00EDst\u011Bny lou\u010De, kter\u00E9 zabra\u0148uj\u00ED spawnov\u00E1n\u00ED mob\u016F. Z\u00E1rove\u0148 slaby umo\u017E\u0148uj\u00ED po most\u011B chodit mimo samotnou d\u00E1lnici a \u017Eeleznici.  \r\nNa za\u010D\u00E1tku d\u00E1lnice u m\u00EDstnosti [Zmatek](mi_zmatek) se nach\u00E1z\u00ED jedin\u00E9 okno troj\u00FAheln\u00EDkov\u00E9ho tvaru, nad n\u00EDm\u017E vedou koleje. V zat\u00E1\u010Dce d\u00E1lnice je pak mal\u00FD otvor v podlaze sm\u011Brem dol\u016F k v\u00FDtahu., je\u017E je 15 blok\u016F vysok\u00FD a propojuje [Lom](mi_lom) s M\u00E9\u010Fou. Um\u00EDst\u011Bn je uprost\u0159ed sloupu podp\u00EDraj\u00EDc\u00EDho d\u00E1lnici, ze kter\u00E9ho vyb\u00EDhaj\u00ED dv\u011B velk\u00E9 zaoblen\u00E9 konstrukce, dod\u00E1vaj\u00EDc\u00ED mostu charakteristick\u00FD vzhled.  \r\nNa kone\u010Dn\u00E9 stanici lze v rohu spat\u0159it vodn\u00ED v\u00FDtah, jen\u017E slou\u017E\u00ED jako odpadn\u00ED roura spole\u010Dnosti [ORP](sp_orp). I kdy\u017E se zd\u00E1, \u017Ee je sou\u010D\u00E1st\u00ED mostu M\u00E9\u010Fa, ve skute\u010Dnosti u\u017E pat\u0159\u00ED k [Dra\u010D\u00ED Rotund\u011B](mi_draci_rotunda)."
+        "Content": "Most M\u00E9\u010Fa nen\u00ED zast\u0159e\u0161en a m\u00E1 \u0161\u00ED\u0159ku 6 blok\u016F. Je tvo\u0159en dvoublokovou ledovou d\u00E1lnic\u00ED, kolej\u00ED, krajn\u00EDmi okraji a pruhem slab\u016F odd\u011Bluj\u00EDc\u00EDch \u017Eeleznici od d\u00E1lnice.  \r\nNa slabech jsou v nepravideln\u00FDch intervalech um\u00EDst\u011Bny lou\u010De, kter\u00E9 zabra\u0148uj\u00ED spawnov\u00E1n\u00ED mob\u016F. Z\u00E1rove\u0148 slaby umo\u017E\u0148uj\u00ED po most\u011B chodit mimo samotnou d\u00E1lnici a \u017Eeleznici.  \r\nNa za\u010D\u00E1tku d\u00E1lnice u m\u00EDstnosti [Zmatek](mi_zmatek) se nach\u00E1z\u00ED jedin\u00E9 okno troj\u00FAheln\u00EDkov\u00E9ho tvaru, nad n\u00EDm\u017E vedou koleje. V zat\u00E1\u010Dce d\u00E1lnice je pak mal\u00FD otvor v podlaze sm\u011Brem dol\u016F k v\u00FDtahu., je\u017E je 15 blok\u016F vysok\u00FD a propojuje [Lom](mi_lom) s M\u00E9\u010Fou. Um\u00EDst\u011Bn je uprost\u0159ed sloupu podp\u00EDraj\u00EDc\u00EDho d\u00E1lnici, ze kter\u00E9ho vyb\u00EDhaj\u00ED dv\u011B velk\u00E9 zaoblen\u00E9 konstrukce, dod\u00E1vaj\u00EDc\u00ED mostu charakteristick\u00FD vzhled. Uprost\u0159ed v\u00FDtahu je i vstup do [Karoserie](mi_karoserie) v bloku [Podvozek](bl_podvozek).\r\nNa kone\u010Dn\u00E9 stanici lze v rohu spat\u0159it vodn\u00ED v\u00FDtah, jen\u017E slou\u017E\u00ED jako odpadn\u00ED roura spole\u010Dnosti [ORP](sp_orp). I kdy\u017E se zd\u00E1, \u017Ee je sou\u010D\u00E1st\u00ED mostu M\u00E9\u010Fa, ve skute\u010Dnosti u\u017E pat\u0159\u00ED k [Dra\u010D\u00ED Rotund\u011B](mi_draci_rotunda)."
       },
       {
         "Title": "Zaj\u00EDmavost",
@@ -42598,7 +42586,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "27/07/25: Nov\u00FD v\u00FDtah vedouc\u00ED z [Lomu](mi_lom).\r\n17/08/25: M\u00E9\u010Fa nov\u011B soused\u00ED s [Alej\u00ED](mi_alej)."
+        "Content": "27/07/25: Nov\u00FD v\u00FDtah vedouc\u00ED z [Lomu](mi_lom).\r\n17/08/25: M\u00E9\u010Fa nov\u011B soused\u00ED s [Alej\u00ED](mi_alej).\r\n06/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Bezdomovec](mi_bezdomovec).\r\n06/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Karos\u00E9rie](mi_karoserie)."
       }
     ],
     "image_id": 0,
@@ -44464,7 +44452,8 @@
       "mi_dobra_voda",
       "mi_rozhrani",
       "mi_mestsky_okruh",
-      "mi_dvojcata"
+      "mi_dvojcata",
+      "mi_bezdomovec"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -44485,7 +44474,7 @@
       },
       {
         "Title": "Interi\u00E9r",
-        "Content": "The Bridge je rozd\u011Blen do \u010Dty\u0159 \u010D\u00E1st\u00ED, p\u0159i\u010Dem\u017E ka\u017Ed\u00E1 z nich se nach\u00E1z\u00ED v jin\u00E9m bloku.\r\n\u010C\u00E1st ve [Vestibulu](bl_vestibul) za\u010D\u00EDn\u00E1 u [Rozhran\u00ED](mi_rozhrani) a pokra\u010Duje pod\u00E9l [D\u00E1lnice](mi_dalnice), ke kter\u00E9 vedou schody. P\u0159ed schody je mal\u00FD prostor se dv\u011Bmi \u010Derven\u00FDmi postelemi \u2013 jedin\u00FDmi postelemi na Bridgi. Tato \u010D\u00E1st se nach\u00E1z\u00ED p\u0159\u00EDmo pod ledem [M\u011Bstsk\u00E9ho Okruhu](mi_mestsky_okruh), co\u017E zd\u016Fraz\u0148uje \u017Ee se nach\u00E1z\u00EDme v [D\u00E1lni\u010Dn\u00ED Kolonii](ct_dalnicni_kolonie). Z t\u00E9to \u010D\u00E1sti tak\u00E9 vedou dve\u0159e do [stromov\u00E9 v\u011B\u017Ee](te_stromove_veze) [Sila](mi_silo), schodi\u0161t\u011B k [M\u011Bstsk\u00E9mu Okruhu](mi_mestsky_okruh) a tak\u00E9 p\u0159\u00EDstup na [Crossing](mi_the_crossing), kter\u00FD je s Bridgem \u00FAzce spojen.\r\n\u010C\u00E1st ve [V\u011B\u017Ei](bl_vez) je v\u00FDrazn\u011B schodi\u0161\u0165ov\u00E1 a m\u011Bn\u00ED vzhled cel\u00E9 chodby. Schody nejprve vedou dol\u016F, kde se Bridge rozd\u011Bluje: vlevo k [D\u00E1lnici](mi_dalnice), [Z\u00E1bor\u00E1m](mi_zabory) a na [Verandu](mi_veranda), rovn\u011B ke dve\u0159\u00EDm op\u011Bt k [D\u00E1lnici](mi_dalnice) a vpravo kolem vstupu do [druh\u00E9ho podla\u017E\u00ED V\u011B\u017Ee](mi_vez_2_podlazi). Naproti tomuto vchodu stoj\u00ED v cest\u011B [Sloupek by kiki](mi_sloupek) a schody dol\u016F na [Hlavn\u00ED Koridor](mi_hlavni_koridor_ii). N\u00E1sleduj\u00ED zak\u0159iven\u00E9 schody nahoru, kter\u00E9 vystoupaj\u00ED v\u00FD\u0161 ne\u017E \u010D\u00E1st ve [Vestibulu](bl_vestibul). Toto m\u00EDsto je pravd\u011Bpodobn\u011B nejzn\u00E1m\u011Bj\u0161\u00ED \u010D\u00E1st\u00ED cel\u00E9 chodby \u2013 The Bridge vede kolem dve\u0159\u00ED do [Vyp\u00EDk\u00E1rny](mi_vypikarna), schod\u016F na [Crossing](mi_the_crossing) a vstupu na [Villager Bridge](mi_villager_bridge). Naproti n\u011Bmu se nach\u00E1z\u00ED ve zdi nevyu\u017Eit\u00FD barel, kter\u00FD zna\u010D\u00ED konec t\u00E9to \u010D\u00E1sti.\r\n\u010C\u00E1st v bloku [Z\u00E1meck\u00E9 Schody](bl_zamecke_schody) je tvo\u0159ena rovnou chodbou p\u0159eru\u0161enou zhruba v polovin\u011B mal\u00FDm sch\u016Fdkem. Na za\u010D\u00E1tek vede to\u010Dit\u00E9 schodi\u0161t\u011B z [P\u0159edddvoru](mi_preddvor). Tato \u010D\u00E1st m\u00E1 jednoduch\u00E9 pravidlo \u2013 v\u0161echny vstupy se nach\u00E1zej\u00ED vlevo, zat\u00EDmco vpravo jsou jen st\u011Bny bez dve\u0159\u00ED. Nejprve je vlevo velk\u00FD otev\u0159en\u00FD pr\u016Fchod na [P\u0159ed\u011Bl](mi_predel) a [Diagon\u00E1lu](mi_diagonala). Na konci pr\u016Fchodu se k Bridgi p\u0159ipojuj\u00ED koleje [Mraven\u010D\u00ED Dr\u00E1hy](te_mravenci_draha), kter\u00E9 pokra\u010Duj\u00ED ho doprov\u00E1zej\u00ED a\u017E na jeho konec. Kousek d\u00E1l se vlevo nach\u00E1z\u00ED dal\u0161\u00ED otev\u0159en\u00FD vchod a to [Na M\u016Fstek](mi_na_mustku) a mal\u00FD m\u016Fstek do [V\u00FDtahov\u00E9 \u0160achty](mi_vytahova_sachta). Zbytek lev\u00E9 strany vypl\u0148uj\u00ED [Z\u00E1meck\u00E9 Schody](mi_zamecke_schody), kter\u00E9 vedou sm\u011Brem dol\u016F. \u010C\u00E1st The Bridge vedouc\u00ED kolem nich nen\u00ED oplocena, ale p\u00E1d na schody je n\u00EDzk\u00FD a tak nehroz\u00ED zran\u011Bn\u00ED hr\u00E1\u010De. Naproti nim je jedin\u00FD vchod nach\u00E1zej\u00EDc\u00ED se na prav\u00E9 stran\u011B, branka [Na Ochoz](mi_na_ochozu). \r\n\u010C\u00E1st v bloku [St\u0159ed](bl_stred) je specifick\u00E1 t\u00EDm, \u017Ee vlevo le\u017E\u00ED m\u00EDstnosti [Ko\u0159eny](mi_koreny) a [V\u00FDloha](mi_vyloha), kter\u00E9 byly kdysi sou\u010D\u00E1st\u00ED Bridge, ale pozd\u011Bji byly odd\u011Bleny. P\u0159\u00EDstup do nich z\u016Fstal voln\u00FD, bez st\u011Bny. Napravo se nach\u00E1z\u00ED dlouh\u00FD plot s n\u011Bkolika brankami [Na Ochoz](mi_na_ochozu). Na samotn\u00E9m konci se chodba roz\u0161i\u0159uje z p\u016Fvodn\u00EDch dvou blok\u016F a\u017E na \u010Dty\u0159n\u00E1sobek. [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha) zde zat\u00E1\u010D\u00ED vlevo a pokra\u010Duje strm\u011B nahoru na [Alej](mi_alej). Vpravo se nach\u00E1z\u00ED \u017Eeb\u0159\u00EDk na onu [Alej](mi_alej) a posledn\u00ED branka [Na Ochoz](mi_na_ochozu).\r\nCel\u00FD prostor The Bridge je dob\u0159e osv\u011Btlen a to v\u00FDhradn\u011B lou\u010Demi. Mezi standartn\u00EDmi lou\u010Demi m\u016F\u017Eeme nal\u00E9zt tak\u00E9 lou\u010De ruditov\u00E9 slou\u017E\u00EDc\u00ED k nap\u00E1jen\u00ED kolej\u00ED [Mraven\u010D\u00ED Dr\u00E1hy](te_mravenci_draha)."
+        "Content": "The Bridge je rozd\u011Blen do \u010Dty\u0159 \u010D\u00E1st\u00ED, p\u0159i\u010Dem\u017E ka\u017Ed\u00E1 z nich se nach\u00E1z\u00ED v jin\u00E9m bloku.\r\n\u010C\u00E1st ve [Vestibulu](bl_vestibul) za\u010D\u00EDn\u00E1 u [Rozhran\u00ED](mi_rozhrani) a pokra\u010Duje pod\u00E9l [D\u00E1lnice](mi_dalnice), ke kter\u00E9 vedou schody. P\u0159ed schody je mal\u00FD prostor se dv\u011Bmi \u010Derven\u00FDmi postelemi \u2013 jedin\u00FDmi postelemi na Bridgi. Tato \u010D\u00E1st se nach\u00E1z\u00ED p\u0159\u00EDmo pod ledem [M\u011Bstsk\u00E9ho Okruhu](mi_mestsky_okruh), co\u017E zd\u016Fraz\u0148uje \u017Ee se nach\u00E1z\u00EDme v [D\u00E1lni\u010Dn\u00ED Kolonii](ct_dalnicni_kolonie). Z t\u00E9to \u010D\u00E1sti tak\u00E9 vedou dve\u0159e do [stromov\u00E9 v\u011B\u017Ee](te_stromove_veze) [Sila](mi_silo), schodi\u0161t\u011B k [M\u011Bstsk\u00E9mu Okruhu](mi_mestsky_okruh) a tak\u00E9 p\u0159\u00EDstup na [Crossing](mi_the_crossing), kter\u00FD je s Bridgem \u00FAzce spojen.\r\n\u010C\u00E1st ve [V\u011B\u017Ei](bl_vez) je v\u00FDrazn\u011B schodi\u0161\u0165ov\u00E1 a m\u011Bn\u00ED vzhled cel\u00E9 chodby. Schody nejprve vedou dol\u016F, kde se Bridge rozd\u011Bluje: vlevo k [D\u00E1lnici](mi_dalnice), [Z\u00E1bor\u00E1m](mi_zabory) a na [Verandu](mi_veranda), rovn\u011B ke dve\u0159\u00EDm op\u011Bt k [D\u00E1lnici](mi_dalnice) a vpravo kolem vstupu do [druh\u00E9ho podla\u017E\u00ED V\u011B\u017Ee](mi_vez_2_podlazi). Naproti tomuto vchodu stoj\u00ED v cest\u011B [Sloupek by kiki](mi_sloupek) a schody dol\u016F na [Hlavn\u00ED Koridor](mi_hlavni_koridor_ii). N\u00E1sleduj\u00ED zak\u0159iven\u00E9 schody nahoru, kter\u00E9 vystoupaj\u00ED v\u00FD\u0161 ne\u017E \u010D\u00E1st ve [Vestibulu](bl_vestibul). Toto m\u00EDsto je pravd\u011Bpodobn\u011B nejzn\u00E1m\u011Bj\u0161\u00ED \u010D\u00E1st\u00ED cel\u00E9 chodby \u2013 The Bridge vede kolem dve\u0159\u00ED do [Vyp\u00EDk\u00E1rny](mi_vypikarna), schod\u016F na [Crossing](mi_the_crossing) a vstupu na [Villager Bridge](mi_villager_bridge). Naproti n\u011Bmu se nach\u00E1z\u00ED ve zdi nevyu\u017Eit\u00FD barel, kter\u00FD zna\u010D\u00ED konec t\u00E9to \u010D\u00E1sti.\r\n\u010C\u00E1st v bloku [Z\u00E1meck\u00E9 Schody](bl_zamecke_schody) je tvo\u0159ena rovnou chodbou p\u0159eru\u0161enou zhruba v polovin\u011B mal\u00FDm sch\u016Fdkem. Na za\u010D\u00E1tek vede to\u010Dit\u00E9 schodi\u0161t\u011B z [P\u0159edddvoru](mi_preddvor). Tato \u010D\u00E1st m\u00E1 jednoduch\u00E9 pravidlo \u2013 v\u0161echny vstupy se nach\u00E1zej\u00ED vlevo, zat\u00EDmco vpravo jsou jen st\u011Bny bez dve\u0159\u00ED. Nejprve je vlevo velk\u00FD otev\u0159en\u00FD pr\u016Fchod na [P\u0159ed\u011Bl](mi_predel) a [Diagon\u00E1lu](mi_diagonala). Na konci pr\u016Fchodu se k Bridgi p\u0159ipojuj\u00ED koleje [Mraven\u010D\u00ED Dr\u00E1hy](te_mravenci_draha), kter\u00E9 pokra\u010Duj\u00ED ho doprov\u00E1zej\u00ED a\u017E na jeho konec. Kousek d\u00E1l se vlevo nach\u00E1z\u00ED dal\u0161\u00ED otev\u0159en\u00FD vchod a to [Na M\u016Fstek](mi_na_mustku) a mal\u00FD m\u016Fstek do [V\u00FDtahov\u00E9 \u0160achty](mi_vytahova_sachta). Zbytek lev\u00E9 strany vypl\u0148uj\u00ED [Z\u00E1meck\u00E9 Schody](mi_zamecke_schody), kter\u00E9 vedou sm\u011Brem dol\u016F. \u010C\u00E1st The Bridge vedouc\u00ED kolem nich nen\u00ED oplocena, ale p\u00E1d na schody je n\u00EDzk\u00FD a tak nehroz\u00ED zran\u011Bn\u00ED hr\u00E1\u010De. Naproti nim je jedin\u00FD vchod nach\u00E1zej\u00EDc\u00ED se na prav\u00E9 stran\u011B, branka [Na Ochoz](mi_na_ochozu). \r\n\u010C\u00E1st v bloku [St\u0159ed](bl_stred) je specifick\u00E1 t\u00EDm, \u017Ee vlevo le\u017E\u00ED m\u00EDstnosti [Ko\u0159eny](mi_koreny), [V\u00FDloha](mi_vyloha) a [Bezdomovec](mi_bezdomovec), kter\u00E9 byly v\u0161echny krom\u011B [Bezdomovce](mi_bezdomovec) kdysi sou\u010D\u00E1st\u00ED Bridge, ale pozd\u011Bji byly odd\u011Bleny. P\u0159\u00EDstup do nich z\u016Fstal voln\u00FD, bez st\u011Bny. Napravo se nach\u00E1z\u00ED dlouh\u00FD plot s n\u011Bkolika brankami [Na Ochoz](mi_na_ochozu). Na samotn\u00E9m konci se chodba roz\u0161i\u0159uje z p\u016Fvodn\u00EDch dvou blok\u016F a\u017E na \u010Dty\u0159n\u00E1sobek. [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha) zde zat\u00E1\u010D\u00ED vlevo a pokra\u010Duje strm\u011B nahoru na [Alej](mi_alej). Vpravo se nach\u00E1z\u00ED \u017Eeb\u0159\u00EDk na onu [Alej](mi_alej) a posledn\u00ED branka [Na Ochoz](mi_na_ochozu).\r\nCel\u00FD prostor The Bridge je dob\u0159e osv\u011Btlen a to v\u00FDhradn\u011B lou\u010Demi. Mezi standartn\u00EDmi lou\u010Demi m\u016F\u017Eeme nal\u00E9zt tak\u00E9 lou\u010De ruditov\u00E9 slou\u017E\u00EDc\u00ED k nap\u00E1jen\u00ED kolej\u00ED [Mraven\u010D\u00ED Dr\u00E1hy](te_mravenci_draha)."
       },
       {
         "Title": "Zaj\u00EDmavost",
@@ -44493,7 +44482,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "19/06/25: Od The Bridge byla odd\u011Blena m\u00EDstnost [V\u00FDloha](mi_vyloha).\r\n12/07/25: Nov\u00FD vchod do [Dvoj\u010Dat](mi_dvojcata).\r\n24/07/25: M\u00EDstnost\u00ED proch\u00E1z\u00ED [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha)."
+        "Content": "19/06/25: Od The Bridge byla odd\u011Blena m\u00EDstnost [V\u00FDloha](mi_vyloha).\r\n12/07/25: Nov\u00FD vchod do [Dvoj\u010Dat](mi_dvojcata).\r\n24/07/25: M\u00EDstnost\u00ED proch\u00E1z\u00ED [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha).\r\n06/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Bezdomovec](mi_bezdomovec)."
       }
     ],
     "image_id": 0,
@@ -44729,7 +44718,9 @@
       "mi_jogurt",
       "mi_ustredni_stredisko_beta",
       "mi_spojnice",
-      "mi_tranzit"
+      "mi_tranzit",
+      "mi_on",
+      "mi_ona"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -44750,7 +44741,7 @@
       },
       {
         "Title": "Interi\u00E9r",
-        "Content": "Nejni\u017E\u0161\u00EDm bodem Katakomb je chodba, kter\u00E1 za\u010D\u00EDn\u00E1 u [Detouru](mi_the_detour). Tato chodba je dva bloky \u0161irok\u00E1 a na v\u011Bt\u0161in\u011B jej\u00ED d\u00E9lky se nach\u00E1z\u00ED schodi\u0161t\u011B sm\u011B\u0159uj\u00EDc\u00ED do vy\u0161\u0161\u00EDch \u010D\u00E1st\u00ED Katakomb. Na za\u010D\u00E1tku je crafting table, barel a dva trapdoory za nimi\u017E se nach\u00E1z\u00ED \u0022tajn\u00FD\u0022 koutek m\u00EDstnosti [The Detour](mi_the_detour). Uprost\u0159ed t\u00E9to chodby mal\u00E9 rozcest\u00ED spole\u010Dn\u011B i s roz\u0161\u00ED\u0159en\u00EDm chodby. Vlevo se nach\u00E1zej\u00ED dve\u0159e vedouc\u00ED k [D\u00E1lni\u010D\u00EDmu Pil\u00ED\u0159i](mi_dalnicni_pilir) a napravo je za\u010D\u00E1tek to\u010Dit\u00E9ho schodi\u0161t\u011B a crafting table.\r\nToto to\u010Dit\u00E9 schodi\u0161t\u011B je tvo\u0159eno p\u011Bti sekcemi a tedy \u010Dty\u0159mi mezipatry. V prvn\u00EDm mezipat\u0159e se nach\u00E1zej\u00ED dve\u0159e do [druh\u00E9 Chodby](mi_chodba_ii), u kter\u00FDch je z n\u011Bjak\u00E9ho d\u016Fvodu i tla\u010D\u00EDtko a pl\u016Ftek s v\u00FDhledem na podobn\u011B komplikovanou m\u00EDstnost [The Detour](mi_the_detour). Schodi\u0161t\u011B d\u00E1le pokra\u010Duje k druh\u00E9mu mezipatru odkud vedou kr\u00E1tk\u00E9 schody na [Podkrov\u00ED](mi_podkrovi). Ve t\u0159et\u00ED sekci se schodi\u0161t\u011B zu\u017Euje jen na jeden blok. Na t\u0159et\u00EDm mezipat\u0159e je mo\u017Enost vyu\u017E\u00EDt dve\u0159e nebo voln\u00FD vchod do Katakomb, ano z Katakomb vedou dve\u0159e do Katakomb. Do \u010D\u00E1st\u00ED kam vedou tyto vchody se vr\u00E1t\u00EDme za chv\u00EDli. Naproti voln\u00E9mu vchodu je plot br\u00E1n\u00EDc\u00ED proti p\u00E1du o dv\u011B mezipodla\u017E\u00ED n\u00ED\u017Ee. Posledn\u00ED mezipatro to\u010Dit\u00E9ho schodi\u0161t\u011B je pouze o blok v\u00FD\u0161e jak to t\u0159et\u00ED. Je zde velk\u00E9 okno s p\u011Bkn\u00FDm v\u00FDhledem, crafting table ve st\u011Bn\u011B a o dva bloky v\u00FD\u0161e polo\u017Een\u00FD stup\u00EDnek se sv\u011Btle modrou postel\u00ED za z\u00E1st\u011Bnou tvo\u0159enou trapdoory. Ze stup\u00EDnku vedou dve\u0159e do [Stair Heavenu](mi_stair_heaven). Je zde tak\u00E9 pl\u016Ftek za n\u00EDm\u017E je \u010D\u00E1st p\u0159\u00EDstupn\u00E1 z p\u0159ede\u0161l\u00E9ho mezipatra. Cel\u00E9 to\u010Dit\u00E9 schodi\u0161t\u011B je ukon\u010Deno dve\u0159mi do [St\u00EDnu](mi_stin) a velk\u00FDm rohov\u00FDm oknem.\r\nZa dve\u0159mi na t\u0159et\u00EDm mezipodla\u017E\u00ED to\u010Dit\u00E9ho schodi\u0161t\u011B se nach\u00E1z\u00ED chodba, tak\u00E9 sou\u010D\u00E1st\u00ED Katakomb, je\u017E sv\u00FDm vzhledem p\u0159ipom\u00EDn\u00E1 m\u00EDstnosti [Chodba](mi_chodba) a [Chodba II](mi_chodba_ii). Chodba spojuje t\u0159i m\u00EDstnosti, jmenovit\u011B [Podkrov\u00ED](mi_podkrovi), [Stair Heaven](mi_stair_heaven) a [Tranzit](mi_tranzit). Mezi dve\u0159mi do [Stair Heavenu](mi_stair_heaven) a [Tranzitu](mi_tranzit) se nach\u00E1z\u00ED trojice barel\u016F a uheln\u00FD blok. U dve\u0159\u00ED do [Podkrov\u00ED](mi_podkrovi) je polo\u017Eena \u017Elut\u00E1 postel a nad n\u00ED ve strop\u011B je vid\u011Bt spodek r\u016F\u017Eov\u00E9 postele v m\u00EDstnosti [St\u00EDn](mi_stin). Chodba je zakon\u010Dena schody dol\u016F do dal\u0161\u00ED z \u010D\u00E1st\u00ED Katakomb.\r\nTato \u010D\u00E1st se nach\u00E1z\u00ED na konci schodi\u0161t\u011B vedouc\u00EDho z [The Detouru](mi_the_detour) popsan\u00E9ho v prvn\u00EDm odstavci tohoto textu. Krom\u011B dvou postel\u00ED, dvou barel\u016F a dvou crafting tabl\u016F jsou zde dve\u0159e na [Spojnici](mi_spojnice) op\u011Bt s tla\u010D\u00EDtkem, dve\u0159e do [Bety](mi_ustredni_stredisko_beta) tak\u00E9 s tla\u010D\u00EDtkem. Vedle dve\u0159\u00ED do st\u0159ediska je kr\u00E1tk\u00E9 schodi\u0161t\u011B vedouc\u00ED pod\u00E9l st\u011Bny a nad v\u00FD\u0161e zm\u00EDn\u011Bn\u00FDmi barely vedouc\u00ED do dal\u0161\u00ED z \u010D\u00E1st\u00ED Katakomb, o kter\u00E9 bude \u0159e\u010D v dal\u0161\u00EDm odstavci. Naproti nim je pl\u016Ftek za n\u00EDm\u017E je \u010D\u00E1st m\u00EDstnosti [The Detour](mi_the_detour).\r\nDal\u0161\u00ED a p\u0159edposledn\u00ED \u010D\u00E1st\u00ED Katakomb je mal\u00E9 mezipatro s \u0161esti barely a crafting tablem ve st\u011Bn\u011B. Tyto \u00FA\u010Delov\u00E9 bloky zab\u00EDraj\u00ED celou d\u00E9lku tohoto mezipatra. Nad barely je dva bloky vysok\u00E9 okno a za n\u00EDm m\u00EDstnost [Jogurt](mi_jogurt), kam tak\u00E9 vedou kr\u00E1tk\u00E9 schody. Na druh\u00E9 stran\u011B mezipatra je nezasklen\u00FD otvor s pl\u016Ftkem, je\u017E nab\u00EDz\u00ED v\u00FDhled na [Le Pont](mi_le_pont). Nalevo od otvoru je posledn\u00ED schodi\u0161t\u011B o kter\u00E9m bude v tomto textu \u0159e\u010D vedouc\u00ED do \u0161est\u00E9 a posledn\u00ED \u010D\u00E1sti Katakomb.\r\nTou je velk\u00FD otev\u0159en\u00FD prostor s vysok\u00FDmi stropy, mno\u017Estv\u00EDm oken a r\u016Fzn\u00FDch pl\u016Ftk\u016F. Za jedn\u00EDm z t\u011Bchto pl\u016Ftk\u016F je nap\u0159\u00EDklad ji\u017E v\u00EDcekr\u00E1t zmi\u0148ovan\u00E1 d\u00EDra na jej\u00EDm\u017E dn\u011B je [The Detour](mi_the_detour). Nap\u0159\u00ED\u010D velk\u00E9 plo\u0161e vedou z t\u00E9to \u010D\u00E1st\u00ED jedin\u00E9 dve\u0159e a to do [St\u00EDnu](mi_stin). Krom nich se sem d\u00E1 dostat schody z v\u00FD\u0161e zm\u00EDn\u011Bn\u00E9ho mezipatra s mnoha barely \u010Di dv\u011Bma r\u016Fzn\u00FDmi vchody z to\u010Dit\u00E9ho schodi\u0161t\u011B \u010Di chodbi\u010Dkou s uheln\u00FDm blokem."
+        "Content": "Nejni\u017E\u0161\u00EDm bodem Katakomb je chodba, kter\u00E1 za\u010D\u00EDn\u00E1 u [Detouru](mi_the_detour). Tato chodba je dva bloky \u0161irok\u00E1 a na v\u011Bt\u0161in\u011B jej\u00ED d\u00E9lky se nach\u00E1z\u00ED schodi\u0161t\u011B sm\u011B\u0159uj\u00EDc\u00ED do vy\u0161\u0161\u00EDch \u010D\u00E1st\u00ED Katakomb. Na za\u010D\u00E1tku je crafting table, barel a dva trapdoory za nimi\u017E se nach\u00E1z\u00ED \u0022tajn\u00FD\u0022 koutek m\u00EDstnosti [The Detour](mi_the_detour). Uprost\u0159ed t\u00E9to chodby mal\u00E9 rozcest\u00ED spole\u010Dn\u011B i s roz\u0161\u00ED\u0159en\u00EDm chodby. Vlevo se nach\u00E1zej\u00ED dve\u0159e vedouc\u00ED k [D\u00E1lni\u010D\u00EDmu Pil\u00ED\u0159i](mi_dalnicni_pilir) a napravo je za\u010D\u00E1tek to\u010Dit\u00E9ho schodi\u0161t\u011B a crafting table.\r\nToto to\u010Dit\u00E9 schodi\u0161t\u011B je tvo\u0159eno p\u011Bti sekcemi a tedy \u010Dty\u0159mi mezipatry. V prvn\u00EDm mezipat\u0159e se nach\u00E1zej\u00ED dve\u0159e do [druh\u00E9 Chodby](mi_chodba_ii), u kter\u00FDch je z n\u011Bjak\u00E9ho d\u016Fvodu i tla\u010D\u00EDtko a pl\u016Ftek s v\u00FDhledem na podobn\u011B komplikovanou m\u00EDstnost [The Detour](mi_the_detour). Schodi\u0161t\u011B d\u00E1le pokra\u010Duje k druh\u00E9mu mezipatru odkud vedou kr\u00E1tk\u00E9 schody na [Podkrov\u00ED](mi_podkrovi). Ve t\u0159et\u00ED sekci se schodi\u0161t\u011B zu\u017Euje jen na jeden blok. Na t\u0159et\u00EDm mezipat\u0159e je mo\u017Enost vyu\u017E\u00EDt dve\u0159e nebo voln\u00FD vchod do Katakomb, ano z Katakomb vedou dve\u0159e do Katakomb. Do \u010D\u00E1st\u00ED kam vedou tyto vchody se vr\u00E1t\u00EDme za chv\u00EDli. Naproti voln\u00E9mu vchodu je plot br\u00E1n\u00EDc\u00ED proti p\u00E1du o dv\u011B mezipodla\u017E\u00ED n\u00ED\u017Ee. Posledn\u00ED mezipatro to\u010Dit\u00E9ho schodi\u0161t\u011B je pouze o blok v\u00FD\u0161e jak to t\u0159et\u00ED. Je zde velk\u00E9 okno s p\u011Bkn\u00FDm v\u00FDhledem, crafting table ve st\u011Bn\u011B a o dva bloky v\u00FD\u0161e polo\u017Een\u00FD stup\u00EDnek se sv\u011Btle modrou postel\u00ED za z\u00E1st\u011Bnou tvo\u0159enou trapdoory. Ze stup\u00EDnku vedou dve\u0159e do [Stair Heavenu](mi_stair_heaven). Je zde tak\u00E9 pl\u016Ftek za n\u00EDm\u017E je \u010D\u00E1st p\u0159\u00EDstupn\u00E1 z p\u0159ede\u0161l\u00E9ho mezipatra. Cel\u00E9 to\u010Dit\u00E9 schodi\u0161t\u011B je ukon\u010Deno dve\u0159mi do [St\u00EDnu](mi_stin) a velk\u00FDm rohov\u00FDm oknem.\r\nZa dve\u0159mi na t\u0159et\u00EDm mezipodla\u017E\u00ED to\u010Dit\u00E9ho schodi\u0161t\u011B se nach\u00E1z\u00ED chodba, tak\u00E9 sou\u010D\u00E1st\u00ED Katakomb, je\u017E sv\u00FDm vzhledem p\u0159ipom\u00EDn\u00E1 m\u00EDstnosti [Chodba](mi_chodba) a [Chodba II](mi_chodba_ii). Chodba spojuje t\u0159i m\u00EDstnosti, jmenovit\u011B [Podkrov\u00ED](mi_podkrovi), [Stair Heaven](mi_stair_heaven) a [Tranzit](mi_tranzit). Mezi dve\u0159mi do [Stair Heavenu](mi_stair_heaven) a [Tranzitu](mi_tranzit) se nach\u00E1z\u00ED trojice barel\u016F a uheln\u00FD blok. U dve\u0159\u00ED do [Podkrov\u00ED](mi_podkrovi) je polo\u017Eena \u017Elut\u00E1 postel a nad n\u00ED ve strop\u011B je vid\u011Bt spodek r\u016F\u017Eov\u00E9 postele v m\u00EDstnosti [St\u00EDn](mi_stin). Chodba je zakon\u010Dena schody dol\u016F do dal\u0161\u00ED z \u010D\u00E1st\u00ED Katakomb.\r\nTato \u010D\u00E1st se nach\u00E1z\u00ED na konci schodi\u0161t\u011B vedouc\u00EDho z [The Detouru](mi_the_detour) popsan\u00E9ho v prvn\u00EDm odstavci tohoto textu. Krom\u011B dvou postel\u00ED, dvou barel\u016F a dvou crafting tabl\u016F jsou zde dve\u0159e na [Spojnici](mi_spojnice) op\u011Bt s tla\u010D\u00EDtkem, dve\u0159e do [Bety](mi_ustredni_stredisko_beta) tak\u00E9 s tla\u010D\u00EDtkem a dve\u0159e do [N\u011Bho](mi_on). Vedle dve\u0159\u00ED do st\u0159ediska je kr\u00E1tk\u00E9 schodi\u0161t\u011B vedouc\u00ED pod\u00E9l st\u011Bny a nad v\u00FD\u0161e zm\u00EDn\u011Bn\u00FDmi barely vedouc\u00ED do dal\u0161\u00ED z \u010D\u00E1st\u00ED Katakomb, o kter\u00E9 bude \u0159e\u010D v dal\u0161\u00EDm odstavci. Naproti nim je pl\u016Ftek za n\u00EDm\u017E je \u010D\u00E1st m\u00EDstnosti [The Detour](mi_the_detour).\r\nDal\u0161\u00ED a p\u0159edposledn\u00ED \u010D\u00E1st\u00ED Katakomb je mal\u00E9 mezipatro s \u0161esti barely a crafting tablem ve st\u011Bn\u011B. Tyto \u00FA\u010Delov\u00E9 bloky zab\u00EDraj\u00ED celou d\u00E9lku tohoto mezipatra. Nad barely je dva bloky vysok\u00E9 okno a za n\u00EDm m\u00EDstnost [Jogurt](mi_jogurt), kam tak\u00E9 vedou kr\u00E1tk\u00E9 schody. Na druh\u00E9 stran\u011B mezipatra byl nezasklen\u00FD otvor s pl\u016Ftkem, je\u017E nab\u00EDzel v\u00FDhled na [Le Pont](mi_le_pont). Byl ale ned\u00E1vno nahrazen za vchod do [N\u00ED](mi_ona). Nalevo od otvoru je posledn\u00ED schodi\u0161t\u011B o kter\u00E9m bude v tomto textu \u0159e\u010D vedouc\u00ED do \u0161est\u00E9 a posledn\u00ED \u010D\u00E1sti Katakomb.\r\nTou je velk\u00FD otev\u0159en\u00FD prostor s vysok\u00FDmi stropy, mno\u017Estv\u00EDm oken a r\u016Fzn\u00FDch pl\u016Ftk\u016F. Za jedn\u00EDm z t\u011Bchto pl\u016Ftk\u016F je nap\u0159\u00EDklad ji\u017E v\u00EDcekr\u00E1t zmi\u0148ovan\u00E1 d\u00EDra na jej\u00EDm\u017E dn\u011B je [The Detour](mi_the_detour). Nap\u0159\u00ED\u010D velk\u00E9 plo\u0161e vedou z t\u00E9to \u010D\u00E1st\u00ED jedin\u00E9 dve\u0159e a to do [St\u00EDnu](mi_stin). Krom nich se sem d\u00E1 dostat schody z v\u00FD\u0161e zm\u00EDn\u011Bn\u00E9ho mezipatra s mnoha barely \u010Di dv\u011Bma r\u016Fzn\u00FDmi vchody z to\u010Dit\u00E9ho schodi\u0161t\u011B \u010Di chodbi\u010Dkou s uheln\u00FDm blokem."
       },
       {
         "Title": "Zaj\u00EDmavost",
@@ -44758,7 +44749,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "19/07/25: Schody do [Sila](mi_silo) nov\u011B vedou do [Podkrov\u00ED](mi_podkrovi)."
+        "Content": "19/07/25: Schody do [Sila](mi_silo) nov\u011B vedou do [Podkrov\u00ED](mi_podkrovi).\r\n06/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [On](mi_on).\r\n06/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Ona](mi_ona)."
       }
     ],
     "image_id": 0,
@@ -44842,5 +44833,644 @@
       "Cra",
       "Bed"
     ]
-  }
+  },
+  "mi_bezdomovec": {
+    "Title": "Bezdomovec",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_the_bridge",
+      "mi_koreny",
+      "mi_meda"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Bezdomovec",
+      "Blok": "[Mezipatro](bl_mezipatro)",
+      "Okrsek": "[Dub](ok_dub)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 53,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 305,
+      "y": 77,
+      "z": 1166
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": [
+      "Cra"
+    ]
+  },
+  "mi_karoserie": {
+    "Title": "Karos\u00E9rie",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_chladic",
+      "mi_kapota",
+      "mi_lom",
+      "mi_meda"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Karos\u00E9rie",
+      "Blok": "[Podvozek](bl_podvozek)",
+      "Okrsek": "[M\u00E9\u010Fa](ok_meda)",
+      "\u010Ctvr\u0165": "[Lom](ct_lom)",
+      "\u010C\u00E1st": "[Sibi\u0159](ca_sibir)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 28,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 272,
+      "y": 74,
+      "z": 1166
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": [
+      "Cra"
+    ]
+  },
+  "mi_kapota": {
+    "Title": "Kapota",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_karoserie"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Kapota",
+      "Blok": "[Podvozek](bl_podvozek)",
+      "Okrsek": "[M\u00E9\u010Fa](ok_meda)",
+      "\u010Ctvr\u0165": "[Lom](ct_lom)",
+      "\u010C\u00E1st": "[Sibi\u0159](ca_sibir)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 50,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 278,
+      "y": 77,
+      "z": 1167
+    },
+    "patternleCompatible": false,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": []
+  },
+  "mi_chladic": {
+    "Title": "Chladi\u010D",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_karoserie"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Chladi\u010D",
+      "Blok": "[Podvozek](bl_podvozek)",
+      "Okrsek": "[M\u00E9\u010Fa](ok_meda)",
+      "\u010Ctvr\u0165": "[Lom](ct_lom)",
+      "\u010C\u00E1st": "[Sibi\u0159](ca_sibir)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 14,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 268,
+      "y": 70,
+      "z": 1167
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": []
+  },
+  "mi_piskovna": {
+    "Title": "P\u00EDskovna",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_listy",
+      "mi_hraz",
+      "mi_sralkovsky_rybnik",
+      "mi_smycka",
+      "mi_svihak",
+      "mi_garaz",
+      "mi_privoz"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "P\u00EDskovna",
+      "Blok": "[P\u00EDskovna](bl_piskovna)",
+      "Okrsek": "[P\u00EDskovna](ok_piskovna)",
+      "\u010Ctvr\u0165": "[Du\u017Eina](ct_duzina)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 127,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": [
+      "Wat",
+      "Cra"
+    ]
+  },
+  "ct_duzina": {
+    "Title": "Du\u017Eina",
+    "Type": "\u010Dtvr\u0165",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [
+      "Mrkev"
+    ],
+    "Metadata": {
+      "N\u00E1zev": "Du\u017Eina",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": ""
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": ""
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": ""
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": ""
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "06/09/25: P\u0159ejmenov\u00E1no z Mrkev na Du\u017Eina."
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": []
+  },
+  "mi_privoz": {
+    "Title": "P\u0159\u00EDvoz",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_le_pont",
+      "mi_piskovna"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "P\u0159\u00EDvoz",
+      "Blok": "[P\u00EDskovna](bl_piskovna)",
+      "Okrsek": "[P\u00EDskovna](ok_piskovna)",
+      "\u010Ctvr\u0165": "[Du\u017Eina](ct_duzina)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 26,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 330,
+      "y": 76,
+      "z": 1098
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": [
+      "Bed"
+    ]
+  },
+  "mi_on": {
+    "Title": "On",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_podkrovi",
+      "mi_balonky",
+      "mi_ustredni_stredisko_beta",
+      "mi_katakomby",
+      "mi_ona"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "On",
+      "Blok": "[Milenci](bl_milenci)",
+      "Okrsek": "[D\u00E1lni\u010Dn\u00ED Kolonie](ok_dalnicni_kolonie)",
+      "\u010Ctvr\u0165": "[D\u00E1lni\u010Dn\u00ED Kolonie](ct_dalnicni_kolonie)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 111,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 305,
+      "y": 97,
+      "z": 1108
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": [
+      "Cra"
+    ]
+  },
+  "mi_ona": {
+    "Title": "Ona",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_on",
+      "mi_katakomby"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Ona",
+      "Blok": "[Milenci](bl_milenci)",
+      "Okrsek": "[D\u00E1lni\u010Dn\u00ED Kolonie](ok_dalnicni_kolonie)",
+      "\u010Ctvr\u0165": "[D\u00E1lni\u010Dn\u00ED Kolonie](ct_dalnicni_kolonie)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 108,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": [
+      "Cra"
+    ]
+  },
+  "bl_podvozek": {
+            "Title": "Podvozek",
+            "Type": "blok",
+            "Images": [],
+            "Image_titles": [],
+            "Bordering_rooms": [],
+            "Alternate_names": [],
+            "Metadata": {
+                "Název": "Podvozek",
+                "Okrsek": "[Méďa](ok_meda)",
+                "Čtvrť": "[Lom](ct_lom)",
+                "Část": "[Sibiř](ca_sibir)"
+            },
+            "Sections": [
+                {
+                    "Title": "Přehled",
+                    "Content": ""
+                },
+                {
+                    "Title": "Název",
+                    "Content": ""
+                },
+                {
+                    "Title": "Interiér",
+                    "Content": ""
+                },
+                {
+                    "Title": "Zajímavosti",
+                    "Content": ""
+                },
+                {
+                    "Title": "Aktuality",
+                    "Content": ""
+                }
+            ],
+            "image_id": 0,
+            "area": 0,
+            "Empty": true,
+            "numberOfRooms": 0,
+            "redirect": null,
+            "tobeedited": false
+            },
+"bl_piskovna": {
+            "Title": "Pískovna",
+            "Type": "blok",
+            "Images": [],
+            "Image_titles": [],
+            "Bordering_rooms": [],
+            "Alternate_names": [],
+            "Metadata": {
+                "Název": "Pískovna",
+                "Okrsek": "[Pískovna](ok_piskovna)",
+                "Čtvrť": "[Dužina](ct_duzina)",
+                "Část": "[Nové Dilí](ca_nove_dili)"
+            },
+            "Sections": [
+                {
+                    "Title": "Přehled",
+                    "Content": ""
+                },
+                {
+                    "Title": "Název",
+                    "Content": ""
+                },
+                {
+                    "Title": "Interiér",
+                    "Content": ""
+                },
+                {
+                    "Title": "Zajímavosti",
+                    "Content": ""
+                },
+                {
+                    "Title": "Aktuality",
+                    "Content": ""
+                }
+            ],
+            "image_id": 0,
+            "area": 0,
+            "Empty": true,
+            "numberOfRooms": 0,
+            "redirect": null,
+            "tobeedited": false
+            },
+"bl_milenci": {
+            "Title": "Milenci",
+            "Type": "blok",
+            "Images": [],
+            "Image_titles": [],
+            "Bordering_rooms": [],
+            "Alternate_names": [],
+            "Metadata": {
+                "Název": "Milenci",
+                "Okrsek": "[Dálniční Kolonie](ok_dalnicni_kolonie)",
+                "Čtvrť": "[Dálniční Kolonie](ct_dalnicni_kolonie)",
+                "Část": "[Pařez](ca_parez)"
+            },
+            "Sections": [
+                {
+                    "Title": "Přehled",
+                    "Content": ""
+                },
+                {
+                    "Title": "Název",
+                    "Content": ""
+                },
+                {
+                    "Title": "Interiér",
+                    "Content": ""
+                },
+                {
+                    "Title": "Zajímavosti",
+                    "Content": ""
+                },
+                {
+                    "Title": "Aktuality",
+                    "Content": ""
+                }
+            ],
+            "image_id": 0,
+            "area": 0,
+            "Empty": true,
+            "numberOfRooms": 0,
+            "redirect": null,
+            "tobeedited": false
+            },
+"ok_piskovna": {
+            "Title": "Pískovna",
+            "Type": "okrsek",
+            "Images": [],
+            "Image_titles": [],
+            "Bordering_rooms": [],
+            "Alternate_names": [],
+            "Metadata": {
+                "Název": "Pískovna",
+                "Čtvrť": "[Dužina](ct_duzina)",
+                "Část": "[Nové Dilí](ca_nove_dili)"
+            },
+            "Sections": [
+                {
+                    "Title": "Přehled",
+                    "Content": ""
+                },
+                {
+                    "Title": "Název",
+                    "Content": ""
+                },
+                {
+                    "Title": "Interiér",
+                    "Content": ""
+                },
+                {
+                    "Title": "Zajímavosti",
+                    "Content": ""
+                },
+                {
+                    "Title": "Aktuality",
+                    "Content": ""
+                }
+            ],
+            "image_id": 0,
+            "area": 0,
+            "Empty": true,
+            "numberOfRooms": 0,
+            "redirect": null,
+            "tobeedited": false
+            }
 }
