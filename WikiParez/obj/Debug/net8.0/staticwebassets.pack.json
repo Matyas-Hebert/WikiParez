@@ -1117,6 +1117,22 @@
       "PackagePath": "staticwebassets/Images/mi_pramice2.png"
     },
     {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_preatrium1.png",
+      "PackagePath": "staticwebassets/Images/mi_preatrium1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_preatrium2.png",
+      "PackagePath": "staticwebassets/Images/mi_preatrium2.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_preatrium3.png",
+      "PackagePath": "staticwebassets/Images/mi_preatrium3.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_preatrium4.png",
+      "PackagePath": "staticwebassets/Images/mi_preatrium4.png"
+    },
+    {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_prechod1.png",
       "PackagePath": "staticwebassets/Images/mi_prechod1.png"
     },

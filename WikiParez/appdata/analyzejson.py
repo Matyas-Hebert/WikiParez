@@ -161,7 +161,7 @@ def subdivcheck():
             ],
             "image_id": 0,
             "area": 0,
-            "Empty": false,
+            "Empty": true,
             "numberOfRooms": 0,
             "redirect": null,
             "tobeedited": false
@@ -212,7 +212,7 @@ def subdivcheck():
             ],
             "image_id": 0,
             "area": 0,
-            "Empty": false,
+            "Empty": true,
             "numberOfRooms": 0,
             "redirect": null,
             "tobeedited": false
@@ -262,7 +262,7 @@ def subdivcheck():
             ],
             "image_id": 0,
             "area": 0,
-            "Empty": false,
+            "Empty": true,
             "numberOfRooms": 0,
             "redirect": null,
             "tobeedited": false
