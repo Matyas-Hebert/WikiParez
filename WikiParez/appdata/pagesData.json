@@ -3847,67 +3847,6 @@
       "Bar"
     ]
   },
-  "mi_laborator": {
-    "Title": "Laborato\u0159",
-    "Type": "m\u00EDstnost",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [
-      "mi_kahan",
-      "mi_nejvetsi_tma",
-      "mi_svaty_vyt",
-      "mi_the_bridge",
-      "mi_v_vez_1_podlazi",
-      "mi_koreny"
-    ],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "Laborato\u0159",
-      "Blok": "[Kahan](bl_kahan)",
-      "Okrsek": "[Veve\u0159\u00ED](ok_veveri)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
-      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
-      "\u00DA\u010Del": "Sklad potion ingredienc\u00ED, P\u0159\u00EDprava lektvar\u016F"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": "Jak vznikl n\u00E1zev?"
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": "N\u011Bco o interi\u00E9ru."
-      },
-      {
-        "Title": "Zaj\u00EDmavost",
-        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
-      }
-    ],
-    "image_id": 0,
-    "area": 59,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "patternleCompatible": true,
-    "redirect": "",
-    "tobeedited": false,
-    "reviews": [],
-    "utilities": [
-      "Cra",
-      "Bed",
-      "Bar",
-      "Chi",
-      "Bre"
-    ]
-  },
   "mi_vyloha": {
     "Title": "V\u00FDloha",
     "Type": "m\u00EDstnost",
@@ -10168,66 +10107,6 @@
       "Bed",
       "Bar",
       "Co3"
-    ]
-  },
-  "mi_svaty_vyt": {
-    "Title": "Svat\u00FD V\u00FDt",
-    "Type": "m\u00EDstnost",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [
-      "mi_honda",
-      "mi_laborator",
-      "mi_kapsule",
-      "mi_v_vez_1_podlazi",
-      "mi_pulmesic"
-    ],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "Svat\u00FD V\u00FDt",
-      "Blok": "[Hrad](bl_hrad)",
-      "Okrsek": "[Veve\u0159\u00ED](ok_veveri)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
-      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": "Jak vznikl n\u00E1zev?"
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": "N\u011Bco o interi\u00E9ru."
-      },
-      {
-        "Title": "Zaj\u00EDmavost",
-        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
-      },
-      {
-        "Title": "Aktuality",
-        "Content": "12/07/25: Nov\u00FD vchod do [P\u016Flm\u011Bs\u00EDce](mi_pulmesic)."
-      }
-    ],
-    "image_id": 0,
-    "area": 46,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "patternleCompatible": true,
-    "redirect": null,
-    "tobeedited": false,
-    "reviews": [],
-    "utilities": [
-      "Cra",
-      "Bed"
     ]
   },
   "mi_kapsule": {
@@ -46052,45 +45931,179 @@
     ]
   },
   "bl_kravi_hora": {
-            "Title": "Kraví Hora",
-            "Type": "blok",
-            "Images": [],
-            "Image_titles": [],
-            "Bordering_rooms": [],
-            "Alternate_names": [],
-            "Metadata": {
-                "Název": "Kraví Hora",
-                "Okrsek": "[Dub](ok_dub)",
-                "Čtvrť": "[Kořen](ct_koren)",
-                "Část": "[Pařez](ca_parez)"
-            },
-            "Sections": [
-                {
-                    "Title": "Přehled",
-                    "Content": ""
-                },
-                {
-                    "Title": "Název",
-                    "Content": ""
-                },
-                {
-                    "Title": "Interiér",
-                    "Content": ""
-                },
-                {
-                    "Title": "Zajímavosti",
-                    "Content": ""
-                },
-                {
-                    "Title": "Aktuality",
-                    "Content": ""
-                }
-            ],
-            "image_id": 0,
-            "area": 0,
-            "Empty": true,
-            "numberOfRooms": 0,
-            "redirect": null,
-            "tobeedited": false
-            }
+    "Title": "Krav\u00ED Hora",
+    "Type": "blok",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Krav\u00ED Hora",
+      "Okrsek": "[Dub](ok_dub)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": ""
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": ""
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": ""
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": ""
+      },
+      {
+        "Title": "Aktuality",
+        "Content": ""
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": []
+  },
+  "mi_laborator": {
+    "Title": "Laborato\u0159",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "LABORATO\u0158"
+    ],
+    "Bordering_rooms": [
+      "mi_kahan",
+      "mi_nejvetsi_tma",
+      "mi_svaty_vyt",
+      "mi_the_bridge",
+      "mi_v_vez_1_podlazi",
+      "mi_koreny"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Laborato\u0159",
+      "Blok": "[Kahan](bl_kahan)",
+      "Okrsek": "[Veve\u0159\u00ED](ok_veveri)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
+      "\u00DA\u010Del": "Sklad potion ingredienc\u00ED, P\u0159\u00EDprava lektvar\u016F"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Laborato\u0159 je \u010Dtvercov\u00E1 m\u00EDstnost v bloku [Kahan](bl_kahan), nach\u00E1zej\u00EDc\u00ED se mezi [Nejv\u011Bt\u0161\u00ED Tmou](mi_nejvetsi_tma) a samotn\u00FDm [Kahanem](mi_kahan). Krom\u011B t\u011Bchto dvou je propojena je\u0161t\u011B se \u010Dty\u0159mi dal\u0161\u00EDmi m\u00EDstnostmi: [Svat\u00FDm V\u00FDtem](mi_svaty_vyt), [The Bridge](mi_the_bridge), [1. podla\u017E\u00EDm V-V\u011B\u017Ee](mi_v_vez_1_podlazi) a [Ko\u0159eny](mi_koreny).  \r\nVedle sousednost\u00ED stoj\u00ED za zm\u00EDnku i \u00FA\u010Del Laborato\u0159e. Slou\u017E\u00ED jako skladi\u0161t\u011B lektvar\u016F, ingredienc\u00ED a n\u00E1\u010Din\u00ED pot\u0159ebn\u00E9ho k jejich p\u0159\u00EDprav\u011B. V\u0161e, v\u010Detn\u011B zdroje vody, je soust\u0159ed\u011Bno v severov\u00FDchodn\u00EDm rohu m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "N\u00E1zev m\u00EDstnosti je siln\u011B v\u00E1z\u00E1n k jej\u00EDmu \u00FA\u010Delu."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Podobn\u011B jako [Nejv\u011Bt\u0161\u00ED Tma](mi_nejvetsi_tma) je i Laborato\u0159 \u010Dtvercov\u00E1 m\u00EDstnost, kter\u00E1 p\u016Fsob\u00ED navzdory sv\u00E9mu \u00FA\u010Delu pom\u011Brn\u011B pr\u00E1zdn\u011B. Na jihu, hned p\u0159ed dve\u0159mi do [Svat\u00E9ho V\u00FDta](mi_svaty_vyt), se nach\u00E1z\u00ED schody dol\u016F do [Nejv\u011Bt\u0161\u00ED Tmy](mi_nejvetsi_tma). Napravo od nich stoj\u00ED \u017Eeb\u0159\u00EDk vedouc\u00ED do [stromov\u00E9 v\u011B\u017Ee](mi_kahan).  \r\nU severn\u00ED st\u011Bny se nach\u00E1z\u00ED v\u0161echny \u00FA\u010Delov\u00E9 bloky Laborato\u0159e, postel, crafting table, barel na lektvary a ingredience, pr\u00E1zdn\u00E9 knihovny a dva brewing standy. St\u011Bnu d\u00E1le dopl\u0148uj\u00ED dvojit\u00E9 dve\u0159e na [Bridge](mi_the_bridge) a branka do [V-V\u011B\u017Ee](bl_v_vez). Kv\u016Fli sv\u00E9 d\u016Fle\u017Eitosti je severn\u00ED st\u011Bna jedin\u00E1 bez oken.  \r\nNa ostatn\u00EDch st\u011Bn\u00E1ch je rozm\u00EDst\u011Bno \u0161est obd\u00E9ln\u00EDkov\u00FDch a jedno \u010Dtvercov\u00E9 okno. Jsou navr\u017Eeny tak, aby co nejl\u00E9pe vypl\u0148ovaly a z\u00E1rove\u0148 \u010D\u00E1ste\u010Dn\u011B osv\u011Btlovaly prostor. K jejich sv\u011Btlu p\u0159isp\u00EDv\u00E1 n\u011Bkolik lou\u010D\u00ED um\u00EDst\u011Bn\u00FDch vysoko u stropu."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "V barelu je krom\u011B ingredienc\u00ED a lektvar\u016F uskladn\u011Bno i n\u011Bkolik sklen\u011Bn\u00FDch blok\u016F na v\u00FDrobu lahvi\u010Dek."
+      }
+    ],
+    "image_id": 0,
+    "area": 59,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 328,
+      "y": 77,
+      "z": 1161
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": [
+      "Cra",
+      "Bed",
+      "Bar",
+      "Chi",
+      "Bre"
+    ]
+  },
+  "mi_svaty_vyt": {
+    "Title": "Svat\u00FD V\u00FDt",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "CHODBA K V\u00DDTAHU",
+      "SVAT\u00DD V\u00DDT"
+    ],
+    "Bordering_rooms": [
+      "mi_honda",
+      "mi_laborator",
+      "mi_kapsule",
+      "mi_v_vez_1_podlazi",
+      "mi_pulmesic"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Svat\u00FD V\u00FDt",
+      "Blok": "[Hrad](bl_hrad)",
+      "Okrsek": "[Veve\u0159\u00ED](ok_veveri)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Svat\u00FD V\u00FDt je m\u00EDstnost v [Hradu](mi_hrad) ve tvaru p\u00EDsmene \u201EU\u201C, jeho\u017E podoba je d\u00E1na p\u0159\u00EDtomnost\u00ED v\u00FDtahu spojuj\u00EDc\u00EDho [Hondu](mi_honda) s [Kapsul\u00ED](mi_kapsule). V\u00FDtah je v\u0161ak jednosm\u011Brn\u00FD a pro cestu dol\u016F do Hondy je nutn\u00E9 pou\u017E\u00EDt \u201Ev\u00FDtah\u201C um\u00EDst\u011Bn\u00FD pr\u00E1v\u011B ve Svat\u00E9m V\u00FDtu. Vedle v\u00FDtahu se nach\u00E1z\u00ED tak\u00E9 schody vedouc\u00ED vzh\u016Fru do [Kapsule](mi_kapsule).  \r\nZe Svat\u00E9ho V\u00FDta vedou krom\u011B toho je\u0161t\u011B troje dve\u0159e a to do [1. podla\u017E\u00ED V-V\u011B\u017Ee](mi_v_vez_1_podlazi), do [P\u016Flm\u011Bs\u00EDce](mi_pulmesic) a do [Laborato\u0159e](mi_laborator)."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "N\u00E1zev \u201ESvat\u00FD V\u00FDt\u201C je \u00FAzce spjat s n\u00E1zvem [bloku](bl_hrad), ve kter\u00E9m se m\u00EDstnost nach\u00E1z\u00ED. Nen\u00ED v\u0161ak jasn\u00E9, zda vznikl d\u0159\u00EDve n\u00E1zev bloku, nebo samotn\u00E9 m\u00EDstnosti. Je tak\u00E9 mo\u017En\u00E9, \u017Ee ozna\u010Den\u00ED neodkazuje na slavnou katedr\u00E1lu, ale vzd\u00E1v\u00E1 hold architektu [V\u00EDtu Baudy\u0161ovi](os_vit_baudys)."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Svat\u00FD V\u00FDt m\u00E1 velmi atypick\u00FD vzhled. Cel\u00E1 m\u00EDstnost je vystav\u011Bna kolem v\u00FD\u0161e zm\u00EDn\u011Bn\u00E9ho v\u00FDtahu, kter\u00FD zabral mnohem v\u00EDce prostoru, ne\u017E se p\u016Fvodn\u011B p\u0159edpokl\u00E1dalo. M\u00EDsta bylo tak m\u00E1lo, \u017Ee se jako hlavn\u00ED materi\u00E1l pro vn\u011Bj\u0161\u00ED st\u011Bny musely pou\u017E\u00EDt trapdoory, kter\u00E9 v\u00FDrazn\u011B zv\u00FD\u0161ily cenu stavby. P\u0159esto zde najdeme \u00FAseky \u0161irok\u00E9 m\u00E9n\u011B ne\u017E dva bloky.  \r\nMo\u017En\u00E1 i proto p\u0159ekvap\u00ED, \u017Ee se v m\u00EDstnosti poda\u0159ilo naj\u00EDt prostor pro postel, um\u00EDst\u011Bnou v nej\u0161ir\u0161\u00ED \u010D\u00E1sti spolu s crafting tablem. Vznikly ale dal\u0161\u00ED pot\u00ED\u017Ee, trapdoor se jako stavebn\u00ED materi\u00E1l p\u0159\u00EDli\u0161 nesn\u00E1\u0161\u00ED se sklem, a proto jsou zde jen t\u0159i okna, dv\u011B \u00FAzk\u00E1 a jedno o n\u011Bco \u0161ir\u0161\u00ED.  \r\nNedostatek prostoru a volba materi\u00E1lu se projevily i jinde. Nebylo kam p\u0159ipevnit lou\u010De, a tak jsou rozm\u00EDst\u011Bny po podlaze."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Svat\u00FD V\u00FDt je jedinou m\u00EDstnosti s gramatickou chybou v n\u00E1zvu."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "12/07/25: Nov\u00FD vchod do [P\u016Flm\u011Bs\u00EDce](mi_pulmesic)."
+      }
+    ],
+    "image_id": 0,
+    "area": 46,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 330,
+      "y": 77,
+      "z": 1171
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": [
+      "Cra",
+      "Bed"
+    ]
+  }
 }

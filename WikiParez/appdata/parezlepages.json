@@ -730,21 +730,6 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez"
   },
-  "mi_laborator": {
-    "Title": "Laboratoř",
-    "Bordering_rooms": [
-      "mi_kahan",
-      "mi_nejvetsi_tma",
-      "mi_svaty_vyt",
-      "mi_the_bridge",
-      "mi_v_vez_1_podlazi",
-      "mi_koreny"
-    ],
-    "Blok": "Kahan",
-    "Okrsek": "Veveří",
-    "Ctvrt": "Kořen",
-    "Cast": "Pařez"
-  },
   "mi_vyloha": {
     "Title": "Výloha",
     "Bordering_rooms": [
@@ -2183,20 +2168,6 @@
     ],
     "Blok": "W Věž",
     "Okrsek": "Dub",
-    "Ctvrt": "Kořen",
-    "Cast": "Pařez"
-  },
-  "mi_svaty_vyt": {
-    "Title": "Svatý Výt",
-    "Bordering_rooms": [
-      "mi_honda",
-      "mi_laborator",
-      "mi_kapsule",
-      "mi_v_vez_1_podlazi",
-      "mi_pulmesic"
-    ],
-    "Blok": "Hrad",
-    "Okrsek": "Veveří",
     "Ctvrt": "Kořen",
     "Cast": "Pařez"
   },
@@ -7286,5 +7257,34 @@
     "Okrsek": "Pískovna",
     "Ctvrt": "Dužina",
     "Cast": "Nové Dilí"
+  },
+  "mi_laborator": {
+    "Title": "Laboratoř",
+    "Bordering_rooms": [
+      "mi_kahan",
+      "mi_nejvetsi_tma",
+      "mi_svaty_vyt",
+      "mi_the_bridge",
+      "mi_v_vez_1_podlazi",
+      "mi_koreny"
+    ],
+    "Blok": "Kahan",
+    "Okrsek": "Veveří",
+    "Ctvrt": "Kořen",
+    "Cast": "Pařez"
+  },
+  "mi_svaty_vyt": {
+    "Title": "Svatý Výt",
+    "Bordering_rooms": [
+      "mi_honda",
+      "mi_laborator",
+      "mi_kapsule",
+      "mi_v_vez_1_podlazi",
+      "mi_pulmesic"
+    ],
+    "Blok": "Hrad",
+    "Okrsek": "Veveří",
+    "Ctvrt": "Kořen",
+    "Cast": "Pařez"
   }
 }
