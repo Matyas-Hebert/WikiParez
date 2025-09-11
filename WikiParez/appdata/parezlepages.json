@@ -1,5 +1,5 @@
 {
-  "version": "1.5.1",
+  "version": "1.5.2",
   "mi_rudakuv_dum": {
     "Title": "Ruďákův dům",
     "Bordering_rooms": [
@@ -4132,7 +4132,7 @@
       "mi_mrkev",
       "mi_veranda"
     ],
-    "Blok": "Tunel",
+    "Blok": "Mrkev",
     "Okrsek": "Podhoubí",
     "Ctvrt": "Dužina",
     "Cast": "Nové Dilí"
@@ -4345,9 +4345,9 @@
       "mi_pod_vrbou",
       "mi_trh"
     ],
-    "Blok": "Nad Vodou",
-    "Okrsek": "Gideon",
-    "Ctvrt": "Gideon",
+    "Blok": "Jazyky",
+    "Okrsek": "Smyčka",
+    "Ctvrt": "Dužina",
     "Cast": "Nové Dilí"
   },
   "mi_audit": {
@@ -4374,8 +4374,8 @@
       "mi_smycka",
       "mi_piskovna"
     ],
-    "Blok": "Smyčka",
-    "Okrsek": "Mrkev",
+    "Blok": "Jazyky",
+    "Okrsek": "Smyčka",
     "Ctvrt": "Dužina",
     "Cast": "Nové Dilí"
   },
@@ -4396,7 +4396,7 @@
       "mi_piskovna"
     ],
     "Blok": "Smyčka",
-    "Okrsek": "Mrkev",
+    "Okrsek": "Smyčka",
     "Ctvrt": "Dužina",
     "Cast": "Nové Dilí"
   },
@@ -5746,8 +5746,8 @@
       "mi_jizni_blok",
       "mi_fabrika"
     ],
-    "Blok": "Smyčka",
-    "Okrsek": "Mrkev",
+    "Blok": "Žíla",
+    "Okrsek": "Smyčka",
     "Ctvrt": "Dužina",
     "Cast": "Nové Dilí"
   },
@@ -6592,8 +6592,8 @@
       "mi_druzstvo"
     ],
     "Blok": "Pražce",
-    "Okrsek": "Pražce",
-    "Ctvrt": "Pražce",
+    "Okrsek": "Pískovna",
+    "Ctvrt": "Dužina",
     "Cast": "Nové Dilí"
   },
   "mi_mrkev": {
@@ -6609,7 +6609,7 @@
       "mi_smycka"
     ],
     "Blok": "Mrkev",
-    "Okrsek": "Mrkev",
+    "Okrsek": "Podhoubí",
     "Ctvrt": "Dužina",
     "Cast": "Nové Dilí"
   },
@@ -7231,8 +7231,8 @@
       "mi_tuk",
       "mi_trh"
     ],
-    "Blok": "Smyčka",
-    "Okrsek": "Mrkev",
+    "Blok": "Žíla",
+    "Okrsek": "Smyčka",
     "Ctvrt": "Dužina",
     "Cast": "Nové Dilí"
   },
@@ -7243,8 +7243,8 @@
       "mi_le_pont",
       "mi_fabrika"
     ],
-    "Blok": "Smyčka",
-    "Okrsek": "Mrkev",
+    "Blok": "Žíla",
+    "Okrsek": "Smyčka",
     "Ctvrt": "Dužina",
     "Cast": "Nové Dilí"
   },

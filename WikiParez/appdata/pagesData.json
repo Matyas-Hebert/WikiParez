@@ -19600,7 +19600,7 @@
     "Alternate_names": [],
     "Metadata": {
       "N\u00E1zev": "Mrkev Tunel",
-      "Blok": "[Tunel](bl_tunel)",
+      "Blok": "[Mrkev](bl_mrkev)",
       "Okrsek": "[Podhoub\u00ED](ok_podhoubi)",
       "\u010Ctvr\u0165": "[Du\u017Eina](ct_duzina)",
       "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
@@ -19621,6 +19621,10 @@
       {
         "Title": "Zaj\u00EDmavost",
         "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "11/09/25: P\u0159esunuto z bloku [Tunel](bl_tunel) do bloku [Mrkev](bl_mrkev)."
       }
     ],
     "image_id": 0,
@@ -20484,9 +20488,9 @@
     "Alternate_names": [],
     "Metadata": {
       "N\u00E1zev": "Karotka",
-      "Blok": "[Nad Vodou](bl_nad_vodou)",
-      "Okrsek": "[Gideon](ok_gideon)",
-      "\u010Ctvr\u0165": "[Gideon](ct_gideon)",
+      "Blok": "[Jazyky](bl_jazyky)",
+      "Okrsek": "[Smy\u010Dka](ok_smycka)",
+      "\u010Ctvr\u0165": "[Du\u017Eina](ct_duzina)",
       "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)",
       "\u00DA\u010Del": "terminus [Mraven\u010D\u00ED Dr\u00E1hy](te_mravenci_draha), Odpadn\u00ED roura ORP"
     },
@@ -20509,7 +20513,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "07/07/25: Vstup vodou do [Stavidla](mi_stavidlo).\r\n07/07/25: Vstup schody [Pod Vrbu](mi_pod_vrbou).\r\n27/07/25: Skrz m\u00EDstnost vede [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha).\r\n28/07/25: Karotka nov\u011B soused\u00ED s [Trhem](mi_trh)."
+        "Content": "07/07/25: Vstup vodou do [Stavidla](mi_stavidlo).\r\n07/07/25: Vstup schody [Pod Vrbu](mi_pod_vrbou).\r\n27/07/25: Skrz m\u00EDstnost vede [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha).\r\n28/07/25: Karotka nov\u011B soused\u00ED s [Trhem](mi_trh).\r\n11/09/25: P\u0159esunuto z bloku [Nad Vodou](bl_nad_vodou) do bloku [Jazyky](bl_jazyky)."
       }
     ],
     "image_id": 0,
@@ -20606,8 +20610,8 @@
     "Alternate_names": [],
     "Metadata": {
       "N\u00E1zev": "Gat\u011B",
-      "Blok": "[Smy\u010Dka](bl_smycka)",
-      "Okrsek": "[Mrkev](ok_mrkev)",
+      "Blok": "[Jazyky](bl_jazyky)",
+      "Okrsek": "[Smy\u010Dka](ok_smycka)",
       "\u010Ctvr\u0165": "[Du\u017Eina](ct_duzina)",
       "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)",
       "\u00DA\u010Del": "Odpadn\u00ED roura ORP"
@@ -20631,7 +20635,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "27/07/25: M\u00EDstnost napojena na syst\u00E9m odpadn\u00EDch rour [ORP](sp_orp).\r\n06/09/25: M\u00EDstnost nov\u011B soused\u00ED s [P\u00EDskovnou](mi_piskovna)."
+        "Content": "27/07/25: M\u00EDstnost napojena na syst\u00E9m odpadn\u00EDch rour [ORP](sp_orp).\r\n06/09/25: M\u00EDstnost nov\u011B soused\u00ED s [P\u00EDskovnou](mi_piskovna).\r\n11/09/25: P\u0159esunuto z bloku [Smy\u010Dka](bl_smycka) do bloku [Jazyky](bl_jazyky)."
       }
     ],
     "image_id": 0,
@@ -20675,7 +20679,7 @@
     "Metadata": {
       "N\u00E1zev": "Smy\u010Dka",
       "Blok": "[Smy\u010Dka](bl_smycka)",
-      "Okrsek": "[Mrkev](ok_mrkev)",
+      "Okrsek": "[Smy\u010Dka](ok_smycka)",
       "\u010Ctvr\u0165": "[Du\u017Eina](ct_duzina)",
       "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
     },
@@ -26234,7 +26238,7 @@
     "Alternate_names": [],
     "Metadata": {
       "N\u00E1zev": "Mrkev",
-      "Okrsek": "[Mrkev](ok_mrkev)",
+      "Okrsek": "[Podhoubí](ok_podhoubi)",
       "\u010Ctvr\u0165": "[Du\u017Eina](ct_duzina)",
       "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
     },
@@ -26257,57 +26261,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": ""
-      }
-    ],
-    "image_id": 0,
-    "area": 0,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "patternleCompatible": true,
-    "redirect": null,
-    "tobeedited": false,
-    "reviews": [],
-    "utilities": []
-  },
-  "bl_tunel": {
-    "Title": "Tunel",
-    "Type": "blok",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "Tunel",
-      "Okrsek": "[Podhoub\u00ED](ok_podhoubi)",
-      "\u010Ctvr\u0165": "[Du\u017Eina](ct_duzina)",
-      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": ""
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": ""
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": ""
-      },
-      {
-        "Title": "Zaj\u00EDmavosti",
-        "Content": ""
-      },
-      {
-        "Title": "Aktuality",
-        "Content": ""
+        "Content": "11/09/25: Blok přesunut z okrsku [Mrkev](ok_mrkev) do okrsku [Podhoubí](ok_podhoubi)"
       }
     ],
     "image_id": 0,
@@ -26584,7 +26538,7 @@
     "Alternate_names": [],
     "Metadata": {
       "N\u00E1zev": "Smy\u010Dka",
-      "Okrsek": "[Mrkev](ok_mrkev)",
+      "Okrsek": "[Smy\u010Dka](ok_smycka)",
       "\u010Ctvr\u0165": "[Du\u017Eina](ct_duzina)",
       "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
     },
@@ -26607,7 +26561,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": ""
+        "Content": "11/09/25: P\u0159est\u011Bhov\u00E1no z [Mrkev](ok_mrkev) na Smy\u010Dka."
       }
     ],
     "image_id": 0,
@@ -27517,55 +27471,6 @@
     "Metadata": {
       "N\u00E1zev": "Nord",
       "\u010Ctvr\u0165": "[Goias](ct_goias)",
-      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": ""
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": ""
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": ""
-      },
-      {
-        "Title": "Zaj\u00EDmavosti",
-        "Content": ""
-      },
-      {
-        "Title": "Aktuality",
-        "Content": ""
-      }
-    ],
-    "image_id": 0,
-    "area": 0,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "patternleCompatible": true,
-    "redirect": null,
-    "tobeedited": false,
-    "reviews": [],
-    "utilities": []
-  },
-  "ok_mrkev": {
-    "Title": "Mrkev",
-    "Type": "okrsek",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "Mrkev",
-      "\u010Ctvr\u0165": "[Du\u017Eina](ct_duzina)",
       "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
     },
     "Sections": [
@@ -36083,8 +35988,8 @@
     ],
     "Metadata": {
       "N\u00E1zev": "Trh",
-      "Blok": "[Smy\u010Dka](bl_smycka)",
-      "Okrsek": "[Mrkev](ok_mrkev)",
+      "Blok": "[\u017D\u00EDla](bl_zila)",
+      "Okrsek": "[Smy\u010Dka](ok_smycka)",
       "\u010Ctvr\u0165": "[Du\u017Eina](ct_duzina)",
       "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
     },
@@ -36107,7 +36012,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "07/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Fabrika](mi_fabrika)."
+        "Content": "07/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Fabrika](mi_fabrika).\r\n11/09/25: P\u0159esunuto z bloku [Smy\u010Dka](bl_smycka) do bloku [\u017D\u00EDla](bl_zila)."
       }
     ],
     "image_id": 0,
@@ -41674,8 +41579,8 @@
     "Metadata": {
       "N\u00E1zev": "Pra\u017Ece",
       "Blok": "[Pra\u017Ece](bl_prazce)",
-      "Okrsek": "[Pra\u017Ece](ok_prazce)",
-      "\u010Ctvr\u0165": "[Pra\u017Ece](ct_prazce)",
+      "Okrsek": "[P\u00EDskovna](ok_piskovna)",
+      "\u010Ctvr\u0165": "[Du\u017Eina](ct_duzina)",
       "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)",
       "\u00DA\u010Del": "Ledov\u00E1 d\u00E1lnice"
     },
@@ -41695,6 +41600,10 @@
       {
         "Title": "Zaj\u00EDmavost",
         "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "11/09/25: P\u0159esunuto z okrsku [Pra\u017Ece](ok_prazce) do okrsku [P\u00EDskovna](ok_piskovna)."
       }
     ],
     "image_id": 0,
@@ -41924,8 +41833,8 @@
     "Alternate_names": [],
     "Metadata": {
       "N\u00E1zev": "Pra\u017Ece",
-      "Okrsek": "[Pra\u017Ece](ok_prazce)",
-      "\u010Ctvr\u0165": "[Pra\u017Ece](ct_prazce)",
+      "Okrsek": "[P\u00EDskovna](ok_piskovna)",
+      "\u010Ctvr\u0165": "[Du\u017Eina](ct_duzina)",
       "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
     },
     "Sections": [
@@ -41947,56 +41856,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": ""
-      }
-    ],
-    "image_id": 0,
-    "area": 0,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "patternleCompatible": true,
-    "redirect": null,
-    "tobeedited": false,
-    "reviews": [],
-    "utilities": []
-  },
-  "ok_prazce": {
-    "Title": "Pra\u017Ece",
-    "Type": "okrsek",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "Pra\u017Ece",
-      "\u010Ctvr\u0165": "[Pra\u017Ece](ct_prazce)",
-      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": ""
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": ""
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": ""
-      },
-      {
-        "Title": "Zaj\u00EDmavosti",
-        "Content": ""
-      },
-      {
-        "Title": "Aktuality",
-        "Content": ""
+        "Content": "11/09/25: P\u0159esunuto z okrsku [Pra\u017Ece](ok_prazce) do okrsku [P\u00EDskovna](ok_piskovna)."
       }
     ],
     "image_id": 0,
@@ -42062,54 +41922,6 @@
     "reviews": [],
     "utilities": []
   },
-  "ct_prazce": {
-    "Title": "Pra\u017Ece",
-    "Type": "\u010Dtvr\u0165",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "Pra\u017Ece",
-      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": ""
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": ""
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": ""
-      },
-      {
-        "Title": "Zaj\u00EDmavosti",
-        "Content": ""
-      },
-      {
-        "Title": "Aktuality",
-        "Content": ""
-      }
-    ],
-    "image_id": 0,
-    "area": 0,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "patternleCompatible": true,
-    "redirect": null,
-    "tobeedited": false,
-    "reviews": [],
-    "utilities": []
-  },
   "mi_mrkev": {
     "Title": "Mrkev",
     "Type": "m\u00EDstnost",
@@ -42132,7 +41944,7 @@
     "Metadata": {
       "N\u00E1zev": "Mrkev",
       "Blok": "[Mrkev](bl_mrkev)",
-      "Okrsek": "[Mrkev](ok_mrkev)",
+      "Okrsek": "[Podhoubí](ok_podhoubi)",
       "\u010Ctvr\u0165": "[Du\u017Eina](ct_duzina)",
       "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)",
       "\u00DA\u010Del": "Strom",
@@ -45784,8 +45596,8 @@
     "Alternate_names": [],
     "Metadata": {
       "N\u00E1zev": "Fabrika",
-      "Blok": "[Smy\u010Dka](bl_smycka)",
-      "Okrsek": "[Mrkev](ok_mrkev)",
+      "Blok": "[\u017D\u00EDla](bl_zila)",
+      "Okrsek": "[Smy\u010Dka](ok_smycka)",
       "\u010Ctvr\u0165": "[Du\u017Eina](ct_duzina)",
       "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
     },
@@ -45805,6 +45617,10 @@
       {
         "Title": "Zaj\u00EDmavost",
         "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "11/09/25: P\u0159esunuto z bloku [Smy\u010Dka](bl_smycka) do bloku [\u017D\u00EDla](bl_zila)."
       }
     ],
     "image_id": 0,
@@ -45837,8 +45653,8 @@
     "Alternate_names": [],
     "Metadata": {
       "N\u00E1zev": "Lod\u011Bnice",
-      "Blok": "[Smy\u010Dka](bl_smycka)",
-      "Okrsek": "[Mrkev](ok_mrkev)",
+      "Blok": "[\u017D\u00EDla](bl_zila)",
+      "Okrsek": "[Smy\u010Dka](ok_smycka)",
       "\u010Ctvr\u0165": "[Du\u017Eina](ct_duzina)",
       "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
     },
@@ -45858,6 +45674,10 @@
       {
         "Title": "Zaj\u00EDmavost",
         "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "11/09/25: P\u0159esunuto z bloku [Smy\u010Dka](bl_smycka) do bloku [\u017D\u00EDla](bl_zila)."
       }
     ],
     "image_id": 0,
@@ -46105,5 +45925,326 @@
       "Cra",
       "Bed"
     ]
-  }
+  },
+  "ok_prazce": {
+    "Title": "Pra\u017Ece",
+    "Type": "p\u016Fvodn\u00ED okrsek",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Pra\u017Ece",
+      "\u010Ctvr\u0165": "[Pra\u017Ece](ct_prazce)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Pra\u017Ece jsou okrskem, kter\u00FD existoval mezi dny 17.8.2025 a 11.9.2025. Okrsek byl tvo\u0159en jedin\u00FDm blokem [Pra\u017Ece](bl_prazce) a jedinou [m\u00EDstnost\u00ED](mi_prazce)."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "N\u00E1zev je shodn\u00FD s n\u00E1zvem jedin\u00E9 m\u00EDstnosti a bloku v okrsku."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "V\u00EDz: m\u00EDstnost [Pra\u017Ece](mi_prazce)."
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": "Jako okrsek v [Nov\u00E9m Dil\u00ED](ca_nove_dili), Pra\u017Ece nesoused\u011Bli s \u017E\u00E1dnou jinou Novodilskou m\u00EDstnost\u00ED."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "11/09/25: Okrsek zru\u0161en."
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": []
+  },
+  "ct_prazce": {
+    "Title": "Pra\u017Ece",
+    "Type": "p\u016Fvodn\u00ED \u010Dtvr\u0165",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Pra\u017Ece",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Pra\u017Ece jsou \u010Dtvrt\u00ED, kter\u00E1 existovala mezi dny 17.8.2025 a 11.9.2025. \u010Ctvr\u0165 byla tvo\u0159ena jedin\u00FDm [okrskem](ok_prazce), [blokem](bl_prazce) a jedinou [m\u00EDstnost\u00ED](mi_prazce)."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "N\u00E1zev je shodn\u00FD s n\u00E1zvem jedin\u00E9 m\u00EDstnosti, bloku a okrsku v \u010Dtvrti."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "V\u00EDz: m\u00EDstnost [Pra\u017Ece](mi_prazce)."
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": "Jako \u010Dtvr\u0165 v [Nov\u00E9m Dil\u00ED](ca_nove_dili), Pra\u017Ece nesoused\u011Bli s \u017E\u00E1dnou jinou Novodilskou m\u00EDstnost\u00ED."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "11/09/25: \u010Ctvr\u0165 zru\u0161ena."
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": []
+  },
+  "bl_tunel": {
+    "Title": "Tunel",
+    "Type": "p\u016Fvodn\u00ED blok",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Tunel",
+      "Okrsek": "[Podhoub\u00ED](ok_podhoubi)",
+      "\u010Ctvr\u0165": "[Du\u017Eina](ct_duzina)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Tunel je b\u00FDval\u00FD blok, jeho\u017E sou\u010D\u00E1st\u00ED byla jedin\u00E1 m\u00EDstnost a to [Mrkev Tunel](mi_mrkev_tunel). Pot\u00E9 byl blok Tunel spojen s blokem Mrkev."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "N\u00E1zev byl odvozen od jedin\u00E9 [m\u00EDstnosti](mi_mrkev_tunel) v bloku."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Viz: [Mrkev Tunel](mi_mrkev_tunel)."
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": ""
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "11/09/25: Blok zru\u0161en."
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": []
+  },
+  "ok_mrkev": {
+    "Title": "Mrkev",
+    "Type": "p\u016Fvodn\u00ED okrsek",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Mrkev",
+      "\u010Ctvr\u0165": "[Du\u017Eina](ct_duzina)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Mrkev je b\u00FDval\u00FDm okrskem tvo\u0159en\u00FD bloky [Cimrman](bl_cimrman), [Mrkev](bl_mrkev) a [Smy\u010Dka](bl_smycka)."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Okrsek Mrkev byl pojmenov\u00E1n po jeho nejd\u016Fle\u017Eit\u011Bj\u0161\u00ED a nejv\u011Bt\u0161\u00ED m\u00EDstnosti [Mrkve](mi_mrkev)."
+      },
+      {
+        "Title": "P\u0159\u00EDtomnost",
+        "Content": "Bloky [Cimrman](bl_cimrman) a [Mrkev](bl_mrkev) jsou aktu\u00E1ln\u011B sou\u010D\u00E1st\u00ED okrsku [Podhoub\u00ED](ok_podhoubi) zat\u00EDmco blok [Smy\u010Dka](bl_smycka) byl p\u0159esunut do okrsku [Smy\u010Dka](ok_smycka)."
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": ""
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "11/09/25: Okrsek zru\u0161en."
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": []
+  },
+  "bl_jazyky": {
+            "Title": "Jazyky",
+            "Type": "blok",
+            "Images": [],
+            "Image_titles": [],
+            "Bordering_rooms": [],
+            "Alternate_names": [],
+            "Metadata": {
+                "Název": "Jazyky",
+                "Okrsek": "[Smyčka](ok_smycka)",
+                "Čtvrť": "[Dužina](ct_duzina)",
+                "Část": "[Nové Dilí](ca_nove_dili)"
+            },
+            "Sections": [
+                {
+                    "Title": "Přehled",
+                    "Content": ""
+                },
+                {
+                    "Title": "Název",
+                    "Content": ""
+                },
+                {
+                    "Title": "Interiér",
+                    "Content": ""
+                },
+                {
+                    "Title": "Zajímavosti",
+                    "Content": ""
+                },
+                {
+                    "Title": "Aktuality",
+                    "Content": ""
+                }
+            ],
+            "image_id": 0,
+            "area": 0,
+            "Empty": true,
+            "numberOfRooms": 0,
+            "redirect": null,
+            "tobeedited": false
+            },
+"bl_zila": {
+            "Title": "Žíla",
+            "Type": "blok",
+            "Images": [],
+            "Image_titles": [],
+            "Bordering_rooms": [],
+            "Alternate_names": [],
+            "Metadata": {
+                "Název": "Žíla",
+                "Okrsek": "[Smyčka](ok_smycka)",
+                "Čtvrť": "[Dužina](ct_duzina)",
+                "Část": "[Nové Dilí](ca_nove_dili)"
+            },
+            "Sections": [
+                {
+                    "Title": "Přehled",
+                    "Content": ""
+                },
+                {
+                    "Title": "Název",
+                    "Content": ""
+                },
+                {
+                    "Title": "Interiér",
+                    "Content": ""
+                },
+                {
+                    "Title": "Zajímavosti",
+                    "Content": ""
+                },
+                {
+                    "Title": "Aktuality",
+                    "Content": ""
+                }
+            ],
+            "image_id": 0,
+            "area": 0,
+            "Empty": true,
+            "numberOfRooms": 0,
+            "redirect": null,
+            "tobeedited": false
+            },
+"ok_smycka": {
+            "Title": "Smyčka",
+            "Type": "okrsek",
+            "Images": [],
+            "Image_titles": [],
+            "Bordering_rooms": [],
+            "Alternate_names": [],
+            "Metadata": {
+                "Název": "Smyčka",
+                "Čtvrť": "[Dužina](ct_duzina)",
+                "Část": "[Nové Dilí](ca_nove_dili)"
+            },
+            "Sections": [
+                {
+                    "Title": "Přehled",
+                    "Content": ""
+                },
+                {
+                    "Title": "Název",
+                    "Content": ""
+                },
+                {
+                    "Title": "Interiér",
+                    "Content": ""
+                },
+                {
+                    "Title": "Zajímavosti",
+                    "Content": ""
+                },
+                {
+                    "Title": "Aktuality",
+                    "Content": ""
+                }
+            ],
+            "image_id": 0,
+            "area": 0,
+            "Empty": true,
+            "numberOfRooms": 0,
+            "redirect": null,
+            "tobeedited": false
+            }
 }
