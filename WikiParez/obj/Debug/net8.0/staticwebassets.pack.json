@@ -73,6 +73,14 @@
       "PackagePath": "staticwebassets/Images/Icons/Car.png"
     },
     {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Cat.png",
+      "PackagePath": "staticwebassets/Images/Icons/Cat.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Cat.png:Zone.Identifier",
+      "PackagePath": "staticwebassets/Images/Icons/Cat.png:Zone.Identifier"
+    },
+    {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Cau.png",
       "PackagePath": "staticwebassets/Images/Icons/Cau.png"
     },
@@ -283,10 +291,6 @@
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Sto.png",
       "PackagePath": "staticwebassets/Images/Icons/Sto.png"
-    },
-    {
-      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Sto.png:Zone.Identifier",
-      "PackagePath": "staticwebassets/Images/Icons/Sto.png:Zone.Identifier"
     },
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/Icons/Su1.png",
@@ -573,6 +577,18 @@
       "PackagePath": "staticwebassets/Images/mi_farmus_bambus3.png"
     },
     {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_ga1.png",
+      "PackagePath": "staticwebassets/Images/mi_ga1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_ga2.png",
+      "PackagePath": "staticwebassets/Images/mi_ga2.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_ga3.png",
+      "PackagePath": "staticwebassets/Images/mi_ga3.png"
+    },
+    {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_galerie1.png",
       "PackagePath": "staticwebassets/Images/mi_galerie1.png"
     },
@@ -663,18 +679,6 @@
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_holic4.png",
       "PackagePath": "staticwebassets/Images/mi_holic4.png"
-    },
-    {
-      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_hotel_gi_floor_ga1.png",
-      "PackagePath": "staticwebassets/Images/mi_hotel_gi_floor_ga1.png"
-    },
-    {
-      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_hotel_gi_floor_ga2.png",
-      "PackagePath": "staticwebassets/Images/mi_hotel_gi_floor_ga2.png"
-    },
-    {
-      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_hotel_gi_floor_ga3.png",
-      "PackagePath": "staticwebassets/Images/mi_hotel_gi_floor_ga3.png"
     },
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_hvezda1.png",
@@ -1401,6 +1405,14 @@
       "PackagePath": "staticwebassets/Images/mi_strecha3.png"
     },
     {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_sucho1.png",
+      "PackagePath": "staticwebassets/Images/mi_sucho1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_sucho2.png",
+      "PackagePath": "staticwebassets/Images/mi_sucho2.png"
+    },
+    {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/mi_svaty_vyt1.png",
       "PackagePath": "staticwebassets/Images/mi_svaty_vyt1.png"
     },
@@ -1765,12 +1777,20 @@
       "PackagePath": "staticwebassets/Images/os_marcela_hebertova1.png"
     },
     {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/os_mourek1.png",
+      "PackagePath": "staticwebassets/Images/os_mourek1.png"
+    },
+    {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/os_petr_z_parezu1.png",
       "PackagePath": "staticwebassets/Images/os_petr_z_parezu1.png"
     },
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/os_vit_baudys1.png",
       "PackagePath": "staticwebassets/Images/os_vit_baudys1.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/os_vit_baudys2.png",
+      "PackagePath": "staticwebassets/Images/os_vit_baudys2.png"
     },
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/sp_armory_parez1.png",
@@ -1819,6 +1839,10 @@
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/te_miss_parez2.png",
       "PackagePath": "staticwebassets/Images/te_miss_parez2.png"
+    },
+    {
+      "Id": "/root/wikiparez/WikiParez/wwwroot/Images/te_miss_parez3 - Copy.png:Zone.Identifier",
+      "PackagePath": "staticwebassets/Images/te_miss_parez3 - Copy.png:Zone.Identifier"
     },
     {
       "Id": "/root/wikiparez/WikiParez/wwwroot/Images/te_miss_parez3.png",

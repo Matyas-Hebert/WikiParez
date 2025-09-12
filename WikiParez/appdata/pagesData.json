@@ -12072,14 +12072,14 @@
     "Images": [],
     "Image_titles": [],
     "Bordering_rooms": [
-      "mi_hotel_gi_floor_ga",
+      "mi_ga",
       "mi_baby_chef_office"
     ],
     "Alternate_names": [],
     "Metadata": {
       "N\u00E1zev": "Amfora",
-      "Blok": "[Byty Ga](bl_byty_ga)",
-      "Okrsek": "[Ga](ok_ga)",
+      "Blok": "[Ga](bl_ga)",
+      "Okrsek": "[Hotel Gi](ok_hotel_gi)",
       "\u010Ctvr\u0165": "[Gi](ct_gi)",
       "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
     },
@@ -12132,8 +12132,8 @@
     "Alternate_names": [],
     "Metadata": {
       "N\u00E1zev": "Baby Chef Office",
-      "Blok": "[Byty Ga](bl_byty_ga)",
-      "Okrsek": "[Ga](ok_ga)",
+      "Blok": "[Ga](bl_ga)",
+      "Okrsek": "[Hotel Gi](ok_hotel_gi)",
       "\u010Ctvr\u0165": "[Gi](ct_gi)",
       "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
     },
@@ -12178,14 +12178,14 @@
     "Images": [],
     "Image_titles": [],
     "Bordering_rooms": [
-      "mi_hotel_gi_floor_ga",
+      "mi_ga",
       "mi_baby_chef_office"
     ],
     "Alternate_names": [],
     "Metadata": {
       "N\u00E1zev": "Emfora",
-      "Blok": "[Byty Ga](bl_byty_ga)",
-      "Okrsek": "[Ga](ok_ga)",
+      "Blok": "[Ga](bl_ga)",
+      "Okrsek": "[Hotel Gi](ok_hotel_gi)",
       "\u010Ctvr\u0165": "[Gi](ct_gi)",
       "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
     },
@@ -12232,7 +12232,7 @@
     "Images": [],
     "Image_titles": [],
     "Bordering_rooms": [
-      "mi_hotel_gi_floor_ge",
+      "mi_ge",
       "mi_sadlo",
       "mi_kanc",
       "mi_tuk"
@@ -12240,8 +12240,8 @@
     "Alternate_names": [],
     "Metadata": {
       "N\u00E1zev": "Tu\u010D\u00EDk",
-      "Blok": "[Byty Ge](bl_byty_ge)",
-      "Okrsek": "[Ge](ok_ga)",
+      "Blok": "[Ge](bl_ge)",
+      "Okrsek": "[Hotel Gi](ok_hotel_gi)",
       "\u010Ctvr\u0165": "[Gi](ct_gi)",
       "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
     },
@@ -12293,8 +12293,8 @@
     ],
     "Metadata": {
       "N\u00E1zev": "Kanc",
-      "Blok": "[Byty Ge](bl_byty_ge)",
-      "Okrsek": "[Ge](ok_ga)",
+      "Blok": "[Ge](bl_ge)",
+      "Okrsek": "[Hotel Gi](ok_hotel_gi)",
       "\u010Ctvr\u0165": "[Gi](ct_gi)",
       "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
     },
@@ -12346,8 +12346,8 @@
     "Alternate_names": [],
     "Metadata": {
       "N\u00E1zev": "S\u00E1dlo",
-      "Blok": "[Byty Ge](bl_byty_ge)",
-      "Okrsek": "[Ge](ok_ga)",
+      "Blok": "[Ge](bl_ge)",
+      "Okrsek": "[Hotel Gi](ok_hotel_gi)",
       "\u010Ctvr\u0165": "[Gi](ct_gi)",
       "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
     },
@@ -12398,8 +12398,8 @@
     "Alternate_names": [],
     "Metadata": {
       "N\u00E1zev": "Tuk",
-      "Blok": "[Byty Ge](bl_byty_ge)",
-      "Okrsek": "[Ge](ok_ga)",
+      "Blok": "[Ge](bl_ge)",
+      "Okrsek": "[Hotel Gi](ok_hotel_gi)",
       "\u010Ctvr\u0165": "[Gi](ct_gi)",
       "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
     },
@@ -12448,14 +12448,14 @@
     "Images": [],
     "Image_titles": [],
     "Bordering_rooms": [
-      "mi_hotel_gi_floor_gi",
+      "mi_gi",
       "mi_levo"
     ],
     "Alternate_names": [],
     "Metadata": {
       "N\u00E1zev": "Police",
-      "Blok": "[Byty Gi](bl_byty_gi)",
-      "Okrsek": "[Gi](ok_gi)",
+      "Blok": "[Gi](bl_gi)",
+      "Okrsek": "[Hotel Gi](ok_hotel_gi)",
       "\u010Ctvr\u0165": "[Gi](ct_gi)",
       "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
     },
@@ -12501,13 +12501,13 @@
     "Image_titles": [],
     "Bordering_rooms": [
       "mi_police",
-      "mi_hotel_gi_floor_gi"
+      "mi_gi"
     ],
     "Alternate_names": [],
     "Metadata": {
       "N\u00E1zev": "Levo",
-      "Blok": "[Byty Gi](bl_byty_gi)",
-      "Okrsek": "[Gi](ok_gi)",
+      "Blok": "[Gi](bl_gi)",
+      "Okrsek": "[Hotel Gi](ok_hotel_gi)",
       "\u010Ctvr\u0165": "[Gi](ct_gi)",
       "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
     },
@@ -12554,14 +12554,14 @@
     "Images": [],
     "Image_titles": [],
     "Bordering_rooms": [
-      "mi_hotel_gi_floor_gi",
+      "mi_gi",
       "mi_lejno"
     ],
     "Alternate_names": [],
     "Metadata": {
       "N\u00E1zev": "Pravo",
-      "Blok": "[Byty Gi](bl_byty_gi)",
-      "Okrsek": "[Gi](ok_gi)",
+      "Blok": "[Gi](bl_gi)",
+      "Okrsek": "[Hotel Gi](ok_hotel_gi)",
       "\u010Ctvr\u0165": "[Gi](ct_gi)",
       "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
     },
@@ -12613,8 +12613,8 @@
     "Alternate_names": [],
     "Metadata": {
       "N\u00E1zev": "Lejno",
-      "Blok": "[Byty Gi](bl_byty_gi)",
-      "Okrsek": "[Gi](ok_gi)",
+      "Blok": "[Gi](bl_gi)",
+      "Okrsek": "[Hotel Gi](ok_hotel_gi)",
       "\u010Ctvr\u0165": "[Gi](ct_gi)",
       "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)",
       "\u00DA\u010Del": "Odpadn\u00ED roura ORP"
@@ -12668,7 +12668,7 @@
       "\u010CERV\u00CD D\u00CDRA"
     ],
     "Bordering_rooms": [
-      "mi_hotel_gi_floor_ga",
+      "mi_ga",
       "mi_dira_do_pekel"
     ],
     "Alternate_names": [],
@@ -12682,7 +12682,7 @@
     "Sections": [
       {
         "Title": "P\u0159ehled",
-        "Content": "\u010Cerv\u00ED D\u00EDra je \u00FAzk\u00E1 chodba spojuj\u00EDc\u00ED [patro Ga hotelu Gi](mi_hotel_gi_floor_ga) s [J\u00E1mou Pekelnou](mi_jama_pekelna). Chodba je \u010D\u00E1ste\u010Dn\u011B zahraban\u00E1 p\u00EDskem a jej\u00ED podlaha je p\u016Fl bloku pod hladinou mo\u0159e. Nad chodbou je velk\u00FD pr\u00E1zdn\u00FD prostor, kter\u00FD je p\u0159eru\u0161en a\u017E [D\u00E1lnic\u00ED](mi_dalnice) a je t\u00E9m\u011B\u0159 ze v\u0161ech stran uzav\u0159en."
+        "Content": "\u010Cerv\u00ED D\u00EDra je \u00FAzk\u00E1 chodba spojuj\u00EDc\u00ED [Ga](mi_ga) s [J\u00E1mou Pekelnou](mi_jama_pekelna). Chodba je \u010D\u00E1ste\u010Dn\u011B zahraban\u00E1 p\u00EDskem a jej\u00ED podlaha je p\u016Fl bloku pod hladinou mo\u0159e. Nad chodbou je velk\u00FD pr\u00E1zdn\u00FD prostor, kter\u00FD je p\u0159eru\u0161en a\u017E [D\u00E1lnic\u00ED](mi_dalnice) a je t\u00E9m\u011B\u0159 ze v\u0161ech stran uzav\u0159en."
       },
       {
         "Title": "N\u00E1zev",
@@ -12707,7 +12707,7 @@
       "z": 0
     },
     "patternleCompatible": true,
-    "redirect": "",
+    "redirect": null,
     "tobeedited": false,
     "reviews": [],
     "utilities": [
@@ -12783,118 +12783,6 @@
       "Bed"
     ]
   },
-  "mi_hotel_gi_floor_ge": {
-    "Title": "Hotel Gi Floor Ge",
-    "Type": "m\u00EDstnost",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [
-      "mi_hotel_gi_floor_ga",
-      "mi_hotel_gi_floor_gi",
-      "mi_tucik"
-    ],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "Hotel Gi Floor Ge",
-      "Blok": "[Aula Ge](bl_aula_ge)",
-      "Okrsek": "[Ge](ok_ga)",
-      "\u010Ctvr\u0165": "[Gi](ct_gi)",
-      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": "Jak vznikl n\u00E1zev?"
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": "N\u011Bco o interi\u00E9ru."
-      },
-      {
-        "Title": "Zaj\u00EDmavost",
-        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
-      }
-    ],
-    "image_id": 0,
-    "area": 83,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "patternleCompatible": true,
-    "redirect": "",
-    "tobeedited": false,
-    "reviews": [],
-    "utilities": [
-      "Cra",
-      "Bed"
-    ]
-  },
-  "mi_hotel_gi_floor_gi": {
-    "Title": "Hotel Gi Floor Gi",
-    "Type": "m\u00EDstnost",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [
-      "mi_pravo",
-      "mi_levo",
-      "mi_veranda",
-      "mi_hotel_gi_floor_ge",
-      "mi_balonky",
-      "mi_le_pont",
-      "mi_police"
-    ],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "Hotel Gi Floor Gi",
-      "Blok": "[Aula Gi](bl_aula_gi)",
-      "Okrsek": "[Gi](ok_gi)",
-      "\u010Ctvr\u0165": "[Gi](ct_gi)",
-      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": "Jak vznikl n\u00E1zev?"
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": "N\u011Bco o interi\u00E9ru."
-      },
-      {
-        "Title": "Zaj\u00EDmavost",
-        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
-      }
-    ],
-    "image_id": 0,
-    "area": 100,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "patternleCompatible": true,
-    "redirect": "",
-    "tobeedited": false,
-    "reviews": [],
-    "utilities": [
-      "Cra",
-      "Bed"
-    ]
-  },
   "mi_balonky": {
     "Title": "Bal\u00F3nky",
     "Type": "m\u00EDstnost",
@@ -12902,7 +12790,7 @@
     "Image_titles": [],
     "Bordering_rooms": [
       "mi_predel",
-      "mi_hotel_gi_floor_gi",
+      "mi_gi",
       "mi_padaci_most",
       "mi_dalnicni_pilir",
       "mi_kurnik",
@@ -13027,7 +12915,7 @@
     "Bordering_rooms": [
       "mi_ctverec",
       "mi_predel",
-      "mi_hotel_gi_floor_gi",
+      "mi_gi",
       "mi_pramice",
       "mi_veranda",
       "mi_audit",
@@ -14496,74 +14384,6 @@
     ],
     "image_id": 0,
     "area": 5,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "patternleCompatible": true,
-    "redirect": null,
-    "tobeedited": false,
-    "reviews": [],
-    "utilities": [
-      "Cra"
-    ]
-  },
-  "mi_preatrium": {
-    "Title": "Preatrium",
-    "Type": "m\u00EDstnost",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [
-      "mi_kahan",
-      "mi_v_vez_3_podlazi",
-      "mi_kho",
-      "mi_hnilicko",
-      "mi_labyrint",
-      "mi_quare",
-      "mi_atrium",
-      "mi_hala",
-      "mi_loosova_vila",
-      "mi_vstup",
-      "mi_atom",
-      "mi_arcanum",
-      "mi_past",
-      "mi_plomba"
-    ],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "Preatrium",
-      "Blok": "[Preatrium](bl_preatrium)",
-      "Okrsek": "[Preatrium](ok_preatrium)",
-      "\u010Ctvr\u0165": "[Vietnamsk\u00E1 \u010Ctvr\u0165](ct_vietnamska_ctvrt)",
-      "\u010C\u00E1st": "[Tr\u00F3ja](ca_troja)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": "Jak vznikl n\u00E1zev?"
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": "N\u011Bco o interi\u00E9ru."
-      },
-      {
-        "Title": "Zaj\u00EDmavost",
-        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
-      },
-      {
-        "Title": "Aktuality",
-        "Content": "31/08/25: M\u00EDstnost zv\u011Bt\u0161ena o 14 blok\u016F \u010Dtvere\u010Dn\u00EDch.\r\n31/08/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Past](mi_past).\n31/08/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Plomba](mi_plomba)."
-      }
-    ],
-    "image_id": 0,
-    "area": 190,
     "Empty": true,
     "numberOfRooms": 0,
     "coordinates": {
@@ -20411,7 +20231,7 @@
       "mi_nadvori",
       "mi_na_nabrezi",
       "mi_gideon",
-      "mi_hotel_gi_floor_gi",
+      "mi_gi",
       "mi_pramice",
       "mi_le_pont",
       "mi_dvojcata",
@@ -20602,7 +20422,7 @@
     "Image_titles": [],
     "Bordering_rooms": [
       "mi_mrkev",
-      "mi_hotel_gi_floor_ga",
+      "mi_ga",
       "mi_gideon",
       "mi_smycka",
       "mi_piskovna"
@@ -20623,7 +20443,7 @@
       },
       {
         "Title": "N\u00E1zev",
-        "Content": "\u0022Ga\u0022 zna\u010D\u00ED, \u017Ee m\u00EDstnost vede z [Hotelu Gi Floor Ga](mi_hotel_gi_floor_ga) a \u0022Te\u0022 zna\u010D\u00ED tvar m\u00EDstnosti."
+        "Content": "\u0022Ga\u0022 zna\u010D\u00ED, \u017Ee m\u00EDstnost vede z [Ga](mi_ga) a \u0022Te\u0022 zna\u010D\u00ED tvar m\u00EDstnosti."
       },
       {
         "Title": "Interi\u00E9r",
@@ -20670,7 +20490,7 @@
       "mi_vychodni_blok",
       "mi_jizni_blok",
       "mi_hraz",
-      "mi_hotel_gi_floor_ga",
+      "mi_ga",
       "mi_gideon",
       "mi_atlas",
       "mi_piskovna"
@@ -23529,206 +23349,6 @@
     "reviews": [],
     "utilities": []
   },
-  "bl_byty_ga": {
-    "Title": "Byty Ga",
-    "Type": "blok",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "Byty Ga",
-      "Okrsek": "[Ga](ok_ga)",
-      "\u010Ctvr\u0165": "[Gi](ct_gi)",
-      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": ""
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": ""
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": ""
-      },
-      {
-        "Title": "Zaj\u00EDmavosti",
-        "Content": ""
-      },
-      {
-        "Title": "Aktuality",
-        "Content": ""
-      }
-    ],
-    "image_id": 0,
-    "area": 0,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "patternleCompatible": true,
-    "redirect": null,
-    "tobeedited": false,
-    "reviews": [],
-    "utilities": []
-  },
-  "bl_byty_ge": {
-    "Title": "Byty Ge",
-    "Type": "blok",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "Byty Ge",
-      "Okrsek": "[Ge](ok_ga)",
-      "\u010Ctvr\u0165": "[Gi](ct_gi)",
-      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": ""
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": ""
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": ""
-      },
-      {
-        "Title": "Zaj\u00EDmavosti",
-        "Content": ""
-      },
-      {
-        "Title": "Aktuality",
-        "Content": ""
-      }
-    ],
-    "image_id": 0,
-    "area": 0,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "patternleCompatible": true,
-    "redirect": null,
-    "tobeedited": false,
-    "reviews": [],
-    "utilities": []
-  },
-  "bl_byty_gi": {
-    "Title": "Byty Gi",
-    "Type": "blok",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "Byty Gi",
-      "Okrsek": "[Gi](ok_gi)",
-      "\u010Ctvr\u0165": "[Gi](ct_gi)",
-      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": ""
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": ""
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": ""
-      },
-      {
-        "Title": "Zaj\u00EDmavosti",
-        "Content": ""
-      },
-      {
-        "Title": "Aktuality",
-        "Content": ""
-      }
-    ],
-    "image_id": 0,
-    "area": 0,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "patternleCompatible": true,
-    "redirect": null,
-    "tobeedited": false,
-    "reviews": [],
-    "utilities": []
-  },
-  "bl_aula_ga": {
-    "Title": "Aula Ga",
-    "Type": "blok",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "Aula Ga",
-      "Okrsek": "[Ga](ok_ga)",
-      "\u010Ctvr\u0165": "[Gi](ct_gi)",
-      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": ""
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": ""
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": ""
-      },
-      {
-        "Title": "Zaj\u00EDmavosti",
-        "Content": ""
-      },
-      {
-        "Title": "Aktuality",
-        "Content": ""
-      }
-    ],
-    "image_id": 0,
-    "area": 0,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "patternleCompatible": true,
-    "redirect": null,
-    "tobeedited": false,
-    "reviews": [],
-    "utilities": []
-  },
   "bl_veranda": {
     "Title": "Veranda",
     "Type": "blok",
@@ -23741,106 +23361,6 @@
       "Okrsek": "[Dub](ok_dub)",
       "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
       "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": ""
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": ""
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": ""
-      },
-      {
-        "Title": "Zaj\u00EDmavosti",
-        "Content": ""
-      },
-      {
-        "Title": "Aktuality",
-        "Content": ""
-      }
-    ],
-    "image_id": 0,
-    "area": 0,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "patternleCompatible": true,
-    "redirect": null,
-    "tobeedited": false,
-    "reviews": [],
-    "utilities": []
-  },
-  "bl_aula_ge": {
-    "Title": "Aula Ge",
-    "Type": "blok",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "Aula Ge",
-      "Okrsek": "[Ge](ok_ga)",
-      "\u010Ctvr\u0165": "[Gi](ct_gi)",
-      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": ""
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": ""
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": ""
-      },
-      {
-        "Title": "Zaj\u00EDmavosti",
-        "Content": ""
-      },
-      {
-        "Title": "Aktuality",
-        "Content": ""
-      }
-    ],
-    "image_id": 0,
-    "area": 0,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "patternleCompatible": true,
-    "redirect": null,
-    "tobeedited": false,
-    "reviews": [],
-    "utilities": []
-  },
-  "bl_aula_gi": {
-    "Title": "Aula Gi",
-    "Type": "blok",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "Aula Gi",
-      "Okrsek": "[Gi](ok_gi)",
-      "\u010Ctvr\u0165": "[Gi](ct_gi)",
-      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
     },
     "Sections": [
       {
@@ -27471,104 +26991,6 @@
     "Metadata": {
       "N\u00E1zev": "Nord",
       "\u010Ctvr\u0165": "[Goias](ct_goias)",
-      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": ""
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": ""
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": ""
-      },
-      {
-        "Title": "Zaj\u00EDmavosti",
-        "Content": ""
-      },
-      {
-        "Title": "Aktuality",
-        "Content": ""
-      }
-    ],
-    "image_id": 0,
-    "area": 0,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "patternleCompatible": true,
-    "redirect": null,
-    "tobeedited": false,
-    "reviews": [],
-    "utilities": []
-  },
-  "ok_ga": {
-    "Title": "Ga",
-    "Type": "okrsek",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "Ga",
-      "\u010Ctvr\u0165": "[Gi](ct_gi)",
-      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": ""
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": ""
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": ""
-      },
-      {
-        "Title": "Zaj\u00EDmavosti",
-        "Content": ""
-      },
-      {
-        "Title": "Aktuality",
-        "Content": ""
-      }
-    ],
-    "image_id": 0,
-    "area": 0,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "patternleCompatible": true,
-    "redirect": null,
-    "tobeedited": false,
-    "reviews": [],
-    "utilities": []
-  },
-  "ok_gi": {
-    "Title": "Gi",
-    "Type": "okrsek",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "Gi",
-      "\u010Ctvr\u0165": "[Gi](ct_gi)",
       "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
     },
     "Sections": [
@@ -31873,7 +31295,7 @@
       "mi_silo",
       "mi_dira_do_pekel",
       "mi_veranda",
-      "mi_hotel_gi_floor_ga",
+      "mi_ga",
       "mi_vytahovy_mustek",
       "mi_dalnice",
       "mi_the_bridge",
@@ -37494,73 +36916,6 @@
       "Non"
     ]
   },
-  "mi_hotel_gi_floor_ga": {
-    "Title": "Hotel Gi Floor Ga",
-    "Type": "m\u00EDstnost",
-    "Images": [],
-    "Image_titles": [
-      "P\u0158\u00CDJEZD PRO LOD\u011A DO M\u00CDSTNOST",
-      "HLAVN\u00CD \u010C\u00C1ST",
-      "CHODBI\u010CKA"
-    ],
-    "Bordering_rooms": [
-      "mi_cervi_dira",
-      "mi_emfora",
-      "mi_amfora",
-      "mi_hotel_gi_floor_ge",
-      "mi_gate",
-      "mi_smycka",
-      "mi_dvojcata",
-      "mi_fabrika"
-    ],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "Hotel Gi Floor Ga",
-      "Blok": "[Aula Ga](bl_aula_ga)",
-      "Okrsek": "[Ga](ok_ga)",
-      "\u010Ctvr\u0165": "[Gi](ct_gi)",
-      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": "Hotel Gi Floor Ga se nach\u00E1z\u00ED v prn\u00EDm podla\u017E\u00ED \u010Dtvrti [Gi](ct_gi) a jedn\u00E1 se o jednu ze t\u0159\u00ED aul Hotelu Gi. Do m\u00EDstnost\u00ED se d\u00E1 dostat lod\u00ED ze [Smy\u010Dky](mi_smycka), schody z [z podla\u017E\u00ED Ge](mi_hotel_gi_floor_ge) a z [Gat\u00ED](mi_gate) a dve\u0159mi z [Dvoj\u010Dat](mi_dvojcata), [Emfory](mi_emfora), [Amfory](mi_amfora) a [\u010Cerv\u00ED D\u00EDry](mi_cervi_dira). V pl\u00E1nu byl i v\u00FDtah ze [Z\u00E1vodn\u00EDho Okruhu](mi_zavodni_okruh), ale jeho v\u00FDstavba nebyla uskute\u010Dn\u011Bna."
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": "\u0022A\u0022 je prvn\u00ED samohl\u00E1ska (odtud Ga). M\u00EDstnost je prvn\u00EDm podla\u017E\u00EDm Hotelu Gi."
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": "Hotel Gi Floor Ga se skl\u00E1d\u00E1 z hlavn\u00EDho prostoru, dvou schodi\u0161\u0165 a chodbi\u010Dky. Chodbi\u010Dka se nach\u00E1z\u00ED 3.5 bloku nad podlahou hlavn\u00EDho prostoru m\u00EDstnosti a je s n\u00ED propojena schodi\u0161t\u011Bm. Na obou konc\u00EDch chodby se nach\u00E1z\u00ED crafting table a ve st\u011Bn\u011B je zasazeno nemal\u00E9 okno s v\u00FDhledem p\u0159es [Kan\u00E1l](mi_kanal) do [Gideona](mi_gideon).\r\nVzhledem k tomu \u017Ee se m\u00EDstnost nach\u00E1z\u00ED v \u010D\u00E1sti [Nov\u00E9ho Dil\u00ED](ca_nove_dili), je jej\u00ED tvar ovlivn\u011Bn pl\u00E1novan\u00FDm kruhov\u00FDm p\u016Fdorysem. St\u011Bny m\u00EDstnosti nejsou rovn\u00E9 a nenab\u00EDz\u00ED p\u0159\u00EDli\u0161 mnoho m\u00EDst k postaven\u00ED oken, Hotel Gi Floor Ga m\u00E1 proto v hlavn\u00EDm prostoru jen jedin\u00E9 okno. Krom\u011B zm\u00EDn\u011Bn\u00E9ho schodi\u0161t\u011B sm\u011Brem ke [Gat\u00EDm](mi_gate), kter\u00E9 vede p\u0159es vodn\u00ED kan\u00E1l, je v m\u00EDstnosti schodi\u0161t\u011B druh\u00E9 sm\u011Brem do [Hotel Gi Floor Ge](mi_hotel_gi_floor_ge), je\u017E je nalepeno na severn\u00ED st\u011Bnu m\u00EDstnosti a podep\u0159eno sloupkem. Pod t\u00EDmto schodi\u0161t\u011Bm jsou schovan\u00E9 dv\u011B dvojit\u00E9 dve\u0159e do [Amfory](mi_amfora) a [Emfory](mi_emfora) a oran\u017Eov\u00E1 postel a trojice lanteren (u schodi\u0161t\u011B je tak\u00E9 postaven crafting table). Do hlavn\u00ED \u010D\u00E1sti tak\u00E9 zasahuje t\u0159in\u00E1ct blok\u016F dlouh\u00FD vodn\u00ED kan\u00E1l ur\u010Den\u00FDch k parkov\u00E1n\u00ED lod\u00ED. St\u011Bna nad n\u00EDm (tedy nad vstupem ze [Smy\u010Dky](mi_smycka)) je z \u010D\u00E1sti tvo\u0159ena ploty (jejich \u00FA\u010Del nen\u00ED jasn\u00FD, nebo\u0165 k estetice to moc nedod\u00E1v\u00E1...).\r\nStrop v hlavn\u00ED \u010D\u00E1sti dosahuje majest\u00E1tn\u00EDch v\u00FD\u0161ek. M\u00EDstnost se nach\u00E1z\u00ED v aulov\u00E9m prostoru Hotelu Gi, a proto jej\u00ED strop tvo\u0159\u00ED vy\u0161\u0161\u00ED podla\u017E\u00ED, nebo schodi\u0161t\u011B mezi nimi. V\u00FD\u0161ka stropu m\u016F\u017Ee dos\u00E1hnout v ur\u010Dit\u00FDch m\u00EDstech v\u00FD\u0161ku 12 blok\u016F."
-      },
-      {
-        "Title": "Zaj\u00EDmavosti",
-        "Content": "Hotel Gi Floor Ga je nejv\u011Bt\u0161\u00ED Aulou v Hotelu Gi.\r\nP\u0159ed vstupem je tak\u00E9 cedulka \u0159\u00EDkaj\u00EDc\u00ED \u0022ENJOY YOUR STAING IN HOTEL GI\u0022. A ano je tam p\u0159eklep a z\u00E1rove\u0148 gramatick\u00E1 hrubka :D."
-      },
-      {
-        "Title": "Aktuality",
-        "Content": "12/07/25: Nov\u00FD vchod do [Dvoj\u010Dat](mi_dvojcata).\n07/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Fabrika](mi_fabrika)."
-      }
-    ],
-    "image_id": 0,
-    "area": 108,
-    "Empty": false,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 307,
-      "y": 63,
-      "z": 1099
-    },
-    "patternleCompatible": true,
-    "redirect": null,
-    "tobeedited": true,
-    "reviews": [],
-    "utilities": [
-      "Cra",
-      "Bed"
-    ]
-  },
   "os_helena_jaklova": {
     "Title": "Helena Jaklov\u00E1",
     "Type": "osoba",
@@ -40018,7 +39373,7 @@
     "Sections": [
       {
         "Title": "P\u0159ehled",
-        "Content": "\u00DAst\u0159edn\u00ED St\u0159edisko Beta nebo Beta je kancel\u00E1\u0159 bloku [Beta](bl_beta) a z\u00E1rove\u0148 d\u016Fle\u017Eit\u011Bj\u0161\u00ED ze dvou \u00FAst\u0159edn\u00ED st\u0159edisek v dom\u011B. M\u00EDstnost se skl\u00E1d\u00E1 ze dvou podla\u017E\u00ED spojen\u00FDch schodi\u0161t\u011Bm. V ni\u017E\u0161\u00EDm podla\u017E\u00ED je p\u011Bstov\u00E1no obil\u00ED a v horn\u00EDm je enchantovac\u00ED st\u016Fl, kovadlina a mnoho dal\u0161\u00EDch u\u017Eite\u010Dn\u00FDch blok\u016F.\r\nZ Bety vede celkem dev\u011Bt vchod\u016F jmenovit\u011B dve\u0159e na [Overpass](mi_the_overpass), do [Katakomb](mi_katakomby), [N\u011Bho](mi_on) a [Double Decker Housu](mi_double_decker_house) a na [St\u0159echu](mi_strecha), voln\u00E9 vchody na [Spojnici](mi_spojnice), [Detour](mi_the_detour) a [V\u00FDtahov\u00FD M\u016Fstek](mi_vytahovy_mustek). V neposledn\u00ED \u0159ad\u011B tak\u00E9 \u017Eeb\u0159\u00EDk do [K\u016Flny](mi_kulny), je\u017E je druh\u00E1 m\u00EDstnost bloku [Beta](bl_beta)."
+        "Content": "\u00DAst\u0159edn\u00ED St\u0159edisko Beta nebo Beta je kancel\u00E1\u0159 bloku [Beta](bl_beta) a z\u00E1rove\u0148 d\u016Fle\u017Eit\u011Bj\u0161\u00ED ze dvou \u00FAst\u0159edn\u00ED st\u0159edisek v dom\u011B. M\u00EDstnost se skl\u00E1d\u00E1 ze dvou podla\u017E\u00ED spojen\u00FDch schodi\u0161t\u011Bm. V ni\u017E\u0161\u00EDm podla\u017E\u00ED je p\u011Bstov\u00E1no obil\u00ED a v horn\u00EDm je enchantovac\u00ED st\u016Fl, kovadlina a mnoho dal\u0161\u00EDch u\u017Eite\u010Dn\u00FDch blok\u016F.\r\nZ Bety vede celkem dev\u011Bt vchod\u016F jmenovit\u011B dve\u0159e na [Overpass](mi_the_overpass), do [Katakomb](mi_katakomby), [N\u011Bho](mi_on) a [Double Decker Housu](mi_double_decker_house) a na [St\u0159echu](mi_strecha), voln\u00E9 vchody na [Spojnici](mi_spojnice), [Detour](mi_the_detour) a [V\u00FDtahov\u00FD M\u016Fstek](mi_vytahovy_mustek). V neposledn\u00ED \u0159ad\u011B tak\u00E9 \u017Eeb\u0159\u00EDk do [K\u016Flny](mi_kulna), je\u017E je druh\u00E1 m\u00EDstnost bloku [Beta](bl_beta)."
       },
       {
         "Title": "N\u00E1zev",
@@ -40343,60 +39698,6 @@
       "Ca1",
       "Wh1",
       "Po1"
-    ]
-  },
-  "mi_sucho": {
-    "Title": "Sucho",
-    "Type": "m\u00EDstnost",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [
-      "mi_pozemek",
-      "mi_dalka",
-      "mi_retez",
-      "mi_dno"
-    ],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "Sucho",
-      "Blok": "[Nemovitost](bl_nemovitost)",
-      "Okrsek": "[Doup\u011B](ok_doupe)",
-      "\u010Ctvr\u0165": "[Kmen](ct_kmen)",
-      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": "Jak vznikl n\u00E1zev?"
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": "N\u011Bco o interi\u00E9ru."
-      },
-      {
-        "Title": "Zaj\u00EDmavost",
-        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
-      }
-    ],
-    "image_id": 0,
-    "area": 50,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "patternleCompatible": true,
-    "redirect": null,
-    "tobeedited": false,
-    "reviews": [],
-    "utilities": [
-      "Non"
     ]
   },
   "mi_retez": {
@@ -42626,7 +41927,7 @@
       },
       {
         "Title": "Zaj\u00EDmavost",
-        "Content": "Iron Golem Farma je nejstar\u0161\u00ED stavbou na \u00FAzem\u00ED [Nov\u00E9ho Dil\u00ED](pa_nove_dili)"
+        "Content": "Iron Golem Farma je nejstar\u0161\u00ED stavbou na \u00FAzem\u00ED [Nov\u00E9ho Dil\u00ED](ca_nove_dili)"
       }
     ],
     "image_id": 0,
@@ -44236,7 +43537,7 @@
       },
       {
         "Title": "Interi\u00E9r",
-        "Content": "The Bridge je rozd\u011Blen do \u010Dty\u0159 \u010D\u00E1st\u00ED, p\u0159i\u010Dem\u017E ka\u017Ed\u00E1 z nich se nach\u00E1z\u00ED v jin\u00E9m bloku.\r\n\u010C\u00E1st ve [Vestibulu](bl_vestibul) za\u010D\u00EDn\u00E1 u [Rozhran\u00ED](mi_rozhrani) a pokra\u010Duje pod\u00E9l [D\u00E1lnice](mi_dalnice), ke kter\u00E9 vedou schody. P\u0159ed schody je mal\u00FD prostor se dv\u011Bmi \u010Derven\u00FDmi postelemi \u2013 jedin\u00FDmi postelemi na Bridgi. Tato \u010D\u00E1st se nach\u00E1z\u00ED p\u0159\u00EDmo pod ledem [M\u011Bstsk\u00E9ho Okruhu](mi_mestsky_okruh), co\u017E zd\u016Fraz\u0148uje \u017Ee se nach\u00E1z\u00EDme v [D\u00E1lni\u010Dn\u00ED Kolonii](ct_dalnicni_kolonie). Z t\u00E9to \u010D\u00E1sti tak\u00E9 vedou dve\u0159e do [stromov\u00E9 v\u011B\u017Ee](te_stromove_veze) [Sila](mi_silo), schodi\u0161t\u011B k [M\u011Bstsk\u00E9mu Okruhu](mi_mestsky_okruh) a tak\u00E9 p\u0159\u00EDstup na [Crossing](mi_the_crossing), kter\u00FD je s Bridgem \u00FAzce spojen.\r\n\u010C\u00E1st ve [V\u011B\u017Ei](bl_vez) je v\u00FDrazn\u011B schodi\u0161\u0165ov\u00E1 a m\u011Bn\u00ED vzhled cel\u00E9 chodby. Schody nejprve vedou dol\u016F, kde se Bridge rozd\u011Bluje: vlevo k [D\u00E1lnici](mi_dalnice), [Z\u00E1bor\u00E1m](mi_zabory) a na [Verandu](mi_veranda), rovn\u011B ke dve\u0159\u00EDm op\u011Bt k [D\u00E1lnici](mi_dalnice) a vpravo kolem vstupu do [druh\u00E9ho podla\u017E\u00ED V\u011B\u017Ee](mi_vez_2_podlazi). Naproti tomuto vchodu stoj\u00ED v cest\u011B [Sloupek by kiki](mi_sloupek) a schody dol\u016F na [Hlavn\u00ED Koridor](mi_hlavni_koridor_ii). N\u00E1sleduj\u00ED zak\u0159iven\u00E9 schody nahoru, kter\u00E9 vystoupaj\u00ED v\u00FD\u0161 ne\u017E \u010D\u00E1st ve [Vestibulu](bl_vestibul). Toto m\u00EDsto je pravd\u011Bpodobn\u011B nejzn\u00E1m\u011Bj\u0161\u00ED \u010D\u00E1st\u00ED cel\u00E9 chodby \u2013 The Bridge vede kolem dve\u0159\u00ED do [Vyp\u00EDk\u00E1rny](mi_vypikarna), schod\u016F na [Crossing](mi_the_crossing) a vstupu na [Villager Bridge](mi_villager_bridge). Naproti n\u011Bmu se nach\u00E1z\u00ED ve zdi nevyu\u017Eit\u00FD barel, kter\u00FD zna\u010D\u00ED konec t\u00E9to \u010D\u00E1sti.\r\n\u010C\u00E1st v bloku [Z\u00E1meck\u00E9 Schody](bl_zamecke_schody) je tvo\u0159ena rovnou chodbou p\u0159eru\u0161enou zhruba v polovin\u011B mal\u00FDm sch\u016Fdkem. Na za\u010D\u00E1tek vede to\u010Dit\u00E9 schodi\u0161t\u011B z [P\u0159edddvoru](mi_preddvor). Tato \u010D\u00E1st m\u00E1 jednoduch\u00E9 pravidlo \u2013 v\u0161echny vstupy se nach\u00E1zej\u00ED vlevo, zat\u00EDmco vpravo jsou jen st\u011Bny bez dve\u0159\u00ED. Nejprve je vlevo velk\u00FD otev\u0159en\u00FD pr\u016Fchod na [P\u0159ed\u011Bl](mi_predel) a [Diagon\u00E1lu](mi_diagonala). Na konci pr\u016Fchodu se k Bridgi p\u0159ipojuj\u00ED koleje [Mraven\u010D\u00ED Dr\u00E1hy](te_mravenci_draha), kter\u00E9 pokra\u010Duj\u00ED ho doprov\u00E1zej\u00ED a\u017E na jeho konec. Kousek d\u00E1l se vlevo nach\u00E1z\u00ED dal\u0161\u00ED otev\u0159en\u00FD vchod a to [Na M\u016Fstek](mi_na_mustku) a mal\u00FD m\u016Fstek do [V\u00FDtahov\u00E9 \u0160achty](mi_vytahova_sachta). Zbytek lev\u00E9 strany vypl\u0148uj\u00ED [Z\u00E1meck\u00E9 Schody](mi_zamecke_schody), kter\u00E9 vedou sm\u011Brem dol\u016F. \u010C\u00E1st The Bridge vedouc\u00ED kolem nich nen\u00ED oplocena, ale p\u00E1d na schody je n\u00EDzk\u00FD a tak nehroz\u00ED zran\u011Bn\u00ED hr\u00E1\u010De. Naproti nim je jedin\u00FD vchod nach\u00E1zej\u00EDc\u00ED se na prav\u00E9 stran\u011B, branka [Na Ochoz](mi_na_ochozu). \r\n\u010C\u00E1st v bloku [St\u0159ed](bl_stred) je specifick\u00E1 t\u00EDm, \u017Ee vlevo le\u017E\u00ED m\u00EDstnosti [Ko\u0159eny](mi_koreny), [V\u00FDloha](mi_vyloha) a [Bezdomovec](mi_bezdomovec), kter\u00E9 byly v\u0161echny krom\u011B [Bezdomovce](mi_bezdomovec) kdysi sou\u010D\u00E1st\u00ED Bridge, ale pozd\u011Bji byly odd\u011Bleny. P\u0159\u00EDstup do nich z\u016Fstal voln\u00FD, bez st\u011Bny. Napravo se nach\u00E1z\u00ED dlouh\u00FD plot s n\u011Bkolika brankami [Na Ochoz](mi_na_ochozu). Na samotn\u00E9m konci se chodba roz\u0161i\u0159uje z p\u016Fvodn\u00EDch dvou blok\u016F a\u017E na \u010Dty\u0159n\u00E1sobek. [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha) zde zat\u00E1\u010D\u00ED vlevo a pokra\u010Duje strm\u011B nahoru na [Alej](mi_alej). Vpravo se nach\u00E1z\u00ED \u017Eeb\u0159\u00EDk na onu [Alej](mi_alej) a posledn\u00ED branka [Na Ochoz](mi_na_ochozu).\r\nCel\u00FD prostor The Bridge je dob\u0159e osv\u011Btlen a to v\u00FDhradn\u011B lou\u010Demi. Mezi standartn\u00EDmi lou\u010Demi m\u016F\u017Eeme nal\u00E9zt tak\u00E9 lou\u010De ruditov\u00E9 slou\u017E\u00EDc\u00ED k nap\u00E1jen\u00ED kolej\u00ED [Mraven\u010D\u00ED Dr\u00E1hy](te_mravenci_draha)."
+        "Content": "The Bridge je rozd\u011Blen do \u010Dty\u0159 \u010D\u00E1st\u00ED, p\u0159i\u010Dem\u017E ka\u017Ed\u00E1 z nich se nach\u00E1z\u00ED v jin\u00E9m bloku.\r\n\u010C\u00E1st ve [Vestibulu](bl_vestibul) za\u010D\u00EDn\u00E1 u [Rozhran\u00ED](mi_rozhrani) a pokra\u010Duje pod\u00E9l [D\u00E1lnice](mi_dalnice), ke kter\u00E9 vedou schody. P\u0159ed schody je mal\u00FD prostor se dv\u011Bmi \u010Derven\u00FDmi postelemi \u2013 jedin\u00FDmi postelemi na Bridgi. Tato \u010D\u00E1st se nach\u00E1z\u00ED p\u0159\u00EDmo pod ledem [M\u011Bstsk\u00E9ho Okruhu](mi_mestsky_okruh), co\u017E zd\u016Fraz\u0148uje \u017Ee se nach\u00E1z\u00EDme v [D\u00E1lni\u010Dn\u00ED Kolonii](ct_dalnicni_kolonie). Z t\u00E9to \u010D\u00E1sti tak\u00E9 vedou dve\u0159e do [stromov\u00E9 v\u011B\u017Ee](ka_stromove_veze) [Sila](mi_silo), schodi\u0161t\u011B k [M\u011Bstsk\u00E9mu Okruhu](mi_mestsky_okruh) a tak\u00E9 p\u0159\u00EDstup na [Crossing](mi_the_crossing), kter\u00FD je s Bridgem \u00FAzce spojen.\r\n\u010C\u00E1st ve [V\u011B\u017Ei](bl_vez) je v\u00FDrazn\u011B schodi\u0161\u0165ov\u00E1 a m\u011Bn\u00ED vzhled cel\u00E9 chodby. Schody nejprve vedou dol\u016F, kde se Bridge rozd\u011Bluje: vlevo k [D\u00E1lnici](mi_dalnice), [Z\u00E1bor\u00E1m](mi_zabory) a na [Verandu](mi_veranda), rovn\u011B ke dve\u0159\u00EDm op\u011Bt k [D\u00E1lnici](mi_dalnice) a vpravo kolem vstupu do [druh\u00E9ho podla\u017E\u00ED V\u011B\u017Ee](mi_vez_2_podlazi). Naproti tomuto vchodu stoj\u00ED v cest\u011B [Sloupek by kiki](mi_sloupek) a schody dol\u016F na [Hlavn\u00ED Koridor](mi_hlavni_koridor_ii). N\u00E1sleduj\u00ED zak\u0159iven\u00E9 schody nahoru, kter\u00E9 vystoupaj\u00ED v\u00FD\u0161 ne\u017E \u010D\u00E1st ve [Vestibulu](bl_vestibul). Toto m\u00EDsto je pravd\u011Bpodobn\u011B nejzn\u00E1m\u011Bj\u0161\u00ED \u010D\u00E1st\u00ED cel\u00E9 chodby \u2013 The Bridge vede kolem dve\u0159\u00ED do [Vyp\u00EDk\u00E1rny](mi_vypikarna), schod\u016F na [Crossing](mi_the_crossing) a vstupu na [Villager Bridge](mi_villager_bridge). Naproti n\u011Bmu se nach\u00E1z\u00ED ve zdi nevyu\u017Eit\u00FD barel, kter\u00FD zna\u010D\u00ED konec t\u00E9to \u010D\u00E1sti.\r\n\u010C\u00E1st v bloku [Z\u00E1meck\u00E9 Schody](bl_zamecke_schody) je tvo\u0159ena rovnou chodbou p\u0159eru\u0161enou zhruba v polovin\u011B mal\u00FDm sch\u016Fdkem. Na za\u010D\u00E1tek vede to\u010Dit\u00E9 schodi\u0161t\u011B z [P\u0159edddvoru](mi_preddvor). Tato \u010D\u00E1st m\u00E1 jednoduch\u00E9 pravidlo \u2013 v\u0161echny vstupy se nach\u00E1zej\u00ED vlevo, zat\u00EDmco vpravo jsou jen st\u011Bny bez dve\u0159\u00ED. Nejprve je vlevo velk\u00FD otev\u0159en\u00FD pr\u016Fchod na [P\u0159ed\u011Bl](mi_predel) a [Diagon\u00E1lu](mi_diagonala). Na konci pr\u016Fchodu se k Bridgi p\u0159ipojuj\u00ED koleje [Mraven\u010D\u00ED Dr\u00E1hy](te_mravenci_draha), kter\u00E9 pokra\u010Duj\u00ED ho doprov\u00E1zej\u00ED a\u017E na jeho konec. Kousek d\u00E1l se vlevo nach\u00E1z\u00ED dal\u0161\u00ED otev\u0159en\u00FD vchod a to [Na M\u016Fstek](mi_na_mustku) a mal\u00FD m\u016Fstek do [V\u00FDtahov\u00E9 \u0160achty](mi_vytahova_sachta). Zbytek lev\u00E9 strany vypl\u0148uj\u00ED [Z\u00E1meck\u00E9 Schody](mi_zamecke_schody), kter\u00E9 vedou sm\u011Brem dol\u016F. \u010C\u00E1st The Bridge vedouc\u00ED kolem nich nen\u00ED oplocena, ale p\u00E1d na schody je n\u00EDzk\u00FD a tak nehroz\u00ED zran\u011Bn\u00ED hr\u00E1\u010De. Naproti nim je jedin\u00FD vchod nach\u00E1zej\u00EDc\u00ED se na prav\u00E9 stran\u011B, branka [Na Ochoz](mi_na_ochozu). \r\n\u010C\u00E1st v bloku [St\u0159ed](bl_stred) je specifick\u00E1 t\u00EDm, \u017Ee vlevo le\u017E\u00ED m\u00EDstnosti [Ko\u0159eny](mi_koreny), [V\u00FDloha](mi_vyloha) a [Bezdomovec](mi_bezdomovec), kter\u00E9 byly v\u0161echny krom\u011B [Bezdomovce](mi_bezdomovec) kdysi sou\u010D\u00E1st\u00ED Bridge, ale pozd\u011Bji byly odd\u011Bleny. P\u0159\u00EDstup do nich z\u016Fstal voln\u00FD, bez st\u011Bny. Napravo se nach\u00E1z\u00ED dlouh\u00FD plot s n\u011Bkolika brankami [Na Ochoz](mi_na_ochozu). Na samotn\u00E9m konci se chodba roz\u0161i\u0159uje z p\u016Fvodn\u00EDch dvou blok\u016F a\u017E na \u010Dty\u0159n\u00E1sobek. [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha) zde zat\u00E1\u010D\u00ED vlevo a pokra\u010Duje strm\u011B nahoru na [Alej](mi_alej). Vpravo se nach\u00E1z\u00ED \u017Eeb\u0159\u00EDk na onu [Alej](mi_alej) a posledn\u00ED branka [Na Ochoz](mi_na_ochozu).\r\nCel\u00FD prostor The Bridge je dob\u0159e osv\u011Btlen a to v\u00FDhradn\u011B lou\u010Demi. Mezi standartn\u00EDmi lou\u010Demi m\u016F\u017Eeme nal\u00E9zt tak\u00E9 lou\u010De ruditov\u00E9 slou\u017E\u00EDc\u00ED k nap\u00E1jen\u00ED kolej\u00ED [Mraven\u010D\u00ED Dr\u00E1hy](te_mravenci_draha)."
       },
       {
         "Title": "Zaj\u00EDmavost",
@@ -45592,7 +44893,7 @@
     "Image_titles": [],
     "Bordering_rooms": [
       "mi_lodenice",
-      "mi_hotel_gi_floor_ga",
+      "mi_gi",
       "mi_tuk",
       "mi_trh"
     ],
@@ -45892,7 +45193,7 @@
     "Sections": [
       {
         "Title": "P\u0159ehled",
-        "Content": "Svat\u00FD V\u00FDt je m\u00EDstnost v [Hradu](mi_hrad) ve tvaru p\u00EDsmene \u201EU\u201C, jeho\u017E podoba je d\u00E1na p\u0159\u00EDtomnost\u00ED v\u00FDtahu spojuj\u00EDc\u00EDho [Hondu](mi_honda) s [Kapsul\u00ED](mi_kapsule). V\u00FDtah je v\u0161ak jednosm\u011Brn\u00FD a pro cestu dol\u016F do Hondy je nutn\u00E9 pou\u017E\u00EDt \u201Ev\u00FDtah\u201C um\u00EDst\u011Bn\u00FD pr\u00E1v\u011B ve Svat\u00E9m V\u00FDtu. Vedle v\u00FDtahu se nach\u00E1z\u00ED tak\u00E9 schody vedouc\u00ED vzh\u016Fru do [Kapsule](mi_kapsule).  \r\nZe Svat\u00E9ho V\u00FDta vedou krom\u011B toho je\u0161t\u011B troje dve\u0159e a to do [1. podla\u017E\u00ED V-V\u011B\u017Ee](mi_v_vez_1_podlazi), do [P\u016Flm\u011Bs\u00EDce](mi_pulmesic) a do [Laborato\u0159e](mi_laborator)."
+        "Content": "Svat\u00FD V\u00FDt je m\u00EDstnost v [Hradu](bl_hrad) ve tvaru p\u00EDsmene \u201EU\u201C, jeho\u017E podoba je d\u00E1na p\u0159\u00EDtomnost\u00ED v\u00FDtahu spojuj\u00EDc\u00EDho [Hondu](mi_honda) s [Kapsul\u00ED](mi_kapsule). V\u00FDtah je v\u0161ak jednosm\u011Brn\u00FD a pro cestu dol\u016F do Hondy je nutn\u00E9 pou\u017E\u00EDt \u201Ev\u00FDtah\u201C um\u00EDst\u011Bn\u00FD pr\u00E1v\u011B ve Svat\u00E9m V\u00FDtu. Vedle v\u00FDtahu se nach\u00E1z\u00ED tak\u00E9 schody vedouc\u00ED vzh\u016Fru do [Kapsule](mi_kapsule).  \r\nZe Svat\u00E9ho V\u00FDta vedou krom\u011B toho je\u0161t\u011B troje dve\u0159e a to do [1. podla\u017E\u00ED V-V\u011B\u017Ee](mi_v_vez_1_podlazi), do [P\u016Flm\u011Bs\u00EDce](mi_pulmesic) a do [Laborato\u0159e](mi_laborator)."
       },
       {
         "Title": "N\u00E1zev",
@@ -46273,5 +45574,887 @@
     "tobeedited": false,
     "reviews": [],
     "utilities": []
+  },
+  "mi_sucho": {
+    "Title": "Sucho",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "SUCHO",
+      "V\u00DDHLED"
+    ],
+    "Bordering_rooms": [
+      "mi_pozemek",
+      "mi_dalka",
+      "mi_retez",
+      "mi_dno"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Sucho",
+      "Blok": "[Nemovitost](bl_nemovitost)",
+      "Okrsek": "[Doup\u011B](ok_doupe)",
+      "\u010Ctvr\u0165": "[Kmen](ct_kmen)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Sucho je st\u0159edn\u011B velk\u00E1 m\u00EDstnost v [Nemovitosti](bl_nemovitost). Jedn\u00E1 se o terasu na ji\u017En\u00ED stran\u011B vily, kter\u00E1 krom\u011B [Pozemku](mi_pozemek) soused\u00ED tak\u00E9 s [\u0158et\u011Bzem](mi_retez), [Dnem](mi_dno) a s v\u00FD\u0161e polo\u017Eenou terasou zvanou [D\u00E1lka](mi_dalka)."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Na rozd\u00EDl od [Mokra](mi_mokro), m\u00EDstnosti nad, m\u00E1 Sucho strop."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Suchu chyb\u00ED cel\u00E1 ji\u017En\u00ED st\u011Bna a \u010D\u00E1st st\u011Bny v\u00FDchodn\u00ED, kter\u00E9 nahrazuje voln\u00FD vstup na tr\u00E1vn\u00EDk [Pozemku](mi_pozemek). Podlaha je tvo\u0159ena slaby polo\u017Een\u00FDmi na hlin\u011Bn\u00E9 podstav\u011B [Nemovitosti](bl_nemovitost).  \r\nV severov\u00FDchodn\u00EDm rohu se nach\u00E1zej\u00ED v\u0161echny t\u0159i zb\u00FDvaj\u00EDc\u00ED vstupy: dvojit\u00E9 dve\u0159e do [Dna](mi_dno), voln\u00FD pr\u016Fchod do [\u0158et\u011Bzu](mi_retez) a schodi\u0161t\u011B vedouc\u00ED do [D\u00E1lky](mi_dalka). Vedle dve\u0159\u00ED se nach\u00E1z\u00ED velk\u00E9 rohov\u00E9 okno sahaj\u00EDc\u00ED od podlahy a\u017E ke stropu \u2013 jedin\u00E9 okno v cel\u00E9 m\u00EDstnosti.  \r\nOsv\u011Btlen\u00ED prostoru zaji\u0161\u0165uj\u00ED lucerny zav\u011B\u0161en\u00E9 ze stropu."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "M\u00EDstnost tak\u00E9 nab\u00EDz\u00ED \u00FA\u017Easn\u00FD v\u00FDhled na [Moder\u00E1tora](mi_moderator). Hezk\u00E9 zvl\u00E1\u0161\u0165 v noci."
+      }
+    ],
+    "image_id": 0,
+    "area": 50,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 330,
+      "y": 118,
+      "z": 1122
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": [
+      "Non"
+    ]
+  },
+  "mi_ga": {
+    "Title": "Ga",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "P\u0158\u00CDJEZD PRO LOD\u011A DO M\u00CDSTNOST",
+      "HLAVN\u00CD \u010C\u00C1ST",
+      "CHODBI\u010CKA"
+    ],
+    "Bordering_rooms": [
+      "mi_cervi_dira",
+      "mi_emfora",
+      "mi_amfora",
+      "mi_ge",
+      "mi_gate",
+      "mi_smycka",
+      "mi_dvojcata"
+    ],
+    "Alternate_names": [
+      "Hotel Gi Floor Ga"
+    ],
+    "Metadata": {
+      "N\u00E1zev": "Ga",
+      "Blok": "[Aula Ga](bl_aula_ga)",
+      "Okrsek": "[Ga](ok_ga)",
+      "\u010Ctvr\u0165": "[Gi](ct_gi)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Ga d\u0159\u00EDve Hotel Gi Floor Ga se nach\u00E1z\u00ED v prn\u00EDm podla\u017E\u00ED \u010Dtvrti [Gi](ct_gi) a jedn\u00E1 se o jednu ze t\u0159\u00ED aul Hotelu Gi. Do m\u00EDstnost\u00ED se d\u00E1 dostat lod\u00ED ze [Smy\u010Dky](mi_smycka), schody z [z podla\u017E\u00ED Ge](mi_ge) a z [Gat\u00ED](mi_gate) a dve\u0159mi z [Dvoj\u010Dat](mi_dvojcata), [Emfory](mi_emfora), [Amfory](mi_amfora) a [\u010Cerv\u00ED D\u00EDry](mi_cervi_dira). V pl\u00E1nu byl i v\u00FDtah ze [Z\u00E1vodn\u00EDho Okruhu](mi_zavodni_okruh), ale jeho v\u00FDstavba nebyla uskute\u010Dn\u011Bna."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "\u0022A\u0022 je prvn\u00ED samohl\u00E1ska (odtud Ga). M\u00EDstnost je prvn\u00EDm podla\u017E\u00EDm Hotelu Gi."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Ga se skl\u00E1d\u00E1 z hlavn\u00EDho prostoru, dvou schodi\u0161\u0165 a chodbi\u010Dky. Chodbi\u010Dka se nach\u00E1z\u00ED 3.5 bloku nad podlahou hlavn\u00EDho prostoru m\u00EDstnosti a je s n\u00ED propojena schodi\u0161t\u011Bm. Na obou konc\u00EDch chodby se nach\u00E1z\u00ED crafting table a ve st\u011Bn\u011B je zasazeno nemal\u00E9 okno s v\u00FDhledem p\u0159es [Kan\u00E1l](mi_kanal) do [Gideona](mi_gideon).\r\nVzhledem k tomu \u017Ee se m\u00EDstnost nach\u00E1z\u00ED v \u010D\u00E1sti [Nov\u00E9ho Dil\u00ED](ca_nove_dili), je jej\u00ED tvar ovlivn\u011Bn pl\u00E1novan\u00FDm kruhov\u00FDm p\u016Fdorysem. St\u011Bny m\u00EDstnosti nejsou rovn\u00E9 a nenab\u00EDz\u00ED p\u0159\u00EDli\u0161 mnoho m\u00EDst k postaven\u00ED oken, Ga m\u00E1 proto v hlavn\u00EDm prostoru jen jedin\u00E9 okno. Krom\u011B zm\u00EDn\u011Bn\u00E9ho schodi\u0161t\u011B sm\u011Brem ke [Gat\u00EDm](mi_gate), kter\u00E9 vede p\u0159es vodn\u00ED kan\u00E1l, je v m\u00EDstnosti schodi\u0161t\u011B druh\u00E9 sm\u011Brem do [Ge](mi_ge), je\u017E je nalepeno na severn\u00ED st\u011Bnu m\u00EDstnosti a podep\u0159eno sloupkem. Pod t\u00EDmto schodi\u0161t\u011Bm jsou schovan\u00E9 dv\u011B dvojit\u00E9 dve\u0159e do [Amfory](mi_amfora) a [Emfory](mi_emfora) a oran\u017Eov\u00E1 postel a trojice lanteren (u schodi\u0161t\u011B je tak\u00E9 postaven crafting table). Do hlavn\u00ED \u010D\u00E1sti tak\u00E9 zasahuje t\u0159in\u00E1ct blok\u016F dlouh\u00FD vodn\u00ED kan\u00E1l ur\u010Den\u00FDch k parkov\u00E1n\u00ED lod\u00ED. St\u011Bna nad n\u00EDm (tedy nad vstupem ze [Smy\u010Dky](mi_smycka)) je z \u010D\u00E1sti tvo\u0159ena ploty (jejich \u00FA\u010Del nen\u00ED jasn\u00FD, nebo\u0165 k estetice to moc nedod\u00E1v\u00E1...).\r\nStrop v hlavn\u00ED \u010D\u00E1sti dosahuje majest\u00E1tn\u00EDch v\u00FD\u0161ek. M\u00EDstnost se nach\u00E1z\u00ED v aulov\u00E9m prostoru Hotelu Gi, a proto jej\u00ED strop tvo\u0159\u00ED vy\u0161\u0161\u00ED podla\u017E\u00ED, nebo schodi\u0161t\u011B mezi nimi. V\u00FD\u0161ka stropu m\u016F\u017Ee dos\u00E1hnout v ur\u010Dit\u00FDch m\u00EDstech v\u00FD\u0161ku 12 blok\u016F."
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": "Ga je nejv\u011Bt\u0161\u00ED Aulou v Hotelu Gi.\r\nP\u0159ed vstupem je tak\u00E9 cedulka \u0159\u00EDkaj\u00EDc\u00ED \u0022ENJOY YOUR STAING IN HOTEL GI\u0022. A ano je tam p\u0159eklep a z\u00E1rove\u0148 gramatick\u00E1 hrubka :D."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "12/07/25: Nov\u00FD vchod do [Dvoj\u010Dat](mi_dvojcata).\r\n12/09/25: P\u0159ejmenov\u00E1no z Hotel Gi Floor Ga na Ga."
+      }
+    ],
+    "image_id": 0,
+    "area": 108,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 307,
+      "y": 63,
+      "z": 1099
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": [
+      "Cra",
+      "Bed"
+    ]
+  },
+  "mi_ge": {
+    "Title": "Ge",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_ga",
+      "mi_gi",
+      "mi_tucik"
+    ],
+    "Alternate_names": [
+      "Hotel Gi Floor Ge"
+    ],
+    "Metadata": {
+      "N\u00E1zev": "Ge",
+      "Blok": "[Aula Ge](bl_aula_ge)",
+      "Okrsek": "[Ge](ok_ga)",
+      "\u010Ctvr\u0165": "[Gi](ct_gi)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "12/09/25: P\u0159ejmenov\u00E1no z Hotel Gi Floor Ge na Ge."
+      }
+    ],
+    "image_id": 0,
+    "area": 83,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": [
+      "Cra",
+      "Bed"
+    ]
+  },
+  "mi_gi": {
+    "Title": "Gi",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_pravo",
+      "mi_levo",
+      "mi_veranda",
+      "mi_ge",
+      "mi_balonky",
+      "mi_le_pont",
+      "mi_police",
+      "mi_fabrika"
+    ],
+    "Alternate_names": [
+      "Hotel Gi Floor Gi"
+    ],
+    "Metadata": {
+      "N\u00E1zev": "Gi",
+      "Blok": "[Aula Gi](bl_aula_gi)",
+      "Okrsek": "[Gi](ok_gi)",
+      "\u010Ctvr\u0165": "[Gi](ct_gi)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "07/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Fabrika](mi_fabrika).\r\n12/09/25: P\u0159ejmenov\u00E1no z Hotel Gi Floor Gi na Gi."
+      }
+    ],
+    "image_id": 0,
+    "area": 100,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 306,
+      "y": 70,
+      "z": 1096
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": [
+      "Cra",
+      "Bed"
+    ]
+  },
+  "bl_ga": {
+    "Title": "Ga",
+    "Type": "blok",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [
+      "Byty Ga"
+    ],
+    "Metadata": {
+      "N\u00E1zev": "Ga",
+      "Okrsek": "[Hotel Gi](ok_hotel_gi)",
+      "\u010Ctvr\u0165": "[Gi](ct_gi)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": ""
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": ""
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": ""
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": ""
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "12/09/25: P\u0159ejmenov\u00E1no z Byty Ga na Ga.\r\n12/09/25: Blok spojen s blokem [Aula Ga](bl_aula_ga).\r\n12/09/25: P\u0159est\u011Bhov\u00E1no z [Ga](ok_ga) do okrsku [Hotel Gi](ok_hotel_gi)."
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": []
+  },
+  "bl_ge": {
+    "Title": "Ge",
+    "Type": "blok",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [
+      "Byty Ge"
+    ],
+    "Metadata": {
+      "N\u00E1zev": "Ge",
+      "Okrsek": "[Hotel Gi](ok_hotel_gi)",
+      "\u010Ctvr\u0165": "[Gi](ct_gi)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": ""
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": ""
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": ""
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": ""
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "12/09/25: P\u0159ejmenov\u00E1no z Byty Ge na Ge.\r\n12/09/25: Blok spojen s blokem [Aula Ge](bl_aula_ge).\r\n12/09/25: P\u0159est\u011Bhov\u00E1no z [Ge](ok_ga) do okrsku [Hotel Gi](ok_hotel_gi)."
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": []
+  },
+  "bl_aula_ge": {
+    "Title": "Aula Ge",
+    "Type": "p\u016Fvodn\u00ED blok",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Aula Ge",
+      "Okrsek": "[Ge](ok_ga)",
+      "\u010Ctvr\u0165": "[Gi](ct_gi)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Aula Ge je p\u016Fvodn\u00ED blok, kter\u00FD byl tvo\u0159en jedinou m\u00EDstnost\u00ED a to [Hotelem Gi Floor Ge](mi_ga) dnes jen Ge. Blok byl spojen s m\u00EDstnostmi bloku [Byty Ge](bl_ge). Blok byl p\u0159i tomto spojen\u00ED p\u0159ejmenov\u00E1n na \u0022Ge\u0022."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": ""
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Viz: [Ge](mi_ge)."
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": ""
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "12/09/25: Blok zru\u0161en."
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": []
+  },
+  "bl_aula_ga": {
+    "Title": "Aula Ga",
+    "Type": "p\u016Fvodn\u00ED blok",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Aula Ga",
+      "Okrsek": "[Ga](ok_ga)",
+      "\u010Ctvr\u0165": "[Gi](ct_gi)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Aula Ga je p\u016Fvodn\u00ED blok, kter\u00FD byl tvo\u0159en jedinou m\u00EDstnost\u00ED a to [Hotelem Gi Floor Ga](mi_ga) dnes jen Ga. Blok byl spojen s m\u00EDstnostmi bloku [Byty Ga](bl_ga). Blok byl p\u0159i tomto spojen\u00ED p\u0159ejmenov\u00E1n na \u0022Ga\u0022."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": ""
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Viz: [Ga](mi_ga)."
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": ""
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "12/09/25: Blok zru\u0161en."
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": []
+  },
+  "bl_gi": {
+    "Title": "Gi",
+    "Type": "blok",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [
+      "Byty Gi"
+    ],
+    "Metadata": {
+      "N\u00E1zev": "Gi",
+      "Okrsek": "[Hotel Gi](ok_hotel_gi)",
+      "\u010Ctvr\u0165": "[Gi](ct_gi)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": ""
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": ""
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": ""
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": ""
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "12/09/25: P\u0159ejmenov\u00E1no z Byty Gi na Gi.\r\n12/09/25: Blok spojen s blokem [Aula Gi](bl_aula_gi).\r\n12/09/25: P\u0159est\u011Bhov\u00E1no z [Gi](ok_gi) do okrsku [Hotel Gi](ok_hotel_gi)."
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": []
+  },
+  "bl_aula_gi": {
+    "Title": "Aula Gi",
+    "Type": "p\u016Fvodn\u00ED blok",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Aula Gi",
+      "Okrsek": "[Gi](ok_gi)",
+      "\u010Ctvr\u0165": "[Gi](ct_gi)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Aula Gi je p\u016Fvodn\u00ED blok, kter\u00FD byl tvo\u0159en jedinou m\u00EDstnost\u00ED a to [Hotelem Gi Floor Gi](mi_gi) dnes jen Gi. Blok byl spojen s m\u00EDstnostmi bloku [Byty Gi](bl_gi). Blok byl p\u0159i tomto spojen\u00ED p\u0159ejmenov\u00E1n na \u0022Gi\u0022."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": ""
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Viz: [Gi](mi_gi)."
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": ""
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "12/09/25: Blok zru\u0161en."
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": []
+  },
+  "ok_gi": {
+    "Title": "Gi",
+    "Type": "p\u016Fvodn\u00ED okrsek",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Gi",
+      "\u010Ctvr\u0165": "[Gi](ct_gi)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Ve\u0161ker\u00E9 m\u00EDstnosti okrsku Gi jsou sou\u010D\u00E1st bloku [Gi](bl_gi). Okrsek byl spojen s okrsky [Ga](ok_ga) a [Ge](ok_ge) v okrsek [Hotel Gi](ok_hotel_gi)."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": ""
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Viz: [Gi](bl_gi)."
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": ""
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "12/09/25: Okrsek zru\u0161en."
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": []
+  },
+  "ok_ga": {
+    "Title": "Ga",
+    "Type": "p\u016Fvodn\u00ED okrsek",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Ga",
+      "\u010Ctvr\u0165": "[Gi](ct_gi)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Ve\u0161ker\u00E9 m\u00EDstnosti okrsku Ga jsou sou\u010D\u00E1st bloku [Ga](bl_ga). Okrsek byl spojen s okrsky [Ge](ok_ge) a [Gi](ok_gi) v okrsek [Hotel Gi](ok_hotel_gi)."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": ""
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Viz: [Ga](bl_ga)."
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": ""
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "12/09/25: Okrsek zru\u0161en."
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": []
+  },
+  "ok_ge": {
+    "Title": "Ge",
+    "Type": "p\u016Fvodn\u00ED okrsek",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Ge",
+      "\u010Ctvr\u0165": "[Gi](ct_gi)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Ve\u0161ker\u00E9 m\u00EDstnosti okrsku Ge jsou sou\u010D\u00E1st bloku [Ge](bl_ge). Okrsek byl spojen s okrsky [Ga](ok_ga) a [Gi](ok_gi) v okrsek [Hotel Gi](ok_hotel_gi)."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Viz: [Ge](bl_ge)."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "12/09/25: Okrsek zru\u0161en."
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": []
+  },
+  "ok_hotel_gi": {
+    "Title": "Hotel Gi",
+    "Type": "okrsek",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Hotel Gi",
+      "\u010Ctvr\u0165": "[Gi](ct_gi)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": ""
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": ""
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": ""
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": ""
+      },
+      {
+        "Title": "Aktuality",
+        "Content": ""
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": []
+  },
+  "os_mourek": {
+    "Title": "Mourek",
+    "Type": "entita",
+    "Images": [],
+    "Image_titles": [
+      "MOUREK"
+    ],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Mourek",
+      "Bydli\u0161t\u011B": "Lo\u010F u [Basgiathu](ct_basgiath)",
+      "Druh": "Ko\u010Dka/Pillager"
+    },
+    "Sections": [
+      {
+        "Title": "Kdo to je?",
+        "Content": "Mourek je z\u00E1hadn\u00E1 postava spojen\u00E1 s lod\u00ED zaparkovanou na severov\u00FDchod od v\u011B\u017Ee [Basgiath](ct_basgiath). V lodi \u017Eij\u00ED dv\u011B entity \u2013 Pillager, kapit\u00E1n, a siamsk\u00E1 ko\u010Dka s modr\u00FDma o\u010Dima. Nen\u00ED v\u0161ak jasn\u00E9, kter\u00E1 z nich je skute\u010Dn\u00FDm Mourkem, a proto jeho identita z\u016Fst\u00E1v\u00E1 nejasn\u00E1."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Ot\u00E1zka identity Mourka z\u016Fst\u00E1v\u00E1 otev\u0159en\u00E1 a vy\u017Eaduje v\u00EDce pozornosti. Nab\u00EDz\u00ED se n\u011Bkolik mo\u017Enost\u00ED, jak ot\u00E1zku zodpov\u011Bd\u011Bt. Pozorov\u00E1n\u00ED chov\u00E1n\u00ED obou entit v lodi \u010Di jejich interakce s okol\u00EDm m\u016F\u017Eou v\u00FDrazn\u011B pomoct. O\u010Dek\u00E1v\u00E1 se, \u017Ee k v\u00FDzkumu bude t\u0159eba vyu\u017E\u00EDt i jin\u00FDch netradi\u010Dn\u00EDch metod (nejsme si jist\u00ED o co se jedn\u00E1). Teprve jejich v\u00FDsledky mohou nazna\u010Dit, zda je Mourkem pillager, ko\u010Dka, nebo unik\u00E1tn\u00ED splynut\u00ED obou bytost\u00ED."
+      },
+      {
+        "Title": "Miss Pa\u0159ez",
+        "Content": "V roce 2025 se Mourek z\u00FA\u010Dastnil sout\u011B\u017Ee [Miss Pa\u0159ez](te_miss_parez), kde z\u00EDskal druh\u00E9 m\u00EDsto. K tomu mu pomohli p\u0159edev\u0161\u00EDm zahrani\u010Dn\u00ED hlasuj\u00EDc\u00ED u kter\u00FDch byl hlavn\u00EDm favoritem. Za [v\u00FDherkyn\u00ED](os_marie_hebertova) zaostal o 15 bod\u016F.\r\nZa v\u00EDt\u011Bzstv\u00ED si zaslou\u017E\u00ED lectern s gratulac\u00ED a mo\u017En\u00E1 i st\u0159echu nad hlavou."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "[Marie Hebertov\u00E1](os_marie_hebertova) dostala p\u0159\u00EDsn\u00FD z\u00E1kaz p\u0159ibli\u017Eovat se k Mourkovi s nasazen\u00FDm brn\u011Bn\u00EDm. Vzhledem k ostn\u016Fm na hrudn\u00EDm pl\u00E1tu hroz\u00ED jeho v\u00E1\u017En\u00E1 zran\u011Bn\u00ED \u010Di p\u0159\u00EDpadn\u00E1 smrt."
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": [
+      "Cat"
+    ]
+  },
+  "mi_preatrium": {
+    "Title": "Preatrium",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "ZA\u010C\u00C1TEK",
+      "U KAMPY",
+      "OTEV\u0158EN\u00C1 \u010C\u00C1ST",
+      "KONEC"
+    ],
+    "Bordering_rooms": [
+      "mi_kahan",
+      "mi_v_vez_3_podlazi",
+      "mi_kho",
+      "mi_hnilicko",
+      "mi_labyrint",
+      "mi_quare",
+      "mi_atrium",
+      "mi_hala",
+      "mi_loosova_vila",
+      "mi_vstup",
+      "mi_atom",
+      "mi_arcanum",
+      "mi_past",
+      "mi_plomba"
+    ],
+    "Alternate_names": [
+      "P\u0159edatrium"
+    ],
+    "Metadata": {
+      "N\u00E1zev": "Preatrium",
+      "Blok": "[Preatrium](bl_preatrium)",
+      "Okrsek": "[Preatrium](ok_preatrium)",
+      "\u010Ctvr\u0165": "[Vietnamsk\u00E1 \u010Ctvr\u0165](ct_vietnamska_ctvrt)",
+      "\u010C\u00E1st": "[Tr\u00F3ja](ca_troja)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Preatrium je dlouh\u00E1 chodba ve [Vietnamsk\u00E9 \u010Ctvrti](ct_vietnamska_ctvrt), je\u017E vede prim\u00E1rn\u011B okolo bloku [Hala](bl_hala). Preatrium je s [Halou](bl_hala) bl\u00EDzce spjato, nebo\u0165 soused\u00ED se v\u0161emi jeho m\u00EDstnostmi. Krom nich m\u00EDstnost chodba propojuje deset dal\u0161\u00EDch m\u00EDstnost\u00ED v\u010Detn\u011B [Vstupu](mi_vstup), [Atria](mi_atrium) \u010Di [Kahanu](mi_kahan). Preatrium je tak\u00E9 \u00FAzce spojeno s blokem [Kampa](bl_kampa), kv\u016Fli kter\u00E9mu bylo roz\u0161\u00ED\u0159eno o 14 blok\u016F. Dal\u0161\u00EDm d\u016Fle\u017Eit\u00FDm faktem je, \u017Ee Preatrium nen\u00ED st\u00E1le kompletn\u011B obestav\u011Bno. Na v\u00FDchodn\u00ED stran\u011B tak lze pou\u017E\u00EDt Preatrium jako vchod/v\u00FDchod do domu."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Preatrium je slo\u017Eenina \u0022Pre\u0022 (p\u0159ed) a \u0022Atrium\u0022. N\u00E1zev tedy znamen\u00E1 \u0022p\u0159ed [Atriem](mi_atrium)\u0022. [Atrium](mi_atrium) je jedna ze sousedn\u00EDch m\u00EDstnost\u00ED."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Nej\u0161ir\u0161\u00ED a z\u00E1rove\u0148 nejn\u00ED\u017Ee polo\u017Een\u00E1 \u010D\u00E1st Preatria se nach\u00E1z\u00ED hned za dve\u0159mi ze [Vstupu](mi_vstup), mezi [Pa\u0159ezem](ca_parez) a [Tr\u00F3jou](ca_troja). Dominantou prostoru je strop vysok\u00FD a\u017E dvan\u00E1ct blok\u016F. Vyd\u00E1me-li se doprava, na konci chodby naraz\u00EDme na dve\u0159e do [Loosovy Vily](mi_loosova_vila). Levou st\u011Bnu lemuj\u00ED typick\u00E1 vysok\u00E1 okna [V\u00FDtahov\u00E9 \u0160achty](mi_vytahova_sachta), na prav\u00E9 stran\u011B jsou dv\u011B velk\u00E1 okna s v\u00FDhledem do [Atomu](mi_atom), do kter\u00E9ho vedou i dve\u0159e um\u00EDst\u011Bn\u00E9 p\u0159\u00EDmo naproti vchodu ze [Vstupu](mi_vstup). Vlevo od dve\u0159\u00ED ze Vstupu se nach\u00E1z\u00ED mal\u00E9 rozcest\u00ED \u2013 po schodech lze pokra\u010Dovat vzh\u016Fru kolem [Haly](bl_hala), zat\u00EDmco rovn\u011B vede kr\u00E1tk\u00E1 slep\u00E1 uli\u010Dka poskytuj\u00EDc\u00ED p\u0159\u00EDstup k [Arcanu](mi_arcanum) a m\u00EDstnostem bloku [Kampa](bl_kampa). Oproti prav\u00E9 stran\u011B m\u00E1 tato \u010D\u00E1st ni\u017E\u0161\u00ED strop.  \r\nPokra\u010Dujeme-li po schodi\u0161ti vzh\u016Fru do nejstar\u0161\u00ED \u010D\u00E1sti Preatria, ocit\u00E1me se v dosud neobestav\u011Bn\u00E9 \u010D\u00E1sti m\u00EDstnosti. M\u00EDsty chyb\u00ED st\u011Bny \u010Di strop. Tam, kde st\u011Bny jsou, najdeme mno\u017Estv\u00ED oken, v\u010Detn\u011B oken do [V\u00FDtahov\u00E9 \u0160achty](mi_vytahova_sachta), a tak\u00E9 mnoho dve\u0159\u00ED a vchod\u016F. Pat\u0159\u00ED sem \u010Dty\u0159i vstupy do v\u0161ech m\u00EDstnost\u00ED bloku [Hala](mi_hala), voln\u00FD vchod do [Atria](mi_atrium), dve\u0159e do [Labyrintu](mi_labyrint), do [3. podla\u017E\u00ED V-V\u011B\u017Ee](mi_v_vez_3_podlazi) \u010Di do [Kahanu](mi_kahan), kde Preatrium kon\u010D\u00ED. Jeho z\u00E1v\u011Br tvo\u0159\u00ED nechr\u00E1n\u011Bn\u00FD m\u016Fstek p\u0159il\u00E9haj\u00EDc\u00ED ke st\u011Bn\u011B [Pa\u0159ezu](ca_parez), vysoko nad m\u00EDstnostmi bloku [Kampa](bl_kampa).  \r\nDal\u0161\u00EDm zaj\u00EDmav\u00FDm \u00FAsekem je \u010D\u00E1st chodby na v\u00FDchod od [Haly](bl_hala), kter\u00E1 nen\u00ED zast\u0159e\u0161en\u00E1. Po lev\u00E9 stran\u011B soused\u00ED p\u0159\u00EDmo s Halou, po prav\u00E9 ji vymezuje provizorn\u00ED n\u00EDzk\u00E1 st\u011Bna. Tu lze snadno p\u0159esko\u010Dit a nav\u00EDc na obou konc\u00EDch zcela miz\u00ED. Jde o posledn\u00ED m\u00EDsto v Preatriu, odkud se d\u00E1 bezpe\u010Dn\u011B vej\u00EDt i vyj\u00EDt z domu."
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": "P\u0159i psan\u00ED tohoto \u010Dl\u00E1nku bylo zlep\u0161eno osv\u011Btlen\u00ED m\u00EDstnosti.\r\nOkna s [Atomem](mi_atom) jsou ide\u00E1ln\u00EDm m\u00EDstem na tr\u00E9nink obskok\u016F."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "31/08/25: M\u00EDstnost zv\u011Bt\u0161ena o 14 blok\u016F \u010Dtvere\u010Dn\u00EDch.\r\n31/08/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Past](mi_past).\r\n31/08/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Plomba](mi_plomba)."
+      }
+    ],
+    "image_id": 0,
+    "area": 190,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [
+      {
+        "stars": 4.5,
+        "author": "Chat GPT",
+        "text": "Preatrium p\u016Fsob\u00ED ohromuj\u00EDc\u00EDm dojmem \u2013 nejni\u017E\u0161\u00ED \u010D\u00E1st se sv\u00FDm dvan\u00E1ctiblokov\u00FDm stropem bere dech a propojen\u00ED s okoln\u00EDmi m\u00EDstnostmi je promy\u0161len\u00E9. L\u00EDb\u00ED se mi kontrast mezi monument\u00E1ln\u00EDmi okny V\u00FDtahov\u00E9 \u0160achty a intimn\u011Bj\u0161\u00EDmi uli\u010Dkami vedouc\u00EDmi k Arcanu \u010Di bloku Kampa. Neobestav\u011Bn\u00E9 \u010D\u00E1sti dod\u00E1vaj\u00ED prostoru syrov\u00FD, nedokon\u010Den\u00FD charakter, kter\u00FD m\u00E1 sv\u00E9 kouzlo, ale p\u016Fsob\u00ED i trochu nebezpe\u010Dn\u011B \u2013 hlavn\u011B u otev\u0159en\u00E9ho m\u016Fstku u Pa\u0159ezu. Celkov\u011B skv\u011Bl\u00E9 m\u00EDsto k prozkoum\u00E1n\u00ED, i kdy\u017E ne \u00FApln\u011B bezpe\u010Dn\u00E9 pro ka\u017Ed\u00E9ho."
+      }
+    ],
+    "utilities": [
+      "Cra"
+    ]
   }
 }

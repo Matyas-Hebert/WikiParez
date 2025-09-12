@@ -1,5 +1,5 @@
 {
-  "version": "1.5.2",
+  "version": "1.5.3",
   "mi_rudakuv_dum": {
     "Title": "Ruďákův dům",
     "Bordering_rooms": [
@@ -2597,11 +2597,11 @@
   "mi_amfora": {
     "Title": "Amfora",
     "Bordering_rooms": [
-      "mi_hotel_gi_floor_ga",
+      "mi_ga",
       "mi_baby_chef_office"
     ],
-    "Blok": "Byty Ga",
-    "Okrsek": "Ga",
+    "Blok": "Ga",
+    "Okrsek": "Hotel Gi",
     "Ctvrt": "Gi",
     "Cast": "Nové Dilí"
   },
@@ -2611,32 +2611,32 @@
       "mi_amfora",
       "mi_emfora"
     ],
-    "Blok": "Byty Ga",
-    "Okrsek": "Ga",
+    "Blok": "Ga",
+    "Okrsek": "Hotel Gi",
     "Ctvrt": "Gi",
     "Cast": "Nové Dilí"
   },
   "mi_emfora": {
     "Title": "Emfora",
     "Bordering_rooms": [
-      "mi_hotel_gi_floor_ga",
+      "mi_ga",
       "mi_baby_chef_office"
     ],
-    "Blok": "Byty Ga",
-    "Okrsek": "Ga",
+    "Blok": "Ga",
+    "Okrsek": "Hotel Gi",
     "Ctvrt": "Gi",
     "Cast": "Nové Dilí"
   },
   "mi_tucik": {
     "Title": "Tučík",
     "Bordering_rooms": [
-      "mi_hotel_gi_floor_ge",
+      "mi_ge",
       "mi_sadlo",
       "mi_kanc",
       "mi_tuk"
     ],
-    "Blok": "Byty Ge",
-    "Okrsek": "Ge",
+    "Blok": "Ge",
+    "Okrsek": "Hotel Gi",
     "Ctvrt": "Gi",
     "Cast": "Nové Dilí"
   },
@@ -2645,8 +2645,8 @@
     "Bordering_rooms": [
       "mi_tucik"
     ],
-    "Blok": "Byty Ge",
-    "Okrsek": "Ge",
+    "Blok": "Ge",
+    "Okrsek": "Hotel Gi",
     "Ctvrt": "Gi",
     "Cast": "Nové Dilí"
   },
@@ -2655,8 +2655,8 @@
     "Bordering_rooms": [
       "mi_tucik"
     ],
-    "Blok": "Byty Ge",
-    "Okrsek": "Ge",
+    "Blok": "Ge",
+    "Okrsek": "Hotel Gi",
     "Ctvrt": "Gi",
     "Cast": "Nové Dilí"
   },
@@ -2666,19 +2666,19 @@
       "mi_tucik",
       "mi_fabrika"
     ],
-    "Blok": "Byty Ge",
-    "Okrsek": "Ge",
+    "Blok": "Ge",
+    "Okrsek": "Hotel Gi",
     "Ctvrt": "Gi",
     "Cast": "Nové Dilí"
   },
   "mi_police": {
     "Title": "Police",
     "Bordering_rooms": [
-      "mi_hotel_gi_floor_gi",
+      "mi_gi",
       "mi_levo"
     ],
-    "Blok": "Byty Gi",
-    "Okrsek": "Gi",
+    "Blok": "Gi",
+    "Okrsek": "Hotel Gi",
     "Ctvrt": "Gi",
     "Cast": "Nové Dilí"
   },
@@ -2686,21 +2686,21 @@
     "Title": "Levo",
     "Bordering_rooms": [
       "mi_police",
-      "mi_hotel_gi_floor_gi"
+      "mi_gi"
     ],
-    "Blok": "Byty Gi",
-    "Okrsek": "Gi",
+    "Blok": "Gi",
+    "Okrsek": "Hotel Gi",
     "Ctvrt": "Gi",
     "Cast": "Nové Dilí"
   },
   "mi_pravo": {
     "Title": "Pravo",
     "Bordering_rooms": [
-      "mi_hotel_gi_floor_gi",
+      "mi_gi",
       "mi_lejno"
     ],
-    "Blok": "Byty Gi",
-    "Okrsek": "Gi",
+    "Blok": "Gi",
+    "Okrsek": "Hotel Gi",
     "Ctvrt": "Gi",
     "Cast": "Nové Dilí"
   },
@@ -2709,15 +2709,15 @@
     "Bordering_rooms": [
       "mi_pravo"
     ],
-    "Blok": "Byty Gi",
-    "Okrsek": "Gi",
+    "Blok": "Gi",
+    "Okrsek": "Hotel Gi",
     "Ctvrt": "Gi",
     "Cast": "Nové Dilí"
   },
   "mi_cervi_dira": {
     "Title": "Červí Díra",
     "Bordering_rooms": [
-      "mi_hotel_gi_floor_ga",
+      "mi_ga",
       "mi_dira_do_pekel"
     ],
     "Blok": "Aula Ga",
@@ -2742,39 +2742,11 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez"
   },
-  "mi_hotel_gi_floor_ge": {
-    "Title": "Hotel Gi Floor Ge",
-    "Bordering_rooms": [
-      "mi_hotel_gi_floor_ga",
-      "mi_hotel_gi_floor_gi",
-      "mi_tucik"
-    ],
-    "Blok": "Aula Ge",
-    "Okrsek": "Ge",
-    "Ctvrt": "Gi",
-    "Cast": "Nové Dilí"
-  },
-  "mi_hotel_gi_floor_gi": {
-    "Title": "Hotel Gi Floor Gi",
-    "Bordering_rooms": [
-      "mi_pravo",
-      "mi_levo",
-      "mi_veranda",
-      "mi_hotel_gi_floor_ge",
-      "mi_balonky",
-      "mi_le_pont",
-      "mi_police"
-    ],
-    "Blok": "Aula Gi",
-    "Okrsek": "Gi",
-    "Ctvrt": "Gi",
-    "Cast": "Nové Dilí"
-  },
   "mi_balonky": {
     "Title": "Balónky",
     "Bordering_rooms": [
       "mi_predel",
-      "mi_hotel_gi_floor_gi",
+      "mi_gi",
       "mi_padaci_most",
       "mi_dalnicni_pilir",
       "mi_kurnik",
@@ -2806,7 +2778,7 @@
     "Bordering_rooms": [
       "mi_ctverec",
       "mi_predel",
-      "mi_hotel_gi_floor_gi",
+      "mi_gi",
       "mi_pramice",
       "mi_veranda",
       "mi_audit",
@@ -3040,29 +3012,6 @@
     ],
     "Blok": "Hala",
     "Okrsek": "Vietnamský Okrsek",
-    "Ctvrt": "Vietnamská Čtvrť",
-    "Cast": "Trója"
-  },
-  "mi_preatrium": {
-    "Title": "Preatrium",
-    "Bordering_rooms": [
-      "mi_kahan",
-      "mi_v_vez_3_podlazi",
-      "mi_kho",
-      "mi_hnilicko",
-      "mi_labyrint",
-      "mi_quare",
-      "mi_atrium",
-      "mi_hala",
-      "mi_loosova_vila",
-      "mi_vstup",
-      "mi_atom",
-      "mi_arcanum",
-      "mi_past",
-      "mi_plomba"
-    ],
-    "Blok": "Preatrium",
-    "Okrsek": "Preatrium",
     "Ctvrt": "Vietnamská Čtvrť",
     "Cast": "Trója"
   },
@@ -4318,7 +4267,7 @@
       "mi_nadvori",
       "mi_na_nabrezi",
       "mi_gideon",
-      "mi_hotel_gi_floor_gi",
+      "mi_gi",
       "mi_pramice",
       "mi_le_pont",
       "mi_dvojcata",
@@ -4369,7 +4318,7 @@
     "Title": "Gatě",
     "Bordering_rooms": [
       "mi_mrkev",
-      "mi_hotel_gi_floor_ga",
+      "mi_ga",
       "mi_gideon",
       "mi_smycka",
       "mi_piskovna"
@@ -4390,7 +4339,7 @@
       "mi_vychodni_blok",
       "mi_jizni_blok",
       "mi_hraz",
-      "mi_hotel_gi_floor_ga",
+      "mi_ga",
       "mi_gideon",
       "mi_atlas",
       "mi_piskovna"
@@ -4886,7 +4835,7 @@
       "mi_silo",
       "mi_dira_do_pekel",
       "mi_veranda",
-      "mi_hotel_gi_floor_ga",
+      "mi_ga",
       "mi_vytahovy_mustek",
       "mi_dalnice",
       "mi_the_bridge",
@@ -5838,23 +5787,6 @@
     "Ctvrt": "Propast",
     "Cast": "Pařez"
   },
-  "mi_hotel_gi_floor_ga": {
-    "Title": "Hotel Gi Floor Ga",
-    "Bordering_rooms": [
-      "mi_cervi_dira",
-      "mi_emfora",
-      "mi_amfora",
-      "mi_hotel_gi_floor_ge",
-      "mi_gate",
-      "mi_smycka",
-      "mi_dvojcata",
-      "mi_fabrika"
-    ],
-    "Blok": "Aula Ga",
-    "Okrsek": "Ga",
-    "Ctvrt": "Gi",
-    "Cast": "Nové Dilí"
-  },
   "mi_mestsky_okruh": {
     "Title": "Městský Okruh",
     "Bordering_rooms": [
@@ -6331,19 +6263,6 @@
       "mi_draci_doupe",
       "mi_predzahradka",
       "mi_konska_sila"
-    ],
-    "Blok": "Nemovitost",
-    "Okrsek": "Doupě",
-    "Ctvrt": "Kmen",
-    "Cast": "Pařez"
-  },
-  "mi_sucho": {
-    "Title": "Sucho",
-    "Bordering_rooms": [
-      "mi_pozemek",
-      "mi_dalka",
-      "mi_retez",
-      "mi_dno"
     ],
     "Blok": "Nemovitost",
     "Okrsek": "Doupě",
@@ -7227,7 +7146,7 @@
     "Title": "Fabrika",
     "Bordering_rooms": [
       "mi_lodenice",
-      "mi_hotel_gi_floor_ga",
+      "mi_gi",
       "mi_tuk",
       "mi_trh"
     ],
@@ -7286,5 +7205,86 @@
     "Okrsek": "Veveří",
     "Ctvrt": "Kořen",
     "Cast": "Pařez"
+  },
+  "mi_sucho": {
+    "Title": "Sucho",
+    "Bordering_rooms": [
+      "mi_pozemek",
+      "mi_dalka",
+      "mi_retez",
+      "mi_dno"
+    ],
+    "Blok": "Nemovitost",
+    "Okrsek": "Doupě",
+    "Ctvrt": "Kmen",
+    "Cast": "Pařez"
+  },
+  "mi_ga": {
+    "Title": "Ga",
+    "Bordering_rooms": [
+      "mi_cervi_dira",
+      "mi_emfora",
+      "mi_amfora",
+      "mi_ge",
+      "mi_gate",
+      "mi_smycka",
+      "mi_dvojcata"
+    ],
+    "Blok": "Aula Ga",
+    "Okrsek": "Ga",
+    "Ctvrt": "Gi",
+    "Cast": "Nové Dilí"
+  },
+  "mi_ge": {
+    "Title": "Ge",
+    "Bordering_rooms": [
+      "mi_ga",
+      "mi_gi",
+      "mi_tucik"
+    ],
+    "Blok": "Aula Ge",
+    "Okrsek": "Ge",
+    "Ctvrt": "Gi",
+    "Cast": "Nové Dilí"
+  },
+  "mi_gi": {
+    "Title": "Gi",
+    "Bordering_rooms": [
+      "mi_pravo",
+      "mi_levo",
+      "mi_veranda",
+      "mi_ge",
+      "mi_balonky",
+      "mi_le_pont",
+      "mi_police",
+      "mi_fabrika"
+    ],
+    "Blok": "Aula Gi",
+    "Okrsek": "Gi",
+    "Ctvrt": "Gi",
+    "Cast": "Nové Dilí"
+  },
+  "mi_preatrium": {
+    "Title": "Preatrium",
+    "Bordering_rooms": [
+      "mi_kahan",
+      "mi_v_vez_3_podlazi",
+      "mi_kho",
+      "mi_hnilicko",
+      "mi_labyrint",
+      "mi_quare",
+      "mi_atrium",
+      "mi_hala",
+      "mi_loosova_vila",
+      "mi_vstup",
+      "mi_atom",
+      "mi_arcanum",
+      "mi_past",
+      "mi_plomba"
+    ],
+    "Blok": "Preatrium",
+    "Okrsek": "Preatrium",
+    "Ctvrt": "Vietnamská Čtvrť",
+    "Cast": "Trója"
   }
 }
