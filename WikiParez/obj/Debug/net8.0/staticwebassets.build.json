@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "KGiU+6b/TGk3A8/dGG4VeIFhENI9l9NSjQd6p1bE034=",
+  "Hash": "E/AwLbAif9Pcw72HzO/BOJytkzYabnXnFWjDapHEf0U=",
   "Source": "WikiParez",
   "BasePath": "_content/WikiParez",
   "Mode": "Default",
@@ -4214,6 +4214,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/Images/mi_meda4.png"
+    },
+    {
+      "Identity": "/root/wikiparez/WikiParez/wwwroot/Images/mi_meda5.png",
+      "SourceId": "WikiParez",
+      "SourceType": "Discovered",
+      "ContentRoot": "/root/wikiparez/WikiParez/wwwroot/",
+      "BasePath": "_content/WikiParez",
+      "RelativePath": "Images/mi_meda5.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Images/mi_meda5.png"
     },
     {
       "Identity": "/root/wikiparez/WikiParez/wwwroot/Images/mi_mestsky_okruh1.png",

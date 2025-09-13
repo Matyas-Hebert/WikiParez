@@ -139,7 +139,7 @@
     "Sections": [
       {
         "Title": "P\u0159ehled",
-        "Content": "Oranjestad je v\u00EDce\u00FArov\u0148ov\u00E1 m\u00EDstnost v [Barv\u00E1ch](bl_barvy). M\u00EDstnost je rozd\u011Blena na dv\u011B \u010D\u00E1sti a to na \u010D\u00E1st hlavn\u00ED a uli\u010Dku. Uli\u010Dka je \u010D\u00E1ste\u010Dn\u011B otev\u0159en\u00E1 chodba vedouc\u00ED z [the Crossingu](mi_the_crossing) do hlavn\u00ED \u010D\u00E1sti Oranjestadu. Do hlavn\u00ED \u010D\u00E1sti vedou 3 dal\u0161\u00ED vchody z nich\u017E dva nemaj\u00ED dve\u0159e a to vchod do [Rubce](mi_rubec) a [Beetroot farmy](mi_beetroot_farma). Jedin\u00FD vchod se dve\u0159mi vede do [Ru\u010F\u00E1kova domu](mi_rudakuv_dum).\u003C\u003C Jednou byly dve\u0159e do n\u011Bj oto\u010Deny naruby, m\u00EDstn\u00ED to pova\u017Eovali za znamen\u00ED.\u003E\u003E::0.04"
+        "Content": "Oranjestad je v\u00EDce\u00FArov\u0148ov\u00E1 m\u00EDstnost v [Barv\u00E1ch](bl_barvy) napojena mimochodem na syst\u00E9m odpadn\u00EDch rour [ORP](sp_orp). M\u00EDstnost je rozd\u011Blena na dv\u011B \u010D\u00E1sti a to na \u010D\u00E1st hlavn\u00ED a uli\u010Dku. Uli\u010Dka je \u010D\u00E1ste\u010Dn\u011B otev\u0159en\u00E1 chodba vedouc\u00ED z [the Crossingu](mi_the_crossing) do hlavn\u00ED \u010D\u00E1sti Oranjestadu. Do hlavn\u00ED \u010D\u00E1sti vedou 3 dal\u0161\u00ED vchody z nich\u017E dva nemaj\u00ED dve\u0159e a to vchod do [Rubce](mi_rubec) a [Beetroot farmy](mi_beetroot_farma). Jedin\u00FD vchod se dve\u0159mi vede do [Ru\u010F\u00E1kova domu](mi_rudakuv_dum).\u003C\u003C Jednou byly dve\u0159e do n\u011Bj oto\u010Deny naruby, m\u00EDstn\u00ED to pova\u017Eovali za znamen\u00ED.\u003E\u003E::0.04"
       },
       {
         "Title": "N\u00E1zev",
@@ -147,15 +147,19 @@
       },
       {
         "Title": "Interi\u00E9r",
-        "Content": "Interi\u00E9r Oranjestadu je zjevn\u011B rozd\u011Blen na dv\u011B \u010D\u00E1sti, hlavn\u00ED \u010D\u00E1st a uli\u010Dku.\r\nUli\u010Dka je chodba, kter\u00E1 propojuje hlavn\u00ED \u010D\u00E1st s [the Crossingem](mi_the_crossing). Na ji\u017En\u00ED stran\u011B lze nahl\u00E9dnout do [Sila](mi_silo) oknem. Na stran\u011B severn\u00ED je mal\u00FD nezasklen\u00FD v\u00FDklenek o v\u00FD\u0161ce 1-1.5 bloku j\u00EDm\u017E lze proj\u00EDt na [ulici Schodovou](mi_ulice_schodova), kter\u00E1 je 2.5 bloku n\u00ED\u017Ee.\u003C\u003C V\u00FDklenek je podle n\u011Bkter\u00FDch zdroj\u016F port\u00E1l do miniaturn\u00ED dimenze [Schodov](di_schodov).\u003E\u003E::0.05 V uli\u010Dce se tak\u00E9 nach\u00E1z\u00ED \u010Derven\u00E1 postel.\r\nV hlavn\u00ED \u010D\u00E1sti m\u016F\u017Eeme naj\u00EDt 2 crafting tably\u003C\u003C (jeden z nich je ale nefunk\u010Dn\u00ED, nebo\u0165 je vyroben z kartonu)\u003E\u003E::0.05, 3 barely a 2 \u0161ed\u00E9 postele. Ob\u011B postele jsou polo\u017Eeny na um\u011Ble vytvo\u0159en\u00FDch plo\u0161in\u00E1ch. V hlavn\u00ED \u010D\u00E1sti m\u016F\u017Eeme naj\u00EDt dvojici francouzsk\u00FDch oken s plochou p\u0159es 30 blok\u016F\u00B2 nab\u00EDzej\u00EDc\u00EDch n\u00E1dhern\u00FD v\u00FDhled na mo\u0159e."
+        "Content": "Interi\u00E9r Oranjestadu je zjevn\u011B rozd\u011Blen na dv\u011B \u010D\u00E1sti, hlavn\u00ED \u010D\u00E1st a uli\u010Dku.\r\nUli\u010Dka je chodba, kter\u00E1 propojuje hlavn\u00ED \u010D\u00E1st s [the Crossingem](mi_the_crossing). Na ji\u017En\u00ED stran\u011B lze nahl\u00E9dnout do [Sila](mi_silo) oknem. Na stran\u011B severn\u00ED je mal\u00FD nezasklen\u00FD v\u00FDklenek o v\u00FD\u0161ce 1-1.5 bloku j\u00EDm\u017E lze proj\u00EDt na [ulici Schodovou](mi_ulice_schodova), kter\u00E1 je 2.5 bloku n\u00ED\u017Ee.\u003C\u003C V\u00FDklenek je podle n\u011Bkter\u00FDch zdroj\u016F port\u00E1l do miniaturn\u00ED dimenze [Schodov](di_schodov).\u003E\u003E::0.05 V uli\u010Dce se tak\u00E9 nach\u00E1z\u00ED \u010Derven\u00E1 postel.\r\nV hlavn\u00ED \u010D\u00E1sti m\u016F\u017Eeme naj\u00EDt 2 crafting tably\u003C\u003C (jeden z nich je ale nefunk\u010Dn\u00ED, nebo\u0165 je vyroben z kartonu)\u003E\u003E::0.05, 3 barely a 2 \u0161ed\u00E9 postele. Ob\u011B postele jsou polo\u017Eeny na um\u011Ble vytvo\u0159en\u00FDch plo\u0161in\u00E1ch. V hlavn\u00ED \u010D\u00E1sti m\u016F\u017Eeme naj\u00EDt dvojici francouzsk\u00FDch oken s plochou p\u0159es 30 blok\u016F\u00B2 nab\u00EDzej\u00EDc\u00EDch n\u00E1dhern\u00FD v\u00FDhled na mo\u0159e. Jedno z oken bylo ale kv\u016Fli v\u00FDstavb\u011B [ORP](sp_orp) roury rozd\u011Bleno na dv\u011B."
       },
       {
         "Title": "Zaj\u00EDmavosti",
         "Content": "Jedna z \u0161ed\u00FDch postel\u00ED v hlavn\u00ED \u010D\u00E1sti Oranjestadu nen\u00ED jednodu\u0161e p\u0159\u00EDstupn\u00E1. Je t\u0159eba vysko\u010Dit a na postel kliknout v pr\u016Fb\u011Bhu skoku.\r\nM\u00EDstnost Rubec spojuje Oranjestad s [Basgiathem](ct_basgiath)."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "13/09/25: M\u00EDstnost napojena na syst\u00E9m odpadn\u00EDch rour [ORP](sp_orp)."
       }
     ],
     "image_id": 0,
-    "area": 64,
+    "area": 65,
     "Empty": false,
     "numberOfRooms": 0,
     "coordinates": {
@@ -170,7 +174,8 @@
     "utilities": [
       "Cra",
       "Bed",
-      "Bar"
+      "Bar",
+      "Orp"
     ]
   },
   "mi_beetroot_farma": {
@@ -499,7 +504,8 @@
       "mi_byt_chudaka_kterej_nema_rad_kluby",
       "mi_hvezda",
       "mi_oranjestad",
-      "mi_draci_rotunda"
+      "mi_draci_rotunda",
+      "mi_slouporadi"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -525,6 +531,10 @@
       {
         "Title": "Zaj\u00EDmavost",
         "Content": "Rubec je jeden ze \u010Dty\u0159 most\u016F spojuj\u00EDc\u00EDch [Basgiath](ct_basgiath) s [Pa\u0159ezem](ca_parez)."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "13/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Sloupo\u0159ad\u00ED](mi_slouporadi)."
       }
     ],
     "image_id": 0,
@@ -538,7 +548,7 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false,
+    "tobeedited": true,
     "reviews": [],
     "utilities": [
       "Non"
@@ -1160,7 +1170,8 @@
     ],
     "Bordering_rooms": [
       "mi_the_overpass",
-      "mi_chodba"
+      "mi_chodba",
+      "mi_konzole"
     ],
     "Alternate_names": [
       "D\u00FD\u0148ov\u00E1 farma",
@@ -1178,7 +1189,7 @@
     "Sections": [
       {
         "Title": "P\u0159ehled",
-        "Content": "Pu\u010Dmeloun farma je mal\u00E1 m\u00EDstnost v [Obchodn\u00EDm st\u0159edisku](ok_obchodni_stredisko). Je tvo\u0159ena t\u00E9m\u011B\u0159 kompletn\u011B farmou na melouny a d\u00FDn\u011B. Do m\u00EDstnosti se d\u00E1 dostat bu\u010F ze z\u00E1padu z [Chodby](mi_chodba) nebo z v\u00FDchodu z [Overpassu](mi_the_overpass). V m\u00EDstnosti roste 5 meloun\u016F a 5 d\u00FDn\u00ED. P\u0159i dobr\u00FDch podm\u00EDnk\u00E1ch a \u010D\u00E1st\u00E9m sb\u011Bru plodin to znamen\u00E1 1 d\u00FD\u0148ov\u00FD a melounov\u00FD blok ka\u017Ed\u00E9 3-4 minuty."
+        "Content": "Pu\u010Dmeloun farma je mal\u00E1 m\u00EDstnost v [Obchodn\u00EDm st\u0159edisku](ok_obchodni_stredisko). Je tvo\u0159ena t\u00E9m\u011B\u0159 kompletn\u011B farmou na melouny a d\u00FDn\u011B. Do m\u00EDstnosti se d\u00E1 dostat bu\u010F ze z\u00E1padu z [Chodby](mi_chodba), z v\u00FDchodu z [Overpassu](mi_the_overpass) \u010Di ze spodu skrz vodn\u00ED syst\u00E9m m\u00EDstnosti. V m\u00EDstnosti roste 5 meloun\u016F a 5 d\u00FDn\u00ED. P\u0159i dobr\u00FDch podm\u00EDnk\u00E1ch a \u010D\u00E1st\u00E9m sb\u011Bru plodin to znamen\u00E1 1 d\u00FD\u0148ov\u00FD a melounov\u00FD blok ka\u017Ed\u00E9 3-4 minuty."
       },
       {
         "Title": "N\u00E1zev",
@@ -1191,6 +1202,10 @@
       {
         "Title": "Zaj\u00EDmavosti",
         "Content": "Samotn\u00E1 farma zab\u00EDr\u00E1 77% plochy m\u00EDstnosti.\r\nM\u00EDstnost osv\u011Btluje jedin\u00E1 lanterna, kter\u00E1 vis\u00ED ze stropu.\r\nPro pr\u016Fchod m\u00EDstnost\u00ED je t\u0159eba p\u0159ej\u00EDt farmu."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "13/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Konzole](mi_konzole)."
       }
     ],
     "image_id": 0,
@@ -1348,7 +1363,7 @@
     "Sections": [
       {
         "Title": "P\u0159ehled",
-        "Content": "Lokace je obd\u00E9ln\u00EDkov\u00E1 m\u00EDstnost postaven\u00E1 v architektonick\u00E9m stylu [Hralyd](as_hralyd) s jedin\u00FDm vstupem a z [Airshipu](mi_the_airship) a z\u00E1rove\u0148 s\u00EDdlo spole\u010Dnosti [ORP](sp_orp). V m\u00EDstnosti jsou uskladn\u011Bny ve\u0161ker\u00E9 v\u011Bci, kter\u00E9 nejsou nikam za\u0159azeny ale i ty kter\u00E9 \u010Dekaj\u00ED na rozt\u0159\u00EDzen\u00ED. V Lokaci je celkem 18 barel\u016F. V\u0161echny jsou postaveny na ji\u017En\u00ED st\u011Bn\u011B m\u00EDstnosti. V m\u00EDstnosti je tak\u00E9 lectern s knihou ur\u010Denou na seznam v\u0161ech m\u00EDstnost\u00ED a jejich \u00FA\u010Del\u016F. V dob\u011B psan\u00ED tohoto \u010Dl\u00E1nku byla kniha t\u00E9m\u011B\u0159 pr\u00E1zdn\u00E1."
+        "Content": "Lokace je obd\u00E9ln\u00EDkov\u00E1 m\u00EDstnost postaven\u00E1 v architektonick\u00E9m stylu [Hralyd](as_hralyd) s jedin\u00FDm vstupem a z [Airshipu](mi_the_airship) a z\u00E1rove\u0148 s\u00EDdlo spole\u010Dnosti [ORP](sp_orp). V m\u00EDstnosti jsou uskladn\u011Bny ve\u0161ker\u00E9 v\u011Bci, kter\u00E9 nejsou nikam za\u0159azeny ale i ty kter\u00E9 \u010Dekaj\u00ED na rozt\u0159\u00EDzen\u00ED. V Lokaci bylo celkem 18 barel\u016F, ale v z\u00E1\u0159\u00ED 2025 byl tento po\u010Det zv\u00FD\u0161en na 20. Devt z nich je postaveno na ji\u017En\u00ED st\u011Bn\u011B m\u00EDstnosti a zbyl\u00E9 se nach\u00E1zej\u00ED na st\u011Bn\u011B z\u00E1padn\u00ED. V m\u00EDstnosti je tak\u00E9 lectern s knihou ur\u010Denou na seznam v\u0161ech m\u00EDstnost\u00ED a jejich \u00FA\u010Del\u016F. V dob\u011B psan\u00ED tohoto \u010Dl\u00E1nku byla kniha t\u00E9m\u011B\u0159 pr\u00E1zdn\u00E1."
       },
       {
         "Title": "N\u00E1zev",
@@ -1356,7 +1371,7 @@
       },
       {
         "Title": "Interi\u00E9r",
-        "Content": "Vstup do m\u00EDstnosti je v jihov\u00FDchodn\u00EDm rohu. Hned po lev\u00E9 stran\u011B jde vid\u011Bt st\u011Bnu s 18 barely. Barel nejv\u00EDce vpravo dole je napojen na syst\u00E9m odpadn\u00EDch rour. Ve\u0161ker\u00E9 itemy, kter\u00E9 jsou do rour vyhozeny, skon\u010D\u00ED pr\u00E1v\u011B v dan\u00E9m barelu. Uprost\u0159ed z\u00E1padn\u00ED st\u011Bny je lectern na vyv\u00FD\u0161en\u00E9m podstavci. Krom toho je zde tak\u00E9 1 crafting table, ale \u017E\u00E1dn\u00E1 postel.\r\nV\u0161echny st\u011Bny krom\u011B severn\u00ED maj\u00ED blok pod stropem okenn\u00ED tabulky.\r\nM\u00EDstnost je osv\u011Btlena lanternami."
+        "Content": "Vstup do m\u00EDstnosti je v jihov\u00FDchodn\u00EDm rohu. Hned po lev\u00E9 stran\u011B jde vid\u011Bt st\u011Bnu s 9 barely. V\u0161echny barely krom\u011B nejvzd\u00E1len\u011Bj\u0161\u00EDho jsou napojeny na syst\u00E9m odpadn\u00EDch rour [ORP](sp_orp). Ve\u0161ker\u00E9 itemy, kter\u00E9 jsou do rour vyhozeny, skon\u010D\u00ED pr\u00E1v\u011B v dan\u00FDch barelech. Uprost\u0159ed z\u00E1padn\u00ED st\u011Bny je lectern na vyv\u00FD\u0161en\u00E9m podstavci. P\u0159\u00EDmo nalevo od lecternu je ve zdi d\u00EDra s postaven\u00FDm comparatorem, kter\u00FD kdy\u017E je rosv\u00EDcen zna\u010D\u00ED, \u017Ee je syst\u00E9m p\u0159ehlcen. Na obou stran\u00E1ch z\u00E1padn\u00ED st\u011Bny je zbyl\u00FDch 11 barel\u016F ur\u010Den\u00FDch na p\u0159edrozt\u0159\u00EDzen\u00ED p\u0159edm\u011Bt\u016F. Toto je t\u0159eba aby syst\u00E9m nebyl p\u0159ehlcen. Krom toho je zde tak\u00E9 1 crafting table, ale \u017E\u00E1dn\u00E1 postel.\r\nV\u0161echny st\u011Bny krom\u011B severn\u00ED maj\u00ED blok pod stropem okenn\u00ED tabulky.\r\nM\u00EDstnost je osv\u011Btlena lanternami."
       },
       {
         "Title": "Zaj\u00EDmavosti",
@@ -1364,7 +1379,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "27/07/25: M\u00EDstnost napojena na syst\u00E9m odpadn\u00EDch rour [ORP](sp_orp)."
+        "Content": "27/07/25: M\u00EDstnost napojena na syst\u00E9m odpadn\u00EDch rour [ORP](sp_orp).\r\n13/09/25: M\u00EDstnost byla v mnoha ohledech p\u0159eorganizov\u00E1na. To p\u0159edev\u0161\u00EDm znamenalo zm\u011Bnu mechanismu [ORP](sp_orp) a s n\u00EDm spojen\u00FD p\u0159esun barel\u016F."
       }
     ],
     "image_id": 0,
@@ -17920,7 +17935,8 @@
     "Bordering_rooms": [
       "mi_andarna",
       "mi_byt_chudaka_kterej_nema_rad_kluby",
-      "mi_klub"
+      "mi_klub",
+      "mi_slouporadi"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -17946,23 +17962,27 @@
       {
         "Title": "Zaj\u00EDmavost",
         "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "13/09/25: M\u00EDstnost napojena na syst\u00E9m odpadn\u00EDch rour [ORP](sp_orp).\n13/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Sloupo\u0159ad\u00ED](mi_slouporadi)."
       }
     ],
     "image_id": 0,
-    "area": 20,
+    "area": 28,
     "Empty": true,
     "numberOfRooms": 0,
     "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
+      "x": 282,
+      "y": 79,
+      "z": 1126
     },
-    "patternleCompatible": true,
+    "patternleCompatible": false,
     "redirect": null,
     "tobeedited": false,
     "reviews": [],
     "utilities": [
-      "Non"
+      "Orp"
     ]
   },
   "mi_sgaeil": {
@@ -19185,7 +19205,8 @@
     "Image_titles": [],
     "Bordering_rooms": [
       "mi_dalnice",
-      "mi_barka"
+      "mi_barka",
+      "mi_asfaltka"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -19212,6 +19233,10 @@
       {
         "Title": "Zaj\u00EDmavost",
         "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "13/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Asfaltka](mi_asfaltka)."
       }
     ],
     "image_id": 0,
@@ -31503,7 +31528,7 @@
       "POSTEL, DVE\u0158E Z ROZHRAN\u00CD A DO DOMU MARGITY STEHL\u00CDKOV\u00C9"
     ],
     "Bordering_rooms": [
-      "mi_vault",
+      "mi_trezor",
       "mi_vypikarna",
       "mi_dum_margity_stehlikove",
       "mi_hlavni_koridor_ii",
@@ -31527,7 +31552,7 @@
     "Sections": [
       {
         "Title": "P\u0159ehled",
-        "Content": "\u00DAst\u0159edn\u00ED St\u0159edisko Alfa nebo tak\u00E9 Alfa je u\u017Eite\u010Dn\u00E1 m\u00EDstnost na [Rozhran\u00ED](mi_rozhrani). Slou\u017E\u00ED jako sklad sponge blok\u016F, masa a skla, ale tak\u00E9 soused\u00ED s [Chl\u00E9vem](mi_chlev), kde jsou chov\u00E1ny kr\u00E1vy, a s [Wheat Farmu](mi_wheat_farma), kde je p\u011Bstov\u00E1no obil\u00ED. D\u00E1le z n\u00ED vedou dve\u0159e do [Vyp\u00EDk\u00E1rny](mi_vypikarna) a do [Domu Margity Stehl\u00EDkov\u00E9](mi_dum_margity_stehlikove), \u017Eeb\u0159\u00EDk na [Hlavn\u00ED Koridor II](mi_hlavni_koridor_ii) a do [Vaultu](mi_vault).\r\nJe nutno dodat, \u017Ee \u010Dty\u0159i ze sedmi m\u00EDstnost\u00ED, jen\u017E soused\u00ED s Alfou maj\u00ED sv\u016Fj vlastn\u00ED \u00FA\u010Del. To je d\u00E1no faktem, \u017Ee se Alfa nach\u00E1z\u00ED ve st\u0159edu [zem\u011Bd\u011Blsk\u00E9 \u010D\u00E1sti domu](te_zemedelska_cast)."
+        "Content": "\u00DAst\u0159edn\u00ED St\u0159edisko Alfa nebo tak\u00E9 Alfa je u\u017Eite\u010Dn\u00E1 m\u00EDstnost na [Rozhran\u00ED](mi_rozhrani). Slou\u017E\u00ED jako sklad sponge blok\u016F, masa a skla, ale tak\u00E9 soused\u00ED s [Chl\u00E9vem](mi_chlev), kde jsou chov\u00E1ny kr\u00E1vy, a s [Wheat Farmu](mi_wheat_farma), kde je p\u011Bstov\u00E1no obil\u00ED. D\u00E1le z n\u00ED vedou dve\u0159e do [Vyp\u00EDk\u00E1rny](mi_vypikarna) a do [Domu Margity Stehl\u00EDkov\u00E9](mi_dum_margity_stehlikove), \u017Eeb\u0159\u00EDk na [Hlavn\u00ED Koridor II](mi_hlavni_koridor_ii) a do [Trezoru](mi_trezor).\r\nJe nutno dodat, \u017Ee \u010Dty\u0159i ze sedmi m\u00EDstnost\u00ED, jen\u017E soused\u00ED s Alfou maj\u00ED sv\u016Fj vlastn\u00ED \u00FA\u010Del. To je d\u00E1no faktem, \u017Ee se Alfa nach\u00E1z\u00ED ve st\u0159edu [zem\u011Bd\u011Blsk\u00E9 \u010D\u00E1sti domu](te_zemedelska_cast)."
       },
       {
         "Title": "N\u00E1zev",
@@ -31539,7 +31564,7 @@
       },
       {
         "Title": "Zaj\u00EDmavosti",
-        "Content": "M\u00EDstnost\u00ED p\u0159\u00EDmo proch\u00E1zej\u00ED v\u0161echny \u010Dty\u0159i paprsky [beaconu](beacon_parez).\r\nAlfa je jedna z m\u00E1la m\u00EDstnosti s bloky sena.\r\nV\u011Bt\u0161ina sousedn\u00EDch m\u00EDstnost\u00ED Alfy m\u00E1 sv\u016Fj vlastn\u00ED \u00FA\u010Del.\r\n\u017Deb\u0159\u00EDk do [Vaultu](mi_vault) m\u016F\u017Ee b\u00FDt ozna\u010Dov\u00E1n za nejstar\u0161\u00ED tajn\u00FD vchod v dom\u011B."
+        "Content": "M\u00EDstnost\u00ED p\u0159\u00EDmo proch\u00E1zej\u00ED v\u0161echny \u010Dty\u0159i paprsky [beaconu](beacon_parez).\r\nAlfa je jedna z m\u00E1la m\u00EDstnosti s bloky sena.\r\nV\u011Bt\u0161ina sousedn\u00EDch m\u00EDstnost\u00ED Alfy m\u00E1 sv\u016Fj vlastn\u00ED \u00FA\u010Del.\r\n\u017Deb\u0159\u00EDk do [Vaultu](mi_trezor) m\u016F\u017Ee b\u00FDt ozna\u010Dov\u00E1n za nejstar\u0161\u00ED tajn\u00FD vchod v dom\u011B."
       }
     ],
     "image_id": 0,
@@ -31620,62 +31645,6 @@
       "Bar",
       "Fur",
       "Smo"
-    ]
-  },
-  "mi_vault": {
-    "Title": "Vault",
-    "Type": "m\u00EDstnost",
-    "Images": [],
-    "Image_titles": [
-      "VAULT",
-      "ZADN\u00CD \u010C\u00C1ST"
-    ],
-    "Bordering_rooms": [
-      "mi_ustredni_stredisko_alfa"
-    ],
-    "Alternate_names": [],
-    "Metadata": {
-      "N\u00E1zev": "Vault",
-      "Blok": "[Alfa](bl_alfa)",
-      "Okrsek": "[Dub](ok_dub)",
-      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
-      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": "Vault je mal\u00E1, nen\u00E1padn\u00E1 m\u00EDstnost um\u00EDst\u011Bn\u00E1 p\u0159\u00EDmo nad [\u00DAst\u0159edn\u00EDm St\u0159ediskem Alfa](mi_ustredni_stredisko_alfa). P\u0159\u00EDstupn\u00E1 je pouze \u017Eeb\u0159\u00EDkem vedouc\u00EDm z [Alfy](mi_ustredni_stredisko_alfa) a se sv\u00FDm n\u00EDzk\u00FDm stropem p\u016Fsob\u00ED kompaktn\u00EDm, a\u017E skoro st\u00EDsn\u011Bn\u00FDm dojmem, kter\u00FD v\u0161ak podtrhuje jej\u00ED funk\u010Dn\u00ED a \u00FAkrytov\u00FD charakter."
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": "Vault v p\u0159ekladu znamen\u00E1 \u0022trezor\u0022. M\u00EDstnost z\u00EDskala sv\u016Fj n\u00E1zev d\u00EDky faktu, \u017Ee je skryta a vede do n\u00ED jedin\u00E1 cesta."
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": "Vnit\u0159n\u00ED prostor je rozd\u011Blen na dv\u011B \u010D\u00E1sti. V prvn\u00ED \u010D\u00E1sti, do kter\u00E9 vede i v\u00FD\u0161e zm\u00EDn\u011Bn\u00FD \u017Eeb\u0159\u00EDk, se nach\u00E1z\u00ED b\u00EDl\u00E1 postel, crafting table a p\u011Bt barel\u016F. Dva z t\u011Bchto barel\u016F jsou napojeny na vertik\u00E1ln\u00ED sloup barel\u016F t\u00E1hnouc\u00ED se z [\u00DAst\u0159edn\u00EDho St\u0159ediska Alfa](mi_ustredni_stredisko_alfa). Touto sekc\u00ED z\u00E1rove\u0148 proch\u00E1zej\u00ED paprsky [beaconu](beacon_parez), kter\u00E9 jsou v\u00FDrazn\u00FDm prvkem m\u00EDstnosti. Ve druh\u00E9 \u010D\u00E1sti Vaultu se nach\u00E1z\u00ED dal\u0161\u00ED dvojice barel\u016F jako dopl\u0148kov\u00FD \u00FAlo\u017En\u00FD prostor.\r\nTypick\u00FDm rysem m\u00EDstnosti jsou okna - \u010Dasto se nach\u00E1zej\u00ED t\u011Bsn\u011B u podlah jin\u00FDch m\u00EDstnost\u00ED, \u010D\u00EDm\u017E vznikaj\u00ED ne\u010Dekan\u00E9 v\u00FDhledy do okoln\u00ED struktury."
-      },
-      {
-        "Title": "Zaj\u00EDmavost",
-        "Content": "Zadn\u00ED \u010D\u00E1st prvn\u00ED \u010D\u00E1sti Vaultu se t\u0159emi barely je p\u0159\u00EDstupn\u00E1 pouze po skr\u010Den\u00ED."
-      }
-    ],
-    "image_id": 0,
-    "area": 29,
-    "Empty": false,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "patternleCompatible": true,
-    "redirect": null,
-    "tobeedited": false,
-    "reviews": [],
-    "utilities": [
-      "Cra",
-      "Bed",
-      "Bar"
     ]
   },
   "mi_nkp": {
@@ -34371,7 +34340,8 @@
       "mi_vytahova_sachta",
       "mi_zlate_schodiste",
       "mi_balkon_ctvrtka",
-      "mi_kahan"
+      "mi_kahan",
+      "mi_pucmeloun_farma"
     ],
     "Alternate_names": [
       "PLAYSTATION",
@@ -34395,11 +34365,15 @@
       },
       {
         "Title": "Interi\u00E9r",
-        "Content": "V interi\u00E9r Konzole je mno\u017Estv\u00ED plot\u016F, kter\u00E9 odd\u011Bluj\u00ED m\u00EDstnost od [Zlat\u00E9ho Schodi\u0161t\u011B](mi_zlate_schodiste) a [Balk\u00F3nu \u010Ctvrtka](mi_balkon_ctvrtka), z\u00E1rove\u0148 slou\u017E\u00ED jako z\u00E1brana proti p\u00E1du na [Pavla\u010D](mi_pavlac). Cel\u00FD prostor je zast\u0159e\u0161en\u00FD, ale d\u00EDky velk\u00FDm otvor\u016Fm a v\u00FDhled\u016Fm si zachov\u00E1v\u00E1 otev\u0159en\u00FD dojem. \u010C\u00E1st stropu tvo\u0159\u00ED trapdoory. \r\nZ m\u00EDstnosti je v\u00FDhled nejen na [Pavla\u010D](mi_pavlac) a [Papokoi](mi_papokoi), ale tak\u00E9 skrze dv\u011B velk\u00E1 okna \u2013 jedno sm\u011B\u0159uje k baz\u00E9nu v [L\u00E1zn\u00EDch Panoraama](mi_lazne_panoraama), druh\u00E9 na strom v [Kahanu](mi_kahan). V m\u00EDstnosti se nach\u00E1z\u00ED tak\u00E9 jeden crafting table."
+        "Content": "V interi\u00E9r Konzole je mno\u017Estv\u00ED plot\u016F, kter\u00E9 odd\u011Bluj\u00ED m\u00EDstnost od [Zlat\u00E9ho Schodi\u0161t\u011B](mi_zlate_schodiste) a [Balk\u00F3nu \u010Ctvrtka](mi_balkon_ctvrtka), z\u00E1rove\u0148 slou\u017E\u00ED jako z\u00E1brana proti p\u00E1du na [Pavla\u010D](mi_pavlac). Cel\u00FD prostor je zast\u0159e\u0161en\u00FD, ale d\u00EDky velk\u00FDm otvor\u016Fm a v\u00FDhled\u016Fm si zachov\u00E1v\u00E1 otev\u0159en\u00FD dojem. \u010C\u00E1st stropu tvo\u0159\u00ED trapdoory nad kter\u00FDmi je hl\u00EDna a zavla\u017Eov\u00E1n\u00ED [Pu\u010Dmeloun Farmy](mi_pucmeloun_farma), do kter\u00E9 se d\u00E1 dostat p\u0159i skoku skrz otev\u0159en\u00FD trapdoor. \r\nZ m\u00EDstnosti je v\u00FDhled nejen na [Pavla\u010D](mi_pavlac) a [Papokoi](mi_papokoi), ale tak\u00E9 skrze dv\u011B velk\u00E1 okna \u2013 jedno sm\u011B\u0159uje k baz\u00E9nu v [L\u00E1zn\u00EDch Panoraama](mi_lazne_panoraama), druh\u00E9 na strom v [Kahanu](mi_kahan). V m\u00EDstnosti se nach\u00E1z\u00ED tak\u00E9 jeden crafting table."
       },
       {
         "Title": "Zaj\u00EDmavost",
         "Content": "Trapdoory ve strop\u011B m\u00EDstnosti zakr\u00FDvaj\u00ED hl\u00EDnu z [Pu\u010Dmeloun Farmy](mi_pucmeloun_farma)."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "13/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Pu\u010Dmeloun farma](mi_pucmeloun_farma)."
       }
     ],
     "image_id": 0,
@@ -34524,7 +34498,7 @@
       },
       {
         "Title": "Interi\u00E9r",
-        "Content": "M\u00EDstnost m\u00E1 p\u016Fdorys 5\u00D74 bloky a v\u00FD\u0161ku \u0161est blok\u016F. Uprost\u0159ed se nach\u00E1z\u00ED le\u0161en\u00ED vedouc\u00ED dol\u016F do [Domu Z\u00E1visti](mi_dum_zavisti). Za n\u00EDm jsou um\u00EDst\u011Bny dva \u00FAly postaven\u00E9 nad dv\u011Bma t\u00E1bor\u00E1ky. V rohu m\u00EDstnosti, vedle \u00FAl\u016F, jsou polo\u017Een\u00E9 dva travnat\u00E9 bloky s pampeli\u0161kami slou\u017E\u00EDc\u00EDmi k opylov\u00E1n\u00ED. Na strop\u011B m\u016F\u017Eeme vid\u011Bt \u010Dty\u0159i bloky dubov\u00E9ho list\u00ED v ka\u017Ed\u00E9m rohu m\u00EDstnosti.\r\nBl\u00EDzko dve\u0159\u00ED z [Alfy](mi_ustredni_stredisko_alfa) se nach\u00E1z\u00ED dva barely na uskladn\u011Bn\u00ED v\u010Del\u00EDch produkt\u016F a tak\u00E9 jeden crafting table.\r\nM\u00EDstnost byla p\u016Fvodn\u011B osv\u011Btlena \u010Dty\u0159mi \u0161estiblokov\u00FDmi gotick\u00FDmi okny \u2013 po jednom na ka\u017Ed\u00E9 stran\u011B. Dnes z\u016Fstala v p\u016Fvodn\u00EDm stavu pouze dv\u011B z nich. Okno na stran\u011B sm\u011B\u0159uj\u00EDc\u00ED k [\u00DAst\u0159edn\u00EDmu St\u0159edisku](mi_ustredni_stredisko_alfa) je rozd\u011Bleno podlahou m\u00EDstnosti [Vault](mi_vault) a z\u00E1rove\u0148 j\u00EDm proch\u00E1zej\u00ED dve\u0159e. Okno na v\u00FDchodn\u00ED stran\u011B je \u010D\u00E1ste\u010Dn\u011B zakryto druh\u00FDm patrem [Vyp\u00EDk\u00E1rny](mi_vypikarna), kter\u00E1 ho rozd\u011Bluje na dv\u011B \u010D\u00E1sti. "
+        "Content": "M\u00EDstnost m\u00E1 p\u016Fdorys 5\u00D74 bloky a v\u00FD\u0161ku \u0161est blok\u016F. Uprost\u0159ed se nach\u00E1z\u00ED le\u0161en\u00ED vedouc\u00ED dol\u016F do [Domu Z\u00E1visti](mi_dum_zavisti). Za n\u00EDm jsou um\u00EDst\u011Bny dva \u00FAly postaven\u00E9 nad dv\u011Bma t\u00E1bor\u00E1ky. V rohu m\u00EDstnosti, vedle \u00FAl\u016F, jsou polo\u017Een\u00E9 dva travnat\u00E9 bloky s pampeli\u0161kami slou\u017E\u00EDc\u00EDmi k opylov\u00E1n\u00ED. Na strop\u011B m\u016F\u017Eeme vid\u011Bt \u010Dty\u0159i bloky dubov\u00E9ho list\u00ED v ka\u017Ed\u00E9m rohu m\u00EDstnosti.\r\nBl\u00EDzko dve\u0159\u00ED z [Alfy](mi_ustredni_stredisko_alfa) se nach\u00E1z\u00ED dva barely na uskladn\u011Bn\u00ED v\u010Del\u00EDch produkt\u016F a tak\u00E9 jeden crafting table.\r\nM\u00EDstnost byla p\u016Fvodn\u011B osv\u011Btlena \u010Dty\u0159mi \u0161estiblokov\u00FDmi gotick\u00FDmi okny \u2013 po jednom na ka\u017Ed\u00E9 stran\u011B. Dnes z\u016Fstala v p\u016Fvodn\u00EDm stavu pouze dv\u011B z nich. Okno na stran\u011B sm\u011B\u0159uj\u00EDc\u00ED k [\u00DAst\u0159edn\u00EDmu St\u0159edisku](mi_ustredni_stredisko_alfa) je rozd\u011Bleno podlahou m\u00EDstnosti [Trezor](mi_trezor) a z\u00E1rove\u0148 j\u00EDm proch\u00E1zej\u00ED dve\u0159e. Okno na v\u00FDchodn\u00ED stran\u011B je \u010D\u00E1ste\u010Dn\u011B zakryto druh\u00FDm patrem [Vyp\u00EDk\u00E1rny](mi_vypikarna), kter\u00E1 ho rozd\u011Bluje na dv\u011B \u010D\u00E1sti. "
       },
       {
         "Title": "Zaj\u00EDmavost",
@@ -44131,7 +44105,8 @@
       "mi_svihak",
       "mi_garaz",
       "mi_privoz",
-      "mi_sklep"
+      "mi_sklep",
+      "mi_slouporadi"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -44160,7 +44135,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "07/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Sklep](mi_sklep)."
+        "Content": "07/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Sklep](mi_sklep).\n13/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Sloupo\u0159ad\u00ED](mi_slouporadi)."
       }
     ],
     "image_id": 0,
@@ -45655,8 +45630,8 @@
     ],
     "Metadata": {
       "N\u00E1zev": "Ga",
-      "Blok": "[Aula Ga](bl_aula_ga)",
-      "Okrsek": "[Ga](ok_ga)",
+      "Blok": "[Ga](bl_ga)",
+      "Okrsek": "[Hotel Gi](ok_hotel_gi)",
       "\u010Ctvr\u0165": "[Gi](ct_gi)",
       "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
     },
@@ -45715,8 +45690,8 @@
     ],
     "Metadata": {
       "N\u00E1zev": "Ge",
-      "Blok": "[Aula Ge](bl_aula_ge)",
-      "Okrsek": "[Ge](ok_ga)",
+      "Blok": "[Ge](bl_ge)",
+      "Okrsek": "[Hotel Gi](ok_hotel_gi)",
       "\u010Ctvr\u0165": "[Gi](ct_gi)",
       "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
     },
@@ -45780,8 +45755,8 @@
     ],
     "Metadata": {
       "N\u00E1zev": "Gi",
-      "Blok": "[Aula Gi](bl_aula_gi)",
-      "Okrsek": "[Gi](ok_gi)",
+      "Blok": "[Gi](bl_gi)",
+      "Okrsek": "[Hotel Gi](ok_hotel_gi)",
       "\u010Ctvr\u0165": "[Gi](ct_gi)",
       "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
     },
@@ -46456,5 +46431,454 @@
     "utilities": [
       "Cra"
     ]
-  }
+  },
+  "mi_asfaltka": {
+    "Title": "Asfaltka",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_parek",
+      "mi_drevnik",
+      "mi_papir"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Asfaltka",
+      "Blok": "[Pap\u00EDrny](bl_papirny)",
+      "Okrsek": "[Grónská Zem](ok_gronska_zem)",
+      "\u010Ctvr\u0165": "[Lednice](ct_lednice)",
+      "\u010C\u00E1st": "[Sibi\u0159](ca_sibir)",
+      "\u00DA\u010Del": "Ledov\u00E1 d\u00E1lnice"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 197,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": [
+      "Cra",
+      "Bar",
+      "Ic2"
+    ]
+  },
+  "mi_drevnik": {
+    "Title": "D\u0159evn\u00EDk",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_asfaltka"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "D\u0159evn\u00EDk",
+      "Blok": "[D\u0159evn\u00EDk](bl_drevnik)",
+      "Okrsek": "[Grónská Zem](ok_gronska_zem)",
+      "\u010Ctvr\u0165": "[Lednice](ct_lednice)",
+      "\u010C\u00E1st": "[Sibi\u0159](ca_sibir)",
+      "\u00DA\u010Del": "Strom"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 114,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 846,
+      "y": 33,
+      "z": 1736
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": [
+      "Sp8"
+    ]
+  },
+  "mi_papir": {
+    "Title": "Pap\u00EDr",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_asfaltka"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Pap\u00EDr",
+      "Blok": "[Vtip](bl_vtip)",
+      "Okrsek": "[Nord](ok_nord)",
+      "\u010Ctvr\u0165": "[Goias](ct_goias)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)",
+      "\u00DA\u010Del": "End port\u00E1l"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 251,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": [
+      "En1",
+      "Cra",
+      "Bar",
+      "Bed",
+      "Net"
+    ]
+  },
+  "mi_trezor": {
+    "Title": "Trezor",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "VAULT",
+      "ZADN\u00CD \u010C\u00C1ST"
+    ],
+    "Bordering_rooms": [
+      "mi_ustredni_stredisko_alfa"
+    ],
+    "Alternate_names": [
+      "Vault"
+    ],
+    "Metadata": {
+      "N\u00E1zev": "Trezor",
+      "Blok": "[Alfa](bl_alfa)",
+      "Okrsek": "[Dub](ok_dub)",
+      "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Trezor d\u0159\u00EDve Vault je mal\u00E1, nen\u00E1padn\u00E1 m\u00EDstnost um\u00EDst\u011Bn\u00E1 p\u0159\u00EDmo nad [\u00DAst\u0159edn\u00EDm St\u0159ediskem Alfa](mi_ustredni_stredisko_alfa). P\u0159\u00EDstupn\u00E1 je pouze \u017Eeb\u0159\u00EDkem vedouc\u00EDm z [Alfy](mi_ustredni_stredisko_alfa) a se sv\u00FDm n\u00EDzk\u00FDm stropem p\u016Fsob\u00ED kompaktn\u00EDm, a\u017E skoro st\u00EDsn\u011Bn\u00FDm dojmem, kter\u00FD v\u0161ak podtrhuje jej\u00ED funk\u010Dn\u00ED a \u00FAkrytov\u00FD charakter."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Vault v p\u0159ekladu znamen\u00E1 \u0022trezor\u0022. M\u00EDstnost z\u00EDskala sv\u016Fj n\u00E1zev d\u00EDky faktu, \u017Ee je skryta a vede do n\u00ED jedin\u00E1 cesta.\r\nM\u00EDstnost byla pozd\u011Bji p\u0159ejmenovan\u00E1 na trezor z d\u016Fvodu po\u010De\u0161t\u011Bn\u00ED."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "Vnit\u0159n\u00ED prostor je rozd\u011Blen na dv\u011B \u010D\u00E1sti. V prvn\u00ED \u010D\u00E1sti, do kter\u00E9 vede i v\u00FD\u0161e zm\u00EDn\u011Bn\u00FD \u017Eeb\u0159\u00EDk, se nach\u00E1z\u00ED b\u00EDl\u00E1 postel, crafting table a p\u011Bt barel\u016F. Dva z t\u011Bchto barel\u016F jsou napojeny na vertik\u00E1ln\u00ED sloup barel\u016F t\u00E1hnouc\u00ED se z [\u00DAst\u0159edn\u00EDho St\u0159ediska Alfa](mi_ustredni_stredisko_alfa). Touto sekc\u00ED z\u00E1rove\u0148 proch\u00E1zej\u00ED paprsky [beaconu](beacon_parez), kter\u00E9 jsou v\u00FDrazn\u00FDm prvkem m\u00EDstnosti. Ve druh\u00E9 \u010D\u00E1sti Trezoru se nach\u00E1z\u00ED dal\u0161\u00ED dvojice barel\u016F jako dopl\u0148kov\u00FD \u00FAlo\u017En\u00FD prostor.\r\nTypick\u00FDm rysem m\u00EDstnosti jsou okna - \u010Dasto se nach\u00E1zej\u00ED t\u011Bsn\u011B u podlah jin\u00FDch m\u00EDstnost\u00ED, \u010D\u00EDm\u017E vznikaj\u00ED ne\u010Dekan\u00E9 v\u00FDhledy do okoln\u00ED struktury."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zadn\u00ED \u010D\u00E1st prvn\u00ED \u010D\u00E1sti Vaultu se t\u0159emi barely je p\u0159\u00EDstupn\u00E1 pouze po skr\u010Den\u00ED."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "13/09/25: P\u0159ejmenov\u00E1no z Vault na Trezor."
+      }
+    ],
+    "image_id": 0,
+    "area": 29,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": [
+      "Cra",
+      "Bed",
+      "Bar"
+    ]
+  },
+  "mi_slouporadi": {
+    "Title": "Sloupo\u0159ad\u00ED",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_piskovna",
+      "mi_garaz",
+      "mi_pila",
+      "mi_rubec"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Sloupo\u0159ad\u00ED",
+      "Blok": "[Sloupo\u0159ad\u00ED](bl_slouporadi)",
+      "Okrsek": "[Rotunda](ok_rotunda)",
+      "\u010Ctvr\u0165": "[Basgiath](ct_basgiath)",
+      "\u010C\u00E1st": "[Sibi\u0159](ca_sibir)",
+      "\u00DA\u010Del": "Ledov\u00E1 d\u00E1lnice"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 320,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": [
+      "Orp",
+      "Ic2"
+    ]
+  },
+  "bl_papirny": {
+            "Title": "Papírny",
+            "Type": "blok",
+            "Images": [],
+            "Image_titles": [],
+            "Bordering_rooms": [],
+            "Alternate_names": [],
+            "Metadata": {
+                "Název": "Papírny",
+                "Okrsek": "[Grónská Zem](ok_gronska_zem)",
+                "Čtvrť": "[Lednice](ct_lednice)",
+                "Část": "[Sibiř](ca_sibir)"
+            },
+            "Sections": [
+                {
+                    "Title": "Přehled",
+                    "Content": ""
+                },
+                {
+                    "Title": "Název",
+                    "Content": ""
+                },
+                {
+                    "Title": "Interiér",
+                    "Content": ""
+                },
+                {
+                    "Title": "Zajímavosti",
+                    "Content": ""
+                },
+                {
+                    "Title": "Aktuality",
+                    "Content": ""
+                }
+            ],
+            "image_id": 0,
+            "area": 0,
+            "Empty": true,
+            "numberOfRooms": 0,
+            "redirect": null,
+            "tobeedited": false
+            },
+"bl_drevnik": {
+            "Title": "Dřevník",
+            "Type": "blok",
+            "Images": [],
+            "Image_titles": [],
+            "Bordering_rooms": [],
+            "Alternate_names": [],
+            "Metadata": {
+                "Název": "Dřevník",
+                "Okrsek": "[Grónská Zem](ok_gronska_zem)",
+                "Čtvrť": "[Lednice](ct_lednice)",
+                "Část": "[Sibiř](ca_sibir)"
+            },
+            "Sections": [
+                {
+                    "Title": "Přehled",
+                    "Content": ""
+                },
+                {
+                    "Title": "Název",
+                    "Content": ""
+                },
+                {
+                    "Title": "Interiér",
+                    "Content": ""
+                },
+                {
+                    "Title": "Zajímavosti",
+                    "Content": ""
+                },
+                {
+                    "Title": "Aktuality",
+                    "Content": ""
+                }
+            ],
+            "image_id": 0,
+            "area": 0,
+            "Empty": true,
+            "numberOfRooms": 0,
+            "redirect": null,
+            "tobeedited": false
+            },
+"bl_slouporadi": {
+            "Title": "Sloupořadí",
+            "Type": "blok",
+            "Images": [],
+            "Image_titles": [],
+            "Bordering_rooms": [],
+            "Alternate_names": [],
+            "Metadata": {
+                "Název": "Sloupořadí",
+                "Okrsek": "[Rotunda](ok_rotunda)",
+                "Čtvrť": "[Basgiath](ct_basgiath)",
+                "Část": "[Sibiř](ca_sibir)"
+            },
+            "Sections": [
+                {
+                    "Title": "Přehled",
+                    "Content": ""
+                },
+                {
+                    "Title": "Název",
+                    "Content": ""
+                },
+                {
+                    "Title": "Interiér",
+                    "Content": ""
+                },
+                {
+                    "Title": "Zajímavosti",
+                    "Content": ""
+                },
+                {
+                    "Title": "Aktuality",
+                    "Content": ""
+                }
+            ],
+            "image_id": 0,
+            "area": 0,
+            "Empty": true,
+            "numberOfRooms": 0,
+            "redirect": null,
+            "tobeedited": false
+            },
+"ok_gronska_zem": {
+            "Title": "Grónská Zem",
+            "Type": "okrsek",
+            "Images": [],
+            "Image_titles": [],
+            "Bordering_rooms": [],
+            "Alternate_names": [],
+            "Metadata": {
+                "Název": "Grónská Zem",
+                "Čtvrť": "[Lednice](ct_lednice)",
+                "Část": "[Sibiř](ca_sibir)"
+            },
+            "Sections": [
+                {
+                    "Title": "Přehled",
+                    "Content": ""
+                },
+                {
+                    "Title": "Název",
+                    "Content": ""
+                },
+                {
+                    "Title": "Interiér",
+                    "Content": ""
+                },
+                {
+                    "Title": "Zajímavosti",
+                    "Content": ""
+                },
+                {
+                    "Title": "Aktuality",
+                    "Content": ""
+                }
+            ],
+            "image_id": 0,
+            "area": 0,
+            "Empty": true,
+            "numberOfRooms": 0,
+            "redirect": null,
+            "tobeedited": false
+            }
 }

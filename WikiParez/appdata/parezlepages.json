@@ -1,5 +1,5 @@
 {
-  "version": "1.5.3",
+  "version": "1.5.4",
   "mi_rudakuv_dum": {
     "Title": "Ruďákův dům",
     "Bordering_rooms": [
@@ -121,7 +121,8 @@
       "mi_byt_chudaka_kterej_nema_rad_kluby",
       "mi_hvezda",
       "mi_oranjestad",
-      "mi_draci_rotunda"
+      "mi_draci_rotunda",
+      "mi_slouporadi"
     ],
     "Blok": "Vídeň",
     "Okrsek": "Benátky",
@@ -216,7 +217,8 @@
     "Title": "Pučmeloun farma",
     "Bordering_rooms": [
       "mi_the_overpass",
-      "mi_chodba"
+      "mi_chodba",
+      "mi_konzole"
     ],
     "Blok": "Spojnice",
     "Okrsek": "Obchodní středisko",
@@ -3722,7 +3724,8 @@
     "Bordering_rooms": [
       "mi_andarna",
       "mi_byt_chudaka_kterej_nema_rad_kluby",
-      "mi_klub"
+      "mi_klub",
+      "mi_slouporadi"
     ],
     "Blok": "Jezdci",
     "Okrsek": "Čtvrté Křídlo",
@@ -4033,7 +4036,8 @@
     "Title": "Párek",
     "Bordering_rooms": [
       "mi_dalnice",
-      "mi_barka"
+      "mi_barka",
+      "mi_asfaltka"
     ],
     "Blok": "Párek",
     "Okrsek": "Lednice",
@@ -4891,7 +4895,7 @@
   "mi_ustredni_stredisko_alfa": {
     "Title": "Ústřední středisko Alfa",
     "Bordering_rooms": [
-      "mi_vault",
+      "mi_trezor",
       "mi_vypikarna",
       "mi_dum_margity_stehlikove",
       "mi_hlavni_koridor_ii",
@@ -4910,16 +4914,6 @@
       "mi_ustredni_stredisko_alfa",
       "mi_the_bridge",
       "mi_mestsky_okruh"
-    ],
-    "Blok": "Alfa",
-    "Okrsek": "Dub",
-    "Ctvrt": "Kořen",
-    "Cast": "Pařez"
-  },
-  "mi_vault": {
-    "Title": "Vault",
-    "Bordering_rooms": [
-      "mi_ustredni_stredisko_alfa"
     ],
     "Blok": "Alfa",
     "Okrsek": "Dub",
@@ -5505,7 +5499,8 @@
       "mi_vytahova_sachta",
       "mi_zlate_schodiste",
       "mi_balkon_ctvrtka",
-      "mi_kahan"
+      "mi_kahan",
+      "mi_pucmeloun_farma"
     ],
     "Blok": "Pavlač",
     "Okrsek": "Smrk",
@@ -7034,7 +7029,8 @@
       "mi_svihak",
       "mi_garaz",
       "mi_privoz",
-      "mi_sklep"
+      "mi_sklep",
+      "mi_slouporadi"
     ],
     "Blok": "Pískovna",
     "Okrsek": "Pískovna",
@@ -7230,8 +7226,8 @@
       "mi_smycka",
       "mi_dvojcata"
     ],
-    "Blok": "Aula Ga",
-    "Okrsek": "Ga",
+    "Blok": "Ga",
+    "Okrsek": "Hotel Gi",
     "Ctvrt": "Gi",
     "Cast": "Nové Dilí"
   },
@@ -7242,8 +7238,8 @@
       "mi_gi",
       "mi_tucik"
     ],
-    "Blok": "Aula Ge",
-    "Okrsek": "Ge",
+    "Blok": "Ge",
+    "Okrsek": "Hotel Gi",
     "Ctvrt": "Gi",
     "Cast": "Nové Dilí"
   },
@@ -7259,8 +7255,8 @@
       "mi_police",
       "mi_fabrika"
     ],
-    "Blok": "Aula Gi",
-    "Okrsek": "Gi",
+    "Blok": "Gi",
+    "Okrsek": "Hotel Gi",
     "Ctvrt": "Gi",
     "Cast": "Nové Dilí"
   },
@@ -7286,5 +7282,60 @@
     "Okrsek": "Preatrium",
     "Ctvrt": "Vietnamská Čtvrť",
     "Cast": "Trója"
+  },
+  "mi_asfaltka": {
+    "Title": "Asfaltka",
+    "Bordering_rooms": [
+      "mi_parek",
+      "mi_drevnik",
+      "mi_papir"
+    ],
+    "Blok": "Papírny",
+    "Okrsek": "Papírny",
+    "Ctvrt": "Lednice",
+    "Cast": "Sibiř"
+  },
+  "mi_drevnik": {
+    "Title": "Dřevník",
+    "Bordering_rooms": [
+      "mi_asfaltka"
+    ],
+    "Blok": "Dřevník",
+    "Okrsek": "Papírny",
+    "Ctvrt": "Lednice",
+    "Cast": "Sibiř"
+  },
+  "mi_papir": {
+    "Title": "Papír",
+    "Bordering_rooms": [
+      "mi_asfaltka"
+    ],
+    "Blok": "Vtip",
+    "Okrsek": "Nord",
+    "Ctvrt": "Goias",
+    "Cast": "Nové Dilí"
+  },
+  "mi_trezor": {
+    "Title": "Trezor",
+    "Bordering_rooms": [
+      "mi_ustredni_stredisko_alfa"
+    ],
+    "Blok": "Alfa",
+    "Okrsek": "Dub",
+    "Ctvrt": "Kořen",
+    "Cast": "Pařez"
+  },
+  "mi_slouporadi": {
+    "Title": "Sloupořadí",
+    "Bordering_rooms": [
+      "mi_piskovna",
+      "mi_garaz",
+      "mi_pila",
+      "mi_rubec"
+    ],
+    "Blok": "Sloupořadí",
+    "Okrsek": "Rotunda",
+    "Ctvrt": "Basgiath",
+    "Cast": "Sibiř"
   }
 }
