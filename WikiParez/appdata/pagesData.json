@@ -2433,7 +2433,8 @@
       "mi_holubnik",
       "mi_hmla",
       "mi_dolni_nadrazi",
-      "mi_konska_sila"
+      "mi_konska_sila",
+      "mi_najezd"
     ],
     "Alternate_names": [
       "Pil\u00ED\u0159"
@@ -2465,7 +2466,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "22/06/25: Do v\u00FDtahu z [\u017Delezn\u00E9 Lhoty](mi_zelezna_lhota) se d\u00E1 vstoupit z [Hr\u00E1ze](mi_hraz).\r\n22/06/25: D\u00E1lni\u010Dn\u00ED Pil\u00ED\u0159 soused\u00ED s [Pr\u00E1hem](mi_prah).\r\n07/07/25: \u0022V\u00FDtah\u0022 dol\u016F u [\u017Delezn\u00E9 Lhoty](mi_zelezna_lhota) vede [Pod Vrbu](mi_pod_vrbou).\r\n12/07/25: Nov\u00FD vchod na [Dvoj\u010Data](mi_dvojcata).\r\n20/07/25: Nov\u00E9 vstupy do [Hmly](mi_hmla) a [Holubn\u00EDku](mi_holubnik).\r\n27/07/25: D\u00E1lnice nov\u011B soused\u00ED s [Doln\u00EDm N\u00E1dra\u017E\u00EDm](mi_dolni_nadrazi).\r\n27/07/25: Skrz d\u00E1lnice vede [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha).\r\n17/08/25: M\u00EDstnost nov\u011B soused\u00ED s [Ko\u0148skou Silou](mi_konska_sila)."
+        "Content": "22/06/25: Do v\u00FDtahu z [\u017Delezn\u00E9 Lhoty](mi_zelezna_lhota) se d\u00E1 vstoupit z [Hr\u00E1ze](mi_hraz).\r\n22/06/25: D\u00E1lni\u010Dn\u00ED Pil\u00ED\u0159 soused\u00ED s [Pr\u00E1hem](mi_prah).\r\n07/07/25: \u0022V\u00FDtah\u0022 dol\u016F u [\u017Delezn\u00E9 Lhoty](mi_zelezna_lhota) vede [Pod Vrbu](mi_pod_vrbou).\r\n12/07/25: Nov\u00FD vchod na [Dvoj\u010Data](mi_dvojcata).\r\n20/07/25: Nov\u00E9 vstupy do [Hmly](mi_hmla) a [Holubn\u00EDku](mi_holubnik).\r\n27/07/25: D\u00E1lnice nov\u011B soused\u00ED s [Doln\u00EDm N\u00E1dra\u017E\u00EDm](mi_dolni_nadrazi).\r\n27/07/25: Skrz d\u00E1lnice vede [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha).\r\n17/08/25: M\u00EDstnost nov\u011B soused\u00ED s [Ko\u0148skou Silou](mi_konska_sila).\n14/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [N\u00E1jezd](mi_najezd)."
       }
     ],
     "image_id": 0,
@@ -2479,7 +2480,7 @@
     },
     "patternleCompatible": false,
     "redirect": null,
-    "tobeedited": false,
+    "tobeedited": true,
     "reviews": [
       {
         "stars": 4.5,
@@ -14041,7 +14042,8 @@
       "mi_podlir",
       "mi_tamtam",
       "mi_papokoi",
-      "mi_konska_sila"
+      "mi_konska_sila",
+      "mi_technicka_mistnost"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -14070,7 +14072,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "07/09/25: V m\u00EDstnosti je nov\u011B postel."
+        "Content": "07/09/25: V m\u00EDstnosti je nov\u011B postel.\n14/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Technick\u00E1 M\u00EDstnost](mi_technicka_mistnost)."
       }
     ],
     "image_id": 0,
@@ -14526,7 +14528,8 @@
     "Bordering_rooms": [
       "mi_hanojska_vez",
       "mi_v_vez_1_podlazi",
-      "mi_mez"
+      "mi_mez",
+      "mi_naplavka"
     ],
     "Alternate_names": [
       "vietnamsk\u00E1 m\u00EDstnost"
@@ -14557,7 +14560,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "31/08/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Mez](mi_mez)."
+        "Content": "31/08/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Mez](mi_mez).\n14/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [N\u00E1plavka](mi_naplavka)."
       }
     ],
     "image_id": 0,
@@ -15413,7 +15416,8 @@
     "Image_titles": [],
     "Bordering_rooms": [
       "mi_gideon_tunel",
-      "mi_na_nabrezi"
+      "mi_na_nabrezi",
+      "mi_baterie"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -15439,10 +15443,14 @@
       {
         "Title": "Zaj\u00EDmavost",
         "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "14/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Baterie](mi_baterie).\r\n14/09/25: Nov\u00FD crafting table v m\u00EDstnost \u002B zv\u011Bt\u0161n\u00ED o 3 bloky \u010Dtvere\u010Dn\u00ED."
       }
     ],
     "image_id": 0,
-    "area": 27,
+    "area": 30,
     "Empty": true,
     "numberOfRooms": 0,
     "coordinates": {
@@ -15455,7 +15463,7 @@
     "tobeedited": false,
     "reviews": [],
     "utilities": [
-      "Non"
+      "Cra"
     ]
   },
   "mi_nekonecno": {
@@ -15793,7 +15801,8 @@
       "mi_namornik",
       "mi_arkada",
       "mi_trigon",
-      "mi_ortofrater"
+      "mi_ortofrater",
+      "mi_naplavka"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -15822,7 +15831,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "26/07/25: M\u00EDstnost\u00ED proch\u00E1z\u00ED [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha)"
+        "Content": "26/07/25: M\u00EDstnost\u00ED proch\u00E1z\u00ED [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha)\n14/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [N\u00E1plavka](mi_naplavka)."
       }
     ],
     "image_id": 0,
@@ -15906,7 +15915,8 @@
     "Image_titles": [],
     "Bordering_rooms": [
       "mi_trigon",
-      "mi_atrium"
+      "mi_atrium",
+      "mi_naplavka"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -15932,6 +15942,10 @@
       {
         "Title": "Zaj\u00EDmavost",
         "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "14/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [N\u00E1plavka](mi_naplavka)."
       }
     ],
     "image_id": 0,
@@ -16195,7 +16209,8 @@
       "mi_sklenik_zapad",
       "mi_nexus",
       "mi_preatrium",
-      "mi_centrofrater"
+      "mi_centrofrater",
+      "mi_bidet"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -16221,6 +16236,10 @@
       {
         "Title": "Zaj\u00EDmavost",
         "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "14/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Bidet](mi_bidet)."
       }
     ],
     "image_id": 0,
@@ -18745,7 +18764,8 @@
       "mi_plac",
       "mi_vytahova_sachta",
       "mi_arkada",
-      "mi_papokoi"
+      "mi_papokoi",
+      "mi_naplavka"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -18771,6 +18791,10 @@
       {
         "Title": "Zaj\u00EDmavost",
         "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "14/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [N\u00E1plavka](mi_naplavka)."
       }
     ],
     "image_id": 0,
@@ -18850,7 +18874,8 @@
     "Images": [],
     "Image_titles": [],
     "Bordering_rooms": [
-      "mi_labyrint"
+      "mi_labyrint",
+      "mi_naplavka"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -18876,6 +18901,10 @@
       {
         "Title": "Zaj\u00EDmavost",
         "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "14/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [N\u00E1plavka](mi_naplavka)."
       }
     ],
     "image_id": 0,
@@ -20260,7 +20289,8 @@
       "mi_pramice",
       "mi_le_pont",
       "mi_dvojcata",
-      "mi_na_nabrezi"
+      "mi_na_nabrezi",
+      "mi_baterie"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -20290,7 +20320,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "12/07/25: Nov\u00FD vchod do [Dvoj\u010Dat](mi_dvojcata).\r\n26/07/25: M\u00EDstnost\u00ED proch\u00E1z\u00ED [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha).\r\n26/07/25: M\u00EDstnost soused\u00ED s [Na N\u00E1b\u0159e\u017E\u00ED](mi_na_nabrezi).\r\n17/08/25: Veranda nov\u011B soused\u00ED s [Pit Stopem](mi_pit_stop) m\u00EDsto [Kan\u00E1lu](mi_kanal)."
+        "Content": "12/07/25: Nov\u00FD vchod do [Dvoj\u010Dat](mi_dvojcata).\r\n26/07/25: M\u00EDstnost\u00ED proch\u00E1z\u00ED [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha).\r\n26/07/25: M\u00EDstnost soused\u00ED s [Na N\u00E1b\u0159e\u017E\u00ED](mi_na_nabrezi).\r\n17/08/25: Veranda nov\u011B soused\u00ED s [Pit Stopem](mi_pit_stop) m\u00EDsto [Kan\u00E1lu](mi_kanal).\n14/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Baterie](mi_baterie)."
       }
     ],
     "image_id": 0,
@@ -32234,7 +32264,8 @@
     "Images": [],
     "Image_titles": [],
     "Bordering_rooms": [
-      "mi_cary"
+      "mi_cary",
+      "mi_baterie"
     ],
     "Alternate_names": [
       "Garcons"
@@ -32265,7 +32296,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "19/07/25: P\u0159ejmenov\u00E1no z Garcons na Amulet."
+        "Content": "19/07/25: P\u0159ejmenov\u00E1no z Garcons na Amulet.\n14/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Baterie](mi_baterie)."
       }
     ],
     "image_id": 0,
@@ -38690,7 +38721,8 @@
     "Image_titles": [],
     "Bordering_rooms": [
       "mi_okap",
-      "mi_halusky"
+      "mi_halusky",
+      "mi_vzduchotechnika"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -38716,6 +38748,10 @@
       {
         "Title": "Zaj\u00EDmavost",
         "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "14/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Vzduchotechnika](mi_vzduchotechnika)."
       }
     ],
     "image_id": 0,
@@ -46375,7 +46411,9 @@
       "mi_atom",
       "mi_arcanum",
       "mi_past",
-      "mi_plomba"
+      "mi_plomba",
+      "mi_splet",
+      "mi_bidet"
     ],
     "Alternate_names": [
       "P\u0159edatrium"
@@ -46406,7 +46444,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "31/08/25: M\u00EDstnost zv\u011Bt\u0161ena o 14 blok\u016F \u010Dtvere\u010Dn\u00EDch.\r\n31/08/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Past](mi_past).\r\n31/08/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Plomba](mi_plomba)."
+        "Content": "31/08/25: M\u00EDstnost zv\u011Bt\u0161ena o 14 blok\u016F \u010Dtvere\u010Dn\u00EDch.\r\n31/08/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Past](mi_past).\r\n31/08/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Plomba](mi_plomba).\n14/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Sple\u0165](mi_splet).\n14/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Bidet](mi_bidet)."
       }
     ],
     "image_id": 0,
@@ -46420,7 +46458,7 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false,
+    "tobeedited": true,
     "reviews": [
       {
         "stars": 4.5,
@@ -46446,7 +46484,7 @@
     "Metadata": {
       "N\u00E1zev": "Asfaltka",
       "Blok": "[Pap\u00EDrny](bl_papirny)",
-      "Okrsek": "[Grónská Zem](ok_gronska_zem)",
+      "Okrsek": "[Gr\u00F3nsk\u00E1 Zem](ok_gronska_zem)",
       "\u010Ctvr\u0165": "[Lednice](ct_lednice)",
       "\u010C\u00E1st": "[Sibi\u0159](ca_sibir)",
       "\u00DA\u010Del": "Ledov\u00E1 d\u00E1lnice"
@@ -46500,7 +46538,7 @@
     "Metadata": {
       "N\u00E1zev": "D\u0159evn\u00EDk",
       "Blok": "[D\u0159evn\u00EDk](bl_drevnik)",
-      "Okrsek": "[Grónská Zem](ok_gronska_zem)",
+      "Okrsek": "[Gr\u00F3nsk\u00E1 Zem](ok_gronska_zem)",
       "\u010Ctvr\u0165": "[Lednice](ct_lednice)",
       "\u010C\u00E1st": "[Sibi\u0159](ca_sibir)",
       "\u00DA\u010Del": "Strom"
@@ -46715,142 +46753,588 @@
     ]
   },
   "bl_papirny": {
-            "Title": "Papírny",
+    "Title": "Pap\u00EDrny",
+    "Type": "blok",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Pap\u00EDrny",
+      "Okrsek": "[Gr\u00F3nsk\u00E1 Zem](ok_gronska_zem)",
+      "\u010Ctvr\u0165": "[Lednice](ct_lednice)",
+      "\u010C\u00E1st": "[Sibi\u0159](ca_sibir)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": ""
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": ""
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": ""
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": ""
+      },
+      {
+        "Title": "Aktuality",
+        "Content": ""
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": []
+  },
+  "bl_drevnik": {
+    "Title": "D\u0159evn\u00EDk",
+    "Type": "blok",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "D\u0159evn\u00EDk",
+      "Okrsek": "[Gr\u00F3nsk\u00E1 Zem](ok_gronska_zem)",
+      "\u010Ctvr\u0165": "[Lednice](ct_lednice)",
+      "\u010C\u00E1st": "[Sibi\u0159](ca_sibir)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": ""
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": ""
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": ""
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": ""
+      },
+      {
+        "Title": "Aktuality",
+        "Content": ""
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": []
+  },
+  "bl_slouporadi": {
+    "Title": "Sloupo\u0159ad\u00ED",
+    "Type": "blok",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Sloupo\u0159ad\u00ED",
+      "Okrsek": "[Rotunda](ok_rotunda)",
+      "\u010Ctvr\u0165": "[Basgiath](ct_basgiath)",
+      "\u010C\u00E1st": "[Sibi\u0159](ca_sibir)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": ""
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": ""
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": ""
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": ""
+      },
+      {
+        "Title": "Aktuality",
+        "Content": ""
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": []
+  },
+  "ok_gronska_zem": {
+    "Title": "Gr\u00F3nsk\u00E1 Zem",
+    "Type": "okrsek",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Gr\u00F3nsk\u00E1 Zem",
+      "\u010Ctvr\u0165": "[Lednice](ct_lednice)",
+      "\u010C\u00E1st": "[Sibi\u0159](ca_sibir)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": ""
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": ""
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": ""
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": ""
+      },
+      {
+        "Title": "Aktuality",
+        "Content": ""
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": []
+  },
+  "mi_vzduchotechnika": {
+    "Title": "Vzduchotechnika",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_technicka_mistnost",
+      "mi_ventilator"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Vzduchotechnika",
+      "Blok": "[Velk\u00FD Pil\u00ED\u0159](bl_velky_pilir)",
+      "Okrsek": "[Pil\u00ED\u0159](ok_pilir)",
+      "\u010Ctvr\u0165": "[D\u00E1lni\u010Dn\u00ED Kolonie](ct_dalnicni_kolonie)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 25,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 351,
+      "y": 88,
+      "z": 1091
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": [
+      "Bed",
+      "Cra"
+    ]
+  },
+  "mi_technicka_mistnost": {
+    "Title": "Technick\u00E1 M\u00EDstnost",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_halusky",
+      "mi_vzduchotechnika"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Technick\u00E1 M\u00EDstnost",
+      "Blok": "[Velk\u00FD Pil\u00ED\u0159](bl_velky_pilir)",
+      "Okrsek": "[Pil\u00ED\u0159](ok_pilir)",
+      "\u010Ctvr\u0165": "[D\u00E1lni\u010Dn\u00ED Kolonie](ct_dalnicni_kolonie)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 80,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 344,
+      "y": 87,
+      "z": 1097
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": [
+      "Bed",
+      "Cra"
+    ]
+  },
+  "mi_najezd": {
+    "Title": "N\u00E1jezd",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_dalnicni_pilir"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "N\u00E1jezd",
+      "Blok": "[Velk\u00FD Pil\u00ED\u0159](bl_velky_pilir)",
+      "Okrsek": "[Pil\u00ED\u0159](ok_pilir)",
+      "\u010Ctvr\u0165": "[D\u00E1lni\u010Dn\u00ED Kolonie](ct_dalnicni_kolonie)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 79,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 344,
+      "y": 92,
+      "z": 1097
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": [
+      "Bed",
+      "Cra"
+    ]
+  },
+  "mi_splet": {
+    "Title": "Sple\u0165",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_preatrium",
+      "mi_bidet"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Sple\u0165",
+      "Blok": "[Fond\u00E1n](bl_fondan)",
+      "Okrsek": "[Preatrium](ok_preatrium)",
+      "\u010Ctvr\u0165": "[Vietnamsk\u00E1 \u010Ctvr\u0165](ct_vietnamska_ctvrt)",
+      "\u010C\u00E1st": "[Tr\u00F3ja](ca_troja)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 19,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 354,
+      "y": 71,
+      "z": 1149
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": [
+      "Cra"
+    ]
+  },
+  "mi_bidet": {
+    "Title": "Bidet",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_preatrium",
+      "mi_atrium",
+      "mi_splet"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Bidet",
+      "Blok": "[Fond\u00E1n](bl_fondan)",
+      "Okrsek": "[Preatrium](ok_preatrium)",
+      "\u010Ctvr\u0165": "[Vietnamsk\u00E1 \u010Ctvr\u0165](ct_vietnamska_ctvrt)",
+      "\u010C\u00E1st": "[Tr\u00F3ja](ca_troja)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 12,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 354,
+      "y": 75,
+      "z": 1149
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": [
+      "Cra"
+    ]
+  },
+  "mi_naplavka": {
+    "Title": "N\u00E1plavka",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_delta",
+      "mi_centrofrater",
+      "mi_labyrint",
+      "mi_nocleharna_b",
+      "mi_vietnamska_ctvrt"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "N\u00E1plavka",
+      "Blok": "[Vietnamsk\u00FD Blok](bl_vietnamsky_blok)",
+      "Okrsek": "[Vietnamsk\u00FD Okrsek](ok_vietnamsky_okrsek)",
+      "\u010Ctvr\u0165": "[Vietnamsk\u00E1 \u010Ctvr\u0165](ct_vietnamska_ctvrt)",
+      "\u010C\u00E1st": "[Tr\u00F3ja](ca_troja)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 59,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 355,
+      "y": 79,
+      "z": 1149
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": [
+      "Cra"
+    ]
+  },
+  "mi_baterie": {
+    "Title": "Baterie",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_veranda",
+      "mi_k_nabrezi",
+      "mi_amulet"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Baterie",
+      "Blok": "[N\u00E1b\u0159e\u017E\u00ED](bl_nabrezi)",
+      "Okrsek": "[Nekone\u010Dno](ok_nekonecno)",
+      "\u010Ctvr\u0165": "[Nekone\u010Dno](ct_nekonecno)",
+      "\u010C\u00E1st": "[Trója](ca_troja)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 26,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 333,
+      "y": 66,
+      "z": 1107
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": [
+      "Bed",
+      "Cra"
+    ]
+  },
+  "bl_fondan": {
+            "Title": "Fondán",
             "Type": "blok",
             "Images": [],
             "Image_titles": [],
             "Bordering_rooms": [],
             "Alternate_names": [],
             "Metadata": {
-                "Název": "Papírny",
-                "Okrsek": "[Grónská Zem](ok_gronska_zem)",
-                "Čtvrť": "[Lednice](ct_lednice)",
-                "Část": "[Sibiř](ca_sibir)"
-            },
-            "Sections": [
-                {
-                    "Title": "Přehled",
-                    "Content": ""
-                },
-                {
-                    "Title": "Název",
-                    "Content": ""
-                },
-                {
-                    "Title": "Interiér",
-                    "Content": ""
-                },
-                {
-                    "Title": "Zajímavosti",
-                    "Content": ""
-                },
-                {
-                    "Title": "Aktuality",
-                    "Content": ""
-                }
-            ],
-            "image_id": 0,
-            "area": 0,
-            "Empty": true,
-            "numberOfRooms": 0,
-            "redirect": null,
-            "tobeedited": false
-            },
-"bl_drevnik": {
-            "Title": "Dřevník",
-            "Type": "blok",
-            "Images": [],
-            "Image_titles": [],
-            "Bordering_rooms": [],
-            "Alternate_names": [],
-            "Metadata": {
-                "Název": "Dřevník",
-                "Okrsek": "[Grónská Zem](ok_gronska_zem)",
-                "Čtvrť": "[Lednice](ct_lednice)",
-                "Část": "[Sibiř](ca_sibir)"
-            },
-            "Sections": [
-                {
-                    "Title": "Přehled",
-                    "Content": ""
-                },
-                {
-                    "Title": "Název",
-                    "Content": ""
-                },
-                {
-                    "Title": "Interiér",
-                    "Content": ""
-                },
-                {
-                    "Title": "Zajímavosti",
-                    "Content": ""
-                },
-                {
-                    "Title": "Aktuality",
-                    "Content": ""
-                }
-            ],
-            "image_id": 0,
-            "area": 0,
-            "Empty": true,
-            "numberOfRooms": 0,
-            "redirect": null,
-            "tobeedited": false
-            },
-"bl_slouporadi": {
-            "Title": "Sloupořadí",
-            "Type": "blok",
-            "Images": [],
-            "Image_titles": [],
-            "Bordering_rooms": [],
-            "Alternate_names": [],
-            "Metadata": {
-                "Název": "Sloupořadí",
-                "Okrsek": "[Rotunda](ok_rotunda)",
-                "Čtvrť": "[Basgiath](ct_basgiath)",
-                "Část": "[Sibiř](ca_sibir)"
-            },
-            "Sections": [
-                {
-                    "Title": "Přehled",
-                    "Content": ""
-                },
-                {
-                    "Title": "Název",
-                    "Content": ""
-                },
-                {
-                    "Title": "Interiér",
-                    "Content": ""
-                },
-                {
-                    "Title": "Zajímavosti",
-                    "Content": ""
-                },
-                {
-                    "Title": "Aktuality",
-                    "Content": ""
-                }
-            ],
-            "image_id": 0,
-            "area": 0,
-            "Empty": true,
-            "numberOfRooms": 0,
-            "redirect": null,
-            "tobeedited": false
-            },
-"ok_gronska_zem": {
-            "Title": "Grónská Zem",
-            "Type": "okrsek",
-            "Images": [],
-            "Image_titles": [],
-            "Bordering_rooms": [],
-            "Alternate_names": [],
-            "Metadata": {
-                "Název": "Grónská Zem",
-                "Čtvrť": "[Lednice](ct_lednice)",
-                "Část": "[Sibiř](ca_sibir)"
+                "Název": "Fondán",
+                "Okrsek": "[Preatrium](ok_preatrium)",
+                "Čtvrť": "[Vietnamská Čtvrť](ct_vietnamska_ctvrt)",
+                "Část": "[Trója](ca_troja)"
             },
             "Sections": [
                 {

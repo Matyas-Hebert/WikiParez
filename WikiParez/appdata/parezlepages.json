@@ -1,5 +1,5 @@
 {
-  "version": "1.5.4",
+  "version": "1.6",
   "mi_rudakuv_dum": {
     "Title": "Ruďákův dům",
     "Bordering_rooms": [
@@ -461,7 +461,8 @@
       "mi_holubnik",
       "mi_hmla",
       "mi_dolni_nadrazi",
-      "mi_konska_sila"
+      "mi_konska_sila",
+      "mi_najezd"
     ],
     "Blok": "The Airship",
     "Okrsek": "The Airship",
@@ -2938,7 +2939,8 @@
       "mi_podlir",
       "mi_tamtam",
       "mi_papokoi",
-      "mi_konska_sila"
+      "mi_konska_sila",
+      "mi_technicka_mistnost"
     ],
     "Blok": "Fujara",
     "Okrsek": "Guláš",
@@ -3044,7 +3046,8 @@
     "Bordering_rooms": [
       "mi_hanojska_vez",
       "mi_v_vez_1_podlazi",
-      "mi_mez"
+      "mi_mez",
+      "mi_naplavka"
     ],
     "Blok": "Vietnamský Blok",
     "Okrsek": "Vietnamský Okrsek",
@@ -3206,7 +3209,8 @@
     "Title": "K Nábřeží",
     "Bordering_rooms": [
       "mi_gideon_tunel",
-      "mi_na_nabrezi"
+      "mi_na_nabrezi",
+      "mi_baterie"
     ],
     "Blok": "Nábřeží",
     "Okrsek": "Nekonečno",
@@ -3286,7 +3290,8 @@
       "mi_namornik",
       "mi_arkada",
       "mi_trigon",
-      "mi_ortofrater"
+      "mi_ortofrater",
+      "mi_naplavka"
     ],
     "Blok": "Delta",
     "Okrsek": "Triangl",
@@ -3309,7 +3314,8 @@
     "Title": "Centrofrater",
     "Bordering_rooms": [
       "mi_trigon",
-      "mi_atrium"
+      "mi_atrium",
+      "mi_naplavka"
     ],
     "Blok": "Trigon",
     "Okrsek": "Triangl",
@@ -3385,7 +3391,8 @@
       "mi_sklenik_zapad",
       "mi_nexus",
       "mi_preatrium",
-      "mi_centrofrater"
+      "mi_centrofrater",
+      "mi_bidet"
     ],
     "Blok": "Nexus",
     "Okrsek": "Loosova Vila",
@@ -3931,7 +3938,8 @@
       "mi_plac",
       "mi_vytahova_sachta",
       "mi_arkada",
-      "mi_papokoi"
+      "mi_papokoi",
+      "mi_naplavka"
     ],
     "Blok": "Labyrint",
     "Okrsek": "Guláš",
@@ -3951,7 +3959,8 @@
   "mi_nocleharna_b": {
     "Title": "Noclehárna B",
     "Bordering_rooms": [
-      "mi_labyrint"
+      "mi_labyrint",
+      "mi_naplavka"
     ],
     "Blok": "Labyrint",
     "Okrsek": "Guláš",
@@ -4275,7 +4284,8 @@
       "mi_pramice",
       "mi_le_pont",
       "mi_dvojcata",
-      "mi_na_nabrezi"
+      "mi_na_nabrezi",
+      "mi_baterie"
     ],
     "Blok": "Veranda",
     "Okrsek": "Dub",
@@ -5031,7 +5041,8 @@
   "mi_amulet": {
     "Title": "Amulet",
     "Bordering_rooms": [
-      "mi_cary"
+      "mi_cary",
+      "mi_baterie"
     ],
     "Blok": "Nad Vodou",
     "Okrsek": "Gideon",
@@ -6112,7 +6123,8 @@
     "Title": "Ventilátor",
     "Bordering_rooms": [
       "mi_okap",
-      "mi_halusky"
+      "mi_halusky",
+      "mi_vzduchotechnika"
     ],
     "Blok": "Velký Pilíř",
     "Okrsek": "Pilíř",
@@ -7276,7 +7288,9 @@
       "mi_atom",
       "mi_arcanum",
       "mi_past",
-      "mi_plomba"
+      "mi_plomba",
+      "mi_splet",
+      "mi_bidet"
     ],
     "Blok": "Preatrium",
     "Okrsek": "Preatrium",
@@ -7291,7 +7305,7 @@
       "mi_papir"
     ],
     "Blok": "Papírny",
-    "Okrsek": "Papírny",
+    "Okrsek": "Grónská Zem",
     "Ctvrt": "Lednice",
     "Cast": "Sibiř"
   },
@@ -7301,7 +7315,7 @@
       "mi_asfaltka"
     ],
     "Blok": "Dřevník",
-    "Okrsek": "Papírny",
+    "Okrsek": "Grónská Zem",
     "Ctvrt": "Lednice",
     "Cast": "Sibiř"
   },
@@ -7337,5 +7351,86 @@
     "Okrsek": "Rotunda",
     "Ctvrt": "Basgiath",
     "Cast": "Sibiř"
+  },
+  "mi_vzduchotechnika": {
+    "Title": "Vzduchotechnika",
+    "Bordering_rooms": [
+      "mi_technicka_mistnost",
+      "mi_ventilator"
+    ],
+    "Blok": "Velký Pilíř",
+    "Okrsek": "Pilíř",
+    "Ctvrt": "Dálniční Kolonie",
+    "Cast": "Pařez"
+  },
+  "mi_technicka_mistnost": {
+    "Title": "Technická Místnost",
+    "Bordering_rooms": [
+      "mi_halusky",
+      "mi_vzduchotechnika"
+    ],
+    "Blok": "Velký Pilíř",
+    "Okrsek": "Pilíř",
+    "Ctvrt": "Dálniční Kolonie",
+    "Cast": "Pařez"
+  },
+  "mi_najezd": {
+    "Title": "Nájezd",
+    "Bordering_rooms": [
+      "mi_dalnicni_pilir"
+    ],
+    "Blok": "Velký Pilíř",
+    "Okrsek": "Pilíř",
+    "Ctvrt": "Dálniční Kolonie",
+    "Cast": "Pařez"
+  },
+  "mi_splet": {
+    "Title": "Spleť",
+    "Bordering_rooms": [
+      "mi_preatrium",
+      "mi_bidet"
+    ],
+    "Blok": "Fondán",
+    "Okrsek": "Preatrium",
+    "Ctvrt": "Vietnamská Čtvrť",
+    "Cast": "Trója"
+  },
+  "mi_bidet": {
+    "Title": "Bidet",
+    "Bordering_rooms": [
+      "mi_preatrium",
+      "mi_atrium",
+      "mi_splet"
+    ],
+    "Blok": "Fondán",
+    "Okrsek": "Preatrium",
+    "Ctvrt": "Vietnamská Čtvrť",
+    "Cast": "Trója"
+  },
+  "mi_naplavka": {
+    "Title": "Náplavka",
+    "Bordering_rooms": [
+      "mi_delta",
+      "mi_centrofrater",
+      "mi_labyrint",
+      "mi_nocleharna_b",
+      "mi_vietnamska_ctvrt"
+    ],
+    "Blok": "Vietnamský Blok",
+    "Okrsek": "Vietnamský Okrsek",
+    "Ctvrt": "Vietnamská Čtvrť",
+    "Cast": "Trója"
+  },
+  "mi_baterie": {
+    "Title": "Baterie",
+    "Bordering_rooms": [
+      "mi_veranda",
+      "mi_k_nabrezi",
+      "mi_amulet"
+    ],
+    "Blok": "Nábřeží",
+    "Okrsek": "Nekonečno",
+    "Ctvrt": "Nekonečno",
+    "Cast": "Trója"
   }
 }
