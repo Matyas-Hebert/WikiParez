@@ -17,6 +17,7 @@ using System.Linq;
 using System.Text;
 using AspNetCoreGeneratedDocument;
 using Microsoft.AspNetCore.Components.Web;
+using Microsoft.AspNetCore.Mvc;
 
 public class WikiService
 {
@@ -44,6 +45,36 @@ public class WikiService
         _simplifiedPages = GetSimplifiedDict();
         _patternlepages = LoadCoordinatesPages();
         _vlaklepages = LoadVlaklePages();
+
+        var max = 0;
+        var stromoveveze = new List<string> { "mi_silo", "mi_kahan", "mi_okap", "mi_mrkev", "mi_draci_rotunda", "mi_buben", "mi_drevnik" };
+        foreach (var page in _onlyroomspages)
+        {
+            var maxl = 100;
+            var tower = "";
+            foreach (var str in stromoveveze)
+            {
+                var a = FindPath(page.Key, str).Count;
+                if (a < maxl)
+                {
+                    maxl = a;
+                    tower = str;
+                }
+            }
+            
+            if (maxl > max)
+            {
+                max = maxl;
+            }
+
+            if (maxl == max)
+            {
+                Console.WriteLine(page.Key);
+                Console.WriteLine(maxl);
+                Console.WriteLine(tower);
+                Console.WriteLine("");
+            }
+        }
     }
     
 

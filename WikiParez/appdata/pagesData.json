@@ -1084,7 +1084,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "30/06/25: Dve\u0159e do [\u00DAnikov\u00E9ho Schodi\u0161t\u011B](mi_unikove_schodiste) nov\u011B vedou do [Kazety](mi_kazeta).\r\n24/07/25: M\u00EDstnost\u00ED proch\u00E1z\u00ED [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha)."
+        "Content": "30/06/25: Dve\u0159e do [\u00DAnikov\u00E9ho Schodi\u0161t\u011B](mi_unikove_schodiste) nov\u011B vedou do [Kazety](mi_kazeta).\r\n24/07/25: M\u00EDstnost\u00ED proch\u00E1z\u00ED [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha).\n14/09/25: V m\u00EDstnosti je nov\u011B odpadn\u00ED roura ORP."
       }
     ],
     "image_id": 0,
@@ -1098,11 +1098,12 @@
     },
     "patternleCompatible": false,
     "redirect": null,
-    "tobeedited": false,
+    "tobeedited": true,
     "reviews": [],
     "utilities": [
       "Cra",
-      "Bar"
+      "Bar",
+      "Orp"
     ]
   },
   "mi_dalnicni_prechod": {
@@ -7706,6 +7707,10 @@
       {
         "Title": "Zaj\u00EDmavost",
         "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "14/09/25: V m\u00EDstnosti je nov\u011B odpadn\u00ED roura ORP."
       }
     ],
     "image_id": 0,
@@ -7725,7 +7730,8 @@
       "Cra",
       "Bed",
       "Bar",
-      "Smi"
+      "Smi",
+      "Orp"
     ]
   },
   "mi_guacamole": {
@@ -10163,7 +10169,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "19/07/25: V\u00FDtah nov\u011B vede do [Bazaru](mi_bazar) m\u00EDsto [Kahanu](mi_kahan)."
+        "Content": "19/07/25: V\u00FDtah nov\u011B vede do [Bazaru](mi_bazar) m\u00EDsto [Kahanu](mi_kahan).\n14/09/25: V m\u00EDstnosti je nov\u011B odpadn\u00ED roura ORP."
       }
     ],
     "image_id": 0,
@@ -10181,7 +10187,8 @@
     "reviews": [],
     "utilities": [
       "Cra",
-      "Bed"
+      "Bed",
+      "Orp"
     ]
   },
   "mi_honda": {
@@ -10954,6 +10961,10 @@
       {
         "Title": "Zaj\u00EDmavost",
         "Content": "Schodi\u0161t\u011B do [3. patra](mi_v_vez_3_podlazi) je z prav\u00E9 strany zabezpe\u010Deno trapdoory, nebo\u0165 vysok\u00E9 riziko p\u00E1du na schodi\u0161t\u011B sm\u011B\u0159uj\u00EDc\u00ED dol\u016F zap\u0159\u00ED\u010Dinilo smrt vesni\u010Dana.\r\nV barelu na \u017Eelezu bylo v dob\u011B psan\u00ED tohoto \u010Dl\u00E1nku 5 mrkv\u00ED, 7 \u0159edkv\u00ED, 3 brambory, 51 kus\u016F cukrov\u00E9 t\u0159tiny, 36 pap\u00EDr\u016F, 12 knihovny a 2 kamenn\u00E9 sekery."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "14/09/25: V m\u00EDstnosti je nov\u011B odpadn\u00ED roura ORP."
       }
     ],
     "image_id": 0,
@@ -10967,11 +10978,12 @@
     },
     "patternleCompatible": true,
     "redirect": "",
-    "tobeedited": false,
+    "tobeedited": true,
     "reviews": [],
     "utilities": [
       "Cra",
-      "Bar"
+      "Bar",
+      "Orp"
     ]
   },
   "mi_v_vez_3_podlazi": {
@@ -11612,7 +11624,8 @@
       "Blok": "[Pocity](bl_pocity)",
       "Okrsek": "[\u017Delezn\u00E1 Lhota](ok_zelezna_lhota)",
       "\u010Ctvr\u0165": "[\u017Delezn\u00E1 Lhota](ct_zelezna_lhota)",
-      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)",
+      "\u00DA\u010Del": "Sklad masa"
     },
     "Sections": [
       {
@@ -11633,7 +11646,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "29/06/25: Nov\u00E9 sousedstv\u00ED s m\u00EDstnosti [Pod Vrbou](mi_pod_vrbou)."
+        "Content": "29/06/25: Nov\u00E9 sousedstv\u00ED s m\u00EDstnosti [Pod Vrbou](mi_pod_vrbou).\n14/09/25: Do m\u00EDstnosti p\u0159id\u00E1n crafting table a barel je\u017E je ur\u010Den na uskladn\u011Bn\u00ED masa."
       }
     ],
     "image_id": 0,
@@ -11650,7 +11663,8 @@
     "tobeedited": false,
     "reviews": [],
     "utilities": [
-      "Non"
+      "Cra",
+      "Bar"
     ]
   },
   "mi_posse": {
@@ -14346,6 +14360,10 @@
       {
         "Title": "Zaj\u00EDmavost",
         "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "14/09/25: V m\u00EDstnosti je nov\u011B odpadn\u00ED roura ORP."
       }
     ],
     "image_id": 0,
@@ -14362,7 +14380,8 @@
     "tobeedited": false,
     "reviews": [],
     "utilities": [
-      "Cra"
+      "Cra",
+      "Orp"
     ]
   },
   "mi_quare": {
@@ -14560,7 +14579,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "31/08/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Mez](mi_mez).\n14/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [N\u00E1plavka](mi_naplavka)."
+        "Content": "31/08/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Mez](mi_mez).\n14/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [N\u00E1plavka](mi_naplavka).\n14/09/25: V m\u00EDstnosti je nov\u011B odpadn\u00ED roura ORP."
       }
     ],
     "image_id": 0,
@@ -14577,7 +14596,8 @@
     "tobeedited": false,
     "reviews": [],
     "utilities": [
-      "Non"
+      "Non",
+      "Orp"
     ]
   },
   "mi_hanojska_vez": {
@@ -20320,7 +20340,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "12/07/25: Nov\u00FD vchod do [Dvoj\u010Dat](mi_dvojcata).\r\n26/07/25: M\u00EDstnost\u00ED proch\u00E1z\u00ED [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha).\r\n26/07/25: M\u00EDstnost soused\u00ED s [Na N\u00E1b\u0159e\u017E\u00ED](mi_na_nabrezi).\r\n17/08/25: Veranda nov\u011B soused\u00ED s [Pit Stopem](mi_pit_stop) m\u00EDsto [Kan\u00E1lu](mi_kanal).\n14/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Baterie](mi_baterie)."
+        "Content": "12/07/25: Nov\u00FD vchod do [Dvoj\u010Dat](mi_dvojcata).\r\n26/07/25: M\u00EDstnost\u00ED proch\u00E1z\u00ED [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha).\r\n26/07/25: M\u00EDstnost soused\u00ED s [Na N\u00E1b\u0159e\u017E\u00ED](mi_na_nabrezi).\r\n17/08/25: Veranda nov\u011B soused\u00ED s [Pit Stopem](mi_pit_stop) m\u00EDsto [Kan\u00E1lu](mi_kanal).\n14/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Baterie](mi_baterie).\n14/09/25: V\u011Bci z barelu na Verand\u011B vhozeny do [ORP](sp_orp)."
       }
     ],
     "image_id": 0,
@@ -29667,6 +29687,10 @@
       {
         "Title": "Zaj\u00EDmavost",
         "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "14/09/25: Skop\u00E1na chestka s bordelem a vy\u010Di\u0161t\u011Bn barel s bordelem."
       }
     ],
     "image_id": 0,
@@ -29684,8 +29708,7 @@
     "reviews": [],
     "utilities": [
       "Cra",
-      "Bar",
-      "Che"
+      "Bar"
     ]
   },
   "mi_rybarna": {
@@ -31577,7 +31600,7 @@
       "Okrsek": "[Dub](ok_dub)",
       "\u010Ctvr\u0165": "[Ko\u0159en](ct_koren)",
       "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)",
-      "\u00DA\u010Del": "Sklad skla, masa a sponge blok\u016F"
+      "\u00DA\u010Del": "Sklad skla a sponge blok\u016F"
     },
     "Sections": [
       {
@@ -31595,6 +31618,10 @@
       {
         "Title": "Zaj\u00EDmavosti",
         "Content": "M\u00EDstnost\u00ED p\u0159\u00EDmo proch\u00E1zej\u00ED v\u0161echny \u010Dty\u0159i paprsky [beaconu](beacon_parez).\r\nAlfa je jedna z m\u00E1la m\u00EDstnosti s bloky sena.\r\nV\u011Bt\u0161ina sousedn\u00EDch m\u00EDstnost\u00ED Alfy m\u00E1 sv\u016Fj vlastn\u00ED \u00FA\u010Del.\r\n\u017Deb\u0159\u00EDk do [Vaultu](mi_trezor) m\u016F\u017Ee b\u00FDt ozna\u010Dov\u00E1n za nejstar\u0161\u00ED tajn\u00FD vchod v dom\u011B."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "14/09/25: Alfa ji\u017E neslou\u017E\u00ED jako sklad masa, byla nahrazena [\u0158\u00EDzkem](mi_rizek)."
       }
     ],
     "image_id": 0,
@@ -31821,7 +31848,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "18/07/25: P\u0159ejmenov\u00E1no z Quarterpipe na Kol\u00EDnko."
+        "Content": "18/07/25: P\u0159ejmenov\u00E1no z Quarterpipe na Kol\u00EDnko.\n14/09/25: V m\u00EDstnosti je nov\u011B odpadn\u00ED roura ORP."
       }
     ],
     "image_id": 0,
@@ -31838,7 +31865,8 @@
     "tobeedited": false,
     "reviews": [],
     "utilities": [
-      "Non"
+      "Non",
+      "Orp"
     ]
   },
   "mi_luka": {
@@ -41643,7 +41671,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "27/07/25: Nov\u00FD v\u00FDtah vedouc\u00ED z [Lomu](mi_lom).\r\n17/08/25: M\u00E9\u010Fa nov\u011B soused\u00ED s [Alej\u00ED](mi_alej).\r\n06/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Bezdomovec](mi_bezdomovec).\r\n06/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Karos\u00E9rie](mi_karoserie)."
+        "Content": "27/07/25: Nov\u00FD v\u00FDtah vedouc\u00ED z [Lomu](mi_lom).\r\n17/08/25: M\u00E9\u010Fa nov\u011B soused\u00ED s [Alej\u00ED](mi_alej).\r\n06/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Bezdomovec](mi_bezdomovec).\r\n06/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Karos\u00E9rie](mi_karoserie).\n14/09/25: V m\u00EDstnosti je nov\u011B odpadn\u00ED roura ORP."
       }
     ],
     "image_id": 0,
@@ -41657,7 +41685,7 @@
     },
     "patternleCompatible": false,
     "redirect": null,
-    "tobeedited": false,
+    "tobeedited": true,
     "reviews": [
       {
         "stars": 4,
@@ -41671,7 +41699,8 @@
       }
     ],
     "utilities": [
-      "Ic2"
+      "Ic2",
+      "Orp"
     ]
   },
   "sp_orp": {
@@ -46444,7 +46473,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "31/08/25: M\u00EDstnost zv\u011Bt\u0161ena o 14 blok\u016F \u010Dtvere\u010Dn\u00EDch.\r\n31/08/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Past](mi_past).\r\n31/08/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Plomba](mi_plomba).\n14/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Sple\u0165](mi_splet).\n14/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Bidet](mi_bidet)."
+        "Content": "31/08/25: M\u00EDstnost zv\u011Bt\u0161ena o 14 blok\u016F \u010Dtvere\u010Dn\u00EDch.\r\n31/08/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Past](mi_past).\r\n31/08/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Plomba](mi_plomba).\n14/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Sple\u0165](mi_splet).\n14/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Bidet](mi_bidet).\n14/09/25: V m\u00EDstnosti je nov\u011B odpadn\u00ED roura ORP."
       }
     ],
     "image_id": 0,
@@ -46467,7 +46496,8 @@
       }
     ],
     "utilities": [
-      "Cra"
+      "Cra",
+      "Orp"
     ]
   },
   "mi_asfaltka": {
@@ -47285,7 +47315,7 @@
       "Blok": "[N\u00E1b\u0159e\u017E\u00ED](bl_nabrezi)",
       "Okrsek": "[Nekone\u010Dno](ok_nekonecno)",
       "\u010Ctvr\u0165": "[Nekone\u010Dno](ct_nekonecno)",
-      "\u010C\u00E1st": "[Trója](ca_troja)"
+      "\u010C\u00E1st": "[Tr\u00F3ja](ca_troja)"
     },
     "Sections": [
       {
@@ -47324,45 +47354,53 @@
     ]
   },
   "bl_fondan": {
-            "Title": "Fondán",
-            "Type": "blok",
-            "Images": [],
-            "Image_titles": [],
-            "Bordering_rooms": [],
-            "Alternate_names": [],
-            "Metadata": {
-                "Název": "Fondán",
-                "Okrsek": "[Preatrium](ok_preatrium)",
-                "Čtvrť": "[Vietnamská Čtvrť](ct_vietnamska_ctvrt)",
-                "Část": "[Trója](ca_troja)"
-            },
-            "Sections": [
-                {
-                    "Title": "Přehled",
-                    "Content": ""
-                },
-                {
-                    "Title": "Název",
-                    "Content": ""
-                },
-                {
-                    "Title": "Interiér",
-                    "Content": ""
-                },
-                {
-                    "Title": "Zajímavosti",
-                    "Content": ""
-                },
-                {
-                    "Title": "Aktuality",
-                    "Content": ""
-                }
-            ],
-            "image_id": 0,
-            "area": 0,
-            "Empty": true,
-            "numberOfRooms": 0,
-            "redirect": null,
-            "tobeedited": false
-            }
+    "Title": "Fond\u00E1n",
+    "Type": "blok",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Fond\u00E1n",
+      "Okrsek": "[Preatrium](ok_preatrium)",
+      "\u010Ctvr\u0165": "[Vietnamsk\u00E1 \u010Ctvr\u0165](ct_vietnamska_ctvrt)",
+      "\u010C\u00E1st": "[Tr\u00F3ja](ca_troja)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": ""
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": ""
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": ""
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": ""
+      },
+      {
+        "Title": "Aktuality",
+        "Content": ""
+      }
+    ],
+    "image_id": 0,
+    "area": 0,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": []
+  }
 }
