@@ -1,5 +1,5 @@
 {
-  "version": "1.6",
+  "version": "2.0",
   "mi_rudakuv_dum": {
     "Title": "Ruďákův dům",
     "Bordering_rooms": [
@@ -10,7 +10,12 @@
     "Blok": "Barvy",
     "Okrsek": "Smrk",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 292,
+      "y": 87,
+      "z": 1122
+    }
   },
   "mi_schodiste_tt": {
     "Title": "Schodiště TT",
@@ -23,7 +28,12 @@
     "Blok": "Barvy",
     "Okrsek": "Smrk",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 291,
+      "y": 88,
+      "z": 1133
+    }
   },
   "mi_oranjestad": {
     "Title": "Oranjestad",
@@ -36,7 +46,12 @@
     "Blok": "Barvy",
     "Okrsek": "Smrk",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 284,
+      "y": 85,
+      "z": 1121
+    }
   },
   "mi_beetroot_farma": {
     "Title": "Beetroot farma",
@@ -53,7 +68,12 @@
     "Blok": "Barvy",
     "Okrsek": "Smrk",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 292,
+      "y": 88,
+      "z": 1128
+    }
   },
   "mi_ulice_schodova": {
     "Title": "Ulice Schodová",
@@ -67,7 +87,12 @@
     "Blok": "Střecha",
     "Okrsek": "Smrk",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 294,
+      "y": 82,
+      "z": 1127
+    }
   },
   "mi_byt_chudaka_kterej_nema_rad_kluby": {
     "Title": "Byt chudáka, kterej nemá rád kluby",
@@ -82,7 +107,12 @@
     "Blok": "Vídeň",
     "Okrsek": "Benátky",
     "Ctvrt": "Rybářská Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 286,
+      "y": 81,
+      "z": 1126
+    }
   },
   "mi_klub": {
     "Title": "Klub",
@@ -100,7 +130,12 @@
     "Blok": "Vídeň",
     "Okrsek": "Benátky",
     "Ctvrt": "Rybářská Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 286,
+      "y": 76,
+      "z": 1127
+    }
   },
   "mi_viden": {
     "Title": "Vídeň",
@@ -113,7 +148,12 @@
     "Blok": "Vídeň",
     "Okrsek": "Benátky",
     "Ctvrt": "Rybářská Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 286,
+      "y": 72,
+      "z": 1124
+    }
   },
   "mi_rubec": {
     "Title": "Rubec",
@@ -127,7 +167,12 @@
     "Blok": "Vídeň",
     "Okrsek": "Benátky",
     "Ctvrt": "Rybářská Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 282,
+      "y": 81,
+      "z": 1135
+    }
   },
   "mi_nadchod": {
     "Title": "Nadchod",
@@ -138,7 +183,12 @@
     "Blok": "Vídeň",
     "Okrsek": "Benátky",
     "Ctvrt": "Rybářská Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 292,
+      "y": 84,
+      "z": 1123
+    }
   },
   "mi_mostiste": {
     "Title": "Mostiště",
@@ -152,7 +202,12 @@
     "Blok": "Vídeň",
     "Okrsek": "Benátky",
     "Ctvrt": "Rybářská Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 288,
+      "y": 67,
+      "z": 1123
+    }
   },
   "mi_strecha": {
     "Title": "Střecha",
@@ -167,7 +222,12 @@
     "Blok": "Střecha",
     "Okrsek": "Smrk",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 317,
+      "y": 93,
+      "z": 1128
+    }
   },
   "mi_skokanske_mustky": {
     "Title": "Skokanské můstky",
@@ -180,7 +240,12 @@
     "Blok": "Lázně Panoraama",
     "Okrsek": "Smrk",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 317,
+      "y": 93,
+      "z": 1142
+    }
   },
   "mi_chodba": {
     "Title": "Chodba",
@@ -199,7 +264,12 @@
     "Blok": "The Airship",
     "Okrsek": "The Airship",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 311,
+      "y": 93,
+      "z": 1136
+    }
   },
   "mi_dalnicni_prechod": {
     "Title": "Dálniční přechod",
@@ -211,7 +281,12 @@
     "Blok": "The Airship",
     "Okrsek": "The Airship",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 303,
+      "y": 92,
+      "z": 1122
+    }
   },
   "mi_pucmeloun_farma": {
     "Title": "Pučmeloun farma",
@@ -223,7 +298,12 @@
     "Blok": "Spojnice",
     "Okrsek": "Obchodní středisko",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 323,
+      "y": 93,
+      "z": 1153
+    }
   },
   "mi_staj": {
     "Title": "Stáj",
@@ -233,7 +313,12 @@
     "Blok": "The Airship",
     "Okrsek": "The Airship",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 302,
+      "y": 93,
+      "z": 1154
+    }
   },
   "mi_builder_cepicka": {
     "Title": "Builder čepička",
@@ -243,7 +328,12 @@
     "Blok": "The Airship",
     "Okrsek": "The Airship",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 292,
+      "y": 92,
+      "z": 1153
+    }
   },
   "mi_lokace": {
     "Title": "Lokace",
@@ -253,7 +343,12 @@
     "Blok": "The Airship",
     "Okrsek": "The Airship",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 288,
+      "y": 92,
+      "z": 1140
+    }
   },
   "mi_kabina": {
     "Title": "Kabina",
@@ -266,7 +361,12 @@
     "Blok": "The Airship",
     "Okrsek": "The Airship",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 296,
+      "y": 97,
+      "z": 1131
+    }
   },
   "mi_the_terrass": {
     "Title": "The Terrass",
@@ -278,7 +378,12 @@
     "Blok": "The Airship",
     "Okrsek": "The Airship",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 296,
+      "y": 92,
+      "z": 1125
+    }
   },
   "mi_parsley_attic": {
     "Title": "Parsley Attic",
@@ -292,7 +397,12 @@
     "Blok": "Pod masou",
     "Okrsek": "The Airship",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_the_airship": {
     "Title": "The Airship",
@@ -317,7 +427,12 @@
     "Blok": "The Airship",
     "Okrsek": "The Airship",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_lodzie": {
     "Title": "Lodžie",
@@ -329,7 +444,12 @@
     "Blok": "Ke klubu",
     "Okrsek": "Benátky",
     "Ctvrt": "Rybářská Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_prechod": {
     "Title": "Přechod",
@@ -340,7 +460,12 @@
     "Blok": "Ke klubu",
     "Okrsek": "Benátky",
     "Ctvrt": "Rybářská Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_ropna_plosina": {
     "Title": "Ropná Plošina",
@@ -358,7 +483,12 @@
     "Blok": "Ropná Plošina",
     "Okrsek": "Benátky",
     "Ctvrt": "Rybářská Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_ropna_plosina_b": {
     "Title": "Ropná Plošina b",
@@ -374,7 +504,12 @@
     "Blok": "Ropná Plošina",
     "Okrsek": "Benátky",
     "Ctvrt": "Rybářská Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_hvezda": {
     "Title": "Hvězda",
@@ -391,7 +526,12 @@
     "Blok": "Ropná Plošina",
     "Okrsek": "Benátky",
     "Ctvrt": "Rybářská Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_nether": {
     "Title": "Nether",
@@ -404,7 +544,12 @@
     "Blok": "Střed",
     "Okrsek": "Smrk",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_dobra_voda": {
     "Title": "Dobrá Voda",
@@ -418,7 +563,12 @@
     "Blok": "Hlavní Třída",
     "Okrsek": "Benátky",
     "Ctvrt": "Rybářská Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_spojnice": {
     "Title": "Spojnice",
@@ -436,7 +586,12 @@
     "Blok": "The Airship",
     "Okrsek": "The Airship",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_dalnicni_pilir": {
     "Title": "Dálniční Pilíř",
@@ -467,7 +622,12 @@
     "Blok": "The Airship",
     "Okrsek": "The Airship",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 349,
+      "y": 93,
+      "z": 1107
+    }
   },
   "mi_silak": {
     "Title": "Silák",
@@ -478,7 +638,12 @@
     "Blok": "Silo",
     "Okrsek": "Silo",
     "Ctvrt": "Rybářská Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_diving_room": {
     "Title": "Diving Room",
@@ -493,7 +658,12 @@
     "Blok": "Příkop",
     "Okrsek": "Benátky",
     "Ctvrt": "Rybářská Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_ordinace_pink_lady": {
     "Title": "Ordinace Pink Lady",
@@ -505,7 +675,12 @@
     "Blok": "Příkop",
     "Okrsek": "Benátky",
     "Ctvrt": "Rybářská Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 296,
+      "y": 84,
+      "z": 1146
+    }
   },
   "mi_diving_hole": {
     "Title": "Diving Hole",
@@ -517,7 +692,12 @@
     "Blok": "Příkop",
     "Okrsek": "Benátky",
     "Ctvrt": "Rybářská Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_schodiste_aa": {
     "Title": "Schodiště AA",
@@ -531,7 +711,12 @@
     "Blok": "Příkop",
     "Okrsek": "Benátky",
     "Ctvrt": "Rybářská Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_silo": {
     "Title": "Silo",
@@ -555,7 +740,12 @@
     "Blok": "Silo",
     "Okrsek": "Silo",
     "Ctvrt": "Rybářská Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 293,
+      "y": 64,
+      "z": 1112
+    }
   },
   "mi_jama_pekelna": {
     "Title": "Jáma Pekelná",
@@ -565,7 +755,12 @@
     "Blok": "Silo",
     "Okrsek": "Silo",
     "Ctvrt": "Rybářská Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_sloup": {
     "Title": "Sloup",
@@ -577,7 +772,12 @@
     "Blok": "Příkop",
     "Okrsek": "Benátky",
     "Ctvrt": "Rybářská Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_vecere": {
     "Title": "Večeře",
@@ -589,7 +789,12 @@
     "Blok": "Příkop",
     "Okrsek": "Benátky",
     "Ctvrt": "Rybářská Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_hlidkovaci_kos": {
     "Title": "Hlídkovací Koš",
@@ -601,7 +806,12 @@
     "Blok": "Pirátská Loď",
     "Okrsek": "Benátky",
     "Ctvrt": "Rybářská Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_lavicka": {
     "Title": "Lavička",
@@ -611,7 +821,12 @@
     "Blok": "Pirátská Loď",
     "Okrsek": "Benátky",
     "Ctvrt": "Rybářská Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_paluba": {
     "Title": "Paluba",
@@ -624,7 +839,12 @@
     "Blok": "Pirátská Loď",
     "Okrsek": "Benátky",
     "Ctvrt": "Rybářská Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_podpalubi": {
     "Title": "Podpalubí",
@@ -635,7 +855,12 @@
     "Blok": "Pirátská Loď",
     "Okrsek": "Benátky",
     "Ctvrt": "Rybářská Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_smashy_house": {
     "Title": "Smashy House",
@@ -646,7 +871,12 @@
     "Blok": "Ropná Plošina",
     "Okrsek": "Benátky",
     "Ctvrt": "Rybářská Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_stredove_namesti": {
     "Title": "Středové náměstí",
@@ -675,7 +905,12 @@
     "Blok": "Střed",
     "Okrsek": "Smrk",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_na_ochozu": {
     "Title": "Na Ochozu",
@@ -690,7 +925,12 @@
     "Blok": "Střed",
     "Okrsek": "Smrk",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_jeslicky": {
     "Title": "Jesličky",
@@ -701,7 +941,12 @@
     "Blok": "Střed",
     "Okrsek": "Smrk",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_na_rohu": {
     "Title": "Na Rohu",
@@ -711,7 +956,12 @@
     "Blok": "Střed",
     "Okrsek": "Smrk",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_alej": {
     "Title": "Alej",
@@ -731,7 +981,12 @@
     "Blok": "Střed",
     "Okrsek": "Smrk",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_vyloha": {
     "Title": "Výloha",
@@ -742,7 +997,12 @@
     "Blok": "Střed",
     "Okrsek": "Smrk",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_os": {
     "Title": "Os",
@@ -754,7 +1014,12 @@
     "Blok": "Kahan",
     "Okrsek": "Veveří",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_pavlacovy_dum": {
     "Title": "Pavlačový Dům",
@@ -765,7 +1030,12 @@
     "Blok": "Pavlač",
     "Okrsek": "Smrk",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_podpavlacovy_dum": {
     "Title": "Podpavlačový Dům",
@@ -777,7 +1047,12 @@
     "Blok": "Pavlač",
     "Okrsek": "Smrk",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_rainbow_house": {
     "Title": "Rainbow House",
@@ -788,7 +1063,12 @@
     "Blok": "Domy",
     "Okrsek": "Zahrádkářská kolonie",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_rainbow_garden": {
     "Title": "Rainbow Garden",
@@ -799,7 +1079,12 @@
     "Blok": "Zahrádky",
     "Okrsek": "Zahrádkářská kolonie",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_zahradkarska_kolonie": {
     "Title": "Zahrádkářská Kolonie",
@@ -816,7 +1101,12 @@
     "Blok": "Zahrádky",
     "Okrsek": "Zahrádkářská kolonie",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_prizemi": {
     "Title": "Přízemí",
@@ -828,7 +1118,12 @@
     "Blok": "Domy",
     "Okrsek": "Zahrádkářská kolonie",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_samovrazedne_dvere": {
     "Title": "Samovražedné dveře",
@@ -839,7 +1134,12 @@
     "Blok": "Zahrádky",
     "Okrsek": "Zahrádkářská kolonie",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_schodiste_zz": {
     "Title": "Schodiště ZZ",
@@ -852,7 +1152,12 @@
     "Blok": "Zahrádky",
     "Okrsek": "Zahrádkářská kolonie",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_dum_pana_brabce": {
     "Title": "Dům Pana Brabce",
@@ -864,7 +1169,12 @@
     "Blok": "Domy",
     "Okrsek": "Zahrádkářská kolonie",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_sloupek": {
     "Title": "Sloupek",
@@ -874,7 +1184,12 @@
     "Blok": "Věž",
     "Okrsek": "Veveří",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_namesti_u_vody": {
     "Title": "Náměstí u Vody",
@@ -895,7 +1210,12 @@
     "Blok": "Lázně Panoraama",
     "Okrsek": "Smrk",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_schwarzenegger_house": {
     "Title": "Schwarzenegger House",
@@ -909,7 +1229,12 @@
     "Blok": "Lázně Panoraama",
     "Okrsek": "Smrk",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_satna": {
     "Title": "Šatna",
@@ -921,7 +1246,12 @@
     "Blok": "Lázně Panoraama",
     "Okrsek": "Smrk",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 315,
+      "y": 88,
+      "z": 1151
+    }
   },
   "mi_carrot_farma": {
     "Title": "Carrot Farma",
@@ -932,7 +1262,12 @@
     "Blok": "Střecha",
     "Okrsek": "Smrk",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 317,
+      "y": 88,
+      "z": 1130
+    }
   },
   "mi_double_decker_house": {
     "Title": "Double Decker House",
@@ -950,7 +1285,12 @@
     "Blok": "Střecha",
     "Okrsek": "Smrk",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 311,
+      "y": 87,
+      "z": 1127
+    }
   },
   "mi_balkon_svate_nedele": {
     "Title": "Balkón svaté Neděle",
@@ -962,7 +1302,12 @@
     "Blok": "Střecha",
     "Okrsek": "Smrk",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 301,
+      "y": 87,
+      "z": 1132
+    }
   },
   "mi_vytahovy_mustek": {
     "Title": "Výtahový Můstek",
@@ -973,7 +1318,12 @@
     "Blok": "Malý Pilíř",
     "Okrsek": "Pilíř",
     "Ctvrt": "Dálniční Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 314,
+      "y": 94,
+      "z": 1110
+    }
   },
   "mi_kulna": {
     "Title": "Kůlna",
@@ -983,7 +1333,12 @@
     "Blok": "Beta",
     "Okrsek": "The Airship",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 316,
+      "y": 101,
+      "z": 1127
+    }
   },
   "mi_pod_masou": {
     "Title": "Pod Masou",
@@ -997,7 +1352,12 @@
     "Blok": "Pod masou",
     "Okrsek": "The Airship",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 284,
+      "y": 95,
+      "z": 1131
+    }
   },
   "mi_spy": {
     "Title": "Spy",
@@ -1008,7 +1368,12 @@
     "Blok": "Pod masou",
     "Okrsek": "The Airship",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 287,
+      "y": 96,
+      "z": 1141
+    }
   },
   "mi_tranzit": {
     "Title": "Tranzit",
@@ -1023,7 +1388,12 @@
     "Blok": "Pasáž",
     "Okrsek": "Obchodní středisko",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 310,
+      "y": 102,
+      "z": 1128
+    }
   },
   "mi_hotel": {
     "Title": "Hotel",
@@ -1037,7 +1407,12 @@
     "Blok": "Hotel",
     "Okrsek": "Doupě",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 317,
+      "y": 110,
+      "z": 1144
+    }
   },
   "mi_apartman_i": {
     "Title": "Apartmán I",
@@ -1047,7 +1422,12 @@
     "Blok": "Hotel",
     "Okrsek": "Doupě",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 313,
+      "y": 109,
+      "z": 1137
+    }
   },
   "mi_apartman_ii": {
     "Title": "Apartmán II",
@@ -1057,7 +1437,12 @@
     "Blok": "Hotel",
     "Okrsek": "Doupě",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 318,
+      "y": 109,
+      "z": 1137
+    }
   },
   "mi_apartman_iii": {
     "Title": "Apartmán III",
@@ -1067,7 +1452,12 @@
     "Blok": "Hotel",
     "Okrsek": "Doupě",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 323,
+      "y": 109,
+      "z": 1137
+    }
   },
   "mi_kralovska_cesta": {
     "Title": "Královská Cesta",
@@ -1078,7 +1468,12 @@
     "Blok": "Doupě",
     "Okrsek": "Doupě",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 314,
+      "y": 118,
+      "z": 1117
+    }
   },
   "mi_ctverec": {
     "Title": "Čtverec",
@@ -1097,7 +1492,12 @@
     "Blok": "Doupě",
     "Okrsek": "Doupě",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_zapadni_kridlo": {
     "Title": "Západní Křídlo",
@@ -1113,7 +1513,12 @@
     "Blok": "Křídlo",
     "Okrsek": "Kapsa",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 299,
+      "y": 110,
+      "z": 1137
+    }
   },
   "mi_severni_kridlo": {
     "Title": "Severní Křídlo",
@@ -1127,7 +1532,12 @@
     "Blok": "Křídlo",
     "Okrsek": "Kapsa",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_jogurt": {
     "Title": "Jogurt",
@@ -1143,7 +1553,12 @@
     "Blok": "Křídlo",
     "Okrsek": "Kapsa",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 321,
+      "y": 103,
+      "z": 1117
+    }
   },
   "mi_stin_3_podlazi": {
     "Title": "Stín 3. podlaží",
@@ -1156,7 +1571,12 @@
     "Blok": "Stín",
     "Okrsek": "Kapsa",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_stin_2_podlazi": {
     "Title": "Stín 2. podlaží",
@@ -1170,7 +1590,12 @@
     "Blok": "Stín",
     "Okrsek": "Kapsa",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_stin": {
     "Title": "Stín",
@@ -1184,7 +1609,12 @@
     "Blok": "Stín",
     "Okrsek": "Kapsa",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_schodiste_ss": {
     "Title": "Schodiště SS",
@@ -1195,7 +1625,12 @@
     "Blok": "Vestibul",
     "Okrsek": "Dálniční Kolonie",
     "Ctvrt": "Dálniční Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_nebe": {
     "Title": "Nebe",
@@ -1207,7 +1642,12 @@
     "Blok": "Vestibul",
     "Okrsek": "Dálniční Kolonie",
     "Ctvrt": "Dálniční Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_stena": {
     "Title": "Stěna",
@@ -1219,7 +1659,12 @@
     "Blok": "Vestibul",
     "Okrsek": "Dálniční Kolonie",
     "Ctvrt": "Dálniční Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 323,
+      "y": 84,
+      "z": 1118
+    }
   },
   "mi_mustek": {
     "Title": "Můstek",
@@ -1232,7 +1677,12 @@
     "Blok": "Vestibul",
     "Okrsek": "Dálniční Kolonie",
     "Ctvrt": "Dálniční Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 324,
+      "y": 89,
+      "z": 1114
+    }
   },
   "mi_vandula": {
     "Title": "Vandula",
@@ -1244,7 +1694,12 @@
     "Blok": "Petřín",
     "Okrsek": "Křídlo",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_amazonsky_havirov": {
     "Title": "Amazonský Havířov",
@@ -1258,7 +1713,12 @@
     "Blok": "Petřín",
     "Okrsek": "Křídlo",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_astra": {
     "Title": "Astra",
@@ -1269,7 +1729,12 @@
     "Blok": "Petřín",
     "Okrsek": "Křídlo",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_trinacty_rok": {
     "Title": "Třináctý Rok",
@@ -1279,7 +1744,12 @@
     "Blok": "Petřín",
     "Okrsek": "Křídlo",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_kalina": {
     "Title": "Kalina",
@@ -1292,7 +1762,12 @@
     "Blok": "Krčnov",
     "Okrsek": "Křídlo",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_kajan": {
     "Title": "Kajan",
@@ -1303,7 +1778,12 @@
     "Blok": "Krčnov",
     "Okrsek": "Křídlo",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_latnat": {
     "Title": "Latnat",
@@ -1317,7 +1797,12 @@
     "Blok": "Ledová",
     "Okrsek": "Křídlo",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_supina": {
     "Title": "Šupina",
@@ -1327,7 +1812,12 @@
     "Blok": "Ledová",
     "Okrsek": "Křídlo",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_komule": {
     "Title": "Komule",
@@ -1337,7 +1827,12 @@
     "Blok": "Ledová",
     "Okrsek": "Křídlo",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_liana": {
     "Title": "Liána",
@@ -1351,7 +1846,12 @@
     "Blok": "Ledová",
     "Okrsek": "Křídlo",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_silice": {
     "Title": "Silice",
@@ -1364,7 +1864,12 @@
     "Blok": "Ledová",
     "Okrsek": "Křídlo",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_pequin": {
     "Title": "Pequin",
@@ -1376,7 +1881,12 @@
     "Blok": "Ledová",
     "Okrsek": "Křídlo",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_hosta": {
     "Title": "Hosta",
@@ -1389,7 +1899,12 @@
     "Blok": "Lilek",
     "Okrsek": "Křídlo",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_hrachor": {
     "Title": "Hrachor",
@@ -1402,7 +1917,12 @@
     "Blok": "Lilek",
     "Okrsek": "Křídlo",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_rdesno": {
     "Title": "Rdesno",
@@ -1413,7 +1933,12 @@
     "Blok": "Lilek",
     "Okrsek": "Křídlo",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_kokarda": {
     "Title": "Kokarda",
@@ -1426,7 +1951,12 @@
     "Blok": "Lilek",
     "Okrsek": "Křídlo",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 299,
+      "y": 131,
+      "z": 1174
+    }
   },
   "mi_brslen": {
     "Title": "Brslen",
@@ -1436,7 +1966,12 @@
     "Blok": "Lilek",
     "Okrsek": "Křídlo",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_aloe": {
     "Title": "Aloe",
@@ -1450,7 +1985,12 @@
     "Blok": "Sukulent",
     "Okrsek": "Křídlo",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_javor": {
     "Title": "Javor",
@@ -1464,7 +2004,12 @@
     "Blok": "Sukulent",
     "Okrsek": "Křídlo",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_delfin_a_macka": {
     "Title": "Delfín a Mačka",
@@ -1476,7 +2021,12 @@
     "Blok": "Sukulent",
     "Okrsek": "Křídlo",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_gruyere": {
     "Title": "Gruyere",
@@ -1488,7 +2038,12 @@
     "Blok": "Sukulent",
     "Okrsek": "Křídlo",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_drevene_uhli": {
     "Title": "Dřevěné Uhlí",
@@ -1500,7 +2055,12 @@
     "Blok": "Uhelsko",
     "Okrsek": "Křídlo",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_zivocisne_uhli": {
     "Title": "Živočišné Uhlí",
@@ -1511,7 +2071,12 @@
     "Blok": "Uhelsko",
     "Okrsek": "Křídlo",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_mezonet": {
     "Title": "Mezonet",
@@ -1524,7 +2089,12 @@
     "Blok": "Uhelsko",
     "Okrsek": "Křídlo",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_venkovni_schodiste": {
     "Title": "Venkovní Schodiště",
@@ -1541,7 +2111,12 @@
     "Blok": "Venkovní Schodiště",
     "Okrsek": "Obchodní středisko",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_kamrlik": {
     "Title": "Kamrlík",
@@ -1552,7 +2127,12 @@
     "Blok": "Pasáž",
     "Okrsek": "Obchodní středisko",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_panget": {
     "Title": "Panget",
@@ -1564,7 +2144,12 @@
     "Blok": "Pasáž",
     "Okrsek": "Obchodní středisko",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_sklad": {
     "Title": "Sklad",
@@ -1575,7 +2160,12 @@
     "Blok": "Pasáž",
     "Okrsek": "Obchodní středisko",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_pasaz": {
     "Title": "Pasáž",
@@ -1590,7 +2180,12 @@
     "Blok": "Pasáž",
     "Okrsek": "Obchodní středisko",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_kralovske_abonma": {
     "Title": "Královské Abonmá",
@@ -1605,7 +2200,12 @@
     "Blok": "Kino",
     "Okrsek": "Obchodní středisko",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_guacamole": {
     "Title": "Guacamole",
@@ -1620,7 +2220,12 @@
     "Blok": "Výtahová Šachta",
     "Okrsek": "Veveří",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_horni_nadrazi": {
     "Title": "Horní Nádraží",
@@ -1634,7 +2239,12 @@
     "Blok": "Autobusák",
     "Okrsek": "Horní Propust",
     "Ctvrt": "Propast",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 330,
+      "y": 103,
+      "z": 1126
+    }
   },
   "mi_zahradni_mesto": {
     "Title": "Zahradní Město",
@@ -1648,7 +2258,12 @@
     "Blok": "Autobusák",
     "Okrsek": "Horní Propust",
     "Ctvrt": "Propast",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 330,
+      "y": 109,
+      "z": 1126
+    }
   },
   "mi_autobusak": {
     "Title": "Autobusák",
@@ -1659,7 +2274,12 @@
     "Blok": "Autobusák",
     "Okrsek": "Horní Propust",
     "Ctvrt": "Propast",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 331,
+      "y": 99,
+      "z": 1129
+    }
   },
   "mi_dolni_nadrazi": {
     "Title": "Dolní Nádraží",
@@ -1673,7 +2293,12 @@
     "Blok": "Autobusák",
     "Okrsek": "Horní Propust",
     "Ctvrt": "Propast",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 331,
+      "y": 94,
+      "z": 1129
+    }
   },
   "mi_zamecke_schody": {
     "Title": "Zámecké Schody",
@@ -1686,7 +2311,12 @@
     "Blok": "Zámecké Schody",
     "Okrsek": "Veveří",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 328,
+      "y": 70,
+      "z": 1143
+    }
   },
   "mi_hlavni_koridor_i": {
     "Title": "Hlavní Koridor I",
@@ -1707,7 +2337,12 @@
     "Blok": "Koridory",
     "Okrsek": "Dub",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_hlavni_koridor_ii": {
     "Title": "Hlavní Koridor II",
@@ -1735,7 +2370,12 @@
     "Blok": "Koridory",
     "Okrsek": "Dub",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_tunel": {
     "Title": "Tunel",
@@ -1746,7 +2386,12 @@
     "Blok": "Koridory",
     "Okrsek": "Dub",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 309,
+      "y": 71,
+      "z": 1143
+    }
   },
   "mi_dum_zavisti": {
     "Title": "Dům Závisti",
@@ -1758,7 +2403,12 @@
     "Blok": "Koridory",
     "Okrsek": "Dub",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 308,
+      "y": 70,
+      "z": 1131
+    }
   },
   "mi_pernikova_chaloupka": {
     "Title": "Perníková Chaloupka",
@@ -1771,7 +2421,12 @@
     "Blok": "Koridory",
     "Okrsek": "Dub",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 307,
+      "y": 70,
+      "z": 1125
+    }
   },
   "mi_potato_farma": {
     "Title": "Potato Farma",
@@ -1781,7 +2436,12 @@
     "Blok": "Okruh",
     "Okrsek": "Dub",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 310,
+      "y": 65,
+      "z": 1132
+    }
   },
   "mi_trucovna": {
     "Title": "Trucovna",
@@ -1792,7 +2452,12 @@
     "Blok": "Okruh",
     "Okrsek": "Dub",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 307,
+      "y": 65,
+      "z": 1145
+    }
   },
   "mi_koupaci_jezirko": {
     "Title": "Koupací Jezírko",
@@ -1804,7 +2469,12 @@
     "Blok": "Okruh",
     "Okrsek": "Dub",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 309,
+      "y": 63,
+      "z": 1149
+    }
   },
   "mi_pod_schody": {
     "Title": "Pod Schody",
@@ -1818,7 +2488,12 @@
     "Blok": "Okruh",
     "Okrsek": "Dub",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 320,
+      "y": 66,
+      "z": 1151
+    }
   },
   "mi_plantazove_kralovstvi": {
     "Title": "Plantážové Království",
@@ -1830,7 +2505,12 @@
     "Blok": "Okruh",
     "Okrsek": "Dub",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 320,
+      "y": 66,
+      "z": 1139
+    }
   },
   "mi_na_samote_u_vody": {
     "Title": "Na samotě u vody",
@@ -1841,7 +2521,12 @@
     "Blok": "Okruh",
     "Okrsek": "Dub",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_pod_schodama": {
     "Title": "Pod Schodama",
@@ -1860,7 +2545,12 @@
     "Blok": "Mezipatro",
     "Okrsek": "Dub",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_mezipatro": {
     "Title": "Mezipatro",
@@ -1872,7 +2562,12 @@
     "Blok": "Mezipatro",
     "Okrsek": "Dub",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_olafuv_dum": {
     "Title": "Olafův Dům",
@@ -1883,7 +2578,12 @@
     "Blok": "Mezipatro",
     "Okrsek": "Dub",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_vratnice": {
     "Title": "Vrátnice",
@@ -1893,7 +2593,12 @@
     "Blok": "Na Vodě",
     "Okrsek": "Přístav",
     "Ctvrt": "Rybářská Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_dum_zvonika_glassimoda": {
     "Title": "Dům zvoníka Glassimoda",
@@ -1904,7 +2609,12 @@
     "Blok": "Na Vodě",
     "Okrsek": "Přístav",
     "Ctvrt": "Rybářská Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_parkoviste": {
     "Title": "Parkoviště",
@@ -1915,7 +2625,12 @@
     "Blok": "Na Vodě",
     "Okrsek": "Přístav",
     "Ctvrt": "Rybářská Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_podchod": {
     "Title": "Podchod",
@@ -1928,7 +2643,12 @@
     "Blok": "Na Vodě",
     "Okrsek": "Přístav",
     "Ctvrt": "Rybářská Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_komurka": {
     "Title": "Komůrka",
@@ -1939,7 +2659,12 @@
     "Blok": "Na Vodě",
     "Okrsek": "Přístav",
     "Ctvrt": "Rybářská Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_preddvor": {
     "Title": "Preddvor",
@@ -1956,7 +2681,12 @@
     "Blok": "Preddvor",
     "Okrsek": "Veveří",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_zabory": {
     "Title": "Zabory",
@@ -1968,7 +2698,12 @@
     "Blok": "Preddvor",
     "Okrsek": "Veveří",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_sobota": {
     "Title": "Sobota",
@@ -1982,7 +2717,12 @@
     "Blok": "Preddvor",
     "Okrsek": "Veveří",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_predel": {
     "Title": "Předěl",
@@ -1998,7 +2738,12 @@
     "Blok": "Předěl",
     "Okrsek": "Skleník",
     "Ctvrt": "Propast",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_pristav": {
     "Title": "Přístav",
@@ -2013,7 +2758,12 @@
     "Blok": "Přístav",
     "Okrsek": "Přístav",
     "Ctvrt": "Rybářská Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_ufo": {
     "Title": "UFO",
@@ -2028,7 +2778,12 @@
     "Blok": "Velký Pilíř",
     "Okrsek": "Pilíř",
     "Ctvrt": "Dálniční Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_chajda_pani_hlinene": {
     "Title": "Chajda paní Hliněné",
@@ -2040,7 +2795,12 @@
     "Blok": "Kanál",
     "Okrsek": "Přístav",
     "Ctvrt": "Rybářská Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_kabelkuv_kabinet": {
     "Title": "Kabelkův Kabinet",
@@ -2050,7 +2810,12 @@
     "Blok": "Suterén",
     "Okrsek": "Důl",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_suteren": {
     "Title": "Suterén",
@@ -2062,7 +2827,12 @@
     "Blok": "Suterén",
     "Okrsek": "Důl",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_blok_a": {
     "Title": "Blok A",
@@ -2074,7 +2844,12 @@
     "Blok": "Důl",
     "Okrsek": "Důl",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_blok_b": {
     "Title": "Blok B",
@@ -2085,7 +2860,12 @@
     "Blok": "Důl",
     "Okrsek": "Důl",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_the_crossing": {
     "Title": "The Crossing",
@@ -2109,7 +2889,12 @@
     "Blok": "Vestibul",
     "Okrsek": "Dálniční Kolonie",
     "Ctvrt": "Dálniční Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_the_detour": {
     "Title": "The Detour",
@@ -2135,7 +2920,12 @@
     "Blok": "Katakomby",
     "Okrsek": "Dálniční Kolonie",
     "Ctvrt": "Dálniční Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_w_vez_1_podlazi": {
     "Title": "W-Věž 1. podlaží",
@@ -2148,7 +2938,12 @@
     "Blok": "W Věž",
     "Okrsek": "Dub",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_w_vez_2_podlazi": {
     "Title": "W-Věž 2. podlaží",
@@ -2161,7 +2956,12 @@
     "Blok": "W Věž",
     "Okrsek": "Dub",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_w_vez_3_podlazi": {
     "Title": "W-Věž 3. podlaží",
@@ -2172,7 +2972,12 @@
     "Blok": "W Věž",
     "Okrsek": "Dub",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_kapsule": {
     "Title": "Kapsule",
@@ -2185,7 +2990,12 @@
     "Blok": "Hrad",
     "Okrsek": "Veveří",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_honda": {
     "Title": "Honda",
@@ -2196,7 +3006,12 @@
     "Blok": "Hrad",
     "Okrsek": "Veveří",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_chlev": {
     "Title": "Chlév",
@@ -2209,7 +3024,12 @@
     "Blok": "Alfa",
     "Okrsek": "Dub",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_arcanum": {
     "Title": "Arcanum",
@@ -2222,7 +3042,12 @@
     "Blok": "Arcanum",
     "Okrsek": "Veveří",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_pultova_strecha": {
     "Title": "Pultová Střecha",
@@ -2237,7 +3062,12 @@
     "Blok": "Hlavní Třída",
     "Okrsek": "Benátky",
     "Ctvrt": "Rybářská Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_bily_strop": {
     "Title": "Bílý Strop",
@@ -2252,7 +3082,12 @@
     "Blok": "Hlavní Třída",
     "Okrsek": "Benátky",
     "Ctvrt": "Rybářská Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_skrys": {
     "Title": "Skrýš",
@@ -2262,7 +3097,12 @@
     "Blok": "Hlavní Třída",
     "Okrsek": "Benátky",
     "Ctvrt": "Rybářská Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_kapitana_jarose": {
     "Title": "Kapitána Jaroše",
@@ -2276,7 +3116,12 @@
     "Blok": "Hlavní Třída",
     "Okrsek": "Benátky",
     "Ctvrt": "Rybářská Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_slavnostni_balkon": {
     "Title": "Slavnostní Balkón",
@@ -2286,7 +3131,12 @@
     "Blok": "Hlavní Třída",
     "Okrsek": "Benátky",
     "Ctvrt": "Rybářská Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_kaplicka": {
     "Title": "Kaplička",
@@ -2299,7 +3149,12 @@
     "Blok": "Hlavní Třída",
     "Okrsek": "Benátky",
     "Ctvrt": "Rybářská Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_retarder": {
     "Title": "Retardér",
@@ -2312,7 +3167,12 @@
     "Blok": "Hlavní Třída",
     "Okrsek": "Benátky",
     "Ctvrt": "Rybářská Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_stupinek": {
     "Title": "Stupínek",
@@ -2322,7 +3182,12 @@
     "Blok": "Hlavní Třída",
     "Okrsek": "Benátky",
     "Ctvrt": "Rybářská Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 299,
+      "y": 70,
+      "z": 1136
+    }
   },
   "mi_rozhrani": {
     "Title": "Rozhraní",
@@ -2344,7 +3209,12 @@
     "Blok": "Koridory",
     "Okrsek": "Dub",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 303,
+      "y": 74,
+      "z": 1137
+    }
   },
   "mi_v_vez_1_podlazi": {
     "Title": "V-Věž 1. podlaží",
@@ -2358,7 +3228,12 @@
     "Blok": "V-Věž",
     "Okrsek": "Veveří",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 334,
+      "y": 77,
+      "z": 1158
+    }
   },
   "mi_v_vez_2_podlazi": {
     "Title": "V-Věž 2. podlaží",
@@ -2370,7 +3245,12 @@
     "Blok": "V-Věž",
     "Okrsek": "Veveří",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 334,
+      "y": 81,
+      "z": 1158
+    }
   },
   "mi_v_vez_3_podlazi": {
     "Title": "V-Věž 3. podlaží",
@@ -2383,7 +3263,12 @@
     "Blok": "V-Věž",
     "Okrsek": "Veveří",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 334,
+      "y": 85,
+      "z": 1158
+    }
   },
   "mi_villager_house": {
     "Title": "Villager House",
@@ -2397,7 +3282,12 @@
     "Blok": "Vesnice",
     "Okrsek": "Dub",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 308,
+      "y": 74,
+      "z": 1125
+    }
   },
   "mi_villager_bridge": {
     "Title": "Villager Bridge",
@@ -2408,7 +3298,12 @@
     "Blok": "Vesnice",
     "Okrsek": "Dub",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 324,
+      "y": 76,
+      "z": 1130
+    }
   },
   "mi_wheat_farma": {
     "Title": "Wheat Farma",
@@ -2421,7 +3316,12 @@
     "Blok": "Vesnice",
     "Okrsek": "Dub",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 321,
+      "y": 74,
+      "z": 1138
+    }
   },
   "mi_bobuv_dum": {
     "Title": "Bobův Dům",
@@ -2433,7 +3333,12 @@
     "Blok": "Vesnice",
     "Okrsek": "Dub",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 322,
+      "y": 76,
+      "z": 1146
+    }
   },
   "mi_spunt": {
     "Title": "Špunt",
@@ -2446,7 +3351,12 @@
     "Blok": "Pisa",
     "Okrsek": "Pisa",
     "Ctvrt": "Gideon",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 311,
+      "y": 82,
+      "z": 1113
+    }
   },
   "mi_paranoia": {
     "Title": "Paranoia",
@@ -2457,7 +3367,12 @@
     "Blok": "Pocity",
     "Okrsek": "Železná Lhota",
     "Ctvrt": "Železná Lhota",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 353,
+      "y": 89,
+      "z": 1074
+    }
   },
   "mi_deprese": {
     "Title": "Deprese",
@@ -2469,7 +3384,12 @@
     "Blok": "Pocity",
     "Okrsek": "Železná Lhota",
     "Ctvrt": "Železná Lhota",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 352,
+      "y": 84,
+      "z": 1072
+    }
   },
   "mi_radost": {
     "Title": "Radost",
@@ -2482,7 +3402,12 @@
     "Blok": "Pocity",
     "Okrsek": "Železná Lhota",
     "Ctvrt": "Železná Lhota",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 352,
+      "y": 81,
+      "z": 1072
+    }
   },
   "mi_ironie": {
     "Title": "Ironie",
@@ -2495,7 +3420,12 @@
     "Blok": "Pocity",
     "Okrsek": "Železná Lhota",
     "Ctvrt": "Železná Lhota",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 353,
+      "y": 77,
+      "z": 1071
+    }
   },
   "mi_rizek": {
     "Title": "Řízek",
@@ -2506,7 +3436,12 @@
     "Blok": "Pocity",
     "Okrsek": "Železná Lhota",
     "Ctvrt": "Železná Lhota",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 350,
+      "y": 78,
+      "z": 1074
+    }
   },
   "mi_posse": {
     "Title": "Posse",
@@ -2518,7 +3453,12 @@
     "Blok": "Vtip",
     "Okrsek": "Nord",
     "Ctvrt": "Goias",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 335,
+      "y": 72,
+      "z": 1068
+    }
   },
   "mi_russe": {
     "Title": "Russe",
@@ -2529,7 +3469,12 @@
     "Blok": "Vtip",
     "Okrsek": "Nord",
     "Ctvrt": "Goias",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 344,
+      "y": 72,
+      "z": 1070
+    }
   },
   "mi_humry": {
     "Title": "Humry",
@@ -2541,7 +3486,12 @@
     "Blok": "Humry",
     "Okrsek": "Železná Lhota",
     "Ctvrt": "Železná Lhota",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 353,
+      "y": 58,
+      "z": 1072
+    }
   },
   "mi_raky": {
     "Title": "Raky",
@@ -2551,7 +3501,12 @@
     "Blok": "Humry",
     "Okrsek": "Železná Lhota",
     "Ctvrt": "Železná Lhota",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 353,
+      "y": 54,
+      "z": 1071
+    }
   },
   "mi_dlouhy": {
     "Title": "Dlouhý",
@@ -2562,7 +3517,12 @@
     "Blok": "Cimrman",
     "Okrsek": "Mrkev",
     "Ctvrt": "Dužina",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_siroky": {
     "Title": "Široký",
@@ -2573,7 +3533,12 @@
     "Blok": "Cimrman",
     "Okrsek": "Mrkev",
     "Ctvrt": "Dužina",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_hluchonemy": {
     "Title": "Hluchoněmý",
@@ -2584,7 +3549,12 @@
     "Blok": "Cimrman",
     "Okrsek": "Mrkev",
     "Ctvrt": "Dužina",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_bystrozraky": {
     "Title": "Bystrozraký",
@@ -2595,7 +3565,12 @@
     "Blok": "Cimrman",
     "Okrsek": "Mrkev",
     "Ctvrt": "Dužina",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_amfora": {
     "Title": "Amfora",
@@ -2606,7 +3581,12 @@
     "Blok": "Ga",
     "Okrsek": "Hotel Gi",
     "Ctvrt": "Gi",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_baby_chef_office": {
     "Title": "Baby Chef Office",
@@ -2617,7 +3597,12 @@
     "Blok": "Ga",
     "Okrsek": "Hotel Gi",
     "Ctvrt": "Gi",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_emfora": {
     "Title": "Emfora",
@@ -2628,7 +3613,12 @@
     "Blok": "Ga",
     "Okrsek": "Hotel Gi",
     "Ctvrt": "Gi",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_tucik": {
     "Title": "Tučík",
@@ -2641,7 +3631,12 @@
     "Blok": "Ge",
     "Okrsek": "Hotel Gi",
     "Ctvrt": "Gi",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 296,
+      "y": 66,
+      "z": 1088
+    }
   },
   "mi_kanc": {
     "Title": "Kanc",
@@ -2651,7 +3646,12 @@
     "Blok": "Ge",
     "Okrsek": "Hotel Gi",
     "Ctvrt": "Gi",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 294,
+      "y": 66,
+      "z": 1082
+    }
   },
   "mi_sadlo": {
     "Title": "Sádlo",
@@ -2661,7 +3661,12 @@
     "Blok": "Ge",
     "Okrsek": "Hotel Gi",
     "Ctvrt": "Gi",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 292,
+      "y": 66,
+      "z": 1089
+    }
   },
   "mi_tuk": {
     "Title": "Tuk",
@@ -2672,7 +3677,12 @@
     "Blok": "Ge",
     "Okrsek": "Hotel Gi",
     "Ctvrt": "Gi",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_police": {
     "Title": "Police",
@@ -2683,7 +3693,12 @@
     "Blok": "Gi",
     "Okrsek": "Hotel Gi",
     "Ctvrt": "Gi",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_levo": {
     "Title": "Levo",
@@ -2694,7 +3709,12 @@
     "Blok": "Gi",
     "Okrsek": "Hotel Gi",
     "Ctvrt": "Gi",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_pravo": {
     "Title": "Pravo",
@@ -2705,7 +3725,12 @@
     "Blok": "Gi",
     "Okrsek": "Hotel Gi",
     "Ctvrt": "Gi",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_lejno": {
     "Title": "Lejno",
@@ -2715,7 +3740,12 @@
     "Blok": "Gi",
     "Okrsek": "Hotel Gi",
     "Ctvrt": "Gi",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_cervi_dira": {
     "Title": "Červí Díra",
@@ -2726,7 +3756,12 @@
     "Blok": "Aula Ga",
     "Okrsek": "Ga",
     "Ctvrt": "Gi",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_dira_do_pekel": {
     "Title": "Díra do Pekel",
@@ -2743,7 +3778,12 @@
     "Blok": "Veranda",
     "Okrsek": "Dub",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_balonky": {
     "Title": "Balónky",
@@ -2758,7 +3798,12 @@
     "Blok": "Balónky",
     "Okrsek": "Balónky",
     "Ctvrt": "Gi",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_jizni_blok": {
     "Title": "Jižní Blok",
@@ -2774,7 +3819,12 @@
     "Blok": "Bloky",
     "Okrsek": "Gandalf",
     "Ctvrt": "Gandalf",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_le_pont": {
     "Title": "Le Pont",
@@ -2791,7 +3841,12 @@
     "Blok": "Le Pont",
     "Okrsek": "Pisa",
     "Ctvrt": "Gideon",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_vystavni": {
     "Title": "Výstavní",
@@ -2803,7 +3858,12 @@
     "Blok": "Le Pont",
     "Okrsek": "Pisa",
     "Ctvrt": "Gideon",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_hlava_statu": {
     "Title": "Hlava Státu",
@@ -2813,7 +3873,12 @@
     "Blok": "Le Pont",
     "Okrsek": "Pisa",
     "Ctvrt": "Gideon",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 314,
+      "y": 146,
+      "z": 1100
+    }
   },
   "mi_kral": {
     "Title": "Král",
@@ -2824,7 +3889,12 @@
     "Blok": "Le Pont",
     "Okrsek": "Pisa",
     "Ctvrt": "Gideon",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 313,
+      "y": 120,
+      "z": 1100
+    }
   },
   "mi_lusk": {
     "Title": "Lusk",
@@ -2835,7 +3905,12 @@
     "Blok": "Únikové Schodiště",
     "Okrsek": "Smrk",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_kazeta": {
     "Title": "Kazeta",
@@ -2847,7 +3922,12 @@
     "Blok": "Únikové Schodiště",
     "Okrsek": "Smrk",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_letove_pole": {
     "Title": "Letové Pole",
@@ -2858,7 +3938,12 @@
     "Blok": "Parapet",
     "Okrsek": "Rotunda",
     "Ctvrt": "Basgiath",
-    "Cast": "Sibiř"
+    "Cast": "Sibiř",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_parapet": {
     "Title": "Parapet",
@@ -2869,7 +3954,12 @@
     "Blok": "Parapet",
     "Okrsek": "Rotunda",
     "Ctvrt": "Basgiath",
-    "Cast": "Sibiř"
+    "Cast": "Sibiř",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_draci_rotunda": {
     "Title": "Dračí Rotunda",
@@ -2883,7 +3973,12 @@
     "Blok": "Rotunda",
     "Okrsek": "Rotunda",
     "Ctvrt": "Basgiath",
-    "Cast": "Sibiř"
+    "Cast": "Sibiř",
+    "Coordinates": {
+      "x": 264,
+      "y": 81,
+      "z": 1135
+    }
   },
   "mi_gauntlet": {
     "Title": "Gauntlet",
@@ -2893,7 +3988,12 @@
     "Blok": "Kvadrant",
     "Okrsek": "Čtvrté Křídlo",
     "Ctvrt": "Basgiath",
-    "Cast": "Sibiř"
+    "Cast": "Sibiř",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_mosta": {
     "Title": "Mosta",
@@ -2904,7 +4004,12 @@
     "Blok": "Rotunda",
     "Okrsek": "Rotunda",
     "Ctvrt": "Basgiath",
-    "Cast": "Sibiř"
+    "Cast": "Sibiř",
+    "Coordinates": {
+      "x": 275,
+      "y": 97,
+      "z": 1133
+    }
   },
   "mi_weaver_house": {
     "Title": "Weaver House",
@@ -2916,7 +4021,12 @@
     "Blok": "Koridory",
     "Okrsek": "Dub",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 320,
+      "y": 69,
+      "z": 1140
+    }
   },
   "mi_holic": {
     "Title": "Holíč",
@@ -2930,7 +4040,12 @@
     "Blok": "Fujara",
     "Okrsek": "Guláš",
     "Ctvrt": "Trója",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_halusky": {
     "Title": "Halušky",
@@ -2945,7 +4060,12 @@
     "Blok": "Fujara",
     "Okrsek": "Guláš",
     "Ctvrt": "Trója",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_tamtam": {
     "Title": "Tamtam",
@@ -2957,7 +4077,12 @@
     "Blok": "Fujara",
     "Okrsek": "Guláš",
     "Ctvrt": "Trója",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_la": {
     "Title": "La",
@@ -2968,7 +4093,12 @@
     "Blok": "Pisa",
     "Okrsek": "Pisa",
     "Ctvrt": "Gideon",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_arkada": {
     "Title": "Arkáda",
@@ -2985,7 +4115,12 @@
     "Blok": "Arkáda",
     "Okrsek": "Guláš",
     "Ctvrt": "Trója",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_nacleharna": {
     "Title": "Naclehárna",
@@ -2996,7 +4131,12 @@
     "Blok": "Arkáda",
     "Okrsek": "Guláš",
     "Ctvrt": "Trója",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_kho": {
     "Title": "Kho",
@@ -3007,7 +4147,12 @@
     "Blok": "Hala",
     "Okrsek": "Vietnamský Okrsek",
     "Ctvrt": "Vietnamská Čtvrť",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_quare": {
     "Title": "Quare",
@@ -3017,7 +4162,12 @@
     "Blok": "Hala",
     "Okrsek": "Vietnamský Okrsek",
     "Ctvrt": "Vietnamská Čtvrť",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_atom": {
     "Title": "Atom",
@@ -3028,7 +4178,12 @@
     "Blok": "Atom",
     "Okrsek": "Preatrium",
     "Ctvrt": "Vietnamská Čtvrť",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_kryt": {
     "Title": "Kryt",
@@ -3039,7 +4194,12 @@
     "Blok": "Atom",
     "Okrsek": "Preatrium",
     "Ctvrt": "Vietnamská Čtvrť",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 353,
+      "y": 68,
+      "z": 1148
+    }
   },
   "mi_vietnamska_ctvrt": {
     "Title": "Vietnamská Čtvrť",
@@ -3052,7 +4212,12 @@
     "Blok": "Vietnamský Blok",
     "Okrsek": "Vietnamský Okrsek",
     "Ctvrt": "Vietnamská Čtvrť",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 343,
+      "y": 77,
+      "z": 1158
+    }
   },
   "mi_hanojska_vez": {
     "Title": "Hanojská Věž",
@@ -3062,7 +4227,12 @@
     "Blok": "Vietnamský Blok",
     "Okrsek": "Vietnamský Okrsek",
     "Ctvrt": "Vietnamská Čtvrť",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 347,
+      "y": 77,
+      "z": 1155
+    }
   },
   "mi_loosova_vila": {
     "Title": "Loosova Vila",
@@ -3081,7 +4251,12 @@
     "Blok": "Vila",
     "Okrsek": "Loosova Vila",
     "Ctvrt": "Trója",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 348,
+      "y": 69,
+      "z": 1142
+    }
   },
   "mi_plaz": {
     "Title": "Pláž",
@@ -3092,7 +4267,12 @@
     "Blok": "Vila",
     "Okrsek": "Loosova Vila",
     "Ctvrt": "Trója",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 351,
+      "y": 65,
+      "z": 1142
+    }
   },
   "mi_jezirko": {
     "Title": "Jezírko",
@@ -3104,7 +4284,12 @@
     "Blok": "Vila",
     "Okrsek": "Loosova Vila",
     "Ctvrt": "Trója",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 348,
+      "y": 63,
+      "z": 1134
+    }
   },
   "mi_skokansky_stav": {
     "Title": "Skokanský Stav",
@@ -3115,7 +4300,12 @@
     "Blok": "Vila",
     "Okrsek": "Loosova Vila",
     "Ctvrt": "Trója",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 351,
+      "y": 68,
+      "z": 1127
+    }
   },
   "mi_minimum": {
     "Title": "Minimum",
@@ -3126,7 +4316,12 @@
     "Blok": "Vila",
     "Okrsek": "Loosova Vila",
     "Ctvrt": "Trója",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 340,
+      "y": 64,
+      "z": 1140
+    }
   },
   "mi_za_vodou": {
     "Title": "Za Vodou",
@@ -3139,7 +4334,12 @@
     "Blok": "Kanál",
     "Okrsek": "Přístav",
     "Ctvrt": "Rybářská Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 335,
+      "y": 62,
+      "z": 1140
+    }
   },
   "mi_kanal": {
     "Title": "Kanál",
@@ -3155,7 +4355,12 @@
     "Blok": "Kanál",
     "Okrsek": "Přístav",
     "Ctvrt": "Rybářská Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_dalnice": {
     "Title": "Dálnice",
@@ -3188,7 +4393,12 @@
     "Blok": "Akvadukt",
     "Okrsek": "Lednice",
     "Ctvrt": "Lednice",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_na_nabrezi": {
     "Title": "Na Nábřeží",
@@ -3203,7 +4413,12 @@
     "Blok": "Nábřeží",
     "Okrsek": "Nekonečno",
     "Ctvrt": "Nekonečno",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 352,
+      "y": 63,
+      "z": 1114
+    }
   },
   "mi_k_nabrezi": {
     "Title": "K Nábřeží",
@@ -3215,7 +4430,12 @@
     "Blok": "Nábřeží",
     "Okrsek": "Nekonečno",
     "Ctvrt": "Nekonečno",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 336,
+      "y": 63,
+      "z": 1109
+    }
   },
   "mi_nekonecno": {
     "Title": "Nekonečno",
@@ -3226,7 +4446,12 @@
     "Blok": "Nekonečno",
     "Okrsek": "Nekonečno",
     "Ctvrt": "Nekonečno",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 365,
+      "y": 63,
+      "z": 1113
+    }
   },
   "mi_rozbresk": {
     "Title": "Rozbřesk",
@@ -3236,7 +4461,12 @@
     "Blok": "Pokoje",
     "Okrsek": "Sluníčko",
     "Ctvrt": "Nekonečno",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 354,
+      "y": 71,
+      "z": 1109
+    }
   },
   "mi_cervanky": {
     "Title": "Červánky",
@@ -3246,7 +4476,12 @@
     "Blok": "Pokoje",
     "Okrsek": "Sluníčko",
     "Ctvrt": "Nekonečno",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 361,
+      "y": 71,
+      "z": 1109
+    }
   },
   "mi_uplnek": {
     "Title": "Úplněk",
@@ -3256,7 +4491,12 @@
     "Blok": "Pokoje",
     "Okrsek": "Sluníčko",
     "Ctvrt": "Nekonečno",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 376,
+      "y": 71,
+      "z": 1125
+    }
   },
   "mi_triangl": {
     "Title": "Triangl",
@@ -3268,7 +4508,12 @@
     "Blok": "Triangl",
     "Okrsek": "Triangl",
     "Ctvrt": "Triangl",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 368,
+      "y": 73,
+      "z": 1142
+    }
   },
   "mi_trigon": {
     "Title": "Trigon",
@@ -3282,7 +4527,12 @@
     "Blok": "Trigon",
     "Okrsek": "Triangl",
     "Ctvrt": "Triangl",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 368,
+      "y": 78,
+      "z": 1142
+    }
   },
   "mi_delta": {
     "Title": "Delta",
@@ -3296,7 +4546,12 @@
     "Blok": "Delta",
     "Okrsek": "Triangl",
     "Ctvrt": "Triangl",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 368,
+      "y": 83,
+      "z": 1142
+    }
   },
   "mi_namornik": {
     "Title": "Námořník",
@@ -3308,7 +4563,12 @@
     "Blok": "Námořník",
     "Okrsek": "Triangl",
     "Ctvrt": "Triangl",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 368,
+      "y": 87,
+      "z": 1142
+    }
   },
   "mi_centrofrater": {
     "Title": "Centrofrater",
@@ -3320,7 +4580,12 @@
     "Blok": "Trigon",
     "Okrsek": "Triangl",
     "Ctvrt": "Triangl",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_ortofrater": {
     "Title": "Ortofrater",
@@ -3337,7 +4602,12 @@
     "Blok": "Trigon",
     "Okrsek": "Triangl",
     "Ctvrt": "Triangl",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_nexus": {
     "Title": "Nexus",
@@ -3351,7 +4621,12 @@
     "Blok": "Nexus",
     "Okrsek": "Loosova Vila",
     "Ctvrt": "Trója",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_na_mustku": {
     "Title": "Na Můstku",
@@ -3366,7 +4641,12 @@
     "Blok": "Nexus",
     "Okrsek": "Loosova Vila",
     "Ctvrt": "Trója",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_loze": {
     "Title": "Lóže",
@@ -3377,7 +4657,12 @@
     "Blok": "Nexus",
     "Okrsek": "Loosova Vila",
     "Ctvrt": "Trója",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_atrium": {
     "Title": "Atrium",
@@ -3397,7 +4682,12 @@
     "Blok": "Nexus",
     "Okrsek": "Loosova Vila",
     "Ctvrt": "Trója",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_urampa": {
     "Title": "Urampa",
@@ -3409,7 +4699,12 @@
     "Blok": "Půlkruh",
     "Okrsek": "Loosova Vila",
     "Ctvrt": "Trója",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 358,
+      "y": 70,
+      "z": 1145
+    }
   },
   "mi_lava_show": {
     "Title": "Lava Show",
@@ -3419,7 +4714,12 @@
     "Blok": "Půlkruh",
     "Okrsek": "Loosova Vila",
     "Ctvrt": "Trója",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 364,
+      "y": 70,
+      "z": 1145
+    }
   },
   "mi_garaz": {
     "Title": "Garáž",
@@ -3434,7 +4734,12 @@
     "Blok": "Tvrz",
     "Okrsek": "Hradiště",
     "Ctvrt": "Gandalf",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_svatyne": {
     "Title": "Svatyně",
@@ -3446,7 +4751,12 @@
     "Blok": "Tvrz",
     "Okrsek": "Hradiště",
     "Ctvrt": "Gandalf",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_vychodni_blok": {
     "Title": "Východní Blok",
@@ -3461,7 +4771,12 @@
     "Blok": "Bloky",
     "Okrsek": "Gandalf",
     "Ctvrt": "Gandalf",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_nocni_klid": {
     "Title": "Noční Klid",
@@ -3473,7 +4788,12 @@
     "Blok": "Obchod",
     "Okrsek": "Gandalf",
     "Ctvrt": "Gandalf",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_prace": {
     "Title": "Práce",
@@ -3485,7 +4805,12 @@
     "Blok": "Obchod",
     "Okrsek": "Gandalf",
     "Ctvrt": "Gandalf",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 300,
+      "y": 63,
+      "z": 1061
+    }
   },
   "mi_gideon": {
     "Title": "Gideon",
@@ -3500,7 +4825,12 @@
     "Blok": "Při Vodě",
     "Okrsek": "Gideon",
     "Ctvrt": "Gideon",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 322,
+      "y": 64,
+      "z": 1101
+    }
   },
   "mi_katedra": {
     "Title": "Katedra",
@@ -3513,7 +4843,12 @@
     "Blok": "Při Vodě",
     "Okrsek": "Gideon",
     "Ctvrt": "Gideon",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_moje_malickost": {
     "Title": "Moje Maličkost",
@@ -3526,7 +4861,12 @@
     "Blok": "Nad Vodou",
     "Okrsek": "Gideon",
     "Ctvrt": "Gideon",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_i_port": {
     "Title": "I-PORT",
@@ -3541,7 +4881,12 @@
     "Blok": "Mob Farma",
     "Okrsek": "Mob Farma",
     "Ctvrt": "Železná Lhota",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_high_cross": {
     "Title": "High Cross",
@@ -3553,7 +4898,12 @@
     "Blok": "Mob Farma",
     "Okrsek": "Mob Farma",
     "Ctvrt": "Železná Lhota",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_ah_fuck": {
     "Title": "Ah Fuck",
@@ -3563,7 +4913,12 @@
     "Blok": "Mob Farma",
     "Okrsek": "Mob Farma",
     "Ctvrt": "Železná Lhota",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_formosa": {
     "Title": "Formosa",
@@ -3578,7 +4933,12 @@
     "Blok": "Velho",
     "Okrsek": "Sud",
     "Ctvrt": "Goias",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_goiania": {
     "Title": "Goiania",
@@ -3591,7 +4951,12 @@
     "Blok": "Velho",
     "Okrsek": "Sud",
     "Ctvrt": "Goias",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_neropolis": {
     "Title": "Neropolis",
@@ -3603,7 +4968,12 @@
     "Blok": "Nuevo",
     "Okrsek": "Sud",
     "Ctvrt": "Goias",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 351,
+      "y": 69,
+      "z": 1064
+    }
   },
   "mi_strop": {
     "Title": "Strop",
@@ -3614,7 +4984,12 @@
     "Blok": "Nuevo",
     "Okrsek": "Sud",
     "Ctvrt": "Goias",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 338,
+      "y": 69,
+      "z": 1062
+    }
   },
   "mi_komin": {
     "Title": "Komín",
@@ -3626,7 +5001,12 @@
     "Blok": "Nuevo",
     "Okrsek": "Sud",
     "Ctvrt": "Goias",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 331,
+      "y": 70,
+      "z": 1061
+    }
   },
   "mi_promena": {
     "Title": "Proměna",
@@ -3637,7 +5017,12 @@
     "Blok": "Nuevo",
     "Okrsek": "Sud",
     "Ctvrt": "Goias",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_orizona": {
     "Title": "Orizona",
@@ -3650,7 +5035,12 @@
     "Blok": "Orizona",
     "Okrsek": "Nord",
     "Ctvrt": "Goias",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_hraz": {
     "Title": "Hráz",
@@ -3673,7 +5063,12 @@
     "Blok": "Velký Pilíř",
     "Okrsek": "Pilíř",
     "Ctvrt": "Dálniční Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_spirala": {
     "Title": "Spirála",
@@ -3692,7 +5087,12 @@
     "Blok": "Spirála",
     "Okrsek": "Čtvrté Křídlo",
     "Ctvrt": "Basgiath",
-    "Cast": "Sibiř"
+    "Cast": "Sibiř",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_arboretum": {
     "Title": "Arboretum",
@@ -3703,7 +5103,12 @@
     "Blok": "Spirála",
     "Okrsek": "Čtvrté Křídlo",
     "Ctvrt": "Basgiath",
-    "Cast": "Sibiř"
+    "Cast": "Sibiř",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_tairn": {
     "Title": "Tairn",
@@ -3713,7 +5118,12 @@
     "Blok": "Jezdci",
     "Okrsek": "Čtvrté Křídlo",
     "Ctvrt": "Basgiath",
-    "Cast": "Sibiř"
+    "Cast": "Sibiř",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_andarna": {
     "Title": "Andarna",
@@ -3724,7 +5134,12 @@
     "Blok": "Jezdci",
     "Okrsek": "Čtvrté Křídlo",
     "Ctvrt": "Basgiath",
-    "Cast": "Sibiř"
+    "Cast": "Sibiř",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_pila": {
     "Title": "Pila",
@@ -3737,7 +5152,12 @@
     "Blok": "Jezdci",
     "Okrsek": "Čtvrté Křídlo",
     "Ctvrt": "Basgiath",
-    "Cast": "Sibiř"
+    "Cast": "Sibiř",
+    "Coordinates": {
+      "x": 282,
+      "y": 79,
+      "z": 1126
+    }
   },
   "mi_sgaeil": {
     "Title": "Sgaeil",
@@ -3747,7 +5167,12 @@
     "Blok": "Jezdci",
     "Okrsek": "Čtvrté Křídlo",
     "Ctvrt": "Basgiath",
-    "Cast": "Sibiř"
+    "Cast": "Sibiř",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_pristavni_molo": {
     "Title": "Přístavní Molo",
@@ -3765,7 +5190,12 @@
     "Blok": "Přístav",
     "Okrsek": "Přístav",
     "Ctvrt": "Rybářská Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_vystup": {
     "Title": "Výstup",
@@ -3778,7 +5208,12 @@
     "Blok": "Vstup",
     "Okrsek": "Veveří",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_vypln": {
     "Title": "Výplň",
@@ -3796,7 +5231,12 @@
     "Blok": "Výtahová Šachta",
     "Okrsek": "Veveří",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_hrib": {
     "Title": "Hřib",
@@ -3806,7 +5246,12 @@
     "Blok": "Papokoi",
     "Okrsek": "Skleník",
     "Ctvrt": "Propast",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_schodnice": {
     "Title": "Schodnice",
@@ -3818,7 +5263,12 @@
     "Blok": "Papokoi",
     "Okrsek": "Skleník",
     "Ctvrt": "Propast",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_atomovka": {
     "Title": "Atomovka",
@@ -3833,7 +5283,12 @@
     "Blok": "Papokoi",
     "Okrsek": "Skleník",
     "Ctvrt": "Propast",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_teraska": {
     "Title": "Teráska",
@@ -3848,7 +5303,12 @@
     "Blok": "Papokoi",
     "Okrsek": "Skleník",
     "Ctvrt": "Propast",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_plac": {
     "Title": "Plac",
@@ -3865,7 +5325,12 @@
     "Blok": "Skleník",
     "Okrsek": "Skleník",
     "Ctvrt": "Propast",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_diagonala": {
     "Title": "Diagonála",
@@ -3882,7 +5347,12 @@
     "Blok": "Skleník",
     "Okrsek": "Skleník",
     "Ctvrt": "Propast",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_sin": {
     "Title": "Síň",
@@ -3897,7 +5367,12 @@
     "Blok": "Síň",
     "Okrsek": "Guláš",
     "Ctvrt": "Trója",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_jama": {
     "Title": "Jáma",
@@ -3911,7 +5386,12 @@
     "Blok": "Síň",
     "Okrsek": "Guláš",
     "Ctvrt": "Trója",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_exit": {
     "Title": "Exit",
@@ -3922,7 +5402,12 @@
     "Blok": "Labyrint",
     "Okrsek": "Guláš",
     "Ctvrt": "Trója",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_labyrint": {
     "Title": "Labyrint",
@@ -3944,7 +5429,12 @@
     "Blok": "Labyrint",
     "Okrsek": "Guláš",
     "Ctvrt": "Trója",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_nocleharna_a": {
     "Title": "Noclehárna A",
@@ -3954,7 +5444,12 @@
     "Blok": "Labyrint",
     "Okrsek": "Guláš",
     "Ctvrt": "Trója",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_nocleharna_b": {
     "Title": "Noclehárna B",
@@ -3965,7 +5460,12 @@
     "Blok": "Labyrint",
     "Okrsek": "Guláš",
     "Ctvrt": "Trója",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_spojka": {
     "Title": "Spojka",
@@ -3981,7 +5481,12 @@
     "Blok": "Bubeneč",
     "Okrsek": "Guláš",
     "Ctvrt": "Trója",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_pracovna": {
     "Title": "Pracovna",
@@ -3995,7 +5500,12 @@
     "Blok": "Bubeneč",
     "Okrsek": "Guláš",
     "Ctvrt": "Trója",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 345,
+      "y": 87,
+      "z": 1135
+    }
   },
   "mi_skytrail": {
     "Title": "Skytrail",
@@ -4008,7 +5518,12 @@
     "Blok": "Bubeneč",
     "Okrsek": "Guláš",
     "Ctvrt": "Trója",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 333,
+      "y": 87,
+      "z": 1132
+    }
   },
   "mi_bubenec": {
     "Title": "Bubeneč",
@@ -4021,7 +5536,12 @@
     "Blok": "Bubeneč",
     "Okrsek": "Guláš",
     "Ctvrt": "Trója",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 346,
+      "y": 89,
+      "z": 1128
+    }
   },
   "mi_troja": {
     "Title": "Trója",
@@ -4039,7 +5559,12 @@
     "Blok": "Trója",
     "Okrsek": "Trója",
     "Ctvrt": "Trója",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 346,
+      "y": 91,
+      "z": 1138
+    }
   },
   "mi_parek": {
     "Title": "Párek",
@@ -4051,7 +5576,12 @@
     "Blok": "Párek",
     "Okrsek": "Lednice",
     "Ctvrt": "Lednice",
-    "Cast": "Sibiř"
+    "Cast": "Sibiř",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_lednice": {
     "Title": "Lednice",
@@ -4062,7 +5592,12 @@
     "Blok": "Lednice",
     "Okrsek": "Lednice",
     "Ctvrt": "Lednice",
-    "Cast": "Sibiř"
+    "Cast": "Sibiř",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_okap": {
     "Title": "Okap",
@@ -4074,7 +5609,12 @@
     "Blok": "Velký Pilíř",
     "Okrsek": "Pilíř",
     "Ctvrt": "Dálniční Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_listy": {
     "Title": "Listy",
@@ -4085,7 +5625,12 @@
     "Blok": "Listy",
     "Okrsek": "Pískovna",
     "Ctvrt": "Dužina",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_mrkev_tunel": {
     "Title": "Mrkev Tunel",
@@ -4097,7 +5642,12 @@
     "Blok": "Mrkev",
     "Okrsek": "Podhoubí",
     "Ctvrt": "Dužina",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_zavodni_okruh": {
     "Title": "Závodní Okruh",
@@ -4116,7 +5666,12 @@
     "Blok": "Závodní Okruh",
     "Okrsek": "Podhoubí",
     "Ctvrt": "Dužina",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_prah": {
     "Title": "Práh",
@@ -4127,7 +5682,12 @@
     "Blok": "Práh",
     "Okrsek": "Železná Lhota",
     "Ctvrt": "Železná Lhota",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_nadvori": {
     "Title": "Nádvoří",
@@ -4141,7 +5701,12 @@
     "Blok": "Skleník",
     "Okrsek": "Skleník",
     "Ctvrt": "Propast",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_reka": {
     "Title": "Řeka",
@@ -4152,7 +5717,12 @@
     "Blok": "Skleník",
     "Okrsek": "Skleník",
     "Ctvrt": "Propast",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_lom": {
     "Title": "Lom",
@@ -4167,7 +5737,12 @@
     "Blok": "Lom",
     "Okrsek": "Lom",
     "Ctvrt": "Lom",
-    "Cast": "Sibiř"
+    "Cast": "Sibiř",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_hradba": {
     "Title": "Hradba",
@@ -4178,7 +5753,12 @@
     "Blok": "Hradby",
     "Okrsek": "Lom",
     "Ctvrt": "Lom",
-    "Cast": "Sibiř"
+    "Cast": "Sibiř",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_nic": {
     "Title": "Nic",
@@ -4188,7 +5768,12 @@
     "Blok": "Hradby",
     "Okrsek": "Lom",
     "Ctvrt": "Lom",
-    "Cast": "Sibiř"
+    "Cast": "Sibiř",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_hradbb": {
     "Title": "Hradbb",
@@ -4199,7 +5784,12 @@
     "Blok": "Hradby",
     "Okrsek": "Lom",
     "Ctvrt": "Lom",
-    "Cast": "Sibiř"
+    "Cast": "Sibiř",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_nid": {
     "Title": "Nid",
@@ -4210,7 +5800,12 @@
     "Blok": "Hradby",
     "Okrsek": "Lom",
     "Ctvrt": "Lom",
-    "Cast": "Sibiř"
+    "Cast": "Sibiř",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_most": {
     "Title": "Most",
@@ -4221,7 +5816,12 @@
     "Blok": "Most",
     "Okrsek": "Most",
     "Ctvrt": "Expresionismus",
-    "Cast": "Sibiř"
+    "Cast": "Sibiř",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_expresionismus": {
     "Title": "Expresionismus",
@@ -4231,7 +5831,12 @@
     "Blok": "Expresionismus",
     "Okrsek": "Expresionismus",
     "Ctvrt": "Expresionismus",
-    "Cast": "Sibiř"
+    "Cast": "Sibiř",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_namesticko": {
     "Title": "Náměstíčko",
@@ -4246,7 +5851,12 @@
     "Blok": "Barvy",
     "Okrsek": "Smrk",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_zlate_schodiste": {
     "Title": "Zlaté Schodiště",
@@ -4264,7 +5874,12 @@
     "Blok": "Zlaté Schodiště",
     "Okrsek": "Veveří",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_veranda": {
     "Title": "Veranda",
@@ -4290,7 +5905,12 @@
     "Blok": "Veranda",
     "Okrsek": "Dub",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_karotka": {
     "Title": "Karotka",
@@ -4311,7 +5931,12 @@
     "Blok": "Jazyky",
     "Okrsek": "Smyčka",
     "Ctvrt": "Dužina",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_audit": {
     "Title": "Audit",
@@ -4326,7 +5951,12 @@
     "Blok": "Nad Vodou",
     "Okrsek": "Gideon",
     "Ctvrt": "Gideon",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_gate": {
     "Title": "Gatě",
@@ -4340,7 +5970,12 @@
     "Blok": "Jazyky",
     "Okrsek": "Smyčka",
     "Ctvrt": "Dužina",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 316,
+      "y": 67,
+      "z": 1094
+    }
   },
   "mi_smycka": {
     "Title": "Smyčka",
@@ -4361,7 +5996,12 @@
     "Blok": "Smyčka",
     "Okrsek": "Smyčka",
     "Ctvrt": "Dužina",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_lavka": {
     "Title": "Lávka",
@@ -4372,7 +6012,12 @@
     "Blok": "Šnečí Ráj",
     "Okrsek": "Guláš",
     "Ctvrt": "Trója",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_kroky": {
     "Title": "Kroky",
@@ -4386,7 +6031,12 @@
     "Blok": "Šnečí Ráj",
     "Okrsek": "Guláš",
     "Ctvrt": "Trója",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 357,
+      "y": 87,
+      "z": 1144
+    }
   },
   "mi_ulita": {
     "Title": "Ulita",
@@ -4396,7 +6046,12 @@
     "Blok": "Šnečí Ráj",
     "Okrsek": "Guláš",
     "Ctvrt": "Trója",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 359,
+      "y": 89,
+      "z": 1138
+    }
   },
   "mi_sneci_raj": {
     "Title": "Šnečí Ráj",
@@ -4410,7 +6065,12 @@
     "Blok": "Šnečí Ráj",
     "Okrsek": "Guláš",
     "Ctvrt": "Trója",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 354,
+      "y": 87,
+      "z": 1137
+    }
   },
   "mi_paradox": {
     "Title": "Paradox",
@@ -4421,7 +6081,12 @@
     "Blok": "Šnečí Ráj",
     "Okrsek": "Guláš",
     "Ctvrt": "Trója",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 350,
+      "y": 86,
+      "z": 1133
+    }
   },
   "mi_puch": {
     "Title": "Puch",
@@ -4433,7 +6098,12 @@
     "Blok": "Tvrz",
     "Okrsek": "Hradiště",
     "Ctvrt": "Gandalf",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_kronika": {
     "Title": "Kronika",
@@ -4446,7 +6116,12 @@
     "Blok": "Tvrz",
     "Okrsek": "Hradiště",
     "Ctvrt": "Gandalf",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_zuch": {
     "Title": "Žuch",
@@ -4457,7 +6132,12 @@
     "Blok": "Tvrz",
     "Okrsek": "Hradiště",
     "Ctvrt": "Gandalf",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_svihak": {
     "Title": "Švihák",
@@ -4470,7 +6150,12 @@
     "Blok": "Tvrz",
     "Okrsek": "Hradiště",
     "Ctvrt": "Gandalf",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_mozek": {
     "Title": "Mozek",
@@ -4480,7 +6165,12 @@
     "Blok": "Mozek",
     "Okrsek": "Gandalf",
     "Ctvrt": "Gandalf",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_micha": {
     "Title": "Mícha",
@@ -4491,7 +6181,12 @@
     "Blok": "Mozek",
     "Okrsek": "Gandalf",
     "Ctvrt": "Gandalf",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_stavidlo": {
     "Title": "Stavidlo",
@@ -4502,7 +6197,12 @@
     "Blok": "Vrba",
     "Okrsek": "Mutěnické Rybníky",
     "Ctvrt": "Goias",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_pod_vrbou": {
     "Title": "Pod Vrbou",
@@ -4518,7 +6218,12 @@
     "Blok": "Vrba",
     "Okrsek": "Mutěnické Rybníky",
     "Ctvrt": "Goias",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_rybarna": {
     "Title": "Rybárna",
@@ -4528,7 +6233,12 @@
     "Blok": "Suchánek",
     "Okrsek": "Mutěnické Rybníky",
     "Ctvrt": "Goias",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_po_hlave_dolu": {
     "Title": "Po Hlavě Dolů",
@@ -4541,7 +6251,12 @@
     "Blok": "Suchánek",
     "Okrsek": "Mutěnické Rybníky",
     "Ctvrt": "Goias",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_josef": {
     "Title": "Josef",
@@ -4555,7 +6270,12 @@
     "Blok": "Suchánek",
     "Okrsek": "Mutěnické Rybníky",
     "Ctvrt": "Goias",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_u_petra": {
     "Title": "U Petra",
@@ -4567,7 +6287,12 @@
     "Blok": "Suchánek",
     "Okrsek": "Mutěnické Rybníky",
     "Ctvrt": "Goias",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_u_vrby": {
     "Title": "U Vrby",
@@ -4580,7 +6305,12 @@
     "Blok": "Vrba",
     "Okrsek": "Mutěnické Rybníky",
     "Ctvrt": "Goias",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_za_vrbou": {
     "Title": "Za Vrbou",
@@ -4593,7 +6323,12 @@
     "Blok": "Vrba",
     "Okrsek": "Mutěnické Rybníky",
     "Ctvrt": "Goias",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_hluboka": {
     "Title": "Hluboká",
@@ -4603,7 +6338,12 @@
     "Blok": "Vrba",
     "Okrsek": "Mutěnické Rybníky",
     "Ctvrt": "Goias",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_sralkovsky_rybnik": {
     "Title": "Srálkovský Rybník",
@@ -4616,7 +6356,12 @@
     "Blok": "Povodí",
     "Okrsek": "Mutěnické Rybníky",
     "Ctvrt": "Goias",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_sopel": {
     "Title": "Sopel",
@@ -4626,7 +6371,12 @@
     "Blok": "Povodí",
     "Okrsek": "Mutěnické Rybníky",
     "Ctvrt": "Goias",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_povodi": {
     "Title": "Povodí",
@@ -4638,7 +6388,12 @@
     "Blok": "Povodí",
     "Okrsek": "Mutěnické Rybníky",
     "Ctvrt": "Goias",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_chrchel": {
     "Title": "Chrchel",
@@ -4648,7 +6403,12 @@
     "Blok": "Povodí",
     "Okrsek": "Mutěnické Rybníky",
     "Ctvrt": "Goias",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_bumblebee": {
     "Title": "Bumblebee",
@@ -4660,7 +6420,12 @@
     "Blok": "Šilhánek",
     "Okrsek": "Mutěnické Rybníky",
     "Ctvrt": "Goias",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_wc_mesita": {
     "Title": "WC Mešita",
@@ -4671,7 +6436,12 @@
     "Blok": "Šilhánek",
     "Okrsek": "Mutěnické Rybníky",
     "Ctvrt": "Goias",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_silhanek": {
     "Title": "Šilhánek",
@@ -4681,7 +6451,12 @@
     "Blok": "Šilhánek",
     "Okrsek": "Mutěnické Rybníky",
     "Ctvrt": "Goias",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_lazne_panoraama": {
     "Title": "Lázně Panoraama",
@@ -4693,7 +6468,12 @@
     "Blok": "Lázně Panoraama",
     "Okrsek": "Smrk",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_balkon_ctvrtka": {
     "Title": "Balkón Čtvrtka",
@@ -4707,7 +6487,12 @@
     "Blok": "Lázně Panoraama",
     "Okrsek": "Smrk",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_armory": {
     "Title": "Armory",
@@ -4717,7 +6502,12 @@
     "Blok": "Lázně Panoraama",
     "Okrsek": "Smrk",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_dum_hloupeho_honzy": {
     "Title": "Dům hloupého Honzy",
@@ -4729,7 +6519,12 @@
     "Blok": "Střed",
     "Okrsek": "Smrk",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_tajna_mistnost": {
     "Title": "Tajná Místnost",
@@ -4741,7 +6536,12 @@
     "Blok": "Suterén",
     "Okrsek": "Důl",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_skryta_mistnost": {
     "Title": "Skrytá Mísnost",
@@ -4754,7 +6554,12 @@
     "Blok": "Suterén",
     "Okrsek": "Důl",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_tajna_chodba": {
     "Title": "Tajná Chodba",
@@ -4768,7 +6573,12 @@
     "Blok": "Suterén",
     "Okrsek": "Důl",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_pulmesic": {
     "Title": "Půlměsíc",
@@ -4782,7 +6592,12 @@
     "Blok": "Třešeň",
     "Okrsek": "Most",
     "Ctvrt": "Expresionismus",
-    "Cast": "Sibiř"
+    "Cast": "Sibiř",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_zazemi": {
     "Title": "Zázemí",
@@ -4795,7 +6610,12 @@
     "Blok": "Třešeň",
     "Okrsek": "Most",
     "Ctvrt": "Expresionismus",
-    "Cast": "Sibiř"
+    "Cast": "Sibiř",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_parket": {
     "Title": "Parket",
@@ -4808,7 +6628,12 @@
     "Blok": "Třešeň",
     "Okrsek": "Most",
     "Ctvrt": "Expresionismus",
-    "Cast": "Sibiř"
+    "Cast": "Sibiř",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_tresen": {
     "Title": "Třešeň",
@@ -4820,7 +6645,12 @@
     "Blok": "Třešeň",
     "Okrsek": "Most",
     "Ctvrt": "Expresionismus",
-    "Cast": "Sibiř"
+    "Cast": "Sibiř",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_pecka": {
     "Title": "Pecka",
@@ -4831,7 +6661,12 @@
     "Blok": "Třešeň",
     "Okrsek": "Most",
     "Ctvrt": "Expresionismus",
-    "Cast": "Sibiř"
+    "Cast": "Sibiř",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_rajce": {
     "Title": "Rajče",
@@ -4841,7 +6676,12 @@
     "Blok": "Malý Pilíř",
     "Okrsek": "Pilíř",
     "Ctvrt": "Dálniční Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_dvojcata": {
     "Title": "Dvojčata",
@@ -4863,7 +6703,12 @@
     "Blok": "Dvojčata",
     "Okrsek": "Silo",
     "Ctvrt": "Rybářská Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_prvni_dum": {
     "Title": "První Dům",
@@ -4873,7 +6718,12 @@
     "Blok": "Okruh",
     "Okrsek": "Dub",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_okruh": {
     "Title": "Okruh",
@@ -4900,7 +6750,12 @@
     "Blok": "Okruh",
     "Okrsek": "Dub",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_ustredni_stredisko_alfa": {
     "Title": "Ústřední středisko Alfa",
@@ -4916,7 +6771,12 @@
     "Blok": "Alfa",
     "Okrsek": "Dub",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_vypikarna": {
     "Title": "Vypíkárna",
@@ -4928,7 +6788,12 @@
     "Blok": "Alfa",
     "Okrsek": "Dub",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 313,
+      "y": 74,
+      "z": 1131
+    }
   },
   "mi_nkp": {
     "Title": "NKP",
@@ -4940,7 +6805,12 @@
     "Blok": "Mezipatro",
     "Okrsek": "Dub",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_kolinko": {
     "Title": "Kolínko",
@@ -4951,7 +6821,12 @@
     "Blok": "Trója",
     "Okrsek": "Trója",
     "Ctvrt": "Trója",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_luka": {
     "Title": "Luka",
@@ -4965,7 +6840,12 @@
     "Blok": "Pisa",
     "Okrsek": "Pisa",
     "Ctvrt": "Gideon",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 321,
+      "y": 83,
+      "z": 1108
+    }
   },
   "mi_tyran": {
     "Title": "Tyran",
@@ -4977,7 +6857,12 @@
     "Blok": "Pisa",
     "Okrsek": "Pisa",
     "Ctvrt": "Gideon",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 318,
+      "y": 89,
+      "z": 1109
+    }
   },
   "mi_veta": {
     "Title": "Veta",
@@ -4989,7 +6874,12 @@
     "Blok": "Pisa",
     "Okrsek": "Pisa",
     "Ctvrt": "Gideon",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 317,
+      "y": 86,
+      "z": 1109
+    }
   },
   "mi_kolt": {
     "Title": "Kolt",
@@ -5001,7 +6891,12 @@
     "Blok": "Pisa",
     "Okrsek": "Pisa",
     "Ctvrt": "Gideon",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 320,
+      "y": 80,
+      "z": 1108
+    }
   },
   "mi_vyhlidka": {
     "Title": "Vyhlídka",
@@ -5011,7 +6906,12 @@
     "Blok": "Labyrint",
     "Okrsek": "Guláš",
     "Ctvrt": "Trója",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_juka": {
     "Title": "Juka",
@@ -5024,7 +6924,12 @@
     "Blok": "Petřín",
     "Okrsek": "Křídlo",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_cary": {
     "Title": "Čáry",
@@ -5036,7 +6941,12 @@
     "Blok": "Při Vodě",
     "Okrsek": "Gideon",
     "Ctvrt": "Gideon",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_amulet": {
     "Title": "Amulet",
@@ -5047,7 +6957,12 @@
     "Blok": "Nad Vodou",
     "Okrsek": "Gideon",
     "Ctvrt": "Gideon",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_atlas": {
     "Title": "Atlas",
@@ -5061,7 +6976,12 @@
     "Blok": "Při Vodě",
     "Okrsek": "Gideon",
     "Ctvrt": "Gideon",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 340,
+      "y": 63,
+      "z": 1085
+    }
   },
   "mi_mestecko": {
     "Title": "Městečko",
@@ -5071,7 +6991,12 @@
     "Blok": "Nad Vodou",
     "Okrsek": "Gideon",
     "Ctvrt": "Gideon",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 326,
+      "y": 67,
+      "z": 1101
+    }
   },
   "mi_orisek": {
     "Title": "Oříšek",
@@ -5084,7 +7009,12 @@
     "Blok": "Mezipatro",
     "Okrsek": "Dub",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_obalovna": {
     "Title": "Obalovna",
@@ -5098,7 +7028,12 @@
     "Blok": "Lilek",
     "Okrsek": "Křídlo",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_tkanicka": {
     "Title": "Tkanička",
@@ -5111,7 +7046,12 @@
     "Blok": "Sukulent",
     "Okrsek": "Křídlo",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_pata": {
     "Title": "Pata",
@@ -5123,7 +7063,12 @@
     "Blok": "Sukulent",
     "Okrsek": "Křídlo",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_bazar": {
     "Title": "Bazar",
@@ -5134,7 +7079,12 @@
     "Blok": "Kahan",
     "Okrsek": "Veveří",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_galerie": {
     "Title": "Galerie",
@@ -5148,7 +7098,12 @@
     "Blok": "Spojnice",
     "Okrsek": "Obchodní středisko",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_chodba_ii": {
     "Title": "Chodba II",
@@ -5164,7 +7119,12 @@
     "Blok": "Spojnice",
     "Okrsek": "Obchodní středisko",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_unikove_schodiste": {
     "Title": "Únikové Schodiště",
@@ -5184,7 +7144,12 @@
     "Blok": "Únikové Schodiště",
     "Okrsek": "Smrk",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_magistrala": {
     "Title": "Magistrála",
@@ -5198,7 +7163,12 @@
     "Blok": "Pasáž",
     "Okrsek": "Obchodní středisko",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_statek": {
     "Title": "Statek",
@@ -5217,7 +7187,12 @@
     "Blok": "Pasáž",
     "Okrsek": "Obchodní středisko",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_hospoda": {
     "Title": "Hospoda",
@@ -5229,7 +7204,12 @@
     "Blok": "Hospoda",
     "Okrsek": "Heršpice",
     "Ctvrt": "Propast",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 343,
+      "y": 98,
+      "z": 1124
+    }
   },
   "mi_hadice": {
     "Title": "Hadice",
@@ -5240,7 +7220,12 @@
     "Blok": "Hospoda",
     "Okrsek": "Heršpice",
     "Ctvrt": "Propast",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 343,
+      "y": 102,
+      "z": 1124
+    }
   },
   "mi_hriva": {
     "Title": "Hříva",
@@ -5250,7 +7235,12 @@
     "Blok": "Hospoda",
     "Okrsek": "Heršpice",
     "Ctvrt": "Propast",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 338,
+      "y": 98,
+      "z": 1123
+    }
   },
   "mi_holubnik": {
     "Title": "Holubník",
@@ -5263,7 +7253,12 @@
     "Blok": "Horizont",
     "Okrsek": "Heršpice",
     "Ctvrt": "Propast",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 342,
+      "y": 94,
+      "z": 1122
+    }
   },
   "mi_horizont": {
     "Title": "Horizont",
@@ -5279,7 +7274,12 @@
     "Blok": "Horizont",
     "Okrsek": "Heršpice",
     "Ctvrt": "Propast",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 336,
+      "y": 94,
+      "z": 1122
+    }
   },
   "mi_hieroglyf": {
     "Title": "Hieroglyf",
@@ -5292,7 +7292,12 @@
     "Blok": "Horizont",
     "Okrsek": "Heršpice",
     "Ctvrt": "Propast",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 341,
+      "y": 94,
+      "z": 1129
+    }
   },
   "mi_hyena": {
     "Title": "Hyena",
@@ -5303,7 +7308,12 @@
     "Blok": "Horizont",
     "Okrsek": "Heršpice",
     "Ctvrt": "Propast",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 342,
+      "y": 94,
+      "z": 1118
+    }
   },
   "mi_halucinace": {
     "Title": "Halucinace",
@@ -5313,7 +7323,12 @@
     "Blok": "Hrbatý Hrozen",
     "Okrsek": "Heršpice",
     "Ctvrt": "Propast",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 342,
+      "y": 88,
+      "z": 1115
+    }
   },
   "mi_hrozen": {
     "Title": "Hrozen",
@@ -5324,7 +7339,12 @@
     "Blok": "Hrbatý Hrozen",
     "Okrsek": "Heršpice",
     "Ctvrt": "Propast",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_horeniste": {
     "Title": "Hořeniště",
@@ -5337,7 +7357,12 @@
     "Blok": "Pohřebiště",
     "Okrsek": "Heršpice",
     "Ctvrt": "Propast",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_hrob": {
     "Title": "Hrob",
@@ -5349,7 +7374,12 @@
     "Blok": "Pohřebiště",
     "Okrsek": "Heršpice",
     "Ctvrt": "Propast",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_holinky": {
     "Title": "Holínky",
@@ -5361,7 +7391,12 @@
     "Blok": "Pohřebiště",
     "Okrsek": "Heršpice",
     "Ctvrt": "Propast",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_hydrant": {
     "Title": "Hydrant",
@@ -5373,7 +7408,12 @@
     "Blok": "Pohřebiště",
     "Okrsek": "Heršpice",
     "Ctvrt": "Propast",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_harfa": {
     "Title": "Harfa",
@@ -5385,7 +7425,12 @@
     "Blok": "Hudba",
     "Okrsek": "Heršpice",
     "Ctvrt": "Propast",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_harmonika": {
     "Title": "Harmonika",
@@ -5397,7 +7442,12 @@
     "Blok": "Hudba",
     "Okrsek": "Heršpice",
     "Ctvrt": "Propast",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_housle": {
     "Title": "Housle",
@@ -5408,7 +7458,12 @@
     "Blok": "Hudba",
     "Okrsek": "Heršpice",
     "Ctvrt": "Propast",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_nejvetsi_tma": {
     "Title": "Největší Tma",
@@ -5423,7 +7478,12 @@
     "Blok": "Kahan",
     "Okrsek": "Veveří",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_maja": {
     "Title": "Mája",
@@ -5434,7 +7494,12 @@
     "Blok": "Síň",
     "Okrsek": "Guláš",
     "Ctvrt": "Trója",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_podlir": {
     "Title": "Podlíř",
@@ -5447,7 +7512,12 @@
     "Blok": "Malý Pilíř",
     "Okrsek": "Pilíř",
     "Ctvrt": "Dálniční Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_kahan": {
     "Title": "Kahan",
@@ -5470,7 +7540,12 @@
     "Blok": "Kahan",
     "Okrsek": "Veveří",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_farmus_bambus": {
     "Title": "Farmus-Bambus",
@@ -5485,7 +7560,12 @@
     "Blok": "Bambus",
     "Okrsek": "Doupě",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_zmatek": {
     "Title": "Zmatek",
@@ -5500,7 +7580,12 @@
     "Blok": "Mezipatro",
     "Okrsek": "Dub",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_konzole": {
     "Title": "Konzole",
@@ -5516,7 +7601,12 @@
     "Blok": "Pavlač",
     "Okrsek": "Smrk",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 323,
+      "y": 89,
+      "z": 1153
+    }
   },
   "mi_pavlac": {
     "Title": "Pavlač",
@@ -5539,7 +7629,12 @@
     "Blok": "Pavlač",
     "Okrsek": "Smrk",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_dum_margity_stehlikove": {
     "Title": "Dům Margity Stehlíkové",
@@ -5550,7 +7645,12 @@
     "Blok": "Alfa",
     "Okrsek": "Dub",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 308,
+      "y": 73,
+      "z": 1131
+    }
   },
   "mi_zahradni_domek": {
     "Title": "Zahradní domek",
@@ -5561,7 +7661,12 @@
     "Blok": "Zahrádky",
     "Okrsek": "Zahrádkářská kolonie",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 322,
+      "y": 79,
+      "z": 1138
+    }
   },
   "mi_vez_1_podlazi": {
     "Title": "Věž 1. podlaží",
@@ -5573,7 +7678,12 @@
     "Blok": "Věž",
     "Okrsek": "Veveří",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 323,
+      "y": 68,
+      "z": 1125
+    }
   },
   "mi_vez_2_podlazi": {
     "Title": "Věž 2. podlaží",
@@ -5587,7 +7697,12 @@
     "Blok": "Věž",
     "Okrsek": "Veveří",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 323,
+      "y": 72,
+      "z": 1125
+    }
   },
   "mi_vez_3_podlazi": {
     "Title": "Věž 3. podlaží",
@@ -5602,7 +7717,12 @@
     "Blok": "Věž",
     "Okrsek": "Veveří",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 323,
+      "y": 76,
+      "z": 1125
+    }
   },
   "mi_vez_4_podlazi": {
     "Title": "Věž 4. podlaží",
@@ -5616,7 +7736,12 @@
     "Blok": "Věž",
     "Okrsek": "Veveří",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 323,
+      "y": 80,
+      "z": 1125
+    }
   },
   "mi_vez_5_podlazi": {
     "Title": "Věž 5. podlaží",
@@ -5629,7 +7754,12 @@
     "Blok": "Věž",
     "Okrsek": "Veveří",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 323,
+      "y": 84,
+      "z": 1125
+    }
   },
   "mi_sauron": {
     "Title": "Sauron",
@@ -5643,7 +7773,12 @@
     "Blok": "Věž",
     "Okrsek": "Veveří",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 323,
+      "y": 88,
+      "z": 1128
+    }
   },
   "mi_policka": {
     "Title": "Polička",
@@ -5654,7 +7789,12 @@
     "Blok": "Výtahová Šachta",
     "Okrsek": "Veveří",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 331,
+      "y": 93,
+      "z": 1150
+    }
   },
   "mi_kino_scala": {
     "Title": "Kino Scala",
@@ -5666,7 +7806,12 @@
     "Blok": "Kino",
     "Okrsek": "Obchodní středisko",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 317,
+      "y": 99,
+      "z": 1144
+    }
   },
   "mi_zakini": {
     "Title": "Zákiní",
@@ -5679,7 +7824,12 @@
     "Blok": "Kino",
     "Okrsek": "Obchodní středisko",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_padaci_most": {
     "Title": "Padací Most",
@@ -5690,7 +7840,12 @@
     "Blok": "Balónky",
     "Okrsek": "Balónky",
     "Ctvrt": "Gi",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 293,
+      "y": 92,
+      "z": 1078
+    }
   },
   "mi_trh": {
     "Title": "Trh",
@@ -5704,7 +7859,12 @@
     "Blok": "Žíla",
     "Okrsek": "Smyčka",
     "Ctvrt": "Dužina",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_telocvicna": {
     "Title": "Tělocvična",
@@ -5716,7 +7876,12 @@
     "Blok": "Orizona",
     "Okrsek": "Nord",
     "Ctvrt": "Goias",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 352,
+      "y": 76,
+      "z": 1063
+    }
   },
   "mi_zelezna_lhota": {
     "Title": "Železná Lhota",
@@ -5731,7 +7896,12 @@
     "Blok": "Železná Lhota",
     "Okrsek": "Železná Lhota",
     "Ctvrt": "Železná Lhota",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 352,
+      "y": 67,
+      "z": 1072
+    }
   },
   "mi_kvadrant_jezdcu": {
     "Title": "Kvadrant Jezdců",
@@ -5742,7 +7912,12 @@
     "Blok": "Kvadrant",
     "Okrsek": "Čtvrté Křídlo",
     "Ctvrt": "Basgiath",
-    "Cast": "Sibiř"
+    "Cast": "Sibiř",
+    "Coordinates": {
+      "x": 264,
+      "y": 63,
+      "z": 1136
+    }
   },
   "mi_motor": {
     "Title": "Motor",
@@ -5752,7 +7927,12 @@
     "Blok": "Třešeň",
     "Okrsek": "Most",
     "Ctvrt": "Expresionismus",
-    "Cast": "Sibiř"
+    "Cast": "Sibiř",
+    "Coordinates": {
+      "x": 317,
+      "y": 65,
+      "z": 1172
+    }
   },
   "mi_hmla": {
     "Title": "Hmla",
@@ -5765,7 +7945,12 @@
     "Blok": "Hrbatý Hrozen",
     "Okrsek": "Heršpice",
     "Ctvrt": "Propast",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 344,
+      "y": 91,
+      "z": 1113
+    }
   },
   "mi_sklenik_zapad": {
     "Title": "Skleník Západ",
@@ -5780,7 +7965,12 @@
     "Blok": "Skleník",
     "Okrsek": "Skleník",
     "Ctvrt": "Propast",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 335,
+      "y": 76,
+      "z": 1120
+    }
   },
   "mi_sklenik_vychod": {
     "Title": "Skleník Východ",
@@ -5791,7 +7981,12 @@
     "Blok": "Skleník",
     "Okrsek": "Skleník",
     "Ctvrt": "Propast",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 339,
+      "y": 75,
+      "z": 1136
+    }
   },
   "mi_mestsky_okruh": {
     "Title": "Městský Okruh",
@@ -5809,7 +8004,12 @@
     "Blok": "Vestibul",
     "Okrsek": "Dálniční Kolonie",
     "Ctvrt": "Dálniční Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 315,
+      "y": 79,
+      "z": 1122
+    }
   },
   "mi_vstup": {
     "Title": "Vstup",
@@ -5827,7 +8027,12 @@
     "Blok": "Vstup",
     "Okrsek": "Veveří",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 328,
+      "y": 66,
+      "z": 1151
+    }
   },
   "mi_pavilon": {
     "Title": "Pavilon",
@@ -5840,7 +8045,12 @@
     "Blok": "Třešeň",
     "Okrsek": "Most",
     "Ctvrt": "Expresionismus",
-    "Cast": "Sibiř"
+    "Cast": "Sibiř",
+    "Coordinates": {
+      "x": 321,
+      "y": 65,
+      "z": 1169
+    }
   },
   "mi_nevim_a_pece": {
     "Title": "Nevím a Pece",
@@ -5850,7 +8060,12 @@
     "Blok": "Kahan",
     "Okrsek": "Veveří",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 328,
+      "y": 63,
+      "z": 1161
+    }
   },
   "mi_papokoi": {
     "Title": "Papokoi",
@@ -5876,7 +8091,12 @@
     "Blok": "Papokoi",
     "Okrsek": "Skleník",
     "Ctvrt": "Propast",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 333,
+      "y": 84,
+      "z": 1127
+    }
   },
   "mi_stair_heaven": {
     "Title": "Stair Heaven",
@@ -5890,7 +8110,12 @@
     "Blok": "Stín",
     "Okrsek": "Kapsa",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 291,
+      "y": 102,
+      "z": 1125
+    }
   },
   "mi_rekreacni_zona": {
     "Title": "Rekreační Zóna",
@@ -5902,7 +8127,12 @@
     "Blok": "Nuevo",
     "Okrsek": "Sud",
     "Ctvrt": "Goias",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_tuba": {
     "Title": "Tuba",
@@ -5917,7 +8147,12 @@
     "Blok": "Orizona",
     "Okrsek": "Nord",
     "Ctvrt": "Goias",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_ptakopysk": {
     "Title": "Ptakopysk",
@@ -5928,7 +8163,12 @@
     "Blok": "Venkovní Schodiště",
     "Okrsek": "Obchodní středisko",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_dron": {
     "Title": "Dron",
@@ -5941,7 +8181,12 @@
     "Blok": "Lilek",
     "Okrsek": "Křídlo",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 304,
+      "y": 133,
+      "z": 1179
+    }
   },
   "mi_zoban": {
     "Title": "Zoban",
@@ -5954,7 +8199,12 @@
     "Blok": "Krčnov",
     "Okrsek": "Křídlo",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 300,
+      "y": 121,
+      "z": 1164
+    }
   },
   "mi_kapusta": {
     "Title": "Kapusta",
@@ -5966,7 +8216,12 @@
     "Blok": "Krčnov",
     "Okrsek": "Křídlo",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 305,
+      "y": 118,
+      "z": 1168
+    }
   },
   "mi_lilek": {
     "Title": "Lilek",
@@ -5980,7 +8235,12 @@
     "Blok": "Lilek",
     "Okrsek": "Křídlo",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 300,
+      "y": 134,
+      "z": 1173
+    }
   },
   "mi_gideon_tunel": {
     "Title": "Gideon Tunel",
@@ -5993,7 +8253,12 @@
     "Blok": "Při Vodě",
     "Okrsek": "Gideon",
     "Ctvrt": "Gideon",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 323,
+      "y": 63,
+      "z": 1122
+    }
   },
   "mi_the_overpass": {
     "Title": "The Overpass",
@@ -6019,7 +8284,12 @@
     "Blok": "Autobusák",
     "Okrsek": "Horní Propust",
     "Ctvrt": "Propast",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 339,
+      "y": 99,
+      "z": 1132
+    }
   },
   "mi_gideonuv_dum": {
     "Title": "Gideonův Dům",
@@ -6032,7 +8302,12 @@
     "Blok": "Nad Vodou",
     "Okrsek": "Gideon",
     "Ctvrt": "Gideon",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 339,
+      "y": 67,
+      "z": 1087
+    }
   },
   "mi_lanterna": {
     "Title": "Lanterna",
@@ -6044,7 +8319,12 @@
     "Blok": "Lanterna",
     "Okrsek": "Dálniční Kolonie",
     "Ctvrt": "Dálniční Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 337,
+      "y": 94,
+      "z": 1114
+    }
   },
   "mi_bulharska_vaza": {
     "Title": "Bulharská Váza",
@@ -6055,7 +8335,12 @@
     "Blok": "Krčnov",
     "Okrsek": "Křídlo",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_zasuvka": {
     "Title": "Zásuvka",
@@ -6065,7 +8350,12 @@
     "Blok": "Krčnov",
     "Okrsek": "Křídlo",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 301,
+      "y": 120,
+      "z": 1172
+    }
   },
   "mi_akvadukt": {
     "Title": "Akvadukt",
@@ -6078,7 +8368,12 @@
     "Blok": "Akvadukt",
     "Okrsek": "Lednice",
     "Ctvrt": "Lednice",
-    "Cast": "Sibiř"
+    "Cast": "Sibiř",
+    "Coordinates": {
+      "x": 384,
+      "y": 67,
+      "z": 1091
+    }
   },
   "mi_na_moste": {
     "Title": "Na Mostě",
@@ -6090,7 +8385,12 @@
     "Blok": "Rozcestí",
     "Okrsek": "Zahrádkářská kolonie",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 322,
+      "y": 81,
+      "z": 1130
+    }
   },
   "mi_rozcesti": {
     "Title": "Rozcestí",
@@ -6106,7 +8406,12 @@
     "Blok": "Rozcestí",
     "Okrsek": "Zahrádkářská kolonie",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 317,
+      "y": 82,
+      "z": 1129
+    }
   },
   "mi_plaminek": {
     "Title": "Plamínek",
@@ -6117,7 +8422,12 @@
     "Blok": "Kahan",
     "Okrsek": "Veveří",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 328,
+      "y": 67,
+      "z": 1161
+    }
   },
   "mi_ventilator": {
     "Title": "Ventilátor",
@@ -6129,7 +8439,12 @@
     "Blok": "Velký Pilíř",
     "Okrsek": "Pilíř",
     "Ctvrt": "Dálniční Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 354,
+      "y": 87,
+      "z": 1098
+    }
   },
   "mi_hnilicko": {
     "Title": "Hniličko",
@@ -6139,7 +8454,12 @@
     "Blok": "Hala",
     "Okrsek": "Vietnamský Okrsek",
     "Ctvrt": "Vietnamská Čtvrť",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 341,
+      "y": 79,
+      "z": 1149
+    }
   },
   "mi_hala": {
     "Title": "Hala",
@@ -6152,7 +8472,12 @@
     "Blok": "Hala",
     "Okrsek": "Vietnamský Okrsek",
     "Ctvrt": "Vietnamská Čtvrť",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 344,
+      "y": 72,
+      "z": 1149
+    }
   },
   "mi_buben": {
     "Title": "Buben",
@@ -6167,7 +8492,12 @@
     "Blok": "Buben",
     "Okrsek": "Trója",
     "Ctvrt": "Trója",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 356,
+      "y": 93,
+      "z": 1140
+    }
   },
   "mi_basta": {
     "Title": "Bašta",
@@ -6180,7 +8510,12 @@
     "Blok": "Venkovní Schodiště",
     "Okrsek": "Obchodní středisko",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 314,
+      "y": 105,
+      "z": 1161
+    }
   },
   "mi_barka": {
     "Title": "Barka",
@@ -6192,7 +8527,12 @@
     "Blok": "Buben",
     "Okrsek": "Trója",
     "Ctvrt": "Trója",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 386,
+      "y": 113,
+      "z": 1134
+    }
   },
   "mi_rimsa": {
     "Title": "Římsa",
@@ -6205,7 +8545,12 @@
     "Blok": "Šnečí Ráj",
     "Okrsek": "Guláš",
     "Ctvrt": "Trója",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 355,
+      "y": 89,
+      "z": 1133
+    }
   },
   "mi_vedomi": {
     "Title": "Vědomí",
@@ -6218,7 +8563,12 @@
     "Blok": "Mozek",
     "Okrsek": "Gandalf",
     "Ctvrt": "Gandalf",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 297,
+      "y": 71,
+      "z": 1060
+    }
   },
   "mi_ustredni_stredisko_beta": {
     "Title": "Ústřední středisko Beta",
@@ -6236,7 +8586,12 @@
     "Blok": "Beta",
     "Okrsek": "The Airship",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 320,
+      "y": 98,
+      "z": 1124
+    }
   },
   "mi_pit_stop": {
     "Title": "Pit Stop",
@@ -6249,7 +8604,12 @@
     "Blok": "Kanál",
     "Okrsek": "Přístav",
     "Ctvrt": "Rybářská Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 317,
+      "y": 62,
+      "z": 1119
+    }
   },
   "mi_lomena_cara": {
     "Title": "Lomená Čára",
@@ -6261,7 +8621,12 @@
     "Blok": "Lom",
     "Okrsek": "Lom",
     "Ctvrt": "Lom",
-    "Cast": "Sibiř"
+    "Cast": "Sibiř",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_pozemek": {
     "Title": "Pozemek",
@@ -6274,7 +8639,12 @@
     "Blok": "Nemovitost",
     "Okrsek": "Doupě",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_retez": {
     "Title": "Řetěz",
@@ -6284,7 +8654,12 @@
     "Blok": "Nemovitost",
     "Okrsek": "Doupě",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_dno": {
     "Title": "Dno",
@@ -6295,7 +8670,12 @@
     "Blok": "Nemovitost",
     "Okrsek": "Doupě",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_zub": {
     "Title": "Zub",
@@ -6306,7 +8686,12 @@
     "Blok": "Nemovitost",
     "Okrsek": "Doupě",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_vicko": {
     "Title": "Víčko",
@@ -6317,7 +8702,12 @@
     "Blok": "Nemovitost",
     "Okrsek": "Doupě",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 327,
+      "y": 123,
+      "z": 1117
+    }
   },
   "mi_mokro": {
     "Title": "Mokro",
@@ -6328,7 +8718,12 @@
     "Blok": "Nemovitost",
     "Okrsek": "Doupě",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 331,
+      "y": 122,
+      "z": 1123
+    }
   },
   "mi_dalka": {
     "Title": "Dálka",
@@ -6339,7 +8734,12 @@
     "Blok": "Nemovitost",
     "Okrsek": "Doupě",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 336,
+      "y": 121,
+      "z": 1119
+    }
   },
   "mi_kukatko": {
     "Title": "Kukátko",
@@ -6350,7 +8750,12 @@
     "Blok": "Buben",
     "Okrsek": "Trója",
     "Ctvrt": "Trója",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 356,
+      "y": 128,
+      "z": 1142
+    }
   },
   "mi_draci_doupe": {
     "Title": "Dračí Doupě",
@@ -6367,7 +8772,12 @@
     "Blok": "Doupě",
     "Okrsek": "Doupě",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 314,
+      "y": 113,
+      "z": 1136
+    }
   },
   "mi_predzahradka": {
     "Title": "Předzahrádka",
@@ -6378,7 +8788,12 @@
     "Blok": "Nemovitost",
     "Okrsek": "Doupě",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 338,
+      "y": 118,
+      "z": 1136
+    }
   },
   "mi_konska_sila": {
     "Title": "Koňská Síla",
@@ -6395,7 +8810,12 @@
     "Blok": "JZD",
     "Okrsek": "Horní Propust",
     "Ctvrt": "Propast",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_kadere": {
     "Title": "Kadeře",
@@ -6408,7 +8828,12 @@
     "Blok": "JZD",
     "Okrsek": "Horní Propust",
     "Ctvrt": "Propast",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 338,
+      "y": 109,
+      "z": 1118
+    }
   },
   "mi_predsalonek": {
     "Title": "Předsalónek",
@@ -6421,7 +8846,12 @@
     "Blok": "JZD",
     "Okrsek": "Horní Propust",
     "Ctvrt": "Propast",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 327,
+      "y": 113,
+      "z": 1117
+    }
   },
   "mi_salon": {
     "Title": "Salón",
@@ -6434,7 +8864,12 @@
     "Blok": "JZD",
     "Okrsek": "Horní Propust",
     "Ctvrt": "Propast",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 321,
+      "y": 113,
+      "z": 1124
+    }
   },
   "mi_druzstvo": {
     "Title": "Družstvo",
@@ -6447,7 +8882,12 @@
     "Blok": "JZD",
     "Okrsek": "Horní Propust",
     "Ctvrt": "Propast",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 323,
+      "y": 108,
+      "z": 1118
+    }
   },
   "mi_kombucha": {
     "Title": "Kombucha",
@@ -6460,7 +8900,12 @@
     "Blok": "Helena",
     "Okrsek": "Kapsa",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 312,
+      "y": 106,
+      "z": 1116
+    }
   },
   "mi_hindukus": {
     "Title": "Hindúkuš",
@@ -6472,7 +8917,12 @@
     "Blok": "Helena",
     "Okrsek": "Kapsa",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_ctyrlistek": {
     "Title": "Čtyřlístek",
@@ -6486,7 +8936,12 @@
     "Blok": "Pompeje",
     "Okrsek": "Kapsa",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_jitrocel": {
     "Title": "Jitrocel",
@@ -6498,7 +8953,12 @@
     "Blok": "Pompeje",
     "Okrsek": "Kapsa",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_kaskada": {
     "Title": "Kaskáda",
@@ -6510,7 +8970,12 @@
     "Blok": "Pompeje",
     "Okrsek": "Kapsa",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_prazce": {
     "Title": "Pražce",
@@ -6520,7 +8985,12 @@
     "Blok": "Pražce",
     "Okrsek": "Pískovna",
     "Ctvrt": "Dužina",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_mrkev": {
     "Title": "Mrkev",
@@ -6537,7 +9007,12 @@
     "Blok": "Mrkev",
     "Okrsek": "Podhoubí",
     "Ctvrt": "Dužina",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 316,
+      "y": 37,
+      "z": 1078
+    }
   },
   "mi_koreny": {
     "Title": "Kořeny",
@@ -6559,7 +9034,12 @@
     "Blok": "Mezipatro",
     "Okrsek": "Dub",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 318,
+      "y": 77,
+      "z": 1164
+    }
   },
   "mi_vytahova_sachta": {
     "Title": "Výtahová Šachta",
@@ -6580,7 +9060,12 @@
     "Blok": "Výtahová Šachta",
     "Okrsek": "Veveří",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 333,
+      "y": 66,
+      "z": 1147
+    }
   },
   "mi_pramice": {
     "Title": "Pramice",
@@ -6592,7 +9077,12 @@
     "Blok": "Le Pont",
     "Okrsek": "Pisa",
     "Ctvrt": "Gideon",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 326,
+      "y": 71,
+      "z": 1110
+    }
   },
   "mi_hnizdo": {
     "Title": "Hnízdo",
@@ -6609,7 +9099,12 @@
     "Blok": "Únikové Schodiště",
     "Okrsek": "Smrk",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 307,
+      "y": 88,
+      "z": 1134
+    }
   },
   "mi_meda": {
     "Title": "Méďa",
@@ -6624,7 +9119,12 @@
     "Blok": "Méďa",
     "Okrsek": "Méďa",
     "Ctvrt": "Lom",
-    "Cast": "Sibiř"
+    "Cast": "Sibiř",
+    "Coordinates": {
+      "x": 275,
+      "y": 82,
+      "z": 1165
+    }
   },
   "mi_kralici_dira": {
     "Title": "Králičí Díra",
@@ -6636,7 +9136,12 @@
     "Blok": "Důl",
     "Okrsek": "Důl",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_slunicko": {
     "Title": "Sluníčko",
@@ -6654,7 +9159,12 @@
     "Blok": "Sluníčko",
     "Okrsek": "Sluníčko",
     "Ctvrt": "Nekonečno",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 366,
+      "y": 71,
+      "z": 1117
+    }
   },
   "mi_stopa": {
     "Title": "Stopa",
@@ -6665,7 +9175,12 @@
     "Blok": "Sluníčko",
     "Okrsek": "Sluníčko",
     "Ctvrt": "Nekonečno",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 373,
+      "y": 67,
+      "z": 1104
+    }
   },
   "mi_moderator": {
     "Title": "Moderátor",
@@ -6676,7 +9191,12 @@
     "Blok": "Lilek",
     "Okrsek": "Křídlo",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 345,
+      "y": 130,
+      "z": 1164
+    }
   },
   "mi_zastavka": {
     "Title": "Zastávka",
@@ -6687,7 +9207,12 @@
     "Blok": "Malý Pilíř",
     "Okrsek": "Pilíř",
     "Ctvrt": "Dálniční Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 333,
+      "y": 93,
+      "z": 1105
+    }
   },
   "mi_posvatna_jama": {
     "Title": "Posvátná Jáma",
@@ -6697,7 +9222,12 @@
     "Blok": "Zahrádky",
     "Okrsek": "Zahrádkářská kolonie",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 323,
+      "y": 80,
+      "z": 1146
+    }
   },
   "mi_velehumry": {
     "Title": "Velehumry",
@@ -6709,7 +9239,12 @@
     "Blok": "Humry",
     "Okrsek": "Železná Lhota",
     "Ctvrt": "Železná Lhota",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 353,
+      "y": 62,
+      "z": 1071
+    }
   },
   "mi_stoupani": {
     "Title": "Stoupání",
@@ -6725,7 +9260,12 @@
     "Blok": "Vestibul",
     "Okrsek": "Dálniční Kolonie",
     "Ctvrt": "Dálniční Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 324,
+      "y": 76,
+      "z": 1119
+    }
   },
   "mi_past": {
     "Title": "Past",
@@ -6736,7 +9276,12 @@
     "Blok": "Kampa",
     "Okrsek": "Preatrium",
     "Ctvrt": "Vietnamská Čtvrť",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 342,
+      "y": 65,
+      "z": 1166
+    }
   },
   "mi_plomba": {
     "Title": "Plomba",
@@ -6748,7 +9293,12 @@
     "Blok": "Kampa",
     "Okrsek": "Preatrium",
     "Ctvrt": "Vietnamská Čtvrť",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 344,
+      "y": 67,
+      "z": 1161
+    }
   },
   "mi_atrapa": {
     "Title": "Atrapa",
@@ -6761,7 +9311,12 @@
     "Blok": "Kampa",
     "Okrsek": "Preatrium",
     "Ctvrt": "Vietnamská Čtvrť",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 341,
+      "y": 70,
+      "z": 1165
+    }
   },
   "mi_amalgam": {
     "Title": "Amalgám",
@@ -6771,7 +9326,12 @@
     "Blok": "Kampa",
     "Okrsek": "Preatrium",
     "Ctvrt": "Vietnamská Čtvrť",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 346,
+      "y": 72,
+      "z": 1161
+    }
   },
   "mi_mez": {
     "Title": "Mez",
@@ -6784,7 +9344,12 @@
     "Blok": "Vietnamský Blok",
     "Okrsek": "Vietnamský Okrsek",
     "Ctvrt": "Vietnamská Čtvrť",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_agama": {
     "Title": "Agama",
@@ -6797,7 +9362,12 @@
     "Blok": "Ještěrky",
     "Okrsek": "Lom",
     "Ctvrt": "Lom",
-    "Cast": "Sibiř"
+    "Cast": "Sibiř",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_oknilok": {
     "Title": "Oknilok",
@@ -6808,7 +9378,12 @@
     "Blok": "Reverze",
     "Okrsek": "Trója",
     "Ctvrt": "Trója",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 341,
+      "y": 97,
+      "z": 1151
+    }
   },
   "mi_flam": {
     "Title": "Flám",
@@ -6818,7 +9393,12 @@
     "Blok": "Jezdci",
     "Okrsek": "Čtvrté Křídlo",
     "Ctvrt": "Basgiath",
-    "Cast": "Sibiř"
+    "Cast": "Sibiř",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_strom": {
     "Title": "Strom",
@@ -6828,7 +9408,12 @@
     "Blok": "Jezdci",
     "Okrsek": "Čtvrté Křídlo",
     "Ctvrt": "Basgiath",
-    "Cast": "Sibiř"
+    "Cast": "Sibiř",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_sleh": {
     "Title": "Šleh",
@@ -6838,7 +9423,12 @@
     "Blok": "Jezdci",
     "Okrsek": "Čtvrté Křídlo",
     "Ctvrt": "Basgiath",
-    "Cast": "Sibiř"
+    "Cast": "Sibiř",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_pod_drnem": {
     "Title": "Pod Drnem",
@@ -6850,7 +9440,12 @@
     "Blok": "JZD",
     "Okrsek": "Horní Propust",
     "Ctvrt": "Propast",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 331,
+      "y": 114,
+      "z": 1127
+    }
   },
   "mi_mezi_okny": {
     "Title": "Mezi Okny",
@@ -6861,7 +9456,12 @@
     "Blok": "Autobusák",
     "Okrsek": "Horní Propust",
     "Ctvrt": "Propast",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 333,
+      "y": 109,
+      "z": 1116
+    }
   },
   "mi_jost": {
     "Title": "Jošt",
@@ -6873,7 +9473,12 @@
     "Blok": "Autobusák",
     "Okrsek": "Horní Propust",
     "Ctvrt": "Propast",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_u_zabradli": {
     "Title": "U Zábradlí",
@@ -6885,7 +9490,12 @@
     "Blok": "Autobusák",
     "Okrsek": "Horní Propust",
     "Ctvrt": "Propast",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_kurnik": {
     "Title": "Kurník",
@@ -6895,7 +9505,12 @@
     "Blok": "Balónky",
     "Okrsek": "Balónky",
     "Ctvrt": "Gi",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 315,
+      "y": 92,
+      "z": 1103
+    }
   },
   "mi_gekon": {
     "Title": "Gekon",
@@ -6906,7 +9521,12 @@
     "Blok": "Ještěrky",
     "Okrsek": "Lom",
     "Ctvrt": "Lom",
-    "Cast": "Sibiř"
+    "Cast": "Sibiř",
+    "Coordinates": {
+      "x": 302,
+      "y": 64,
+      "z": 1184
+    }
   },
   "mi_the_bridge": {
     "Title": "The Bridge",
@@ -6946,7 +9566,12 @@
     "Blok": "Zámecké Schody",
     "Okrsek": "Dálniční Kolonie",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_katakomby": {
     "Title": "Katakomby",
@@ -6967,7 +9592,12 @@
     "Blok": "Katakomby",
     "Okrsek": "Dálniční Kolonie",
     "Ctvrt": "Dálniční Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_hlavni_trida": {
     "Title": "Hlavní Třída",
@@ -6984,7 +9614,12 @@
     "Blok": "Hlavní Třída",
     "Okrsek": "Benátky",
     "Ctvrt": "Rybářská Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 297,
+      "y": 68,
+      "z": 1128
+    }
   },
   "mi_bezdomovec": {
     "Title": "Bezdomovec",
@@ -6996,7 +9631,12 @@
     "Blok": "Mezipatro",
     "Okrsek": "Dub",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 305,
+      "y": 77,
+      "z": 1166
+    }
   },
   "mi_karoserie": {
     "Title": "Karosérie",
@@ -7009,7 +9649,12 @@
     "Blok": "Podvozek",
     "Okrsek": "Méďa",
     "Ctvrt": "Lom",
-    "Cast": "Sibiř"
+    "Cast": "Sibiř",
+    "Coordinates": {
+      "x": 272,
+      "y": 74,
+      "z": 1166
+    }
   },
   "mi_kapota": {
     "Title": "Kapota",
@@ -7019,7 +9664,12 @@
     "Blok": "Podvozek",
     "Okrsek": "Méďa",
     "Ctvrt": "Lom",
-    "Cast": "Sibiř"
+    "Cast": "Sibiř",
+    "Coordinates": {
+      "x": 278,
+      "y": 77,
+      "z": 1167
+    }
   },
   "mi_chladic": {
     "Title": "Chladič",
@@ -7029,7 +9679,12 @@
     "Blok": "Podvozek",
     "Okrsek": "Méďa",
     "Ctvrt": "Lom",
-    "Cast": "Sibiř"
+    "Cast": "Sibiř",
+    "Coordinates": {
+      "x": 268,
+      "y": 70,
+      "z": 1167
+    }
   },
   "mi_piskovna": {
     "Title": "Pískovna",
@@ -7047,7 +9702,12 @@
     "Blok": "Pískovna",
     "Okrsek": "Pískovna",
     "Ctvrt": "Dužina",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_privoz": {
     "Title": "Přívoz",
@@ -7058,7 +9718,12 @@
     "Blok": "Pískovna",
     "Okrsek": "Pískovna",
     "Ctvrt": "Dužina",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 330,
+      "y": 76,
+      "z": 1098
+    }
   },
   "mi_on": {
     "Title": "On",
@@ -7072,7 +9737,12 @@
     "Blok": "Milenci",
     "Okrsek": "Dálniční Kolonie",
     "Ctvrt": "Dálniční Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 305,
+      "y": 97,
+      "z": 1108
+    }
   },
   "mi_ona": {
     "Title": "Ona",
@@ -7083,7 +9753,12 @@
     "Blok": "Milenci",
     "Okrsek": "Dálniční Kolonie",
     "Ctvrt": "Dálniční Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_silaz": {
     "Title": "Siláž",
@@ -7099,7 +9774,12 @@
     "Blok": "Silo",
     "Okrsek": "Silo",
     "Ctvrt": "Rybářská Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_nastroj": {
     "Title": "Nástroj",
@@ -7111,7 +9791,12 @@
     "Blok": "Kraví Hora",
     "Okrsek": "Dub",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 306,
+      "y": 69,
+      "z": 1166
+    }
   },
   "mi_oaza": {
     "Title": "Oáza",
@@ -7123,7 +9808,12 @@
     "Blok": "Kraví Hora",
     "Okrsek": "Dub",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 309,
+      "y": 65,
+      "z": 1164
+    }
   },
   "mi_kravinec": {
     "Title": "Kravinec",
@@ -7137,7 +9827,12 @@
     "Blok": "Kraví Hora",
     "Okrsek": "Dub",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 307,
+      "y": 72,
+      "z": 1165
+    }
   },
   "mi_koryto": {
     "Title": "Koryto",
@@ -7148,7 +9843,12 @@
     "Blok": "Kraví Hora",
     "Okrsek": "Dub",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 305,
+      "y": 72,
+      "z": 1158
+    }
   },
   "mi_fabrika": {
     "Title": "Fabrika",
@@ -7161,7 +9861,12 @@
     "Blok": "Žíla",
     "Okrsek": "Smyčka",
     "Ctvrt": "Dužina",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 311,
+      "y": 68,
+      "z": 1086
+    }
   },
   "mi_lodenice": {
     "Title": "Loděnice",
@@ -7173,7 +9878,12 @@
     "Blok": "Žíla",
     "Okrsek": "Smyčka",
     "Ctvrt": "Dužina",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 320,
+      "y": 71,
+      "z": 1094
+    }
   },
   "mi_sklep": {
     "Title": "Sklep",
@@ -7183,7 +9893,12 @@
     "Blok": "Pískovna",
     "Okrsek": "Pískovna",
     "Ctvrt": "Dužina",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 319,
+      "y": 74,
+      "z": 1093
+    }
   },
   "mi_laborator": {
     "Title": "Laboratoř",
@@ -7198,7 +9913,12 @@
     "Blok": "Kahan",
     "Okrsek": "Veveří",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 328,
+      "y": 77,
+      "z": 1161
+    }
   },
   "mi_svaty_vyt": {
     "Title": "Svatý Výt",
@@ -7212,7 +9932,12 @@
     "Blok": "Hrad",
     "Okrsek": "Veveří",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 330,
+      "y": 77,
+      "z": 1171
+    }
   },
   "mi_sucho": {
     "Title": "Sucho",
@@ -7225,7 +9950,12 @@
     "Blok": "Nemovitost",
     "Okrsek": "Doupě",
     "Ctvrt": "Kmen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 330,
+      "y": 118,
+      "z": 1122
+    }
   },
   "mi_ga": {
     "Title": "Ga",
@@ -7241,7 +9971,12 @@
     "Blok": "Ga",
     "Okrsek": "Hotel Gi",
     "Ctvrt": "Gi",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 307,
+      "y": 63,
+      "z": 1099
+    }
   },
   "mi_ge": {
     "Title": "Ge",
@@ -7253,7 +9988,12 @@
     "Blok": "Ge",
     "Okrsek": "Hotel Gi",
     "Ctvrt": "Gi",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_gi": {
     "Title": "Gi",
@@ -7270,7 +10010,12 @@
     "Blok": "Gi",
     "Okrsek": "Hotel Gi",
     "Ctvrt": "Gi",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 306,
+      "y": 70,
+      "z": 1096
+    }
   },
   "mi_preatrium": {
     "Title": "Preatrium",
@@ -7295,7 +10040,12 @@
     "Blok": "Preatrium",
     "Okrsek": "Preatrium",
     "Ctvrt": "Vietnamská Čtvrť",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_asfaltka": {
     "Title": "Asfaltka",
@@ -7307,7 +10057,12 @@
     "Blok": "Papírny",
     "Okrsek": "Grónská Zem",
     "Ctvrt": "Lednice",
-    "Cast": "Sibiř"
+    "Cast": "Sibiř",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_drevnik": {
     "Title": "Dřevník",
@@ -7317,7 +10072,12 @@
     "Blok": "Dřevník",
     "Okrsek": "Grónská Zem",
     "Ctvrt": "Lednice",
-    "Cast": "Sibiř"
+    "Cast": "Sibiř",
+    "Coordinates": {
+      "x": 846,
+      "y": 33,
+      "z": 1736
+    }
   },
   "mi_papir": {
     "Title": "Papír",
@@ -7327,7 +10087,12 @@
     "Blok": "Vtip",
     "Okrsek": "Nord",
     "Ctvrt": "Goias",
-    "Cast": "Nové Dilí"
+    "Cast": "Nové Dilí",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_trezor": {
     "Title": "Trezor",
@@ -7337,7 +10102,12 @@
     "Blok": "Alfa",
     "Okrsek": "Dub",
     "Ctvrt": "Kořen",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_slouporadi": {
     "Title": "Sloupořadí",
@@ -7350,7 +10120,12 @@
     "Blok": "Sloupořadí",
     "Okrsek": "Rotunda",
     "Ctvrt": "Basgiath",
-    "Cast": "Sibiř"
+    "Cast": "Sibiř",
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   "mi_vzduchotechnika": {
     "Title": "Vzduchotechnika",
@@ -7361,7 +10136,12 @@
     "Blok": "Velký Pilíř",
     "Okrsek": "Pilíř",
     "Ctvrt": "Dálniční Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 351,
+      "y": 88,
+      "z": 1091
+    }
   },
   "mi_technicka_mistnost": {
     "Title": "Technická Místnost",
@@ -7372,7 +10152,12 @@
     "Blok": "Velký Pilíř",
     "Okrsek": "Pilíř",
     "Ctvrt": "Dálniční Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 344,
+      "y": 87,
+      "z": 1097
+    }
   },
   "mi_najezd": {
     "Title": "Nájezd",
@@ -7382,7 +10167,12 @@
     "Blok": "Velký Pilíř",
     "Okrsek": "Pilíř",
     "Ctvrt": "Dálniční Kolonie",
-    "Cast": "Pařez"
+    "Cast": "Pařez",
+    "Coordinates": {
+      "x": 344,
+      "y": 92,
+      "z": 1097
+    }
   },
   "mi_splet": {
     "Title": "Spleť",
@@ -7393,7 +10183,12 @@
     "Blok": "Fondán",
     "Okrsek": "Preatrium",
     "Ctvrt": "Vietnamská Čtvrť",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 354,
+      "y": 71,
+      "z": 1149
+    }
   },
   "mi_bidet": {
     "Title": "Bidet",
@@ -7405,7 +10200,12 @@
     "Blok": "Fondán",
     "Okrsek": "Preatrium",
     "Ctvrt": "Vietnamská Čtvrť",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 354,
+      "y": 75,
+      "z": 1149
+    }
   },
   "mi_naplavka": {
     "Title": "Náplavka",
@@ -7419,7 +10219,12 @@
     "Blok": "Vietnamský Blok",
     "Okrsek": "Vietnamský Okrsek",
     "Ctvrt": "Vietnamská Čtvrť",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 355,
+      "y": 79,
+      "z": 1149
+    }
   },
   "mi_baterie": {
     "Title": "Baterie",
@@ -7431,6 +10236,11 @@
     "Blok": "Nábřeží",
     "Okrsek": "Nekonečno",
     "Ctvrt": "Nekonečno",
-    "Cast": "Trója"
+    "Cast": "Trója",
+    "Coordinates": {
+      "x": 333,
+      "y": 66,
+      "z": 1107
+    }
   }
 }

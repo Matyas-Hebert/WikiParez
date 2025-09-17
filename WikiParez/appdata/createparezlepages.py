@@ -24,7 +24,12 @@ for key, page in only_room_pages.items():
         "Blok": get_name_from_link(page.get("Metadata", {}).get("Blok", "")),
         "Okrsek": get_name_from_link(page.get("Metadata", {}).get("Okrsek", "")),
         "Ctvrt": get_name_from_link(page.get("Metadata", {}).get("Čtvrť", "")),
-        "Cast": get_name_from_link(page.get("Metadata", {}).get("Část", ""))
+        "Cast": get_name_from_link(page.get("Metadata", {}).get("Část", "")),
+        "Coordinates": {
+            "x": page["coordinates"]["x"],
+            "y": page["coordinates"]["y"],
+            "z": page["coordinates"]["z"]
+        }
     }
 
 # 4. Write to parezlepages.json
