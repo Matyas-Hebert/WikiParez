@@ -18,6 +18,8 @@ def get_name_from_link(s):
 parezle_pages = {}
 parezle_pages["version"] = input("enter version")
 for key, page in only_room_pages.items():
+    if (page["coordinates"]["x"] == 0):
+        page["patternleCompatible"] = False
     parezle_pages[key] = {
         "Title": page.get("Title"),
         "Bordering_rooms": page.get("Bordering_rooms", []),
@@ -25,6 +27,7 @@ for key, page in only_room_pages.items():
         "Okrsek": get_name_from_link(page.get("Metadata", {}).get("Okrsek", "")),
         "Ctvrt": get_name_from_link(page.get("Metadata", {}).get("Čtvrť", "")),
         "Cast": get_name_from_link(page.get("Metadata", {}).get("Část", "")),
+        "PatternleCompatible": page["patternleCompatible"],
         "Coordinates": {
             "x": page["coordinates"]["x"],
             "y": page["coordinates"]["y"],
