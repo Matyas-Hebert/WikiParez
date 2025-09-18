@@ -8,6 +8,8 @@ with open("WikiParez/appdata/pagesData.json", encoding="utf-8") as f:
 # 2. Filter only room pages
 only_room_pages = {k: v for k, v in pages.items() if v.get("Type") == "místnost" and k.startswith("mi")}
 
+only_room_pages = dict(sorted(only_room_pages.items()))
+
 # 3. Transform to ParezlePage-like structure
 def get_name_from_link(s):
     match = re.match(r"\[([^\]]+)\]\([^)]+\)", s)
