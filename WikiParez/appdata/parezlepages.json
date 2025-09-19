@@ -1,5 +1,5 @@
 {
-  "version": "2.0.3",
+  "version": "2.0.4",
   "mi_agama": {
     "Title": "Agama",
     "Bordering_rooms": [
@@ -13,6 +13,8 @@
     "Ctvrt": "Lom",
     "Cast": "Sibiř",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -29,6 +31,8 @@
     "Ctvrt": "Železná Lhota",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": true,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -48,6 +52,8 @@
     "Ctvrt": "Lednice",
     "Cast": "Sibiř",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 384,
       "y": 67,
@@ -74,6 +80,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -94,6 +102,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -110,6 +120,8 @@
     "Ctvrt": "Vietnamská Čtvrť",
     "Cast": "Trója",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 346,
       "y": 72,
@@ -130,6 +142,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -147,6 +161,8 @@
     "Ctvrt": "Gi",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -164,6 +180,8 @@
     "Ctvrt": "Gideon",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -181,6 +199,8 @@
     "Ctvrt": "Basgiath",
     "Cast": "Sibiř",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -197,6 +217,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 313,
       "y": 109,
@@ -213,6 +235,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 318,
       "y": 109,
@@ -229,6 +253,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 323,
       "y": 109,
@@ -246,6 +272,8 @@
     "Ctvrt": "Basgiath",
     "Cast": "Sibiř",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -265,6 +293,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -288,6 +318,8 @@
     "Ctvrt": "Trója",
     "Cast": "Trója",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -304,6 +336,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -322,6 +356,8 @@
     "Ctvrt": "Lednice",
     "Cast": "Sibiř",
     "PatternleCompatible": false,
+    "IsHighway": true,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -339,6 +375,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -359,6 +397,8 @@
     "Ctvrt": "Gideon",
     "Cast": "Nové Dilí",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 340,
       "y": 63,
@@ -376,6 +416,8 @@
     "Ctvrt": "Vietnamská Čtvrť",
     "Cast": "Trója",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -397,6 +439,8 @@
     "Ctvrt": "Propast",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -416,6 +460,8 @@
     "Ctvrt": "Vietnamská Čtvrť",
     "Cast": "Trója",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 341,
       "y": 70,
@@ -442,6 +488,8 @@
     "Ctvrt": "Trója",
     "Cast": "Trója",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -463,6 +511,8 @@
     "Ctvrt": "Gideon",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -480,6 +530,8 @@
     "Ctvrt": "Propast",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 331,
       "y": 99,
@@ -497,6 +549,8 @@
     "Ctvrt": "Gi",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -517,6 +571,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -535,6 +591,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 301,
       "y": 87,
@@ -556,6 +614,8 @@
     "Ctvrt": "Gi",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -574,6 +634,8 @@
     "Ctvrt": "Trója",
     "Cast": "Trója",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 386,
       "y": 113,
@@ -593,6 +655,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 314,
       "y": 105,
@@ -611,6 +675,8 @@
     "Ctvrt": "Nekonečno",
     "Cast": "Trója",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 333,
       "y": 66,
@@ -628,6 +694,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -651,6 +719,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 292,
       "y": 88,
@@ -669,6 +739,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 305,
       "y": 77,
@@ -687,6 +759,8 @@
     "Ctvrt": "Vietnamská Čtvrť",
     "Cast": "Trója",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 354,
       "y": 75,
@@ -708,6 +782,8 @@
     "Ctvrt": "Rybářská Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -726,6 +802,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -743,6 +821,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -761,6 +841,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 322,
       "y": 76,
@@ -777,6 +859,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -798,6 +882,8 @@
     "Ctvrt": "Trója",
     "Cast": "Trója",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 356,
       "y": 93,
@@ -817,6 +903,8 @@
     "Ctvrt": "Trója",
     "Cast": "Trója",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 346,
       "y": 89,
@@ -833,6 +921,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 292,
       "y": 92,
@@ -850,6 +940,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -868,6 +960,8 @@
     "Ctvrt": "Goias",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -885,6 +979,8 @@
     "Ctvrt": "Dužina",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -906,6 +1002,8 @@
     "Ctvrt": "Rybářská Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 286,
       "y": 81,
@@ -923,6 +1021,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 317,
       "y": 88,
@@ -941,6 +1041,8 @@
     "Ctvrt": "Gideon",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -959,6 +1061,8 @@
     "Ctvrt": "Triangl",
     "Cast": "Trója",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -975,6 +1079,8 @@
     "Ctvrt": "Nekonečno",
     "Cast": "Trója",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 361,
       "y": 71,
@@ -992,6 +1098,8 @@
     "Ctvrt": "Gi",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -1010,6 +1118,8 @@
     "Ctvrt": "Rybářská Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -1026,6 +1136,8 @@
     "Ctvrt": "Lom",
     "Cast": "Sibiř",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 268,
       "y": 70,
@@ -1045,6 +1157,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -1070,6 +1184,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 311,
       "y": 93,
@@ -1092,6 +1208,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -1108,6 +1226,8 @@
     "Ctvrt": "Goias",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -1133,6 +1253,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -1153,6 +1275,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -1170,6 +1294,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 336,
       "y": 121,
@@ -1209,6 +1335,8 @@
     "Ctvrt": "Lednice",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": true,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -1246,6 +1374,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 349,
       "y": 93,
@@ -1264,6 +1394,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 303,
       "y": 92,
@@ -1282,6 +1414,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -1302,6 +1436,8 @@
     "Ctvrt": "Triangl",
     "Cast": "Trója",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 368,
       "y": 83,
@@ -1320,6 +1456,8 @@
     "Ctvrt": "Železná Lhota",
     "Cast": "Nové Dilí",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 352,
       "y": 84,
@@ -1343,6 +1481,8 @@
     "Ctvrt": "Propast",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -1366,6 +1506,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -1384,6 +1526,8 @@
     "Ctvrt": "Rybářská Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -1405,6 +1549,8 @@
     "Ctvrt": "Rybářská Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -1422,6 +1568,8 @@
     "Ctvrt": "Dužina",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -1439,6 +1587,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -1459,6 +1609,8 @@
     "Ctvrt": "Rybářská Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -1479,6 +1631,8 @@
     "Ctvrt": "Propast",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 331,
       "y": 94,
@@ -1503,6 +1657,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 311,
       "y": 87,
@@ -1526,6 +1682,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 314,
       "y": 113,
@@ -1546,6 +1704,8 @@
     "Ctvrt": "Basgiath",
     "Cast": "Sibiř",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 264,
       "y": 81,
@@ -1564,6 +1724,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -1580,6 +1742,8 @@
     "Ctvrt": "Lednice",
     "Cast": "Sibiř",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 846,
       "y": 33,
@@ -1599,6 +1763,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 304,
       "y": 133,
@@ -1618,6 +1784,8 @@
     "Ctvrt": "Propast",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 323,
       "y": 108,
@@ -1636,6 +1804,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -1653,6 +1823,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 308,
       "y": 73,
@@ -1671,6 +1843,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -1689,6 +1863,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 308,
       "y": 70,
@@ -1706,6 +1882,8 @@
     "Ctvrt": "Rybářská Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -1734,6 +1912,8 @@
     "Ctvrt": "Rybářská Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -1751,6 +1931,8 @@
     "Ctvrt": "Gi",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -1768,6 +1950,8 @@
     "Ctvrt": "Trója",
     "Cast": "Trója",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -1784,6 +1968,8 @@
     "Ctvrt": "Expresionismus",
     "Cast": "Sibiř",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -1803,6 +1989,8 @@
     "Ctvrt": "Dužina",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 311,
       "y": 68,
@@ -1824,6 +2012,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -1840,6 +2030,8 @@
     "Ctvrt": "Basgiath",
     "Cast": "Sibiř",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -1861,6 +2053,8 @@
     "Ctvrt": "Goias",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -1883,6 +2077,8 @@
     "Ctvrt": "Gi",
     "Cast": "Nové Dilí",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 307,
       "y": 63,
@@ -1903,6 +2099,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -1924,6 +2122,8 @@
     "Ctvrt": "Gandalf",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -1944,6 +2144,8 @@
     "Ctvrt": "Dužina",
     "Cast": "Nové Dilí",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 316,
       "y": 67,
@@ -1960,6 +2162,8 @@
     "Ctvrt": "Basgiath",
     "Cast": "Sibiř",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -1978,6 +2182,8 @@
     "Ctvrt": "Gi",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -1995,6 +2201,8 @@
     "Ctvrt": "Lom",
     "Cast": "Sibiř",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 302,
       "y": 64,
@@ -2018,6 +2226,8 @@
     "Ctvrt": "Gi",
     "Cast": "Nové Dilí",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 306,
       "y": 70,
@@ -2039,6 +2249,8 @@
     "Ctvrt": "Gideon",
     "Cast": "Nové Dilí",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 322,
       "y": 64,
@@ -2058,6 +2270,8 @@
     "Ctvrt": "Gideon",
     "Cast": "Nové Dilí",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 323,
       "y": 63,
@@ -2077,6 +2291,8 @@
     "Ctvrt": "Gideon",
     "Cast": "Nové Dilí",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 339,
       "y": 67,
@@ -2096,6 +2312,8 @@
     "Ctvrt": "Goias",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -2114,6 +2332,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -2135,6 +2355,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -2152,6 +2374,8 @@
     "Ctvrt": "Propast",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 343,
       "y": 102,
@@ -2171,6 +2395,8 @@
     "Ctvrt": "Vietnamská Čtvrť",
     "Cast": "Trója",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 344,
       "y": 72,
@@ -2187,6 +2413,8 @@
     "Ctvrt": "Propast",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 342,
       "y": 88,
@@ -2208,6 +2436,8 @@
     "Ctvrt": "Trója",
     "Cast": "Trója",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -2224,6 +2454,8 @@
     "Ctvrt": "Vietnamská Čtvrť",
     "Cast": "Trója",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 347,
       "y": 77,
@@ -2242,6 +2474,8 @@
     "Ctvrt": "Propast",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -2260,6 +2494,8 @@
     "Ctvrt": "Propast",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -2279,6 +2515,8 @@
     "Ctvrt": "Propast",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 341,
       "y": 94,
@@ -2297,6 +2535,8 @@
     "Ctvrt": "Železná Lhota",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -2315,6 +2555,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -2331,6 +2573,8 @@
     "Ctvrt": "Gideon",
     "Cast": "Nové Dilí",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 314,
       "y": 146,
@@ -2358,6 +2602,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -2392,6 +2638,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -2415,6 +2663,8 @@
     "Ctvrt": "Rybářská Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 297,
       "y": 68,
@@ -2433,6 +2683,8 @@
     "Ctvrt": "Rybářská Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -2449,6 +2701,8 @@
     "Ctvrt": "Goias",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -2466,6 +2720,8 @@
     "Ctvrt": "Dužina",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -2485,6 +2741,8 @@
     "Ctvrt": "Propast",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 344,
       "y": 91,
@@ -2501,6 +2759,8 @@
     "Ctvrt": "Vietnamská Čtvrť",
     "Cast": "Trója",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 341,
       "y": 79,
@@ -2524,6 +2784,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 307,
       "y": 88,
@@ -2544,6 +2806,8 @@
     "Ctvrt": "Trója",
     "Cast": "Trója",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -2562,6 +2826,8 @@
     "Ctvrt": "Propast",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -2581,6 +2847,8 @@
     "Ctvrt": "Propast",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 342,
       "y": 94,
@@ -2598,6 +2866,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -2617,6 +2887,8 @@
     "Ctvrt": "Propast",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -2639,6 +2911,8 @@
     "Ctvrt": "Propast",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 336,
       "y": 94,
@@ -2659,6 +2933,8 @@
     "Ctvrt": "Propast",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 330,
       "y": 103,
@@ -2677,6 +2953,8 @@
     "Ctvrt": "Propast",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 343,
       "y": 98,
@@ -2696,6 +2974,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -2716,6 +2996,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 317,
       "y": 110,
@@ -2733,6 +3015,8 @@
     "Ctvrt": "Propast",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -2752,6 +3036,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -2769,6 +3055,8 @@
     "Ctvrt": "Lom",
     "Cast": "Sibiř",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -2786,6 +3074,8 @@
     "Ctvrt": "Lom",
     "Cast": "Sibiř",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -2815,6 +3105,8 @@
     "Ctvrt": "Dálniční Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": true,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -2831,6 +3123,8 @@
     "Ctvrt": "Propast",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -2847,6 +3141,8 @@
     "Ctvrt": "Propast",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 338,
       "y": 98,
@@ -2865,6 +3161,8 @@
     "Ctvrt": "Propast",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -2882,6 +3180,8 @@
     "Ctvrt": "Propast",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -2900,6 +3200,8 @@
     "Ctvrt": "Železná Lhota",
     "Cast": "Nové Dilí",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 353,
       "y": 58,
@@ -2923,6 +3225,8 @@
     "Ctvrt": "Rybářská Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -2941,6 +3245,8 @@
     "Ctvrt": "Propast",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -2958,6 +3264,8 @@
     "Ctvrt": "Propast",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 342,
       "y": 94,
@@ -2979,6 +3287,8 @@
     "Ctvrt": "Železná Lhota",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -2998,6 +3308,8 @@
     "Ctvrt": "Železná Lhota",
     "Cast": "Nové Dilí",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 353,
       "y": 77,
@@ -3018,6 +3330,8 @@
     "Ctvrt": "Trója",
     "Cast": "Trója",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -3034,6 +3348,8 @@
     "Ctvrt": "Rybářská Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": true,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -3054,6 +3370,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -3071,6 +3389,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -3089,6 +3409,8 @@
     "Ctvrt": "Trója",
     "Cast": "Trója",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 348,
       "y": 63,
@@ -3107,6 +3429,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -3129,6 +3453,8 @@
     "Ctvrt": "Gandalf",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -3151,6 +3477,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 321,
       "y": 103,
@@ -3171,6 +3499,8 @@
     "Ctvrt": "Goias",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -3189,6 +3519,8 @@
     "Ctvrt": "Propast",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -3208,6 +3540,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -3226,6 +3560,8 @@
     "Ctvrt": "Nekonečno",
     "Cast": "Trója",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 336,
       "y": 63,
@@ -3242,6 +3578,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -3261,6 +3599,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 296,
       "y": 97,
@@ -3280,6 +3620,8 @@
     "Ctvrt": "Propast",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 338,
       "y": 109,
@@ -3309,6 +3651,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -3326,6 +3670,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -3345,6 +3691,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -3362,6 +3710,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -3384,6 +3734,8 @@
     "Ctvrt": "Rybářská Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -3400,6 +3752,8 @@
     "Ctvrt": "Gi",
     "Cast": "Nové Dilí",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 294,
       "y": 66,
@@ -3420,6 +3774,8 @@
     "Ctvrt": "Rybářská Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -3439,6 +3795,8 @@
     "Ctvrt": "Rybářská Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -3455,6 +3813,8 @@
     "Ctvrt": "Lom",
     "Cast": "Sibiř",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 278,
       "y": 77,
@@ -3474,6 +3834,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -3492,6 +3854,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 305,
       "y": 118,
@@ -3511,6 +3875,8 @@
     "Ctvrt": "Lom",
     "Cast": "Sibiř",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 272,
       "y": 74,
@@ -3538,6 +3904,8 @@
     "Ctvrt": "Dužina",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -3556,6 +3924,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -3583,6 +3953,8 @@
     "Ctvrt": "Dálniční Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -3602,6 +3974,8 @@
     "Ctvrt": "Gideon",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -3620,6 +3994,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -3637,6 +4013,8 @@
     "Ctvrt": "Vietnamská Čtvrť",
     "Cast": "Trója",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -3655,6 +4033,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 317,
       "y": 99,
@@ -3679,6 +4059,8 @@
     "Ctvrt": "Rybářská Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 286,
       "y": 76,
@@ -3698,6 +4080,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 299,
       "y": 131,
@@ -3715,6 +4099,8 @@
     "Ctvrt": "Trója",
     "Cast": "Trója",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -3733,6 +4119,8 @@
     "Ctvrt": "Gideon",
     "Cast": "Nové Dilí",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 320,
       "y": 80,
@@ -3752,6 +4140,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 312,
       "y": 106,
@@ -3770,6 +4160,8 @@
     "Ctvrt": "Goias",
     "Cast": "Nové Dilí",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 331,
       "y": 70,
@@ -3786,6 +4178,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -3803,6 +4197,8 @@
     "Ctvrt": "Rybářská Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -3826,6 +4222,8 @@
     "Ctvrt": "Propast",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -3848,6 +4246,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 323,
       "y": 89,
@@ -3876,6 +4276,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 318,
       "y": 77,
@@ -3893,6 +4295,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 305,
       "y": 72,
@@ -3911,6 +4315,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 309,
       "y": 63,
@@ -3928,6 +4334,8 @@
     "Ctvrt": "Gideon",
     "Cast": "Nové Dilí",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 313,
       "y": 120,
@@ -3946,6 +4354,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -3963,6 +4373,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 314,
       "y": 118,
@@ -3984,6 +4396,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -4004,6 +4418,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 307,
       "y": 72,
@@ -4024,6 +4440,8 @@
     "Ctvrt": "Trója",
     "Cast": "Trója",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 357,
       "y": 87,
@@ -4043,6 +4461,8 @@
     "Ctvrt": "Gandalf",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -4060,6 +4480,8 @@
     "Ctvrt": "Vietnamská Čtvrť",
     "Cast": "Trója",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 353,
       "y": 68,
@@ -4077,6 +4499,8 @@
     "Ctvrt": "Trója",
     "Cast": "Trója",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 356,
       "y": 128,
@@ -4093,6 +4517,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 316,
       "y": 101,
@@ -4109,6 +4535,8 @@
     "Ctvrt": "Gi",
     "Cast": "Nové Dilí",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 315,
       "y": 92,
@@ -4126,6 +4554,8 @@
     "Ctvrt": "Basgiath",
     "Cast": "Sibiř",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 264,
       "y": 63,
@@ -4143,6 +4573,8 @@
     "Ctvrt": "Gideon",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -4164,6 +4596,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 328,
       "y": 77,
@@ -4192,6 +4626,8 @@
     "Ctvrt": "Trója",
     "Cast": "Trója",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -4210,6 +4646,8 @@
     "Ctvrt": "Dálniční Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 337,
       "y": 94,
@@ -4230,6 +4668,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -4246,6 +4686,8 @@
     "Ctvrt": "Trója",
     "Cast": "Trója",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 364,
       "y": 70,
@@ -4262,6 +4704,8 @@
     "Ctvrt": "Rybářská Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -4279,6 +4723,8 @@
     "Ctvrt": "Trója",
     "Cast": "Trója",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -4297,6 +4743,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -4320,6 +4768,8 @@
     "Ctvrt": "Gideon",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -4337,6 +4787,8 @@
     "Ctvrt": "Lednice",
     "Cast": "Sibiř",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -4353,6 +4805,8 @@
     "Ctvrt": "Gi",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -4370,6 +4824,8 @@
     "Ctvrt": "Basgiath",
     "Cast": "Sibiř",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -4387,6 +4843,8 @@
     "Ctvrt": "Gi",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -4407,6 +4865,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -4427,6 +4887,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 300,
       "y": 134,
@@ -4444,6 +4906,8 @@
     "Ctvrt": "Dužina",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -4462,6 +4926,8 @@
     "Ctvrt": "Dužina",
     "Cast": "Nové Dilí",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 320,
       "y": 71,
@@ -4480,6 +4946,8 @@
     "Ctvrt": "Rybářská Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -4496,6 +4964,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 288,
       "y": 92,
@@ -4517,6 +4987,8 @@
     "Ctvrt": "Lom",
     "Cast": "Sibiř",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -4535,6 +5007,8 @@
     "Ctvrt": "Lom",
     "Cast": "Sibiř",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -4560,6 +5034,8 @@
     "Ctvrt": "Trója",
     "Cast": "Trója",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 348,
       "y": 69,
@@ -4577,6 +5053,8 @@
     "Ctvrt": "Trója",
     "Cast": "Trója",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -4597,6 +5075,8 @@
     "Ctvrt": "Gideon",
     "Cast": "Nové Dilí",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 321,
       "y": 83,
@@ -4614,6 +5094,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -4634,6 +5116,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -4651,6 +5135,8 @@
     "Ctvrt": "Trója",
     "Cast": "Trója",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -4672,6 +5158,8 @@
     "Ctvrt": "Lom",
     "Cast": "Sibiř",
     "PatternleCompatible": false,
+    "IsHighway": true,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 275,
       "y": 82,
@@ -4696,6 +5184,8 @@
     "Ctvrt": "Dálniční Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": true,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 315,
       "y": 79,
@@ -4715,6 +5205,8 @@
     "Ctvrt": "Vietnamská Čtvrť",
     "Cast": "Trója",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -4732,6 +5224,8 @@
     "Ctvrt": "Propast",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 333,
       "y": 109,
@@ -4750,6 +5244,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -4769,6 +5265,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -4786,6 +5284,8 @@
     "Ctvrt": "Gandalf",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -4803,6 +5303,8 @@
     "Ctvrt": "Trója",
     "Cast": "Trója",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 340,
       "y": 64,
@@ -4820,6 +5322,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 345,
       "y": 130,
@@ -4839,6 +5343,8 @@
     "Ctvrt": "Gideon",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -4856,6 +5362,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 331,
       "y": 122,
@@ -4873,6 +5381,8 @@
     "Ctvrt": "Expresionismus",
     "Cast": "Sibiř",
     "PatternleCompatible": false,
+    "IsHighway": true,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -4890,6 +5400,8 @@
     "Ctvrt": "Basgiath",
     "Cast": "Sibiř",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 275,
       "y": 97,
@@ -4910,6 +5422,8 @@
     "Ctvrt": "Rybářská Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 288,
       "y": 67,
@@ -4926,6 +5440,8 @@
     "Ctvrt": "Expresionismus",
     "Cast": "Sibiř",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 317,
       "y": 65,
@@ -4942,6 +5458,8 @@
     "Ctvrt": "Gandalf",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -4965,6 +5483,8 @@
     "Ctvrt": "Dužina",
     "Cast": "Nové Dilí",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 316,
       "y": 37,
@@ -4983,6 +5503,8 @@
     "Ctvrt": "Dužina",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -5002,6 +5524,8 @@
     "Ctvrt": "Dálniční Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 324,
       "y": 89,
@@ -5020,6 +5544,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 322,
       "y": 81,
@@ -5041,6 +5567,8 @@
     "Ctvrt": "Trója",
     "Cast": "Trója",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -5062,6 +5590,8 @@
     "Ctvrt": "Nekonečno",
     "Cast": "Trója",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 352,
       "y": 63,
@@ -5083,6 +5613,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -5099,6 +5631,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -5116,6 +5650,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -5133,6 +5669,8 @@
     "Ctvrt": "Trója",
     "Cast": "Trója",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -5150,6 +5688,8 @@
     "Ctvrt": "Rybářská Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 292,
       "y": 84,
@@ -5170,6 +5710,8 @@
     "Ctvrt": "Propast",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -5186,6 +5728,8 @@
     "Ctvrt": "Dálniční Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 344,
       "y": 92,
@@ -5213,6 +5757,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -5234,6 +5780,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -5252,6 +5800,8 @@
     "Ctvrt": "Triangl",
     "Cast": "Trója",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 368,
       "y": 87,
@@ -5272,6 +5822,8 @@
     "Ctvrt": "Vietnamská Čtvrť",
     "Cast": "Trója",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 355,
       "y": 79,
@@ -5290,6 +5842,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 306,
       "y": 69,
@@ -5308,6 +5862,8 @@
     "Ctvrt": "Dálniční Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -5329,6 +5885,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -5346,6 +5904,8 @@
     "Ctvrt": "Nekonečno",
     "Cast": "Trója",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 365,
       "y": 63,
@@ -5364,6 +5924,8 @@
     "Ctvrt": "Goias",
     "Cast": "Nové Dilí",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 351,
       "y": 69,
@@ -5383,6 +5945,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -5399,6 +5963,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 328,
       "y": 63,
@@ -5419,6 +5985,8 @@
     "Ctvrt": "Trója",
     "Cast": "Trója",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -5435,6 +6003,8 @@
     "Ctvrt": "Lom",
     "Cast": "Sibiř",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -5452,6 +6022,8 @@
     "Ctvrt": "Lom",
     "Cast": "Sibiř",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -5470,6 +6042,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -5486,6 +6060,8 @@
     "Ctvrt": "Trója",
     "Cast": "Trója",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -5503,6 +6079,8 @@
     "Ctvrt": "Trója",
     "Cast": "Trója",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -5521,6 +6099,8 @@
     "Ctvrt": "Gandalf",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -5539,6 +6119,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 309,
       "y": 65,
@@ -5559,6 +6141,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -5577,6 +6161,8 @@
     "Ctvrt": "Dálniční Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -5594,6 +6180,8 @@
     "Ctvrt": "Trója",
     "Cast": "Trója",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 341,
       "y": 97,
@@ -5627,6 +6215,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -5644,6 +6234,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -5664,6 +6256,8 @@
     "Ctvrt": "Dálniční Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 305,
       "y": 97,
@@ -5681,6 +6275,8 @@
     "Ctvrt": "Dálniční Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -5700,6 +6296,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 284,
       "y": 85,
@@ -5718,6 +6316,8 @@
     "Ctvrt": "Rybářská Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 296,
       "y": 84,
@@ -5737,6 +6337,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -5756,6 +6358,8 @@
     "Ctvrt": "Goias",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -5779,6 +6383,8 @@
     "Ctvrt": "Triangl",
     "Cast": "Trója",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -5797,6 +6403,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -5814,6 +6422,8 @@
     "Ctvrt": "Gi",
     "Cast": "Nové Dilí",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 293,
       "y": 92,
@@ -5833,6 +6443,8 @@
     "Ctvrt": "Rybářská Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -5851,6 +6463,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -5867,6 +6481,8 @@
     "Ctvrt": "Goias",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -5899,6 +6515,8 @@
     "Ctvrt": "Propast",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 333,
       "y": 84,
@@ -5916,6 +6534,8 @@
     "Ctvrt": "Trója",
     "Cast": "Trója",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 350,
       "y": 86,
@@ -5933,6 +6553,8 @@
     "Ctvrt": "Železná Lhota",
     "Cast": "Nové Dilí",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 353,
       "y": 89,
@@ -5950,6 +6572,8 @@
     "Ctvrt": "Basgiath",
     "Cast": "Sibiř",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -5968,6 +6592,8 @@
     "Ctvrt": "Lednice",
     "Cast": "Sibiř",
     "PatternleCompatible": false,
+    "IsHighway": true,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -5987,6 +6613,8 @@
     "Ctvrt": "Expresionismus",
     "Cast": "Sibiř",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -6004,6 +6632,8 @@
     "Ctvrt": "Rybářská Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -6024,6 +6654,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -6045,6 +6677,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -6062,6 +6696,8 @@
     "Ctvrt": "Vietnamská Čtvrť",
     "Cast": "Trója",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 342,
       "y": 65,
@@ -6080,6 +6716,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -6099,6 +6737,8 @@
     "Ctvrt": "Expresionismus",
     "Cast": "Sibiř",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 321,
       "y": 65,
@@ -6128,6 +6768,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -6145,6 +6787,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -6162,6 +6806,8 @@
     "Ctvrt": "Expresionismus",
     "Cast": "Sibiř",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -6180,6 +6826,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -6199,6 +6847,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 307,
       "y": 70,
@@ -6218,6 +6868,8 @@
     "Ctvrt": "Basgiath",
     "Cast": "Sibiř",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 282,
       "y": 79,
@@ -6242,6 +6894,8 @@
     "Ctvrt": "Dužina",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -6261,6 +6915,8 @@
     "Ctvrt": "Rybářská Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 317,
       "y": 62,
@@ -6284,6 +6940,8 @@
     "Ctvrt": "Propast",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -6301,6 +6959,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 328,
       "y": 67,
@@ -6319,6 +6979,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 320,
       "y": 66,
@@ -6336,6 +6998,8 @@
     "Ctvrt": "Trója",
     "Cast": "Trója",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 351,
       "y": 65,
@@ -6354,6 +7018,8 @@
     "Ctvrt": "Vietnamská Čtvrť",
     "Cast": "Trója",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 344,
       "y": 67,
@@ -6373,6 +7039,8 @@
     "Ctvrt": "Goias",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -6391,6 +7059,8 @@
     "Ctvrt": "Propast",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 331,
       "y": 114,
@@ -6411,6 +7081,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 284,
       "y": 95,
@@ -6436,6 +7108,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -6456,6 +7130,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 320,
       "y": 66,
@@ -6478,6 +7154,8 @@
     "Ctvrt": "Goias",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -6497,6 +7175,8 @@
     "Ctvrt": "Rybářská Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -6516,6 +7196,8 @@
     "Ctvrt": "Dálniční Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -6533,6 +7215,8 @@
     "Ctvrt": "Rybářská Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -6551,6 +7235,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -6568,6 +7254,8 @@
     "Ctvrt": "Gi",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -6585,6 +7273,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 331,
       "y": 93,
@@ -6603,6 +7293,8 @@
     "Ctvrt": "Goias",
     "Cast": "Nové Dilí",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 335,
       "y": 72,
@@ -6619,6 +7311,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 323,
       "y": 80,
@@ -6635,6 +7329,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 310,
       "y": 65,
@@ -6653,6 +7349,8 @@
     "Ctvrt": "Goias",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -6672,6 +7370,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -6690,6 +7390,8 @@
     "Ctvrt": "Gandalf",
     "Cast": "Nové Dilí",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 300,
       "y": 63,
@@ -6710,6 +7412,8 @@
     "Ctvrt": "Trója",
     "Cast": "Trója",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 345,
       "y": 87,
@@ -6727,6 +7431,8 @@
     "Ctvrt": "Železná Lhota",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -6745,6 +7451,8 @@
     "Ctvrt": "Gideon",
     "Cast": "Nové Dilí",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 326,
       "y": 71,
@@ -6762,6 +7470,8 @@
     "Ctvrt": "Gi",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -6778,6 +7488,8 @@
     "Ctvrt": "Dužina",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": true,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -6809,6 +7521,8 @@
     "Ctvrt": "Vietnamská Čtvrť",
     "Cast": "Trója",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -6826,6 +7540,8 @@
     "Ctvrt": "Rybářská Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -6849,6 +7565,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -6871,6 +7589,8 @@
     "Ctvrt": "Propast",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -6890,6 +7610,8 @@
     "Ctvrt": "Propast",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 327,
       "y": 113,
@@ -6907,6 +7629,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 338,
       "y": 118,
@@ -6928,6 +7652,8 @@
     "Ctvrt": "Rybářská Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -6952,6 +7678,8 @@
     "Ctvrt": "Rybářská Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -6969,6 +7697,8 @@
     "Ctvrt": "Dužina",
     "Cast": "Nové Dilí",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 330,
       "y": 76,
@@ -6987,6 +7717,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -7004,6 +7736,8 @@
     "Ctvrt": "Goias",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -7020,6 +7754,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -7037,6 +7773,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -7055,6 +7793,8 @@
     "Ctvrt": "Gandalf",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -7073,6 +7813,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 323,
       "y": 93,
@@ -7093,6 +7835,8 @@
     "Ctvrt": "Expresionismus",
     "Cast": "Sibiř",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -7114,6 +7858,8 @@
     "Ctvrt": "Rybářská Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -7130,6 +7876,8 @@
     "Ctvrt": "Vietnamská Čtvrť",
     "Cast": "Trója",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -7149,6 +7897,8 @@
     "Ctvrt": "Železná Lhota",
     "Cast": "Nové Dilí",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 352,
       "y": 81,
@@ -7166,6 +7916,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -7183,6 +7935,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -7199,6 +7953,8 @@
     "Ctvrt": "Dálniční Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -7215,6 +7971,8 @@
     "Ctvrt": "Železná Lhota",
     "Cast": "Nové Dilí",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 353,
       "y": 54,
@@ -7232,6 +7990,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -7249,6 +8009,8 @@
     "Ctvrt": "Propast",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -7267,6 +8029,8 @@
     "Ctvrt": "Goias",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -7286,6 +8050,8 @@
     "Ctvrt": "Rybářská Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -7302,6 +8068,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -7321,6 +8089,8 @@
     "Ctvrt": "Trója",
     "Cast": "Trója",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 355,
       "y": 89,
@@ -7338,6 +8108,8 @@
     "Ctvrt": "Železná Lhota",
     "Cast": "Nové Dilí",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 350,
       "y": 78,
@@ -7362,6 +8134,8 @@
     "Ctvrt": "Rybářská Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -7384,6 +8158,8 @@
     "Ctvrt": "Rybářská Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -7400,6 +8176,8 @@
     "Ctvrt": "Nekonečno",
     "Cast": "Trója",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 354,
       "y": 71,
@@ -7422,6 +8200,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 317,
       "y": 82,
@@ -7450,6 +8230,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 303,
       "y": 74,
@@ -7470,6 +8252,8 @@
     "Ctvrt": "Rybářská Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 282,
       "y": 81,
@@ -7488,6 +8272,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 292,
       "y": 87,
@@ -7505,6 +8291,8 @@
     "Ctvrt": "Goias",
     "Cast": "Nové Dilí",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 344,
       "y": 72,
@@ -7521,6 +8309,8 @@
     "Ctvrt": "Goias",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -7537,6 +8327,8 @@
     "Ctvrt": "Gi",
     "Cast": "Nové Dilí",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 292,
       "y": 66,
@@ -7556,6 +8348,8 @@
     "Ctvrt": "Propast",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 321,
       "y": 113,
@@ -7573,6 +8367,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": true,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -7591,6 +8387,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 315,
       "y": 88,
@@ -7611,6 +8409,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 323,
       "y": 88,
@@ -7631,6 +8431,8 @@
     "Ctvrt": "Rybářská Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -7648,6 +8450,8 @@
     "Ctvrt": "Dálniční Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -7667,6 +8471,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 291,
       "y": 88,
@@ -7686,6 +8492,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -7704,6 +8512,8 @@
     "Ctvrt": "Propast",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -7724,6 +8534,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -7744,6 +8556,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -7760,6 +8574,8 @@
     "Ctvrt": "Basgiath",
     "Cast": "Sibiř",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -7777,6 +8593,8 @@
     "Ctvrt": "Rybářská Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -7799,6 +8617,8 @@
     "Ctvrt": "Rybářská Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -7815,6 +8635,8 @@
     "Ctvrt": "Goias",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -7834,6 +8656,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -7864,6 +8688,8 @@
     "Ctvrt": "Rybářská Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 293,
       "y": 64,
@@ -7885,6 +8711,8 @@
     "Ctvrt": "Trója",
     "Cast": "Trója",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -7902,6 +8730,8 @@
     "Ctvrt": "Dužina",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -7919,6 +8749,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -7936,6 +8768,8 @@
     "Ctvrt": "Propast",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 339,
       "y": 75,
@@ -7957,6 +8791,8 @@
     "Ctvrt": "Propast",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 335,
       "y": 76,
@@ -7973,6 +8809,8 @@
     "Ctvrt": "Dužina",
     "Cast": "Nové Dilí",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 319,
       "y": 74,
@@ -7992,6 +8830,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 317,
       "y": 93,
@@ -8009,6 +8849,8 @@
     "Ctvrt": "Trója",
     "Cast": "Trója",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 351,
       "y": 68,
@@ -8025,6 +8867,8 @@
     "Ctvrt": "Rybářská Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -8044,6 +8888,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -8063,6 +8909,8 @@
     "Ctvrt": "Trója",
     "Cast": "Trója",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 333,
       "y": 87,
@@ -8079,6 +8927,8 @@
     "Ctvrt": "Rybářská Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -8095,6 +8945,8 @@
     "Ctvrt": "Basgiath",
     "Cast": "Sibiř",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -8113,6 +8965,8 @@
     "Ctvrt": "Rybářská Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -8129,6 +8983,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": true,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -8148,6 +9004,8 @@
     "Ctvrt": "Basgiath",
     "Cast": "Sibiř",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -8172,6 +9030,8 @@
     "Ctvrt": "Nekonečno",
     "Cast": "Trója",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 366,
       "y": 71,
@@ -8189,6 +9049,8 @@
     "Ctvrt": "Rybářská Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -8216,6 +9078,8 @@
     "Ctvrt": "Dužina",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -8236,6 +9100,8 @@
     "Ctvrt": "Trója",
     "Cast": "Trója",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 354,
       "y": 87,
@@ -8256,6 +9122,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -8272,6 +9140,8 @@
     "Ctvrt": "Goias",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -8297,6 +9167,8 @@
     "Ctvrt": "Basgiath",
     "Cast": "Sibiř",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -8314,6 +9186,8 @@
     "Ctvrt": "Vietnamská Čtvrť",
     "Cast": "Trója",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 354,
       "y": 71,
@@ -8336,6 +9210,8 @@
     "Ctvrt": "Trója",
     "Cast": "Trója",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -8360,6 +9236,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -8379,6 +9257,8 @@
     "Ctvrt": "Gideon",
     "Cast": "Nové Dilí",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 311,
       "y": 82,
@@ -8396,6 +9276,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 287,
       "y": 96,
@@ -8415,6 +9297,8 @@
     "Ctvrt": "Goias",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -8435,6 +9319,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 291,
       "y": 102,
@@ -8451,6 +9337,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 302,
       "y": 93,
@@ -8476,6 +9364,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -8493,6 +9383,8 @@
     "Ctvrt": "Goias",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -8511,6 +9403,8 @@
     "Ctvrt": "Dálniční Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 323,
       "y": 84,
@@ -8531,6 +9425,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -8551,6 +9447,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -8570,6 +9468,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -8587,6 +9487,8 @@
     "Ctvrt": "Nekonečno",
     "Cast": "Trója",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 373,
       "y": 67,
@@ -8609,6 +9511,8 @@
     "Ctvrt": "Dálniční Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 324,
       "y": 76,
@@ -8630,6 +9534,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 317,
       "y": 93,
@@ -8665,6 +9571,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -8681,6 +9589,8 @@
     "Ctvrt": "Basgiath",
     "Cast": "Sibiř",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -8698,6 +9608,8 @@
     "Ctvrt": "Goias",
     "Cast": "Nové Dilí",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 338,
       "y": 69,
@@ -8714,6 +9626,8 @@
     "Ctvrt": "Rybářská Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 299,
       "y": 70,
@@ -8733,6 +9647,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 330,
       "y": 118,
@@ -8749,6 +9665,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -8767,6 +9685,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -8787,6 +9707,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 330,
       "y": 77,
@@ -8805,6 +9727,8 @@
     "Ctvrt": "Gandalf",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -8824,6 +9748,8 @@
     "Ctvrt": "Gandalf",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -8840,6 +9766,8 @@
     "Ctvrt": "Basgiath",
     "Cast": "Sibiř",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -8860,6 +9788,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -8878,6 +9808,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -8896,6 +9828,8 @@
     "Ctvrt": "Trója",
     "Cast": "Trója",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -8913,6 +9847,8 @@
     "Ctvrt": "Dálniční Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 344,
       "y": 87,
@@ -8931,6 +9867,8 @@
     "Ctvrt": "Goias",
     "Cast": "Nové Dilí",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 352,
       "y": 76,
@@ -8952,6 +9890,8 @@
     "Ctvrt": "Propast",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -8983,6 +9923,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -9029,6 +9971,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -9059,6 +10003,8 @@
     "Ctvrt": "Dálniční Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -9091,6 +10037,8 @@
     "Ctvrt": "Dálniční Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -9123,6 +10071,8 @@
     "Ctvrt": "Propast",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 339,
       "y": 99,
@@ -9141,6 +10091,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 296,
       "y": 92,
@@ -9160,6 +10112,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -9181,6 +10135,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 310,
       "y": 102,
@@ -9199,6 +10155,8 @@
     "Ctvrt": "Expresionismus",
     "Cast": "Sibiř",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -9215,6 +10173,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -9235,6 +10195,8 @@
     "Ctvrt": "Dužina",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -9253,6 +10215,8 @@
     "Ctvrt": "Triangl",
     "Cast": "Trója",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 368,
       "y": 73,
@@ -9273,6 +10237,8 @@
     "Ctvrt": "Triangl",
     "Cast": "Trója",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 368,
       "y": 78,
@@ -9289,6 +10255,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -9313,6 +10281,8 @@
     "Ctvrt": "Trója",
     "Cast": "Trója",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 346,
       "y": 91,
@@ -9330,6 +10300,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 307,
       "y": 65,
@@ -9351,6 +10323,8 @@
     "Ctvrt": "Goias",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -9370,6 +10344,8 @@
     "Ctvrt": "Gi",
     "Cast": "Nové Dilí",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 296,
       "y": 66,
@@ -9387,6 +10363,8 @@
     "Ctvrt": "Gi",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -9404,6 +10382,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 309,
       "y": 71,
@@ -9422,6 +10402,8 @@
     "Ctvrt": "Gideon",
     "Cast": "Nové Dilí",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 318,
       "y": 89,
@@ -9440,6 +10422,8 @@
     "Ctvrt": "Goias",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -9459,6 +10443,8 @@
     "Ctvrt": "Goias",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -9477,6 +10463,8 @@
     "Ctvrt": "Propast",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -9498,6 +10486,8 @@
     "Ctvrt": "Dálniční Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -9518,6 +10508,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 294,
       "y": 82,
@@ -9534,6 +10526,8 @@
     "Ctvrt": "Trója",
     "Cast": "Trója",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 359,
       "y": 89,
@@ -9560,6 +10554,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -9576,6 +10572,8 @@
     "Ctvrt": "Nekonečno",
     "Cast": "Trója",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 376,
       "y": 71,
@@ -9594,6 +10592,8 @@
     "Ctvrt": "Trója",
     "Cast": "Trója",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 358,
       "y": 70,
@@ -9616,6 +10616,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -9640,6 +10642,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 320,
       "y": 98,
@@ -9660,6 +10664,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 334,
       "y": 77,
@@ -9678,6 +10684,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 334,
       "y": 81,
@@ -9697,6 +10705,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 334,
       "y": 85,
@@ -9715,6 +10725,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -9733,6 +10745,8 @@
     "Ctvrt": "Rybářská Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -9752,6 +10766,8 @@
     "Ctvrt": "Gandalf",
     "Cast": "Nové Dilí",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 297,
       "y": 71,
@@ -9770,6 +10786,8 @@
     "Ctvrt": "Železná Lhota",
     "Cast": "Nové Dilí",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 353,
       "y": 62,
@@ -9793,6 +10811,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -9811,6 +10831,8 @@
     "Ctvrt": "Dálniční Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 354,
       "y": 87,
@@ -9843,6 +10865,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -9861,6 +10885,8 @@
     "Ctvrt": "Gideon",
     "Cast": "Nové Dilí",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 317,
       "y": 86,
@@ -9879,6 +10905,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 323,
       "y": 68,
@@ -9899,6 +10927,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 323,
       "y": 72,
@@ -9920,6 +10950,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 323,
       "y": 76,
@@ -9940,6 +10972,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 323,
       "y": 80,
@@ -9959,6 +10993,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 323,
       "y": 84,
@@ -9976,6 +11012,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 327,
       "y": 123,
@@ -9995,6 +11033,8 @@
     "Ctvrt": "Rybářská Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 286,
       "y": 72,
@@ -10014,6 +11054,8 @@
     "Ctvrt": "Vietnamská Čtvrť",
     "Cast": "Trója",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 343,
       "y": 77,
@@ -10031,6 +11073,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 324,
       "y": 76,
@@ -10051,6 +11095,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 308,
       "y": 74,
@@ -10067,6 +11113,8 @@
     "Ctvrt": "Rybářská Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -10091,6 +11139,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 328,
       "y": 66,
@@ -10112,6 +11162,8 @@
     "Ctvrt": "Gandalf",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -10128,6 +11180,8 @@
     "Ctvrt": "Trója",
     "Cast": "Trója",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -10145,6 +11199,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -10163,6 +11219,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 313,
       "y": 74,
@@ -10187,6 +11245,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -10205,6 +11265,8 @@
     "Ctvrt": "Gideon",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -10224,6 +11286,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -10251,6 +11315,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 333,
       "y": 66,
@@ -10268,6 +11334,8 @@
     "Ctvrt": "Dálniční Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 314,
       "y": 94,
@@ -10285,6 +11353,8 @@
     "Ctvrt": "Dálniční Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 351,
       "y": 88,
@@ -10304,6 +11374,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -10323,6 +11395,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -10340,6 +11414,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -10357,6 +11433,8 @@
     "Ctvrt": "Goias",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -10375,6 +11453,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 320,
       "y": 69,
@@ -10394,6 +11474,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 321,
       "y": 74,
@@ -10413,6 +11495,8 @@
     "Ctvrt": "Rybářská Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 335,
       "y": 62,
@@ -10432,6 +11516,8 @@
     "Ctvrt": "Goias",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -10450,6 +11536,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -10473,6 +11561,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -10490,6 +11580,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 322,
       "y": 79,
@@ -10510,6 +11602,8 @@
     "Ctvrt": "Propast",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 330,
       "y": 109,
@@ -10529,6 +11623,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -10548,6 +11644,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 328,
       "y": 70,
@@ -10570,6 +11668,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 299,
       "y": 110,
@@ -10587,6 +11687,8 @@
     "Ctvrt": "Dálniční Kolonie",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 333,
       "y": 93,
@@ -10603,6 +11705,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 301,
       "y": 120,
@@ -10628,6 +11732,8 @@
     "Ctvrt": "Dužina",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": true,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -10647,6 +11753,8 @@
     "Ctvrt": "Expresionismus",
     "Cast": "Sibiř",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -10663,6 +11771,8 @@
     "Ctvrt": "Gideon",
     "Cast": "Nové Dilí",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 326,
       "y": 67,
@@ -10684,6 +11794,8 @@
     "Ctvrt": "Železná Lhota",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 352,
       "y": 67,
@@ -10701,6 +11813,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -10725,6 +11839,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -10746,6 +11862,8 @@
     "Ctvrt": "Kořen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -10765,6 +11883,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 300,
       "y": 121,
@@ -10782,6 +11902,8 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
@@ -10799,6 +11921,8 @@
     "Ctvrt": "Gandalf",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
     "Coordinates": {
       "x": 0,
       "y": 0,
