@@ -9568,7 +9568,7 @@
       },
       {
         "Title": "N\u00E1zev",
-        "Content": "Pan\u00ED docentka, doktorka p\u0159\u00EDrodn\u00EDch v\u011Bd Dana Hlin\u011Bn\u00E1, doktorka filozofie je vyu\u010Duj\u00EDc\u00EDm na fakult\u011B elektrotechniky a komunikačních technologií a informa\u010Dn\u00EDch technologi\u00ED na Vysok\u00E9m U\u010Den\u00ED Technick\u00E9m v Brn\u011B."
+        "Content": "Pan\u00ED docentka, doktorka p\u0159\u00EDrodn\u00EDch v\u011Bd Dana Hlin\u011Bn\u00E1, doktorka filozofie je vyu\u010Duj\u00EDc\u00EDm na fakult\u011B elektrotechniky a komunika\u010Dn\u00EDch technologi\u00ED a informa\u010Dn\u00EDch technologi\u00ED na Vysok\u00E9m U\u010Den\u00ED Technick\u00E9m v Brn\u011B."
       },
       {
         "Title": "Interi\u00E9r",
@@ -20436,7 +20436,7 @@
     "Bordering_rooms": [
       "mi_karotka",
       "mi_moje_malickost",
-      "mi_mestecko",
+      "mi_zelene_okno",
       "mi_le_pont",
       "mi_gideonuv_dum",
       "mi_lodenice"
@@ -32416,71 +32416,6 @@
       "Orp"
     ]
   },
-  "mi_mestecko": {
-    "Title": "M\u011Bste\u010Dko",
-    "Type": "m\u00EDstnost",
-    "Images": [],
-    "Image_titles": [],
-    "Bordering_rooms": [
-      "mi_audit"
-    ],
-    "Alternate_names": [
-      "Vert Ville"
-    ],
-    "Metadata": {
-      "N\u00E1zev": "M\u011Bste\u010Dko",
-      "Blok": "[Nad Vodou](bl_nad_vodou)",
-      "Okrsek": "[Gideon](ok_gideon)",
-      "\u010Ctvr\u0165": "[Gideon](ct_gideon)",
-      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": "Jak vznikl n\u00E1zev?"
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": "N\u011Bco o interi\u00E9ru."
-      },
-      {
-        "Title": "Zaj\u00EDmavost",
-        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
-      },
-      {
-        "Title": "Aktuality",
-        "Content": "19/07/25: P\u0159ejmenov\u00E1no z Vert Ville na M\u011Bste\u010Dko."
-      }
-    ],
-    "image_id": 0,
-    "area": 32,
-    "Empty": true,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 326,
-      "y": 67,
-      "z": 1101
-    },
-    "patternleCompatible": true,
-    "redirect": null,
-    "tobeedited": false,
-    "reviews": [
-      {
-        "stars": 1,
-        "author": "Gideon Traveller",
-        "text": "Z toho zelen\u00E9ho okna se m\u011B d\u011Bl\u00E1 \u0161patn\u011B."
-      }
-    ],
-    "utilities": [
-      "Bed",
-      "Bar",
-      "Com"
-    ]
-  },
   "mi_orisek": {
     "Title": "O\u0159\u00ED\u0161ek",
     "Type": "m\u00EDstnost",
@@ -41531,7 +41466,7 @@
       },
       {
         "Title": "Zaj\u00EDmavost",
-        "Content": "Zadn\u00ED okno v m\u00EDstnosti nab\u00EDz\u00ED v\u00FDhled na m\u00EDstnost [M\u011Bste\u010Dko](mi_mestecko) a endermana s ko\u010Dkou v lodi."
+        "Content": "Zadn\u00ED okno v m\u00EDstnosti nab\u00EDz\u00ED v\u00FDhled na m\u00EDstnost [Zelen\u00E9 Okno](mi_zelene_okno) a endermana s ko\u010Dkou v lodi."
       }
     ],
     "image_id": 0,
@@ -47402,5 +47337,71 @@
     "tobeedited": false,
     "reviews": [],
     "utilities": []
+  },
+  "mi_zelene_okno": {
+    "Title": "Zelen\u00E9 Okno",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_audit"
+    ],
+    "Alternate_names": [
+      "Vert Ville",
+      "M\u011Bste\u010Dko"
+    ],
+    "Metadata": {
+      "N\u00E1zev": "Zelen\u00E9 Okno",
+      "Blok": "[Nad Vodou](bl_nad_vodou)",
+      "Okrsek": "[Gideon](ok_gideon)",
+      "\u010Ctvr\u0165": "[Gideon](ct_gideon)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "P\u0159ejmenov\u00E1no kv\u016Fli panu Franti\u0161ku Krej\u010D\u00EDmu. M\u011Bste\u010Dko je dle n\u011Bho takov\u00FD neur\u010Dit\u00FD n\u00E1zev. Zelen\u00E9 okno si ostatn\u00ED l\u00E9pe zapamatuj\u00ED."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zelen\u00E9 Okno je prvn\u00ED m\u00EDstnost\u00ED, je\u017E byla dvakr\u00E1t p\u0159ejmenov\u00E1na."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "19/07/25: P\u0159ejmenov\u00E1no z Vert Ville na M\u011Bste\u010Dko.\r\n19/09/25: P\u0159ejmenov\u00E1no z M\u011Bste\u010Dko na Zelen\u00E9 Okno."
+      }
+    ],
+    "image_id": 0,
+    "area": 32,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 326,
+      "y": 67,
+      "z": 1101
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [
+      {
+        "stars": 1,
+        "author": "Gideon Traveller",
+        "text": "Z toho zelen\u00E9ho okna se m\u011B d\u011Bl\u00E1 \u0161patn\u011B."
+      }
+    ],
+    "utilities": [
+      "Bed",
+      "Bar",
+      "Com"
+    ]
   }
 }

@@ -1,5 +1,5 @@
 {
-  "version": "2.0.2",
+  "version": "2.0.3",
   "mi_agama": {
     "Title": "Agama",
     "Bordering_rooms": [
@@ -453,7 +453,7 @@
     "Bordering_rooms": [
       "mi_karotka",
       "mi_moje_malickost",
-      "mi_mestecko",
+      "mi_zelene_okno",
       "mi_le_pont",
       "mi_gideonuv_dum",
       "mi_lodenice"
@@ -4676,22 +4676,6 @@
       "x": 275,
       "y": 82,
       "z": 1165
-    }
-  },
-  "mi_mestecko": {
-    "Title": "Městečko",
-    "Bordering_rooms": [
-      "mi_audit"
-    ],
-    "Blok": "Nad Vodou",
-    "Okrsek": "Gideon",
-    "Ctvrt": "Gideon",
-    "Cast": "Nové Dilí",
-    "PatternleCompatible": true,
-    "Coordinates": {
-      "x": 326,
-      "y": 67,
-      "z": 1101
     }
   },
   "mi_mestsky_okruh": {
@@ -10667,6 +10651,22 @@
       "x": 0,
       "y": 0,
       "z": 0
+    }
+  },
+  "mi_zelene_okno": {
+    "Title": "Zelené Okno",
+    "Bordering_rooms": [
+      "mi_audit"
+    ],
+    "Blok": "Nad Vodou",
+    "Okrsek": "Gideon",
+    "Ctvrt": "Gideon",
+    "Cast": "Nové Dilí",
+    "PatternleCompatible": true,
+    "Coordinates": {
+      "x": 326,
+      "y": 67,
+      "z": 1101
     }
   },
   "mi_zelezna_lhota": {
