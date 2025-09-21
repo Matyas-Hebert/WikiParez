@@ -10,7 +10,7 @@ only_room_pages = {k: v for k, v in pages.items() if v.get("Type") == "místnost
 
 only_room_pages = dict(sorted(only_room_pages.items()))
 
-highways = ["mi_parek", "mi_asfaltka", "mi_dalnice", "mi_dalniční_pilir", "mi_hraz", "mi_prazce", "mi_slouporadí", "mi_most", "mi_meda", "mi_zavodni_okruh", "mi_mestsky_okruh"]
+highways = ["mi_parek", "mi_asfaltka", "mi_dalnice", "mi_dalnicni_pilir", "mi_hraz", "mi_prazce", "mi_slouporadí", "mi_most", "mi_meda", "mi_zavodni_okruh", "mi_mestsky_okruh"]
 pseudos = ["mi_sloupek", "mi_jama_pekelna", "mi_samovrazedne_dvere", "mi_ah_fuck", "posvatna_jama"]
 
 # 3. Transform to ParezlePage-like structure

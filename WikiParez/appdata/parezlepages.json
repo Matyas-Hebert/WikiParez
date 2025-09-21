@@ -1,5 +1,5 @@
 {
-  "version": "2.0.4",
+  "version": "2.0.5",
   "mi_agama": {
     "Title": "Agama",
     "Bordering_rooms": [
@@ -1374,7 +1374,7 @@
     "Ctvrt": "Kmen",
     "Cast": "Pařez",
     "PatternleCompatible": false,
-    "IsHighway": false,
+    "IsHighway": true,
     "IsPseudo": false,
     "Coordinates": {
       "x": 349,
