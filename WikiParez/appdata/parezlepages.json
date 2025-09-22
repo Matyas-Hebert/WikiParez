@@ -1,5 +1,5 @@
 {
-  "version": "2.0.6",
+  "version": "2.0.7",
   "mi_agama": {
     "Title": "Agama",
     "Bordering_rooms": [
@@ -1093,8 +1093,8 @@
       "mi_ga",
       "mi_dira_do_pekel"
     ],
-    "Blok": "Aula Ga",
-    "Okrsek": "Ga",
+    "Blok": "Ga",
+    "Okrsek": "Hotel Gi",
     "Ctvrt": "Gi",
     "Cast": "Nové Dilí",
     "PatternleCompatible": false,
