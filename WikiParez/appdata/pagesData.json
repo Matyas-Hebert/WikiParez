@@ -31,7 +31,7 @@
       },
       {
         "Title": "Interi\u00E9r",
-        "Content": "Interi\u00E9r Ru\u010F\u00E1kova domu je osv\u011Btlen lou\u010Demi a ve dne slune\u010Dn\u00EDm svitem vzhledem k velk\u00E9mu po\u010Dtu sklen\u011Bn\u00FDch tabulek. V m\u00EDstnosti se nach\u00E1z\u00ED b\u00EDl\u00E1 postel a crafting table. \u003C\u003CB\u00EDl\u00E1 postel je \u00FAdajn\u011B zaklet\u00E1 sklen\u011Bn\u00FDm d\u011Bde\u010Dkem.\u003E\u003E::0.05 O patro v\u00FD\u0161e se nach\u00E1z\u00ED [The Terrass](mi_the_terrass), je\u017E s Ru\u010F\u00E1kov\u00FDm domem sd\u00EDl\u00ED skl\u011Bn\u011Bn\u00FD strop/podlahu.\r\nNa severn\u00ED stran\u011B m\u00EDstnosti m\u016F\u017Eeme naj\u00EDt \u0161achtu pod\u00E9l ji\u017En\u00EDho okna [sila](mi_silo). \u0160achta je oplocena a vede o patro n\u00ED\u017Ee do [Oranjestadu](mi_oranjestad)."
+        "Content": "Interi\u00E9r Ru\u010F\u00E1kova domu je osv\u011Btlen lou\u010Demi a ve dne slune\u010Dn\u00EDm svitem vzhledem k velk\u00E9mu po\u010Dtu sklen\u011Bn\u00FDch tabulek. V m\u00EDstnosti se nach\u00E1z\u00ED b\u00EDl\u00E1 postel a crafting table. \u003C\u003CB\u00EDl\u00E1 postel je \u00FAdajn\u011B zaklet\u00E1 sklen\u011Bn\u00FDm d\u011Bde\u010Dkem.\u003E\u003E::0.05 O patro v\u00FD\u0161e se nach\u00E1z\u00ED [Terasa](mi_terasa), je\u017E s Ru\u010F\u00E1kov\u00FDm domem sd\u00EDl\u00ED skl\u011Bn\u011Bn\u00FD strop/podlahu.\r\nNa severn\u00ED stran\u011B m\u00EDstnosti m\u016F\u017Eeme naj\u00EDt \u0161achtu pod\u00E9l ji\u017En\u00EDho okna [sila](mi_silo). \u0160achta je oplocena a vede o patro n\u00ED\u017Ee do [Oranjestadu](mi_oranjestad)."
       },
       {
         "Title": "Zaj\u00EDmavost",
@@ -1461,64 +1461,6 @@
       "Bed"
     ]
   },
-  "mi_the_terrass": {
-    "Title": "The Terrass",
-    "Type": "m\u00EDstnost",
-    "Images": [],
-    "Image_titles": [
-      "THE TERRASS",
-      "POHLED DOL\u016E NA BEETROOT FARMU"
-    ],
-    "Bordering_rooms": [
-      "mi_the_airship",
-      "mi_the_detour",
-      "mi_parsley_attic"
-    ],
-    "Alternate_names": [
-      "Terasa"
-    ],
-    "Metadata": {
-      "N\u00E1zev": "The Terrass",
-      "Blok": "[The Airship](bl_the_airship)",
-      "Okrsek": "[The Airship](ok_the_airship)",
-      "\u010Ctvr\u0165": "[Kmen](ct_kmen)",
-      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
-    },
-    "Sections": [
-      {
-        "Title": "P\u0159ehled",
-        "Content": "The Terrass nebo tak\u00E9 Terasa je \u010Dtvercov\u00E1 m\u00EDstnost na samotn\u00E9m severn\u00EDm konci [Airshipu](bl_the_airship). Podlaha v m\u00EDstnosti je na t\u0159ech v\u00FD\u0161kov\u00FDch \u00FArovn\u00EDch a p\u0159ipom\u00EDn\u00E1 schodi\u0161t\u011B jdouc\u00ED z v\u00FDchodu na z\u00E1pad. Na nejni\u017E\u0161\u00ED \u00FArovni jsou dve\u0159e na [Airship](mi_the_airship) a na \u00FArovni nejvy\u0161\u0161\u00ED vstup do [Parsley Attic](mi_parsley_attic) a na [Detour](mi_the_detour).\r\nPodlaha m\u00EDstnosti je z velk\u00E9 \u010D\u00E1sti skl\u011Bn\u011Bn\u00E1 a nab\u00EDz\u00ED pohled na [Beetroot farmu](mi_beetroot_farma) a [Ru\u010F\u00E1k\u016Fv d\u016Fm](mi_rudakuv_dum) pod n\u00ED."
-      },
-      {
-        "Title": "N\u00E1zev",
-        "Content": "D\u0159\u00EDve se jednalo o m\u00EDstnost, kter\u00E1 vy\u010Dn\u00EDvala ze st\u011Bny cel\u00E9ho domu. M\u00EDstnost napodobuje jm\u00E9nem m\u00EDstnosti jako [The Airship](mi_the_airship), [The Crossing](mi_the_crossing) \u010Di [The Bridge](mi_the_bridge)."
-      },
-      {
-        "Title": "Interi\u00E9r",
-        "Content": "V interi\u00E9ru Terasy se nach\u00E1z\u00ED sv\u011Btle modr\u00E1 postel. Na v\u0161ech st\u011Bn\u00E1ch krom stropu a v\u00FDchodn\u00ED st\u011Bny jsou velk\u00E1 okna s v\u00FDhledem do vedlej\u0161\u00EDch m\u00EDstnosti, je\u017E jsou poz\u016Fstatkem p\u016Fvodn\u00EDho \u00FA\u010Delu m\u00EDstnosti.  Na v\u00FDchodn\u00ED st\u011Bn\u011B je jen jedno mal\u00E9 \u010Dtvercov\u00E9 okno.\r\nJen nejn\u00ED\u017Ee polo\u017Een\u00E1 \u010D\u00E1st schodovit\u00E9 podlahy nen\u00ED tvo\u0159ena sklem."
-      },
-      {
-        "Title": "Zaj\u00EDmavosti",
-        "Content": "Podlaha m\u00EDstnosti je postavena ze 40 sklen\u011Bn\u00FDch blok\u016F co\u017E znamen\u00E1, \u017Ee 58% podlahy je tvo\u0159eno sklem.\r\nP\u0159ed v\u00FDstavbou [Beetroot farmy](mi_beetroot_farma) byla The Terrass postavena nad mo\u0159em.\r\nThe Terrass nen\u00ED spr\u00E1vn\u00FDm anglick\u00FDm slovem. Anglicky \u0022terasa\u0022 je \u0022terrace\u0022."
-      }
-    ],
-    "image_id": 0,
-    "area": 69,
-    "Empty": false,
-    "numberOfRooms": 0,
-    "coordinates": {
-      "x": 296,
-      "y": 92,
-      "z": 1125
-    },
-    "patternleCompatible": true,
-    "redirect": null,
-    "tobeedited": false,
-    "reviews": [],
-    "utilities": [
-      "Bed"
-    ]
-  },
   "mi_parsley_attic": {
     "Title": "Parsley Attic",
     "Type": "m\u00EDstnost",
@@ -1531,7 +1473,7 @@
     ],
     "Bordering_rooms": [
       "mi_the_airship",
-      "mi_the_terrass",
+      "mi_terasa",
       "mi_the_detour",
       "mi_pod_masou",
       "mi_beetroot_farma"
@@ -1550,7 +1492,7 @@
     "Sections": [
       {
         "Title": "P\u0159ehled",
-        "Content": "Parsley Attic je m\u00EDstnost s velmi neobvykl\u00FDm tvarem. Nach\u00E1z\u00ED se na severov\u00FDchod od [Airshipu](mi_the_airship) a vizu\u00E1ln\u011B ji lze rozd\u011Blit n\u00E1sledovn\u011B. Ze severu na jih ji prot\u00EDn\u00E1 chodba a vedle t\u00E9to chodby jsou t\u0159i \u010D\u00E1sti: lo\u017Enice, schodi\u0161t\u011B a hlavn\u00ED \u010D\u00E1st. \r\nLo\u017Enice je velmi mal\u00E1 \u010D\u00E1st s m\u00EDstem pouze na dv\u011B postele. Schodi\u0161t\u011B z velk\u00E9 \u010D\u00E1sti nepat\u0159\u00ED do Parsley Attic ale do sousedn\u00ED m\u00EDstnosti [Pod masou](mi_pod_masou). Krom [Pod masou](mi_pod_masou) lze schodi\u0161t\u011B vyu\u017E\u00EDt pro sestup k [Beetroot farm\u011B](mi_beetroot_farma). Hlavn\u00ED \u010D\u00E1st, je\u017E se nach\u00E1z\u00ED na ji\u017En\u00EDm konci m\u00EDstnosti, je polo\u017Eena o blok n\u00ED\u017Ee.\r\nZ chodby, kter\u00E1 tyto t\u0159i \u010D\u00E1sti spojuje vedou t\u0159i vchody a to dve\u0159e na [Detour](mi_the_detour) a na [Terasu](mi_the_terrass), ale tak\u00E9 voln\u00FD vchod na [Airship](mi_the_airship)."
+        "Content": "Parsley Attic je m\u00EDstnost s velmi neobvykl\u00FDm tvarem. Nach\u00E1z\u00ED se na severov\u00FDchod od [Airshipu](mi_the_airship) a vizu\u00E1ln\u011B ji lze rozd\u011Blit n\u00E1sledovn\u011B. Ze severu na jih ji prot\u00EDn\u00E1 chodba a vedle t\u00E9to chodby jsou t\u0159i \u010D\u00E1sti: lo\u017Enice, schodi\u0161t\u011B a hlavn\u00ED \u010D\u00E1st. \r\nLo\u017Enice je velmi mal\u00E1 \u010D\u00E1st s m\u00EDstem pouze na dv\u011B postele. Schodi\u0161t\u011B z velk\u00E9 \u010D\u00E1sti nepat\u0159\u00ED do Parsley Attic ale do sousedn\u00ED m\u00EDstnosti [Pod masou](mi_pod_masou). Krom [Pod masou](mi_pod_masou) lze schodi\u0161t\u011B vyu\u017E\u00EDt pro sestup k [Beetroot farm\u011B](mi_beetroot_farma). Hlavn\u00ED \u010D\u00E1st, je\u017E se nach\u00E1z\u00ED na ji\u017En\u00EDm konci m\u00EDstnosti, je polo\u017Eena o blok n\u00ED\u017Ee.\r\nZ chodby, kter\u00E1 tyto t\u0159i \u010D\u00E1sti spojuje vedou t\u0159i vchody a to dve\u0159e na [Detour](mi_the_detour) a na [Terasu](mi_terasa), ale tak\u00E9 voln\u00FD vchod na [Airship](mi_the_airship)."
       },
       {
         "Title": "N\u00E1zev",
@@ -1606,7 +1548,7 @@
       "mi_lokace",
       "mi_schodiste_tt",
       "mi_parsley_attic",
-      "mi_the_terrass",
+      "mi_terasa",
       "mi_the_detour",
       "mi_dalnicni_pilir",
       "mi_kazeta",
@@ -1632,7 +1574,7 @@
     "Sections": [
       {
         "Title": "P\u0159ehled",
-        "Content": "The Airship je nejv\u011Bt\u0161\u00ED m\u00EDstnost\u00ED ve stejnojmenn\u00E9m bloku a okrsku. Jedn\u00E1 se o \u010D\u00E1ste\u010Dn\u011B otev\u0159enou m\u00EDstnost s velmi vysok\u00FDm stropem. Z\u00E1kladn\u00ED struktura m\u00EDstnosti p\u0159ipom\u00EDn\u00E1 n\u00E1m\u011Bst\u00ED s budovami okolo. Mezi m\u00EDstnosti v t\u011Bchto budov\u00E1ch pat\u0159\u00ED: [St\u00E1je](mi_staj), [Builder \u010Depi\u010Dka](mi_builder_cepicka), [Lokace](mi_lokace), [Spy](mi_spy) nebo [Kabina](mi_kabina). Z n\u00E1m\u011Bst\u00ED tak\u00E9 vede \u010Dtve\u0159ice schodi\u0161\u0165 (3 dol\u016F a 1 nahoru). Mezi n\u011B pat\u0159\u00ED [Schodi\u0161t\u011B TT](mi_schodiste_tt) vedouc\u00ED do [Bytu chud\u00E1ka, kterej nem\u00E1 r\u00E1d klub](mi_byt_chudaka_kterej_nema_rad_kluby), [Schodi\u0161t\u011B AA](mi_schodiste_aa) na [Alej](mi_alej), schody do [Schwarzenegger Housu](mi_schwarzenegger_house) a schody nahoru na [Spojnici](mi_spojnice). Cel\u00E9 n\u00E1m\u011Bst\u00ED je velmi prostorn\u00E9 se stropem o v\u00FD\u0161ce 10 blok\u016F a proch\u00E1z\u00ED jim odno\u017E [D\u00E1lni\u010Dn\u00EDho pil\u00ED\u0159e](mi_dalnicni_pilir). V\u00FD\u0161ka stropu v ostatn\u00EDch \u010D\u00E1stech Airshipu m\u016F\u017Ee klesnout a\u017E na pouh\u00FDch 2.5 bloku.\r\nNa ji\u017En\u00EDm konci Airshipu je men\u0161\u00ED m\u00EDstn\u016Fstka z n\u00ED\u017E vedou dve\u0159e na konec [Chodby](mi_chodba) a schody do [Kr\u00E1lovsk\u00E9ho abonm\u00E1](mi_kralovske_abonma). P\u0159i vstupu do t\u00E9to m\u00EDstn\u016Fstky z n\u00E1m\u011Bst\u00ED se proch\u00E1z\u00ED kolem dvojici dvojit\u00FDch dve\u0159\u00ED na [Chodbu](mi_chodba). D\u0159\u00EDve zde byly dve\u0159e t\u0159i, ale jedny byly nahrazeny za pr\u016Fjezd [Mraven\u010D\u00ED Dr\u00E1hy](te_mravenci_draha).\r\nNa severn\u00ED stran\u011B Airshipu je krom\u011B [Schodi\u0161t\u011B AA](mi_schodiste_aa) vstup do [Parsley Attic](mi_parsley_attic) a men\u0161\u00ED chodba o \u0161\u00ED\u0159ce 1.8 bloku s dve\u0159mi na [The Terrass](mi_the_terrass) a na [Detour](mi_the_detour)."
+        "Content": "The Airship je nejv\u011Bt\u0161\u00ED m\u00EDstnost\u00ED ve stejnojmenn\u00E9m bloku a okrsku. Jedn\u00E1 se o \u010D\u00E1ste\u010Dn\u011B otev\u0159enou m\u00EDstnost s velmi vysok\u00FDm stropem. Z\u00E1kladn\u00ED struktura m\u00EDstnosti p\u0159ipom\u00EDn\u00E1 n\u00E1m\u011Bst\u00ED s budovami okolo. Mezi m\u00EDstnosti v t\u011Bchto budov\u00E1ch pat\u0159\u00ED: [St\u00E1je](mi_staj), [Builder \u010Depi\u010Dka](mi_builder_cepicka), [Lokace](mi_lokace), [Spy](mi_spy) nebo [Kabina](mi_kabina). Z n\u00E1m\u011Bst\u00ED tak\u00E9 vede \u010Dtve\u0159ice schodi\u0161\u0165 (3 dol\u016F a 1 nahoru). Mezi n\u011B pat\u0159\u00ED [Schodi\u0161t\u011B TT](mi_schodiste_tt) vedouc\u00ED do [Bytu chud\u00E1ka, kterej nem\u00E1 r\u00E1d klub](mi_byt_chudaka_kterej_nema_rad_kluby), [Schodi\u0161t\u011B AA](mi_schodiste_aa) na [Alej](mi_alej), schody do [Schwarzenegger Housu](mi_schwarzenegger_house) a schody nahoru na [Spojnici](mi_spojnice). Cel\u00E9 n\u00E1m\u011Bst\u00ED je velmi prostorn\u00E9 se stropem o v\u00FD\u0161ce 10 blok\u016F a proch\u00E1z\u00ED jim odno\u017E [D\u00E1lni\u010Dn\u00EDho pil\u00ED\u0159e](mi_dalnicni_pilir). V\u00FD\u0161ka stropu v ostatn\u00EDch \u010D\u00E1stech Airshipu m\u016F\u017Ee klesnout a\u017E na pouh\u00FDch 2.5 bloku.\r\nNa ji\u017En\u00EDm konci Airshipu je men\u0161\u00ED m\u00EDstn\u016Fstka z n\u00ED\u017E vedou dve\u0159e na konec [Chodby](mi_chodba) a schody do [Kr\u00E1lovsk\u00E9ho abonm\u00E1](mi_kralovske_abonma). P\u0159i vstupu do t\u00E9to m\u00EDstn\u016Fstky z n\u00E1m\u011Bst\u00ED se proch\u00E1z\u00ED kolem dvojici dvojit\u00FDch dve\u0159\u00ED na [Chodbu](mi_chodba). D\u0159\u00EDve zde byly dve\u0159e t\u0159i, ale jedny byly nahrazeny za pr\u016Fjezd [Mraven\u010D\u00ED Dr\u00E1hy](te_mravenci_draha).\r\nNa severn\u00ED stran\u011B Airshipu je krom\u011B [Schodi\u0161t\u011B AA](mi_schodiste_aa) vstup do [Parsley Attic](mi_parsley_attic) a men\u0161\u00ED chodba o \u0161\u00ED\u0159ce 1.8 bloku s dve\u0159mi na [Terasu](mi_terasa) a na [Detour](mi_the_detour)."
       },
       {
         "Title": "N\u00E1zev",
@@ -2372,7 +2314,7 @@
     "Sections": [
       {
         "Title": "P\u0159ehled",
-        "Content": "The Airship je blok ve [stejnojmenn\u00E9m okrsku](ok_the_airship). Cel\u00FD blok je tvo\u0159en deseti m\u00EDstnostmi a v\u0161echny krom\u011B [Kabiny](mi_kabina) a [D\u00E1lni\u010Dn\u00EDho p\u0159echodu](mi_dalnicni_prechod) p\u0159\u00EDmo soused\u00ED s [Airshipem](mi_the_airship). Dominantou cel\u00E9ho bloko je n\u00E1m\u011Bst\u00ED v m\u00EDstnosti [Airship](mi_the_airship) kolem, kter\u00E9ho jsou postaveny ve\u0161ker\u00E9 ostatn\u00ED m\u00EDstnosti v bloku. Ve sm\u011Bru hodinov\u00FDch ru\u010Di\u010Dek se jedn\u00E1 o: [St\u00E1j](mi_staj), [Builder \u010Depi\u010Dka](mi_builder_cepicka), [Lokace](mi_lokace), [The Terrass](mi_the_terrass), \u010D\u00E1st [D\u00E1lni\u010Dn\u00EDho pil\u00ED\u0159e](mi_dalnicni_pilir), \u010D\u00E1st [Spojnice](mi_spojnice), [Chodba](mi_chodba). V bloku se tak\u00E9 nach\u00E1zej\u00ED dv\u011B u\u017Eite\u010Dn\u00E9 m\u00EDstnosti a to [St\u00E1j](mi_staj), kde je sklad brn\u011Bn\u00ED na kon\u011B a vod\u00EDtek, a [Lokace](mi_lokace), kde jsou barely ur\u010Den\u00E9 na itemy bez ur\u010Den\u00E9ho m\u00EDsta.\r\n[Kabina](mi_kabina) je m\u00EDstnost soused\u00EDc\u00ED se [Spojnic\u00ED](mi_spojnice) a [D\u00E1lni\u010Dn\u00ED P\u0159echod](mi_dalnicni_prechod) p\u0159\u00EDmo soused\u00ED s \u010D\u00E1st\u00ED [D\u00E1lni\u010Dn\u00EDho Pil\u00ED\u0159e](mi_dalnicni_pilir) v bloku.\r\nBlok soused\u00ED s velk\u00FDm po\u010Dtem jin\u00FDch blok\u016F d\u00EDky sv\u00E9 velikosti. Mezi n\u011B pat\u0159\u00ED: [Doup\u011B](bl_doupe), [P\u0159\u00EDkop](bl_prikop), [L\u00E1zn\u011B Panoraama](bl_lazne_panoraama), [Barvy](bl_barvy), [Pod Masou](bl_pod_masou), [Mal\u00FD Pil\u00ED\u0159](bl_maly_pilir), [Katakomby](bl_katakomby), [Beta](bl_beta) a nakonec [Spojnice](bl_spojnice)."
+        "Content": "The Airship je blok ve [stejnojmenn\u00E9m okrsku](ok_the_airship). Cel\u00FD blok je tvo\u0159en deseti m\u00EDstnostmi a v\u0161echny krom\u011B [Kabiny](mi_kabina) a [D\u00E1lni\u010Dn\u00EDho p\u0159echodu](mi_dalnicni_prechod) p\u0159\u00EDmo soused\u00ED s [Airshipem](mi_the_airship). Dominantou cel\u00E9ho bloko je n\u00E1m\u011Bst\u00ED v m\u00EDstnosti [Airship](mi_the_airship) kolem, kter\u00E9ho jsou postaveny ve\u0161ker\u00E9 ostatn\u00ED m\u00EDstnosti v bloku. Ve sm\u011Bru hodinov\u00FDch ru\u010Di\u010Dek se jedn\u00E1 o: [St\u00E1j](mi_staj), [Builder \u010Depi\u010Dka](mi_builder_cepicka), [Lokace](mi_lokace), [Terasa](mi_terasa), \u010D\u00E1st [D\u00E1lni\u010Dn\u00EDho pil\u00ED\u0159e](mi_dalnicni_pilir), \u010D\u00E1st [Spojnice](mi_spojnice), [Chodba](mi_chodba). V bloku se tak\u00E9 nach\u00E1zej\u00ED dv\u011B u\u017Eite\u010Dn\u00E9 m\u00EDstnosti a to [St\u00E1j](mi_staj), kde je sklad brn\u011Bn\u00ED na kon\u011B a vod\u00EDtek, a [Lokace](mi_lokace), kde jsou barely ur\u010Den\u00E9 na itemy bez ur\u010Den\u00E9ho m\u00EDsta.\r\n[Kabina](mi_kabina) je m\u00EDstnost soused\u00EDc\u00ED se [Spojnic\u00ED](mi_spojnice) a [D\u00E1lni\u010Dn\u00ED P\u0159echod](mi_dalnicni_prechod) p\u0159\u00EDmo soused\u00ED s \u010D\u00E1st\u00ED [D\u00E1lni\u010Dn\u00EDho Pil\u00ED\u0159e](mi_dalnicni_pilir) v bloku.\r\nBlok soused\u00ED s velk\u00FDm po\u010Dtem jin\u00FDch blok\u016F d\u00EDky sv\u00E9 velikosti. Mezi n\u011B pat\u0159\u00ED: [Doup\u011B](bl_doupe), [P\u0159\u00EDkop](bl_prikop), [L\u00E1zn\u011B Panoraama](bl_lazne_panoraama), [Barvy](bl_barvy), [Pod Masou](bl_pod_masou), [Mal\u00FD Pil\u00ED\u0159](bl_maly_pilir), [Katakomby](bl_katakomby), [Beta](bl_beta) a nakonec [Spojnice](bl_spojnice)."
       },
       {
         "Title": "N\u00E1zev",
@@ -2970,7 +2912,7 @@
     "Sections": [
       {
         "Title": "P\u0159ehled",
-        "Content": "Silo je m\u00EDstnost ve stejnojmenn\u00E9m [bloku](bl_silo) a [okrsku](ok_silo). Jedn\u00E1 se o [stromovou v\u011B\u017E](ka_stromove_veze) tvo\u0159enou dv\u011Bmi hlavn\u00EDmi podla\u017E\u00EDmi a \u0161esti ochozy. Ka\u017Ed\u00FD z ochoz\u016F (krom\u011B dvou) p\u0159esn\u011B kop\u00EDruje obrys v\u011B\u017Ee a dv\u011B hlavn\u00ED podla\u017E\u00ED se nach\u00E1z\u00ED \u00FApln\u011B dole a \u00FApln\u011B naho\u0159e Sila.\r\nNi\u017E\u0161\u00ED hlavn\u00ED podla\u017E\u00ED je m\u00EDsto, kde roste strom. Nach\u00E1z\u00ED se zde trojice barel\u016F na uskladn\u011Bn\u00ED vy\u011B\u017Een\u00E9ho d\u0159eva, smrkov\u00FDch sazenic, seker a kostn\u00ED mou\u010Dky na urychlen\u00ED r\u016Fstu. Na toto podla\u017E\u00ED vedou \u010Dty\u0159i vstupy. Dve\u0159mi se sem d\u00E1 dostat z [D\u00EDry do Pekel](mi_dira_do_pekel) a z [Dvoj\u010Dat](mi_dvojcata) a voln\u00FDm vstupy z [Podchodu](mi_podchod). Taky je zde za\u010D\u00E1tek \u017Eeb\u0159\u00EDku do nejvy\u0161\u0161\u00EDch prostor Sila a n\u00E1stup do v\u00FDtahu [Sil\u00E1k](mi_silak). Je\u0161t\u011B p\u0159ed prvn\u00EDm ochozem hned u \u017Eeb\u0159\u00EDku vedou do sila dal\u0161\u00ED dve\u0159e z [Hlavn\u00ED T\u0159\u00EDdy](mi_hlavni_trida).\r\nPrvn\u00ED ochoz je ve v\u00FD\u0161ce 9.5 bloku nad podlahou Sila a je propojen s kolemvedouc\u00ED [D\u00E1lnic\u00ED](mi_dalnice). Krom\u011B d\u00E1lnice na n\u011Bj vedou dve\u0159e z [Bridge](mi_the_bridge). Tento ochoz je pouze \u010D\u00E1ste\u010Dn\u00FD, nebo\u0165 nevede kolem cel\u00E9ho obvodu Sila. O 2.5 bloku v\u00FD\u0161e je druh\u00FD \u010D\u00E1ste\u010Dn\u00FD ochoz s vchodem z [Klubu](mi_klub).\r\nPrvn\u00EDm dvojice skute\u010Dn\u00FDch ochoz\u016F je jen 2.5 bloku od sebe. Na nich se nach\u00E1z\u00ED trojice dve\u0159\u00ED vedouc\u00EDch z [Crossingu](mi_the_crossing), [ulice Schodov\u00E9](mi_ulice_schodova) a [Dobr\u00E9 Vody](mi_dobra_voda). Z p\u0159edposledn\u00EDho ochozu vedou dve\u0159e na [nejmenovan\u00E9 n\u00E1m\u011Bst\u00ED\u010Dko](mi_namesticko) a z ochozu nejv\u00FD\u0161e nad zem\u00ED se d\u00E1 dostat do [Parsley Attic](mi_parsley_attic), na [Detour](mi_the_detour), na [Terasu](mi_the_terrass) a [D\u00E1lni\u010Dn\u00ED Pil\u00ED\u0159](mi_dalnicni_pilir)."
+        "Content": "Silo je m\u00EDstnost ve stejnojmenn\u00E9m [bloku](bl_silo) a [okrsku](ok_silo). Jedn\u00E1 se o [stromovou v\u011B\u017E](ka_stromove_veze) tvo\u0159enou dv\u011Bmi hlavn\u00EDmi podla\u017E\u00EDmi a \u0161esti ochozy. Ka\u017Ed\u00FD z ochoz\u016F (krom\u011B dvou) p\u0159esn\u011B kop\u00EDruje obrys v\u011B\u017Ee a dv\u011B hlavn\u00ED podla\u017E\u00ED se nach\u00E1z\u00ED \u00FApln\u011B dole a \u00FApln\u011B naho\u0159e Sila.\r\nNi\u017E\u0161\u00ED hlavn\u00ED podla\u017E\u00ED je m\u00EDsto, kde roste strom. Nach\u00E1z\u00ED se zde trojice barel\u016F na uskladn\u011Bn\u00ED vy\u011B\u017Een\u00E9ho d\u0159eva, smrkov\u00FDch sazenic, seker a kostn\u00ED mou\u010Dky na urychlen\u00ED r\u016Fstu. Na toto podla\u017E\u00ED vedou \u010Dty\u0159i vstupy. Dve\u0159mi se sem d\u00E1 dostat z [D\u00EDry do Pekel](mi_dira_do_pekel) a z [Dvoj\u010Dat](mi_dvojcata) a voln\u00FDm vstupy z [Podchodu](mi_podchod). Taky je zde za\u010D\u00E1tek \u017Eeb\u0159\u00EDku do nejvy\u0161\u0161\u00EDch prostor Sila a n\u00E1stup do v\u00FDtahu [Sil\u00E1k](mi_silak). Je\u0161t\u011B p\u0159ed prvn\u00EDm ochozem hned u \u017Eeb\u0159\u00EDku vedou do sila dal\u0161\u00ED dve\u0159e z [Hlavn\u00ED T\u0159\u00EDdy](mi_hlavni_trida).\r\nPrvn\u00ED ochoz je ve v\u00FD\u0161ce 9.5 bloku nad podlahou Sila a je propojen s kolemvedouc\u00ED [D\u00E1lnic\u00ED](mi_dalnice). Krom\u011B d\u00E1lnice na n\u011Bj vedou dve\u0159e z [Bridge](mi_the_bridge). Tento ochoz je pouze \u010D\u00E1ste\u010Dn\u00FD, nebo\u0165 nevede kolem cel\u00E9ho obvodu Sila. O 2.5 bloku v\u00FD\u0161e je druh\u00FD \u010D\u00E1ste\u010Dn\u00FD ochoz s vchodem z [Klubu](mi_klub).\r\nPrvn\u00EDm dvojice skute\u010Dn\u00FDch ochoz\u016F je jen 2.5 bloku od sebe. Na nich se nach\u00E1z\u00ED trojice dve\u0159\u00ED vedouc\u00EDch z [Crossingu](mi_the_crossing), [ulice Schodov\u00E9](mi_ulice_schodova) a [Dobr\u00E9 Vody](mi_dobra_voda). Z p\u0159edposledn\u00EDho ochozu vedou dve\u0159e na [nejmenovan\u00E9 n\u00E1m\u011Bst\u00ED\u010Dko](mi_namesticko) a z ochozu nejv\u00FD\u0161e nad zem\u00ED se d\u00E1 dostat do [Parsley Attic](mi_parsley_attic), na [Detour](mi_the_detour), na [Terasu](mi_terasa) a [D\u00E1lni\u010Dn\u00ED Pil\u00ED\u0159](mi_dalnicni_pilir)."
       },
       {
         "Title": "N\u00E1zev",
@@ -9893,7 +9835,7 @@
     "Bordering_rooms": [
       "mi_parsley_attic",
       "mi_namesticko",
-      "mi_the_terrass",
+      "mi_terasa",
       "mi_dalnicni_prechod",
       "mi_katakomby",
       "mi_the_airship",
@@ -47402,6 +47344,69 @@
       "Bed",
       "Bar",
       "Com"
+    ]
+  },
+  "mi_terasa": {
+    "Title": "Terasa",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [
+      "THE TERRASS",
+      "POHLED DOL\u016E NA BEETROOT FARMU"
+    ],
+    "Bordering_rooms": [
+      "mi_the_airship",
+      "mi_the_detour",
+      "mi_parsley_attic"
+    ],
+    "Alternate_names": [
+      "Terasa",
+      "The Terrass"
+    ],
+    "Metadata": {
+      "N\u00E1zev": "Terasa",
+      "Blok": "[The Airship](bl_the_airship)",
+      "Okrsek": "[The Airship](ok_the_airship)",
+      "\u010Ctvr\u0165": "[Kmen](ct_kmen)",
+      "\u010C\u00E1st": "[Pa\u0159ez](ca_parez)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "Terasa d\u0159\u00EDve The Terrass je \u010Dtvercov\u00E1 m\u00EDstnost na samotn\u00E9m severn\u00EDm konci [Airshipu](bl_the_airship). Podlaha v m\u00EDstnosti je na t\u0159ech v\u00FD\u0161kov\u00FDch \u00FArovn\u00EDch a p\u0159ipom\u00EDn\u00E1 schodi\u0161t\u011B jdouc\u00ED z v\u00FDchodu na z\u00E1pad. Na nejni\u017E\u0161\u00ED \u00FArovni jsou dve\u0159e na [Airship](mi_the_airship) a na \u00FArovni nejvy\u0161\u0161\u00ED vstup do [Parsley Attic](mi_parsley_attic) a na [Detour](mi_the_detour).\r\nPodlaha m\u00EDstnosti je z velk\u00E9 \u010D\u00E1sti skl\u011Bn\u011Bn\u00E1 a nab\u00EDz\u00ED pohled na [Beetroot farmu](mi_beetroot_farma) a [Ru\u010F\u00E1k\u016Fv d\u016Fm](mi_rudakuv_dum) pod n\u00ED."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "D\u0159\u00EDve se jednalo o m\u00EDstnost, kter\u00E1 vy\u010Dn\u00EDvala ze st\u011Bny cel\u00E9ho domu. M\u00EDstnost napodobuje jm\u00E9nem m\u00EDstnosti jako [The Airship](mi_the_airship), [The Crossing](mi_the_crossing) \u010Di [The Bridge](mi_the_bridge). Pozd\u011Bji byl n\u00E1zev m\u00EDstnosti po\u010De\u0161t\u011Bn na \u0022Terasa\u0022."
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "V interi\u00E9ru Terasy se nach\u00E1z\u00ED sv\u011Btle modr\u00E1 postel. Na v\u0161ech st\u011Bn\u00E1ch krom stropu a v\u00FDchodn\u00ED st\u011Bny jsou velk\u00E1 okna s v\u00FDhledem do vedlej\u0161\u00EDch m\u00EDstnosti, je\u017E jsou poz\u016Fstatkem p\u016Fvodn\u00EDho \u00FA\u010Delu m\u00EDstnosti.  Na v\u00FDchodn\u00ED st\u011Bn\u011B je jen jedno mal\u00E9 \u010Dtvercov\u00E9 okno.\r\nJen nejn\u00ED\u017Ee polo\u017Een\u00E1 \u010D\u00E1st schodovit\u00E9 podlahy nen\u00ED tvo\u0159ena sklem."
+      },
+      {
+        "Title": "Zaj\u00EDmavosti",
+        "Content": "Podlaha m\u00EDstnosti je postavena ze 40 sklen\u011Bn\u00FDch blok\u016F co\u017E znamen\u00E1, \u017Ee 58% podlahy je tvo\u0159eno sklem.\r\nP\u0159ed v\u00FDstavbou [Beetroot farmy](mi_beetroot_farma) byla The Terrass postavena nad mo\u0159em.\r\nThe Terrass nen\u00ED spr\u00E1vn\u00FDm anglick\u00FDm slovem. Anglicky \u0022terasa\u0022 je \u0022terrace\u0022."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "22/09/25: P\u0159ejmenov\u00E1no z The Terrass na Terasa."
+      }
+    ],
+    "image_id": 0,
+    "area": 69,
+    "Empty": false,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 296,
+      "y": 92,
+      "z": 1125
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": [
+      "Bed"
     ]
   }
 }

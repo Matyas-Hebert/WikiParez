@@ -1,5 +1,5 @@
 {
-  "version": "2.0.5",
+  "version": "2.0.6",
   "mi_agama": {
     "Title": "Agama",
     "Bordering_rooms": [
@@ -6644,7 +6644,7 @@
     "Title": "Parsley Attic",
     "Bordering_rooms": [
       "mi_the_airship",
-      "mi_the_terrass",
+      "mi_terasa",
       "mi_the_detour",
       "mi_pod_masou",
       "mi_beetroot_farma"
@@ -7312,7 +7312,7 @@
     "Cast": "Pařez",
     "PatternleCompatible": true,
     "IsHighway": false,
-    "IsPseudo": false,
+    "IsPseudo": true,
     "Coordinates": {
       "x": 323,
       "y": 80,
@@ -9875,6 +9875,26 @@
       "z": 1063
     }
   },
+  "mi_terasa": {
+    "Title": "Terasa",
+    "Bordering_rooms": [
+      "mi_the_airship",
+      "mi_the_detour",
+      "mi_parsley_attic"
+    ],
+    "Blok": "The Airship",
+    "Okrsek": "The Airship",
+    "Ctvrt": "Kmen",
+    "Cast": "Pařez",
+    "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
+    "Coordinates": {
+      "x": 296,
+      "y": 92,
+      "z": 1125
+    }
+  },
   "mi_teraska": {
     "Title": "Teráska",
     "Bordering_rooms": [
@@ -9906,7 +9926,7 @@
       "mi_lokace",
       "mi_schodiste_tt",
       "mi_parsley_attic",
-      "mi_the_terrass",
+      "mi_terasa",
       "mi_the_detour",
       "mi_dalnicni_pilir",
       "mi_kazeta",
@@ -10016,7 +10036,7 @@
     "Bordering_rooms": [
       "mi_parsley_attic",
       "mi_namesticko",
-      "mi_the_terrass",
+      "mi_terasa",
       "mi_dalnicni_prechod",
       "mi_katakomby",
       "mi_the_airship",
@@ -10077,26 +10097,6 @@
       "x": 339,
       "y": 99,
       "z": 1132
-    }
-  },
-  "mi_the_terrass": {
-    "Title": "The Terrass",
-    "Bordering_rooms": [
-      "mi_the_airship",
-      "mi_the_detour",
-      "mi_parsley_attic"
-    ],
-    "Blok": "The Airship",
-    "Okrsek": "The Airship",
-    "Ctvrt": "Kmen",
-    "Cast": "Pařez",
-    "PatternleCompatible": true,
-    "IsHighway": false,
-    "IsPseudo": false,
-    "Coordinates": {
-      "x": 296,
-      "y": 92,
-      "z": 1125
     }
   },
   "mi_tkanicka": {
