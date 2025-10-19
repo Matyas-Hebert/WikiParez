@@ -15015,7 +15015,8 @@
       "mi_sobota",
       "mi_rybarna",
       "mi_po_hlave_dolu",
-      "mi_dvojcata"
+      "mi_dvojcata",
+      "mi_uv"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -15045,7 +15046,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "22/06/25: Nov\u00E9 schodi\u0161t\u011B spojuj\u00EDc\u00ED D\u00E1lnici s [Hr\u00E1z\u00ED](mi_hraz).\r\n22/06/25: \u017Deb\u0159\u00EDk z oce\u00E1nu.\r\n03/07/25: Od m\u00EDstnosti se odd\u011Blila \u010D\u00E1st. Nov\u00E1 m\u00EDstnost se jmenuje [Pramice](mi_pramice).\r\n07/07/25: V\u00FDtah na [D\u00E1lni\u010Dn\u00ED Pil\u00ED\u0159](mi_dalnicni_pilir) vede i [Pod Vrbu](mi_pod_vrbou).\r\n07/07/25: P\u0159\u00EDstup do [Ryb\u00E1rny](mi_rybarna).\r\n07/07/25: Nov\u00E9 schodi\u0161t\u011B vedouc\u00ED z D\u00E1lnice: [Po Hlav\u011B Dol\u016F](mi_po_hlave_dolu).\r\n12/07/25: Nov\u00FD vchod do [Dvoj\u010Dat](mi_dvojcata)."
+        "Content": "22/06/25: Nov\u00E9 schodi\u0161t\u011B spojuj\u00EDc\u00ED D\u00E1lnici s [Hr\u00E1z\u00ED](mi_hraz).\r\n22/06/25: \u017Deb\u0159\u00EDk z oce\u00E1nu.\r\n03/07/25: Od m\u00EDstnosti se odd\u011Blila \u010D\u00E1st. Nov\u00E1 m\u00EDstnost se jmenuje [Pramice](mi_pramice).\r\n07/07/25: V\u00FDtah na [D\u00E1lni\u010Dn\u00ED Pil\u00ED\u0159](mi_dalnicni_pilir) vede i [Pod Vrbu](mi_pod_vrbou).\r\n07/07/25: P\u0159\u00EDstup do [Ryb\u00E1rny](mi_rybarna).\r\n07/07/25: Nov\u00E9 schodi\u0161t\u011B vedouc\u00ED z D\u00E1lnice: [Po Hlav\u011B Dol\u016F](mi_po_hlave_dolu).\r\n12/07/25: Nov\u00FD vchod do [Dvoj\u010Dat](mi_dvojcata).\n19/10/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [UV](mi_uv)."
       }
     ],
     "image_id": 0,
@@ -16594,7 +16595,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "27/07/25: M\u00EDstnost napojena na syst\u00E9m odpadn\u00EDch rour [ORP](sp_orp)."
+        "Content": "27/07/25: M\u00EDstnost napojena na syst\u00E9m odpadn\u00EDch rour [ORP](sp_orp).\r\n19/10/25: Nezda\u0159en\u00FD pokus o zaveden\u00ED automatick\u00E9ho kraft\u011Bn\u00ED \u017Eelezn\u00FDch blok\u016F. Poz\u016Fstatkem je st\u011Bna z shelf\u016F/vertical slab\u016F."
       }
     ],
     "image_id": 0,
@@ -18463,11 +18464,11 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "29/07/25: Opravena chyba. Plac soused\u00ED se [Sklen\u00EDkem Z\u00E1pad](mi_sklenik_zapad)."
+        "Content": "29/07/25: Opravena chyba. Plac soused\u00ED se [Sklen\u00EDkem Z\u00E1pad](mi_sklenik_zapad).\r\n19/10/25: M\u00EDstnost zv\u011Bt\u0161ena o 6 blok\u016F."
       }
     ],
     "image_id": 0,
-    "area": 282,
+    "area": 288,
     "Empty": true,
     "numberOfRooms": 0,
     "coordinates": {
@@ -20410,7 +20411,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "07/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Lod\u011Bnice](mi_lodenice)."
+        "Content": "07/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Lod\u011Bnice](mi_lodenice).\r\n19/10/25: Audit byl asi tak po p\u016Fl stolet\u00ED zast\u0159e\u0161en."
       }
     ],
     "image_id": 0,
@@ -29717,7 +29718,9 @@
       "mi_pod_vrbou",
       "mi_u_vrby",
       "mi_josef",
-      "mi_dalnice"
+      "mi_dalnice",
+      "mi_mechenice",
+      "mi_uv"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -29743,6 +29746,10 @@
       {
         "Title": "Zaj\u00EDmavost",
         "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "19/10/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [M\u011Bchenice](mi_mechenice).\n19/10/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [UV](mi_uv)."
       }
     ],
     "image_id": 0,
@@ -36718,7 +36725,8 @@
       "mi_atrium",
       "mi_dalnice",
       "mi_plac",
-      "mi_predel"
+      "mi_predel",
+      "mi_zarizeni"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -36748,7 +36756,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "24/07/25: M\u00EDstnost\u00ED proch\u00E1z\u00ED [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha).\r\n29/07/25: Opravena chyba. Sklen\u00EDk z\u00E1pad soused\u00ED s [Placem](mi_plac)."
+        "Content": "24/07/25: M\u00EDstnost\u00ED proch\u00E1z\u00ED [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha).\r\n29/07/25: Opravena chyba. Sklen\u00EDk z\u00E1pad soused\u00ED s [Placem](mi_plac).\n19/10/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Za\u0159\u00EDzen\u00ED](mi_zarizeni)."
       }
     ],
     "image_id": 0,
@@ -36762,7 +36770,7 @@
     },
     "patternleCompatible": true,
     "redirect": null,
-    "tobeedited": false,
+    "tobeedited": true,
     "reviews": [],
     "utilities": [
       "Cra"
@@ -44048,7 +44056,9 @@
       "mi_garaz",
       "mi_privoz",
       "mi_sklep",
-      "mi_slouporadi"
+      "mi_slouporadi",
+      "mi_mechenice",
+      "mi_zarizeni"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -44077,11 +44087,11 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "07/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Sklep](mi_sklep).\n13/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Sloupo\u0159ad\u00ED](mi_slouporadi)."
+        "Content": "07/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Sklep](mi_sklep).\r\n13/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Sloupo\u0159ad\u00ED](mi_slouporadi).\r\n19/10/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [M\u011Bchenice](mi_mechenice).\r\n19/10/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Za\u0159\u00EDzen\u00ED](mi_zarizeni). D\u00EDky n\u011Bmu byla plocha m\u00EDstnosti zv\u011Bt\u0161ena o 8.\r\n19/10/25: Na jedn\u00E9 stran\u011B byly vyu\u017Eity nov\u00E9 \u0022vertical slaby\u0022 jako z\u00E1bradl\u00ED."
       }
     ],
     "image_id": 0,
-    "area": 127,
+    "area": 135,
     "Empty": true,
     "numberOfRooms": 0,
     "coordinates": {
@@ -44155,7 +44165,8 @@
     "Image_titles": [],
     "Bordering_rooms": [
       "mi_le_pont",
-      "mi_piskovna"
+      "mi_piskovna",
+      "mi_zarizeni"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -44181,6 +44192,10 @@
       {
         "Title": "Zaj\u00EDmavost",
         "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "19/10/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Za\u0159\u00EDzen\u00ED](mi_zarizeni)."
       }
     ],
     "image_id": 0,
@@ -47408,5 +47423,210 @@
     "utilities": [
       "Bed"
     ]
-  }
+  },
+  "mi_mechenice": {
+    "Title": "M\u011Bchenice",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_piskovna",
+      "mi_zarizeni",
+      "mi_po_hlave_dolu"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "M\u011Bchenice",
+      "Blok": "[Plov\u00E1rna](bl_plovarna)",
+      "Okrsek": "[Gideon](ok_gideon)",
+      "\u010Ctvr\u0165": "[Gideon](ct_gideon)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 92,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 338,
+      "y": 76,
+      "z": 1086
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": [
+      "Cra",
+      "Bed"
+    ]
+  },
+  "mi_zarizeni": {
+    "Title": "Za\u0159\u00EDzen\u00ED",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_piskovna",
+      "mi_privoz",
+      "mi_sklenik_zapad",
+      "mi_uv",
+      "mi_mechenice"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Za\u0159\u00EDzen\u00ED",
+      "Blok": "[Plov\u00E1rna](bl_plovarna)",
+      "Okrsek": "[Gideon](ok_gideon)",
+      "\u010Ctvr\u0165": "[Gideon](ct_gideon)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 98,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": [
+      "Bed",
+      "Cra"
+    ]
+  },
+  "mi_uv": {
+    "Title": "UV",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_dalnice",
+      "mi_zarizeni",
+      "mi_po_hlave_dolu"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "UV",
+      "Blok": "[Plov\u00E1rna](bl_plovarna)",
+      "Okrsek": "[Gideon](ok_gideon)",
+      "\u010Ctvr\u0165": "[Gideon](ct_gideon)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 37,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 346,
+      "y": 76,
+      "z": 1090
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": [
+      "Cra"
+    ]
+  },
+  "bl_plovarna": {
+            "Title": "Plovárna",
+            "Type": "blok",
+            "Images": [],
+            "Image_titles": [],
+            "Bordering_rooms": [],
+            "Alternate_names": [],
+            "Metadata": {
+                "Název": "Plovárna",
+                "Okrsek": "[Gideon](ok_gideon)",
+                "Čtvrť": "[Gideon](ct_gideon)",
+                "Část": "[Nové Dilí](ca_nove_dili)"
+            },
+            "Sections": [
+                {
+                    "Title": "Přehled",
+                    "Content": ""
+                },
+                {
+                    "Title": "Název",
+                    "Content": ""
+                },
+                {
+                    "Title": "Interiér",
+                    "Content": ""
+                },
+                {
+                    "Title": "Zajímavosti",
+                    "Content": ""
+                },
+                {
+                    "Title": "Aktuality",
+                    "Content": ""
+                }
+            ],
+            "image_id": 0,
+            "area": 0,
+            "Empty": true,
+            "numberOfRooms": 0,
+            "redirect": null,
+            "tobeedited": false
+            }
 }

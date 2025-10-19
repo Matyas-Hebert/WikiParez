@@ -1,5 +1,5 @@
 {
-  "version": "2.0.7",
+  "version": "2.1",
   "mi_agama": {
     "Title": "Agama",
     "Bordering_rooms": [
@@ -1328,7 +1328,8 @@
       "mi_sobota",
       "mi_rybarna",
       "mi_po_hlave_dolu",
-      "mi_dvojcata"
+      "mi_dvojcata",
+      "mi_uv"
     ],
     "Blok": "Akvadukt",
     "Okrsek": "Lednice",
@@ -5143,6 +5144,26 @@
       "z": 0
     }
   },
+  "mi_mechenice": {
+    "Title": "Měchenice",
+    "Bordering_rooms": [
+      "mi_piskovna",
+      "mi_zarizeni",
+      "mi_po_hlave_dolu"
+    ],
+    "Blok": "Plovárna",
+    "Okrsek": "Gideon",
+    "Ctvrt": "Gideon",
+    "Cast": "Nové Dilí",
+    "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
+    "Coordinates": {
+      "x": 338,
+      "y": 76,
+      "z": 1086
+    }
+  },
   "mi_meda": {
     "Title": "Méďa",
     "Bordering_rooms": [
@@ -6887,7 +6908,9 @@
       "mi_garaz",
       "mi_privoz",
       "mi_sklep",
-      "mi_slouporadi"
+      "mi_slouporadi",
+      "mi_mechenice",
+      "mi_zarizeni"
     ],
     "Blok": "Pískovna",
     "Okrsek": "Pískovna",
@@ -7032,7 +7055,9 @@
       "mi_pod_vrbou",
       "mi_u_vrby",
       "mi_josef",
-      "mi_dalnice"
+      "mi_dalnice",
+      "mi_mechenice",
+      "mi_uv"
     ],
     "Blok": "Suchánek",
     "Okrsek": "Mutěnické Rybníky",
@@ -7690,7 +7715,8 @@
     "Title": "Přívoz",
     "Bordering_rooms": [
       "mi_le_pont",
-      "mi_piskovna"
+      "mi_piskovna",
+      "mi_zarizeni"
     ],
     "Blok": "Pískovna",
     "Okrsek": "Pískovna",
@@ -8784,7 +8810,8 @@
       "mi_atrium",
       "mi_dalnice",
       "mi_plac",
-      "mi_predel"
+      "mi_predel",
+      "mi_zarizeni"
     ],
     "Blok": "Skleník",
     "Okrsek": "Skleník",
@@ -10650,6 +10677,26 @@
       "z": 1124
     }
   },
+  "mi_uv": {
+    "Title": "UV",
+    "Bordering_rooms": [
+      "mi_dalnice",
+      "mi_zarizeni",
+      "mi_po_hlave_dolu"
+    ],
+    "Blok": "Plovárna",
+    "Okrsek": "Gideon",
+    "Ctvrt": "Gideon",
+    "Cast": "Nové Dilí",
+    "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
+    "Coordinates": {
+      "x": 346,
+      "y": 76,
+      "z": 1090
+    }
+  },
   "mi_v_vez_1_podlazi": {
     "Title": "V-Věž 1. podlaží",
     "Bordering_rooms": [
@@ -11674,6 +11721,28 @@
       "x": 299,
       "y": 110,
       "z": 1137
+    }
+  },
+  "mi_zarizeni": {
+    "Title": "Zařízení",
+    "Bordering_rooms": [
+      "mi_piskovna",
+      "mi_privoz",
+      "mi_sklenik_zapad",
+      "mi_uv",
+      "mi_mechenice"
+    ],
+    "Blok": "Plovárna",
+    "Okrsek": "Gideon",
+    "Ctvrt": "Gideon",
+    "Cast": "Nové Dilí",
+    "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
     }
   },
   "mi_zastavka": {
