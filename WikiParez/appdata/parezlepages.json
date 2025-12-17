@@ -1,5 +1,5 @@
 {
-  "version": "2.1",
+  "version": "2.2",
   "mi_agama": {
     "Title": "Agama",
     "Bordering_rooms": [
@@ -849,6 +849,26 @@
       "z": 1146
     }
   },
+  "mi_brambora": {
+    "Title": "Brambora",
+    "Bordering_rooms": [
+      "mi_podlir",
+      "mi_technicka_mistnost",
+      "mi_zemlianka"
+    ],
+    "Blok": "Výkop",
+    "Okrsek": "Gideon",
+    "Ctvrt": "Gideon",
+    "Cast": "Nové Dilí",
+    "PatternleCompatible": false,
+    "IsHighway": false,
+    "IsPseudo": false,
+    "Coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
+  },
   "mi_brslen": {
     "Title": "Brslen",
     "Bordering_rooms": [
@@ -1676,7 +1696,8 @@
       "mi_parapet",
       "mi_zapadni_kridlo",
       "mi_pozemek",
-      "mi_salon"
+      "mi_salon",
+      "mi_haj"
     ],
     "Blok": "Doupě",
     "Okrsek": "Doupě",
@@ -2383,6 +2404,24 @@
       "z": 1124
     }
   },
+  "mi_haj": {
+    "Title": "Háj",
+    "Bordering_rooms": [
+      "mi_draci_doupe"
+    ],
+    "Blok": "Doupě",
+    "Okrsek": "Doupě",
+    "Ctvrt": "Kmen",
+    "Cast": "Pařez",
+    "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
+    "Coordinates": {
+      "x": 323,
+      "y": 113,
+      "z": 1145
+    }
+  },
   "mi_hala": {
     "Title": "Hala",
     "Bordering_rooms": [
@@ -2791,6 +2830,24 @@
       "x": 307,
       "y": 88,
       "z": 1134
+    }
+  },
+  "mi_hnojnik": {
+    "Title": "Hnojník",
+    "Bordering_rooms": [
+      "mi_prazce"
+    ],
+    "Blok": "Výkop",
+    "Okrsek": "Gideon",
+    "Ctvrt": "Gideon",
+    "Cast": "Nové Dilí",
+    "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
+    "Coordinates": {
+      "x": 333,
+      "y": 83,
+      "z": 1099
     }
   },
   "mi_holic": {
@@ -4762,7 +4819,8 @@
       "mi_veranda",
       "mi_audit",
       "mi_privoz",
-      "mi_lodenice"
+      "mi_lodenice",
+      "mi_zemlianka"
     ],
     "Blok": "Le Pont",
     "Okrsek": "Pisa",
@@ -7214,7 +7272,8 @@
       "mi_zastavka",
       "mi_halusky",
       "mi_la",
-      "mi_tyran"
+      "mi_tyran",
+      "mi_brambora"
     ],
     "Blok": "Malý Pilíř",
     "Okrsek": "Pilíř",
@@ -7506,7 +7565,8 @@
   "mi_prazce": {
     "Title": "Pražce",
     "Bordering_rooms": [
-      "mi_druzstvo"
+      "mi_druzstvo",
+      "mi_hnojnik"
     ],
     "Blok": "Pražce",
     "Okrsek": "Pískovna",
@@ -9867,7 +9927,8 @@
     "Title": "Technická Místnost",
     "Bordering_rooms": [
       "mi_halusky",
-      "mi_vzduchotechnika"
+      "mi_vzduchotechnika",
+      "mi_brambora"
     ],
     "Blok": "Velký Pilíř",
     "Okrsek": "Pilíř",
@@ -10442,7 +10503,8 @@
     "Bordering_rooms": [
       "mi_hraz",
       "mi_josef",
-      "mi_u_vrby"
+      "mi_u_vrby",
+      "mi_zemlianka"
     ],
     "Blok": "Suchánek",
     "Okrsek": "Mutěnické Rybníky",
@@ -10506,7 +10568,8 @@
       "mi_sin",
       "mi_vystavni",
       "mi_hraz",
-      "mi_dalnicni_pilir"
+      "mi_dalnicni_pilir",
+      "mi_zemlianka"
     ],
     "Blok": "Velký Pilíř",
     "Okrsek": "Pilíř",
@@ -11869,6 +11932,27 @@
       "x": 352,
       "y": 67,
       "z": 1072
+    }
+  },
+  "mi_zemlianka": {
+    "Title": "Zemlianka",
+    "Bordering_rooms": [
+      "mi_ufo",
+      "mi_u_petra",
+      "mi_le_pont",
+      "mi_brambora"
+    ],
+    "Blok": "Výkop",
+    "Okrsek": "Gideon",
+    "Ctvrt": "Gideon",
+    "Cast": "Nové Dilí",
+    "PatternleCompatible": true,
+    "IsHighway": false,
+    "IsPseudo": false,
+    "Coordinates": {
+      "x": 338,
+      "y": 80,
+      "z": 1093
     }
   },
   "mi_zivocisne_uhli": {
