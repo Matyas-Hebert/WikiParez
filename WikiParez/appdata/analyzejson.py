@@ -60,7 +60,13 @@ bram = [
     "Room Veranda is not in the bordering rooms of Výtahový Můstek",
     "Room Smyčka is not in the bordering rooms of Hráz",
     "Room Švihák is not in the bordering rooms of Garáž",
-    "Room Za Vrbou is not in the bordering rooms of Pod Vrbou"
+    "Room Za Vrbou is not in the bordering rooms of Pod Vrbou",
+    "Room Jáma Pekelná is not in the bordering rooms of Silo",
+    "Room Středové náměstí is not in the bordering rooms of Hvězda",
+    "Room Zahrádkářská Kolonie is not in the bordering rooms of Posvátná Jáma",
+    "Room Stín is not in the bordering rooms of Ústřední středisko Beta",
+    "Room Živočišné Uhlí is not in the bordering rooms of Javor",
+    "Room Visuté Zahrady is not in the bordering rooms of Nádvoří"
 ]
 
 def check_bordering_rooms():

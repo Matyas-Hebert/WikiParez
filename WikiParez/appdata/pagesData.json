@@ -15018,7 +15018,11 @@
       "mi_rybarna",
       "mi_po_hlave_dolu",
       "mi_dvojcata",
-      "mi_uv"
+      "mi_uv",
+      "mi_visute_zahrady",
+      "mi_sonda",
+      "mi_gideony",
+      "mi_urazova_nemocnice"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -15048,7 +15052,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "22/06/25: Nov\u00E9 schodi\u0161t\u011B spojuj\u00EDc\u00ED D\u00E1lnici s [Hr\u00E1z\u00ED](mi_hraz).\r\n22/06/25: \u017Deb\u0159\u00EDk z oce\u00E1nu.\r\n03/07/25: Od m\u00EDstnosti se odd\u011Blila \u010D\u00E1st. Nov\u00E1 m\u00EDstnost se jmenuje [Pramice](mi_pramice).\r\n07/07/25: V\u00FDtah na [D\u00E1lni\u010Dn\u00ED Pil\u00ED\u0159](mi_dalnicni_pilir) vede i [Pod Vrbu](mi_pod_vrbou).\r\n07/07/25: P\u0159\u00EDstup do [Ryb\u00E1rny](mi_rybarna).\r\n07/07/25: Nov\u00E9 schodi\u0161t\u011B vedouc\u00ED z D\u00E1lnice: [Po Hlav\u011B Dol\u016F](mi_po_hlave_dolu).\r\n12/07/25: Nov\u00FD vchod do [Dvoj\u010Dat](mi_dvojcata).\n19/10/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [UV](mi_uv)."
+        "Content": "22/06/25: Nov\u00E9 schodi\u0161t\u011B spojuj\u00EDc\u00ED D\u00E1lnici s [Hr\u00E1z\u00ED](mi_hraz).\r\n22/06/25: \u017Deb\u0159\u00EDk z oce\u00E1nu.\r\n03/07/25: Od m\u00EDstnosti se odd\u011Blila \u010D\u00E1st. Nov\u00E1 m\u00EDstnost se jmenuje [Pramice](mi_pramice).\r\n07/07/25: V\u00FDtah na [D\u00E1lni\u010Dn\u00ED Pil\u00ED\u0159](mi_dalnicni_pilir) vede i [Pod Vrbu](mi_pod_vrbou).\r\n07/07/25: P\u0159\u00EDstup do [Ryb\u00E1rny](mi_rybarna).\r\n07/07/25: Nov\u00E9 schodi\u0161t\u011B vedouc\u00ED z D\u00E1lnice: [Po Hlav\u011B Dol\u016F](mi_po_hlave_dolu).\r\n12/07/25: Nov\u00FD vchod do [Dvoj\u010Dat](mi_dvojcata).\r\n19/10/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [UV](mi_uv).\r\n19/10/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [\u00DArazov\u00E1 Nemocnice](mi_urazova_nemocnice).\r\n19/12/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Visut\u00E9 Zahrady](mi_visute_zahrady).\r\n19/12/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Sonda](mi_sonda).\r\n23/12/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Gideony](mi_gideony)."
       }
     ],
     "image_id": 0,
@@ -20255,7 +20259,8 @@
       "mi_le_pont",
       "mi_dvojcata",
       "mi_na_nabrezi",
-      "mi_baterie"
+      "mi_baterie",
+      "mi_visute_zahrady"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -20285,7 +20290,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "12/07/25: Nov\u00FD vchod do [Dvoj\u010Dat](mi_dvojcata).\r\n26/07/25: M\u00EDstnost\u00ED proch\u00E1z\u00ED [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha).\r\n26/07/25: M\u00EDstnost soused\u00ED s [Na N\u00E1b\u0159e\u017E\u00ED](mi_na_nabrezi).\r\n17/08/25: Veranda nov\u011B soused\u00ED s [Pit Stopem](mi_pit_stop) m\u00EDsto [Kan\u00E1lu](mi_kanal).\n14/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Baterie](mi_baterie).\n14/09/25: V\u011Bci z barelu na Verand\u011B vhozeny do [ORP](sp_orp)."
+        "Content": "12/07/25: Nov\u00FD vchod do [Dvoj\u010Dat](mi_dvojcata).\r\n26/07/25: M\u00EDstnost\u00ED proch\u00E1z\u00ED [Mraven\u010D\u00ED Dr\u00E1ha](te_mravenci_draha).\r\n26/07/25: M\u00EDstnost soused\u00ED s [Na N\u00E1b\u0159e\u017E\u00ED](mi_na_nabrezi).\r\n17/08/25: Veranda nov\u011B soused\u00ED s [Pit Stopem](mi_pit_stop) m\u00EDsto [Kan\u00E1lu](mi_kanal).\n14/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Baterie](mi_baterie).\n14/09/25: V\u011Bci z barelu na Verand\u011B vhozeny do [ORP](sp_orp).\n19/12/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Visut\u00E9 Zahrady](mi_visute_zahrady)."
       }
     ],
     "image_id": 0,
@@ -20384,7 +20389,8 @@
       "mi_zelene_okno",
       "mi_le_pont",
       "mi_gideonuv_dum",
-      "mi_lodenice"
+      "mi_lodenice",
+      "mi_sonda"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -20413,7 +20419,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "07/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Lod\u011Bnice](mi_lodenice).\r\n19/10/25: Audit byl asi tak po p\u016Fl stolet\u00ED zast\u0159e\u0161en."
+        "Content": "07/09/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Lod\u011Bnice](mi_lodenice).\r\n19/10/25: Audit byl asi tak po p\u016Fl stolet\u00ED zast\u0159e\u0161en.\r\n19/12/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Sonda](mi_sonda).\r\n19/12/25: Vchod do [Sondy](mi_sonda) byl zano\u0159en do schodi\u0161t\u011B. N\u00E1sledn\u00E1 \u00FAprava vy\u017Eadovala pou\u017Eit\u00ED \u0022vertical slab\u016F\u0022."
       }
     ],
     "image_id": 0,
@@ -29835,7 +29841,8 @@
       "mi_hraz",
       "mi_josef",
       "mi_u_vrby",
-      "mi_zemlianka"
+      "mi_zemlianka",
+      "mi_gideony"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -29864,7 +29871,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "17/12/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Zemlianka](mi_zemlianka)."
+        "Content": "17/12/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Zemlianka](mi_zemlianka).\n23/12/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Gideony](mi_gideony)."
       }
     ],
     "image_id": 0,
@@ -32189,7 +32196,8 @@
     "Bordering_rooms": [
       "mi_gideon",
       "mi_amulet",
-      "mi_atlas"
+      "mi_atlas",
+      "mi_sonda"
     ],
     "Alternate_names": [
       "Entre Garcons"
@@ -32220,7 +32228,7 @@
       },
       {
         "Title": "Aktuality",
-        "Content": "19/07/25: P\u0159ejmenov\u00E1no z Entre Garcons na \u010C\u00E1ry."
+        "Content": "19/07/25: P\u0159ejmenov\u00E1no z Entre Garcons na \u010C\u00E1ry.\r\n19/12/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Sonda](mi_sonda).\r\n19/12/25: P\u0159i nov\u00E9ho vchodu do [Sondy](mi_sonda) vyu\u017Eito \u0022vertical slab\u016F\u0022."
       }
     ],
     "image_id": 0,
@@ -47219,15 +47227,16 @@
     "Bordering_rooms": [
       "mi_veranda",
       "mi_k_nabrezi",
-      "mi_amulet"
+      "mi_amulet",
+      "mi_visute_zahrady"
     ],
     "Alternate_names": [],
     "Metadata": {
       "N\u00E1zev": "Baterie",
-      "Blok": "[N\u00E1b\u0159e\u017E\u00ED](bl_nabrezi)",
-      "Okrsek": "[Nekone\u010Dno](ok_nekonecno)",
-      "\u010Ctvr\u0165": "[Nekone\u010Dno](ct_nekonecno)",
-      "\u010C\u00E1st": "[Tr\u00F3ja](ca_troja)"
+      "Blok": "[Zahrady](bl_zahrady)",
+      "Okrsek": "[Sonda](ok_sonda)",
+      "\u010Ctvr\u0165": "[Gideon](ct_gideon)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
     },
     "Sections": [
       {
@@ -47245,6 +47254,10 @@
       {
         "Title": "Zaj\u00EDmavost",
         "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "19/12/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Visut\u00E9 Zahrady](mi_visute_zahrady).\r\n19/12/25: Baterie p\u0159esunuta do [Nov\u00E9ho Dil\u00ED](ca_nove_dili)."
       }
     ],
     "image_id": 0,
@@ -47508,7 +47521,8 @@
       "mi_privoz",
       "mi_sklenik_zapad",
       "mi_uv",
-      "mi_mechenice"
+      "mi_mechenice",
+      "mi_gideony"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -47534,6 +47548,10 @@
       {
         "Title": "Zaj\u00EDmavost",
         "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      },
+      {
+        "Title": "Aktuality",
+        "Content": "23/12/25: M\u00EDstnost nov\u011B soused\u00ED s m\u00EDstnost\u00ED [Gideony](mi_gideony)."
       }
     ],
     "image_id": 0,
@@ -47562,7 +47580,8 @@
     "Bordering_rooms": [
       "mi_dalnice",
       "mi_zarizeni",
-      "mi_po_hlave_dolu"
+      "mi_po_hlave_dolu",
+      "mi_urazova_nemocnice"
     ],
     "Alternate_names": [],
     "Metadata": {
@@ -47915,5 +47934,354 @@
     "tobeedited": false,
     "reviews": [],
     "utilities": []
-  }
+  },
+  "mi_visute_zahrady": {
+    "Title": "Visut\u00E9 Zahrady",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_baterie",
+      "mi_veranda",
+      "mi_sonda",
+      "mi_nadvori",
+      "mi_dalnice"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Visut\u00E9 Zahrady",
+      "Blok": "[Zahrady](bl_zahrady)",
+      "Okrsek": "[Sonda](ok_sonda)",
+      "\u010Ctvr\u0165": "[Gideon](ct_gideon)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 68,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": [
+      "Cra",
+      "Bed",
+      "Bar"
+    ]
+  },
+  "mi_sonda": {
+    "Title": "Sonda",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_gideony",
+      "mi_audit",
+      "mi_dalnice",
+      "mi_cary",
+      "mi_visute_zahrady"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Sonda",
+      "Blok": "[Sonda](bl_sonda)",
+      "Okrsek": "[Sonda](ok_sonda)",
+      "\u010Ctvr\u0165": "[Gideon](ct_gideon)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)",
+      "\u00DA\u010Del": "Strom"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 157,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 342,
+      "y": 47,
+      "z": 1101
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": [
+      "Sp8",
+      "Bar",
+      "Cra"
+    ]
+  },
+  "mi_gideony": {
+    "Title": "Gideony",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_dalnice",
+      "mi_u_petra",
+      "mi_zarizeni",
+      "mi_sonda"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "Gideony",
+      "Blok": "[Sonda](bl_sonda)",
+      "Okrsek": "[Sonda](ok_sonda)",
+      "\u010Ctvr\u0165": "[Gideon](ct_gideon)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)",
+      "\u00DA\u010Del": "Campfire"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 82,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 351,
+      "y": 76,
+      "z": 1095
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": [
+      "Cam",
+      "Bed",
+      "Bar",
+      "Cra",
+      "Chi"
+    ]
+  },
+  "mi_urazova_nemocnice": {
+    "Title": "\u00DArazov\u00E1 Nemocnice",
+    "Type": "m\u00EDstnost",
+    "Images": [],
+    "Image_titles": [],
+    "Bordering_rooms": [
+      "mi_dalnice",
+      "mi_uv"
+    ],
+    "Alternate_names": [],
+    "Metadata": {
+      "N\u00E1zev": "\u00DArazov\u00E1 Nemocnice",
+      "Blok": "[Plov\u00E1rna](bl_plovarna)",
+      "Okrsek": "[Gideon](ok_gideon)",
+      "\u010Ctvr\u0165": "[Gideon](ct_gideon)",
+      "\u010C\u00E1st": "[Nov\u00E9 Dil\u00ED](ca_nove_dili)"
+    },
+    "Sections": [
+      {
+        "Title": "P\u0159ehled",
+        "Content": "P\u0159ehled ohledn\u011B m\u00EDstnosti."
+      },
+      {
+        "Title": "N\u00E1zev",
+        "Content": "Jak vznikl n\u00E1zev?"
+      },
+      {
+        "Title": "Interi\u00E9r",
+        "Content": "N\u011Bco o interi\u00E9ru."
+      },
+      {
+        "Title": "Zaj\u00EDmavost",
+        "Content": "Zm\u011Bn na Zaj\u00EDmavosti kdy\u017E jich bude v\u00EDc."
+      }
+    ],
+    "image_id": 0,
+    "area": 10,
+    "Empty": true,
+    "numberOfRooms": 0,
+    "coordinates": {
+      "x": 345,
+      "y": 72,
+      "z": 1090
+    },
+    "patternleCompatible": true,
+    "redirect": null,
+    "tobeedited": false,
+    "reviews": [],
+    "utilities": []
+  },
+  "bl_zahrady": {
+            "Title": "Zahrady",
+            "Type": "blok",
+            "Images": [],
+            "Image_titles": [],
+            "Bordering_rooms": [],
+            "Alternate_names": [],
+            "Metadata": {
+                "Název": "Zahrady",
+                "Okrsek": "[Sonda](ok_sonda)",
+                "Čtvrť": "[Gideon](ct_gideon)",
+                "Část": "[Nové Dilí](ca_nove_dili)"
+            },
+            "Sections": [
+                {
+                    "Title": "Přehled",
+                    "Content": ""
+                },
+                {
+                    "Title": "Název",
+                    "Content": ""
+                },
+                {
+                    "Title": "Interiér",
+                    "Content": ""
+                },
+                {
+                    "Title": "Zajímavosti",
+                    "Content": ""
+                },
+                {
+                    "Title": "Aktuality",
+                    "Content": ""
+                }
+            ],
+            "image_id": 0,
+            "area": 0,
+            "Empty": true,
+            "numberOfRooms": 0,
+            "redirect": null,
+            "tobeedited": false
+            },
+"bl_sonda": {
+            "Title": "Sonda",
+            "Type": "blok",
+            "Images": [],
+            "Image_titles": [],
+            "Bordering_rooms": [],
+            "Alternate_names": [],
+            "Metadata": {
+                "Název": "Sonda",
+                "Okrsek": "[Sonda](ok_sonda)",
+                "Čtvrť": "[Gideon](ct_gideon)",
+                "Část": "[Nové Dilí](ca_nove_dili)"
+            },
+            "Sections": [
+                {
+                    "Title": "Přehled",
+                    "Content": ""
+                },
+                {
+                    "Title": "Název",
+                    "Content": ""
+                },
+                {
+                    "Title": "Interiér",
+                    "Content": ""
+                },
+                {
+                    "Title": "Zajímavosti",
+                    "Content": ""
+                },
+                {
+                    "Title": "Aktuality",
+                    "Content": ""
+                }
+            ],
+            "image_id": 0,
+            "area": 0,
+            "Empty": true,
+            "numberOfRooms": 0,
+            "redirect": null,
+            "tobeedited": false
+            },
+"ok_sonda": {
+            "Title": "Sonda",
+            "Type": "okrsek",
+            "Images": [],
+            "Image_titles": [],
+            "Bordering_rooms": [],
+            "Alternate_names": [],
+            "Metadata": {
+                "Název": "Sonda",
+                "Čtvrť": "[Gideon](ct_gideon)",
+                "Část": "[Nové Dilí](ca_nove_dili)"
+            },
+            "Sections": [
+                {
+                    "Title": "Přehled",
+                    "Content": ""
+                },
+                {
+                    "Title": "Název",
+                    "Content": ""
+                },
+                {
+                    "Title": "Interiér",
+                    "Content": ""
+                },
+                {
+                    "Title": "Zajímavosti",
+                    "Content": ""
+                },
+                {
+                    "Title": "Aktuality",
+                    "Content": ""
+                }
+            ],
+            "image_id": 0,
+            "area": 0,
+            "Empty": true,
+            "numberOfRooms": 0,
+            "redirect": null,
+            "tobeedited": false
+            }
 }
