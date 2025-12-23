@@ -1,5 +1,5 @@
 {
-  "version": "2.3",
+  "version": "2.3.1",
   "mi_agama": {
     "Title": "Agama",
     "Bordering_rooms": [
@@ -45,7 +45,8 @@
       "mi_lednice",
       "mi_dalnice",
       "mi_stopa",
-      "mi_gideonuv_dum"
+      "mi_gideonuv_dum",
+      "mi_gideony"
     ],
     "Blok": "Akvadukt",
     "Okrsek": "Lednice",
@@ -9251,8 +9252,7 @@
       "mi_gideony",
       "mi_audit",
       "mi_dalnice",
-      "mi_cary",
-      "mi_visute_zahrady"
+      "mi_cary"
     ],
     "Blok": "Sonda",
     "Okrsek": "Sonda",
