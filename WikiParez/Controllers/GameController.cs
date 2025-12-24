@@ -5,6 +5,29 @@ using Microsoft.AspNetCore.Components.Endpoints;
 using System.Numerics;
 using System.Drawing;
 using Microsoft.Extensions.ObjectPool;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+
+public class DictionaryShuffler
+{
+    private static Random rng = new Random();
+
+    public static Dictionary<TKey, TValue> ShuffleDictionary<TKey, TValue>(Dictionary<TKey, TValue> dictionary)
+    {
+        var keys = dictionary.Keys.ToList();
+        var values = dictionary.Values.ToList();
+
+        // Shuffle the values
+        values = values.OrderBy(x => rng.Next()).ToList();
+
+        // Create a new dictionary with the shuffled values
+        var shuffledDictionary = keys.Zip(values, (k, v) => new { Key = k, Value = v })
+                                     .ToDictionary(x => x.Key, x => x.Value);
+
+        return shuffledDictionary;
+    }
+}
 
 namespace WikiParez.Controllers
 {
@@ -223,7 +246,10 @@ namespace WikiParez.Controllers
             ViewBag.ShortestPath = _wikiService.FindPath(room1, room2);
             ViewBag.Text = "DNEŠNÍ PAŘEZLE";
 
-            return View("Parezle/Parezle", _wikiService.GetParezlePages());
+            var pages = _wikiService.GetParezlePages();
+            var shuffled = DictionaryShuffler.ShuffleDictionary(pages);
+
+            return View("Parezle/Parezle", shuffled);
         }
 
         [HttpGet]
