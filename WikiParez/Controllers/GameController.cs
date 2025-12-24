@@ -247,7 +247,7 @@ namespace WikiParez.Controllers
             ViewBag.Text = "DNEŠNÍ PAŘEZLE";
 
             var pages = _wikiService.GetParezlePages();
-            var shuffled = DictionaryShuffler.ShuffleDictionary(pages);
+            //var shuffled = DictionaryShuffler.ShuffleDictionary(pages);
 
             return View("Parezle/Parezle", shuffled);
         }
